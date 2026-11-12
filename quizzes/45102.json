@@ -1,0 +1,3180 @@
+{
+  "listNumber": 2,
+  "expectedQuestions": 55,
+  "listId": "45102",
+  "questions": [
+    {
+      "id": "1170292",
+      "order": 1,
+      "type": "textForeignTextLocal",
+      "word": "dine",
+      "hint": [
+        "Hint: =have supper; eat dinner"
+      ],
+      "options": [
+        {
+          "text": "ăn tối",
+          "correct": true,
+          "hint": [
+            "Hint: =have supper; eat dinner"
+          ],
+          "term": "dine",
+          "sound": "/media/audio/list2/45102_dine_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "người tham gia, người tham dự",
+          "correct": false,
+          "hint": [
+            "Hint: =someone present (at a meeting or event)"
+          ],
+          "term": "attendee",
+          "sound": "/media/audio/list2/45102_attendee_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "ở trước, có trước, đến trước",
+          "correct": false,
+          "hint": [
+            "Hint: =to happen before something else"
+          ],
+          "term": "precede",
+          "sound": "/media/audio/list2/45102_precede_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "chiến thuật",
+          "correct": false,
+          "hint": [
+            "Hint: =a planned way of doing something to achieve a particular result"
+          ],
+          "term": "tactic",
+          "sound": "/media/audio/list2/45102_tactic_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list2/45102_dine_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170293",
+      "order": 2,
+      "type": "textForeignTextLocal",
+      "word": "supermarket",
+      "hint": [
+        "Hint: =a large self-service store selling food and household items"
+      ],
+      "options": [
+        {
+          "text": "siêu thị",
+          "correct": true,
+          "hint": [
+            "Hint: =a large self-service store selling food and household items"
+          ],
+          "term": "supermarket",
+          "sound": "/media/audio/list2/45102_supermarket_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "gợi ý, manh mối",
+          "correct": false,
+          "hint": [
+            "Hint: =a sign or some information that helps you to find the answer to a problem, question, or mystery"
+          ],
+          "term": "clue",
+          "sound": "/media/audio/list2/45102_clue_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "đúng đắn, có cơ sở/căn cứ vững chắc",
+          "correct": false,
+          "hint": [
+            "Hint: =based on good reasoning or facts; reasonable and acceptable"
+          ],
+          "term": "valid",
+          "sound": "/media/audio/list2/45102_valid_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "nghề nghiệp",
+          "correct": false,
+          "hint": [
+            "Hint: =profession or job"
+          ],
+          "term": "occupation",
+          "sound": "/media/audio/list2/45102_occupation_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list2/45102_supermarket_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170294",
+      "order": 3,
+      "type": "textForeignSentence",
+      "word": "departed",
+      "hint": [
+        "Hint: =to leave"
+      ],
+      "options": [
+        {
+          "text": "rời đi, khởi hành",
+          "correct": true,
+          "hint": [
+            "Hint: =to leave"
+          ],
+          "term": "departed",
+          "sound": "/media/audio/list2/45102_depart_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "quán cà phê",
+          "correct": false,
+          "hint": [
+            "Hint: =coffee shop"
+          ],
+          "term": "cafes",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "máy móc, thiết bị",
+          "correct": false,
+          "hint": [
+            "Hint: =a machine or device that does a particular task"
+          ],
+          "term": "appliance",
+          "sound": "/media/audio/list2/45102_appliance_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "trung tâm thương mại, trung tâm mua sắm",
+          "correct": false,
+          "hint": [
+            "Hint: =very large building containing lots of stores and restaurants"
+          ],
+          "term": "mall",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list2/45102_depart_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170295",
+      "order": 4,
+      "type": "textForeignSentence",
+      "word": "electrical",
+      "hint": [
+        "Hint: =to do with electricity"
+      ],
+      "options": [
+        {
+          "text": "thuộc về điện",
+          "correct": true,
+          "hint": [
+            "Hint: =to do with electricity"
+          ],
+          "term": "electrical",
+          "sound": "/media/audio/list2/45102_electrical_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "máy bay",
+          "correct": false,
+          "hint": [
+            "Hint: =a powered vehicle that flies through the air to its destination"
+          ],
+          "term": "airplane",
+          "sound": "/media/audio/list2/45102_airplane_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "đồng nghiệp",
+          "correct": false,
+          "hint": [
+            "Hint: =a person that works with you in the same workplace"
+          ],
+          "term": "coworkers",
+          "sound": "/media/audio/list2/45102_coworker_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "sự hiểu, sự lĩnh hội",
+          "correct": false,
+          "hint": [
+            "Hint: =the act of understanding"
+          ],
+          "term": "comprehension",
+          "sound": "/media/audio/list2/45102_comprehension_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list2/45102_electrical_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170296",
+      "order": 5,
+      "type": "textForeignSentence",
+      "word": "obtain",
+      "hint": [
+        "Hint: =to get"
+      ],
+      "options": [
+        {
+          "text": "đạt được, có được",
+          "correct": true,
+          "hint": [
+            "Hint: =to get"
+          ],
+          "term": "obtain",
+          "sound": "/media/audio/list2/45102_obtain_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "siêu thị",
+          "correct": false,
+          "hint": [
+            "Hint: =a large self-service store selling food and household items"
+          ],
+          "term": "supermarket",
+          "sound": "/media/audio/list2/45102_supermarket_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "quán cà phê",
+          "correct": false,
+          "hint": [
+            "Hint: =coffee shop"
+          ],
+          "term": "cafes",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "cuộc du ngoạn biển bằng tàu",
+          "correct": false,
+          "hint": [
+            "Hint: =a long, relaxing holiday on a ship"
+          ],
+          "term": "cruise",
+          "sound": "/media/audio/list2/45102_cruise_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list2/45102_obtain_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170297",
+      "order": 6,
+      "type": "textForeignSentence",
+      "word": "passport",
+      "hint": [
+        "Hint: =official document containing information about you, that allows you to enter other countries"
+      ],
+      "options": [
+        {
+          "text": "hộ chiếu",
+          "correct": true,
+          "hint": [
+            "Hint: =official document containing information about you, that allows you to enter other countries"
+          ],
+          "term": "passport",
+          "sound": "/media/audio/list2/45102_passport_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "máy móc, thiết bị",
+          "correct": false,
+          "hint": [
+            "Hint: =a machine or device that does a particular task"
+          ],
+          "term": "appliances",
+          "sound": "/media/audio/list2/45102_appliance_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "sự nhận vào, sự thu nạp; sự thú nhận",
+          "correct": false,
+          "hint": [
+            "Hint: =entrance into something; the act of agreeing that something is true, especially unwillingly"
+          ],
+          "term": "admission",
+          "sound": "/media/audio/list2/45102_admission_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "nhân viên tiếp tân",
+          "correct": false,
+          "hint": [
+            "Hint: =someone who works at the front desk of an office or hotel, greeting visitors and answering the phone"
+          ],
+          "term": "receptionist",
+          "sound": "/media/audio/list2/45102_receptionist_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list2/45102_passport_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170298",
+      "order": 7,
+      "type": "textForeignTextLocal",
+      "word": "clue",
+      "hint": [
+        "Hint: =a sign or some information that helps you to find the answer to a problem, question, or mystery"
+      ],
+      "options": [
+        {
+          "text": "gợi ý, manh mối",
+          "correct": true,
+          "hint": [
+            "Hint: =a sign or some information that helps you to find the answer to a problem, question, or mystery"
+          ],
+          "term": "clue",
+          "sound": "/media/audio/list2/45102_clue_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "bản kiểm kê",
+          "correct": false,
+          "hint": [
+            "Hint: =detailed list of everything included"
+          ],
+          "term": "inventory",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "siêu thị",
+          "correct": false,
+          "hint": [
+            "Hint: =a large self-service store selling food and household items"
+          ],
+          "term": "supermarket",
+          "sound": "/media/audio/list2/45102_supermarket_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "bàn phím máy tính",
+          "correct": false,
+          "hint": [
+            "Hint: =the part of a computer that you type on"
+          ],
+          "term": "keyboard",
+          "sound": "/media/audio/list2/45102_keyboard_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list2/45102_clue_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170299",
+      "order": 8,
+      "type": "textForeignSentence",
+      "word": "cabinets",
+      "hint": [
+        "Hint: =a piece of furniture with shelves to store things"
+      ],
+      "options": [
+        {
+          "text": "tủ có nhiều ngăn",
+          "correct": true,
+          "hint": [
+            "Hint: =a piece of furniture with shelves to store things"
+          ],
+          "term": "cabinets",
+          "sound": "/media/audio/list2/45102_cabinet_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "ngoài trời",
+          "correct": false,
+          "hint": [
+            "Hint: =outside in the open air"
+          ],
+          "term": "outdoor",
+          "sound": "/media/audio/list2/45102_outdoor_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "nói ngược lại, mâu thuẫn với",
+          "correct": false,
+          "hint": [
+            "Hint: =(of people) to say the opposite of what someone else has said, or (of one fact or statement) to be so different from another fact or statement that one of them must be wrong"
+          ],
+          "term": "contradicts",
+          "sound": "/media/audio/list2/45102_contradict_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "giấy tờ nhận dạng",
+          "correct": false,
+          "hint": [
+            "Hint: =a document that shows who a person is, e.g. passport, driver's licence"
+          ],
+          "term": "identification",
+          "sound": "/media/audio/list2/45102_identification_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list2/45102_cabinet_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170300",
+      "order": 9,
+      "type": "textForeignSentence",
+      "word": "laptop",
+      "hint": [
+        "Hint: =a computer small enough to carry and to use on your lap"
+      ],
+      "options": [
+        {
+          "text": "máy tính xách tay",
+          "correct": true,
+          "hint": [
+            "Hint: =a computer small enough to carry and to use on your lap"
+          ],
+          "term": "laptop",
+          "sound": "/media/audio/list2/45102_laptop_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "giấy tờ nhận dạng",
+          "correct": false,
+          "hint": [
+            "Hint: =a document that shows who a person is, e.g. passport, driver's licence"
+          ],
+          "term": "identification",
+          "sound": "/media/audio/list2/45102_identification_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "sự nhận vào, sự thu nạp; sự thú nhận",
+          "correct": false,
+          "hint": [
+            "Hint: =entrance into something; the act of agreeing that something is true, especially unwillingly"
+          ],
+          "term": "admission",
+          "sound": "/media/audio/list2/45102_admission_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "một dự án hoặc nhiệm vụ",
+          "correct": false,
+          "hint": [
+            "Hint: =a project or task"
+          ],
+          "term": "assignment",
+          "sound": "/media/audio/list2/45102_assignment_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list2/45102_laptop_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170301",
+      "order": 10,
+      "type": "textForeignSentence",
+      "word": "mall",
+      "hint": [
+        "Hint: =very large building containing lots of stores and restaurants"
+      ],
+      "options": [
+        {
+          "text": "trung tâm thương mại, trung tâm mua sắm",
+          "correct": true,
+          "hint": [
+            "Hint: =very large building containing lots of stores and restaurants"
+          ],
+          "term": "mall",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "nhỏ gọn, gọn ghẽ",
+          "correct": false,
+          "hint": [
+            "Hint: =tightly packed in a small size"
+          ],
+          "term": "compact",
+          "sound": "/media/audio/list2/45102_compact_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "máy bay",
+          "correct": false,
+          "hint": [
+            "Hint: =a powered vehicle that flies through the air to its destination"
+          ],
+          "term": "airplane",
+          "sound": "/media/audio/list2/45102_airplane_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "hình trái xoan, hình bầu dục",
+          "correct": false,
+          "hint": [
+            "Hint: =A shape that looks like an egg"
+          ],
+          "term": "ovals",
+          "sound": "/media/audio/list2/45102_oval_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": ""
+    },
+    {
+      "id": "1170302",
+      "order": 11,
+      "type": "textForeignSentence",
+      "word": "keyboard",
+      "hint": [
+        "Hint: =the part of a computer that you type on"
+      ],
+      "options": [
+        {
+          "text": "bàn phím máy tính",
+          "correct": true,
+          "hint": [
+            "Hint: =the part of a computer that you type on"
+          ],
+          "term": "keyboard",
+          "sound": "/media/audio/list2/45102_keyboard_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "sự thay thế, vật thay thế, người thay thế",
+          "correct": false,
+          "hint": [
+            "Hint: =the act of putting something/someone in place of something/someone else"
+          ],
+          "term": "replacement",
+          "sound": "/media/audio/list2/45102_replacement_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "đồng nghiệp",
+          "correct": false,
+          "hint": [
+            "Hint: =a person that works with you in the same workplace"
+          ],
+          "term": "coworkers",
+          "sound": "/media/audio/list2/45102_coworker_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "bác sĩ nha khoa",
+          "correct": false,
+          "hint": [
+            "Hint: =a person who looks after your teeth for a living"
+          ],
+          "term": "dentist",
+          "sound": "/media/audio/list2/45102_dentist_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list2/45102_keyboard_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170303",
+      "order": 12,
+      "type": "textForeignSentence",
+      "word": "attendees",
+      "hint": [
+        "Hint: =someone present (at a meeting or event)"
+      ],
+      "options": [
+        {
+          "text": "người tham gia, người tham dự",
+          "correct": true,
+          "hint": [
+            "Hint: =someone present (at a meeting or event)"
+          ],
+          "term": "attendees",
+          "sound": "/media/audio/list2/45102_attendee_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "trung tâm thương mại, trung tâm mua sắm",
+          "correct": false,
+          "hint": [
+            "Hint: =very large building containing lots of stores and restaurants"
+          ],
+          "term": "mall",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "phương tiện truyền thông đại chúng",
+          "correct": false,
+          "hint": [
+            "Hint: =the different forms of mass communication, e.g. radio, TV, newspapers, etc."
+          ],
+          "term": "media",
+          "sound": "/media/audio/list2/45102_media_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "nhấn mạnh/gạch chân",
+          "correct": false,
+          "hint": [
+            "Hint: =to call attention to; to draw a line under a word, especially in order to show its importance"
+          ],
+          "term": "underlined",
+          "sound": "/media/audio/list2/45102_underline_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list2/45102_attendee_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170304",
+      "order": 13,
+      "type": "textForeignSentence",
+      "word": "dentist",
+      "hint": [
+        "Hint: =a person who looks after your teeth for a living"
+      ],
+      "options": [
+        {
+          "text": "bác sĩ nha khoa",
+          "correct": true,
+          "hint": [
+            "Hint: =a person who looks after your teeth for a living"
+          ],
+          "term": "dentist",
+          "sound": "/media/audio/list2/45102_dentist_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "máy bay",
+          "correct": false,
+          "hint": [
+            "Hint: =a powered vehicle that flies through the air to its destination"
+          ],
+          "term": "airplane",
+          "sound": "/media/audio/list2/45102_airplane_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "người hướng dẫn (có thể là huấn luyện viên, giáo viên)",
+          "correct": false,
+          "hint": [
+            "Hint: =someone who teaches for a living"
+          ],
+          "term": "instructor",
+          "sound": "/media/audio/list2/45102_instructor_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "nói ngược lại, mâu thuẫn với",
+          "correct": false,
+          "hint": [
+            "Hint: =(of people) to say the opposite of what someone else has said, or (of one fact or statement) to be so different from another fact or statement that one of them must be wrong"
+          ],
+          "term": "contradict",
+          "sound": "/media/audio/list2/45102_contradict_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list2/45102_dentist_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170305",
+      "order": 14,
+      "type": "textForeignTextLocal",
+      "word": "receptionist",
+      "hint": [
+        "Hint: =someone who works at the front desk of an office or hotel, greeting visitors and answering the phone"
+      ],
+      "options": [
+        {
+          "text": "nhân viên tiếp tân",
+          "correct": true,
+          "hint": [
+            "Hint: =someone who works at the front desk of an office or hotel, greeting visitors and answering the phone"
+          ],
+          "term": "receptionist",
+          "sound": "/media/audio/list2/45102_receptionist_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "sự nhận vào, sự thu nạp; sự thú nhận",
+          "correct": false,
+          "hint": [
+            "Hint: =entrance into something; the act of agreeing that something is true, especially unwillingly"
+          ],
+          "term": "admission",
+          "sound": "/media/audio/list2/45102_admission_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "bác sĩ nha khoa",
+          "correct": false,
+          "hint": [
+            "Hint: =a person who looks after your teeth for a living"
+          ],
+          "term": "dentist",
+          "sound": "/media/audio/list2/45102_dentist_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "quán cà phê",
+          "correct": false,
+          "hint": [
+            "Hint: =coffee shop"
+          ],
+          "term": "café",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list2/45102_receptionist_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170306",
+      "order": 15,
+      "type": "textForeignTextLocal",
+      "word": "replacement",
+      "hint": [
+        "Hint: =the act of putting something/someone in place of something/someone else"
+      ],
+      "options": [
+        {
+          "text": "sự thay thế, vật thay thế, người thay thế",
+          "correct": true,
+          "hint": [
+            "Hint: =the act of putting something/someone in place of something/someone else"
+          ],
+          "term": "replacement",
+          "sound": "/media/audio/list2/45102_replacement_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "tổ chức bảo trợ, thế lực bảo vệ, sự bao trùm",
+          "correct": false,
+          "hint": [
+            "Hint: =something that includes or represents a group or range of similar things"
+          ],
+          "term": "umbrella",
+          "sound": "/media/audio/list2/45102_umbrella_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "một dự án hoặc nhiệm vụ",
+          "correct": false,
+          "hint": [
+            "Hint: =a project or task"
+          ],
+          "term": "assignment",
+          "sound": "/media/audio/list2/45102_assignment_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "nghề nghiệp",
+          "correct": false,
+          "hint": [
+            "Hint: =profession or job"
+          ],
+          "term": "occupation",
+          "sound": "/media/audio/list2/45102_occupation_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list2/45102_replacement_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170307",
+      "order": 16,
+      "type": "textForeignSentence",
+      "word": "birthday",
+      "hint": [
+        "Hint: =the day in the year on which a person was born"
+      ],
+      "options": [
+        {
+          "text": "sinh nhật",
+          "correct": true,
+          "hint": [
+            "Hint: =the day in the year on which a person was born"
+          ],
+          "term": "birthday",
+          "sound": "/media/audio/list2/45102_birthday_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "nghề nghiệp",
+          "correct": false,
+          "hint": [
+            "Hint: =profession or job"
+          ],
+          "term": "occupation",
+          "sound": "/media/audio/list2/45102_occupation_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "cuộc du ngoạn biển bằng tàu",
+          "correct": false,
+          "hint": [
+            "Hint: =a long, relaxing holiday on a ship"
+          ],
+          "term": "cruise",
+          "sound": "/media/audio/list2/45102_cruise_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "sách hướng dẫn",
+          "correct": false,
+          "hint": [
+            "Hint: =a book that explains how to do something"
+          ],
+          "term": "manual",
+          "sound": "/media/audio/list2/45102_manual_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list2/45102_birthday_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170308",
+      "order": 17,
+      "type": "textForeignTextLocal",
+      "word": "destination",
+      "hint": [
+        "Hint: =the place you want to be at the end of a journey"
+      ],
+      "options": [
+        {
+          "text": "điểm đến",
+          "correct": true,
+          "hint": [
+            "Hint: =the place you want to be at the end of a journey"
+          ],
+          "term": "destination",
+          "sound": "/media/audio/list2/45102_destination_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "quán cà phê",
+          "correct": false,
+          "hint": [
+            "Hint: =coffee shop"
+          ],
+          "term": "café",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "để giải thích hoặc làm rõ",
+          "correct": false,
+          "hint": [
+            "Hint: =intended to serve as an explanation"
+          ],
+          "term": "explanatory",
+          "sound": "/media/audio/list2/45102_explanatory_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "người tham gia, người tham dự",
+          "correct": false,
+          "hint": [
+            "Hint: =someone present (at a meeting or event)"
+          ],
+          "term": "attendee",
+          "sound": "/media/audio/list2/45102_attendee_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list2/45102_destination_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170309",
+      "order": 18,
+      "type": "textForeignSentence",
+      "word": "inferences",
+      "hint": [
+        "Hint: =a guess that you make or an opinion that you form based on the information that you have"
+      ],
+      "options": [
+        {
+          "text": "kết luận, sự suy luận",
+          "correct": true,
+          "hint": [
+            "Hint: =a guess that you make or an opinion that you form based on the information that you have"
+          ],
+          "term": "inferences",
+          "sound": "/media/audio/list2/45102_inference_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "ăn tối",
+          "correct": false,
+          "hint": [
+            "Hint: =have supper; eat dinner"
+          ],
+          "term": "dined",
+          "sound": "/media/audio/list2/45102_dine_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "siêu thị",
+          "correct": false,
+          "hint": [
+            "Hint: =a large self-service store selling food and household items"
+          ],
+          "term": "supermarket",
+          "sound": "/media/audio/list2/45102_supermarket_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "máy bay",
+          "correct": false,
+          "hint": [
+            "Hint: =a powered vehicle that flies through the air to its destination"
+          ],
+          "term": "airplane",
+          "sound": "/media/audio/list2/45102_airplane_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list2/45102_inference_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170310",
+      "order": 19,
+      "type": "textForeignSentence",
+      "word": "identification",
+      "hint": [
+        "Hint: =a document that shows who a person is, e.g. passport, driver's licence"
+      ],
+      "options": [
+        {
+          "text": "giấy tờ nhận dạng",
+          "correct": true,
+          "hint": [
+            "Hint: =a document that shows who a person is, e.g. passport, driver's licence"
+          ],
+          "term": "identification",
+          "sound": "/media/audio/list2/45102_identification_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "nghề nghiệp",
+          "correct": false,
+          "hint": [
+            "Hint: =profession or job"
+          ],
+          "term": "occupation",
+          "sound": "/media/audio/list2/45102_occupation_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "nhỏ gọn, gọn ghẽ",
+          "correct": false,
+          "hint": [
+            "Hint: =tightly packed in a small size"
+          ],
+          "term": "compact",
+          "sound": "/media/audio/list2/45102_compact_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "phiếu mua hàng, phiếu giảm giá",
+          "correct": false,
+          "hint": [
+            "Hint: =a piece of paper that you can use to buy goods or to get them at a reduced price"
+          ],
+          "term": "coupon",
+          "sound": "/media/audio/list2/45102_coupon_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list2/45102_identification_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170311",
+      "order": 20,
+      "type": "textForeignSentence",
+      "word": "exit",
+      "hint": [
+        "Hint: =to leave"
+      ],
+      "options": [
+        {
+          "text": "rời đi",
+          "correct": true,
+          "hint": [
+            "Hint: =to leave"
+          ],
+          "term": "exit",
+          "sound": "/media/audio/list2/45102_exit_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "nhỏ gọn, gọn ghẽ",
+          "correct": false,
+          "hint": [
+            "Hint: =tightly packed in a small size"
+          ],
+          "term": "compact",
+          "sound": "/media/audio/list2/45102_compact_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "phương tiện truyền thông đại chúng",
+          "correct": false,
+          "hint": [
+            "Hint: =the different forms of mass communication, e.g. radio, TV, newspapers, etc."
+          ],
+          "term": "media",
+          "sound": "/media/audio/list2/45102_media_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "một dự án hoặc nhiệm vụ",
+          "correct": false,
+          "hint": [
+            "Hint: =a project or task"
+          ],
+          "term": "assignment",
+          "sound": "/media/audio/list2/45102_assignment_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list2/45102_exit_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170312",
+      "order": 21,
+      "type": "textForeignSentence",
+      "word": "manual",
+      "hint": [
+        "Hint: =a book that explains how to do something"
+      ],
+      "options": [
+        {
+          "text": "sách hướng dẫn",
+          "correct": true,
+          "hint": [
+            "Hint: =a book that explains how to do something"
+          ],
+          "term": "manual",
+          "sound": "/media/audio/list2/45102_manual_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "tủ có nhiều ngăn",
+          "correct": false,
+          "hint": [
+            "Hint: =a piece of furniture with shelves to store things"
+          ],
+          "term": "cabinet",
+          "sound": "/media/audio/list2/45102_cabinet_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "siêu thị",
+          "correct": false,
+          "hint": [
+            "Hint: =a large self-service store selling food and household items"
+          ],
+          "term": "supermarket",
+          "sound": "/media/audio/list2/45102_supermarket_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "ở trước, có trước, đến trước",
+          "correct": false,
+          "hint": [
+            "Hint: =to happen before something else"
+          ],
+          "term": "preceded",
+          "sound": "/media/audio/list2/45102_precede_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list2/45102_manual_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170313",
+      "order": 22,
+      "type": "textForeignSentence",
+      "word": "umbrella",
+      "hint": [
+        "Hint: =something that includes or represents a group or range of similar things"
+      ],
+      "options": [
+        {
+          "text": "tổ chức bảo trợ, thế lực bảo vệ, sự bao trùm",
+          "correct": true,
+          "hint": [
+            "Hint: =something that includes or represents a group or range of similar things"
+          ],
+          "term": "umbrella",
+          "sound": "/media/audio/list2/45102_umbrella_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "hộ chiếu",
+          "correct": false,
+          "hint": [
+            "Hint: =official document containing information about you, that allows you to enter other countries"
+          ],
+          "term": "passport",
+          "sound": "/media/audio/list2/45102_passport_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "người hướng dẫn (có thể là huấn luyện viên, giáo viên)",
+          "correct": false,
+          "hint": [
+            "Hint: =someone who teaches for a living"
+          ],
+          "term": "instructor",
+          "sound": "/media/audio/list2/45102_instructor_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "tủ có nhiều ngăn",
+          "correct": false,
+          "hint": [
+            "Hint: =a piece of furniture with shelves to store things"
+          ],
+          "term": "cabinet",
+          "sound": "/media/audio/list2/45102_cabinet_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list2/45102_umbrella_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170314",
+      "order": 23,
+      "type": "textForeignTextLocal",
+      "word": "valid",
+      "hint": [
+        "Hint: =based on good reasoning or facts; reasonable and acceptable"
+      ],
+      "options": [
+        {
+          "text": "đúng đắn, có cơ sở/căn cứ vững chắc",
+          "correct": true,
+          "hint": [
+            "Hint: =based on good reasoning or facts; reasonable and acceptable"
+          ],
+          "term": "valid",
+          "sound": "/media/audio/list2/45102_valid_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "phương tiện truyền thông đại chúng",
+          "correct": false,
+          "hint": [
+            "Hint: =the different forms of mass communication, e.g. radio, TV, newspapers, etc."
+          ],
+          "term": "media",
+          "sound": "/media/audio/list2/45102_media_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "nhà xe, ga-ra",
+          "correct": false,
+          "hint": [
+            "Hint: =a place where you keep your car"
+          ],
+          "term": "garage",
+          "sound": "/media/audio/list2/45102_garage_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "hàng hóa",
+          "correct": false,
+          "hint": [
+            "Hint: =goods for sale"
+          ],
+          "term": "merchandise",
+          "sound": "/media/audio/list2/45102_merchandise_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list2/45102_valid_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170315",
+      "order": 24,
+      "type": "textForeignTextLocal",
+      "word": "contradict",
+      "hint": [
+        "Hint: =(of people) to say the opposite of what someone else has said, or (of one fact or statement) to be so different from another fact or statement that one of them must be wrong"
+      ],
+      "options": [
+        {
+          "text": "nói ngược lại, mâu thuẫn với",
+          "correct": true,
+          "hint": [
+            "Hint: =(of people) to say the opposite of what someone else has said, or (of one fact or statement) to be so different from another fact or statement that one of them must be wrong"
+          ],
+          "term": "contradict",
+          "sound": "/media/audio/list2/45102_contradict_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "phương tiện truyền thông đại chúng",
+          "correct": false,
+          "hint": [
+            "Hint: =the different forms of mass communication, e.g. radio, TV, newspapers, etc."
+          ],
+          "term": "media",
+          "sound": "/media/audio/list2/45102_media_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "người hướng dẫn (có thể là huấn luyện viên, giáo viên)",
+          "correct": false,
+          "hint": [
+            "Hint: =someone who teaches for a living"
+          ],
+          "term": "instructor",
+          "sound": "/media/audio/list2/45102_instructor_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "sự nhận vào, sự thu nạp; sự thú nhận",
+          "correct": false,
+          "hint": [
+            "Hint: =entrance into something; the act of agreeing that something is true, especially unwillingly"
+          ],
+          "term": "admission",
+          "sound": "/media/audio/list2/45102_admission_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list2/45102_contradict_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170316",
+      "order": 25,
+      "type": "textForeignTextLocal",
+      "word": "cellphone",
+      "hint": [
+        "Hint: =phone that connects to the system by radio so that you can use it anywhere"
+      ],
+      "options": [
+        {
+          "text": "điện thoại di động",
+          "correct": true,
+          "hint": [
+            "Hint: =phone that connects to the system by radio so that you can use it anywhere"
+          ],
+          "term": "cellphone",
+          "sound": "/media/audio/list2/45102_cellphone_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "thuốc thang, dược phẩm",
+          "correct": false,
+          "hint": [
+            "Hint: =a substance used to make an illness or condition get better"
+          ],
+          "term": "medication",
+          "sound": "/media/audio/list2/45102_medication_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "cuộc du ngoạn biển bằng tàu",
+          "correct": false,
+          "hint": [
+            "Hint: =a long, relaxing holiday on a ship"
+          ],
+          "term": "cruise",
+          "sound": "/media/audio/list2/45102_cruise_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "điểm đến",
+          "correct": false,
+          "hint": [
+            "Hint: =the place you want to be at the end of a journey"
+          ],
+          "term": "destination",
+          "sound": "/media/audio/list2/45102_destination_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list2/45102_cellphone_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170317",
+      "order": 26,
+      "type": "textForeignTextLocal",
+      "word": "underline",
+      "hint": [
+        "Hint: =to call attention to; to draw a line under a word, especially in order to show its importance"
+      ],
+      "options": [
+        {
+          "text": "nhấn mạnh/gạch chân",
+          "correct": true,
+          "hint": [
+            "Hint: =to call attention to; to draw a line under a word, especially in order to show its importance"
+          ],
+          "term": "underline",
+          "sound": "/media/audio/list2/45102_underline_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "người tham gia, người tham dự",
+          "correct": false,
+          "hint": [
+            "Hint: =someone present (at a meeting or event)"
+          ],
+          "term": "attendee",
+          "sound": "/media/audio/list2/45102_attendee_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "nhà xe, ga-ra",
+          "correct": false,
+          "hint": [
+            "Hint: =a place where you keep your car"
+          ],
+          "term": "garage",
+          "sound": "/media/audio/list2/45102_garage_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "trung tâm thương mại, trung tâm mua sắm",
+          "correct": false,
+          "hint": [
+            "Hint: =very large building containing lots of stores and restaurants"
+          ],
+          "term": "mall",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list2/45102_underline_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170318",
+      "order": 27,
+      "type": "textForeignSentence",
+      "word": "oval",
+      "hint": [
+        "Hint: =A shape that looks like an egg"
+      ],
+      "options": [
+        {
+          "text": "hình trái xoan, hình bầu dục",
+          "correct": true,
+          "hint": [
+            "Hint: =A shape that looks like an egg"
+          ],
+          "term": "oval",
+          "sound": "/media/audio/list2/45102_oval_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "xếp lại lịch",
+          "correct": false,
+          "hint": [
+            "Hint: =to set a new time for something"
+          ],
+          "term": "reschedule",
+          "sound": "/media/audio/list2/45102_reschedule_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "điểm đến",
+          "correct": false,
+          "hint": [
+            "Hint: =the place you want to be at the end of a journey"
+          ],
+          "term": "destination",
+          "sound": "/media/audio/list2/45102_destination_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "tủ có nhiều ngăn",
+          "correct": false,
+          "hint": [
+            "Hint: =a piece of furniture with shelves to store things"
+          ],
+          "term": "cabinet",
+          "sound": "/media/audio/list2/45102_cabinet_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list2/45102_oval_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170319",
+      "order": 28,
+      "type": "textForeignSentence",
+      "word": "café",
+      "hint": [
+        "Hint: =coffee shop"
+      ],
+      "options": [
+        {
+          "text": "quán cà phê",
+          "correct": true,
+          "hint": [
+            "Hint: =coffee shop"
+          ],
+          "term": "café",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "đồng nghiệp",
+          "correct": false,
+          "hint": [
+            "Hint: =a person that works with you in the same workplace"
+          ],
+          "term": "coworkers",
+          "sound": "/media/audio/list2/45102_coworker_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "nói ngược lại, mâu thuẫn với",
+          "correct": false,
+          "hint": [
+            "Hint: =(of people) to say the opposite of what someone else has said, or (of one fact or statement) to be so different from another fact or statement that one of them must be wrong"
+          ],
+          "term": "contradict",
+          "sound": "/media/audio/list2/45102_contradict_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "kết luận, sự suy luận",
+          "correct": false,
+          "hint": [
+            "Hint: =a guess that you make or an opinion that you form based on the information that you have"
+          ],
+          "term": "inferences",
+          "sound": "/media/audio/list2/45102_inference_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": ""
+    },
+    {
+      "id": "1170320",
+      "order": 29,
+      "type": "textForeignSentence",
+      "word": "rescheduled",
+      "hint": [
+        "Hint: =to set a new time for something"
+      ],
+      "options": [
+        {
+          "text": "xếp lại lịch",
+          "correct": true,
+          "hint": [
+            "Hint: =to set a new time for something"
+          ],
+          "term": "rescheduled",
+          "sound": "/media/audio/list2/45102_reschedule_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "cuộc du ngoạn biển bằng tàu",
+          "correct": false,
+          "hint": [
+            "Hint: =a long, relaxing holiday on a ship"
+          ],
+          "term": "cruise",
+          "sound": "/media/audio/list2/45102_cruise_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "điện thoại di động",
+          "correct": false,
+          "hint": [
+            "Hint: =phone that connects to the system by radio so that you can use it anywhere"
+          ],
+          "term": "cellphones",
+          "sound": "/media/audio/list2/45102_cellphone_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "nhỏ gọn, gọn ghẽ",
+          "correct": false,
+          "hint": [
+            "Hint: =tightly packed in a small size"
+          ],
+          "term": "compact",
+          "sound": "/media/audio/list2/45102_compact_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list2/45102_reschedule_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170321",
+      "order": 30,
+      "type": "textForeignSentence",
+      "word": "merchandise",
+      "hint": [
+        "Hint: =goods for sale"
+      ],
+      "options": [
+        {
+          "text": "hàng hóa",
+          "correct": true,
+          "hint": [
+            "Hint: =goods for sale"
+          ],
+          "term": "merchandise",
+          "sound": "/media/audio/list2/45102_merchandise_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "vali",
+          "correct": false,
+          "hint": [
+            "Hint: =A large bag-like container for carrying clothes when traveling"
+          ],
+          "term": "suitcase",
+          "sound": "/media/audio/list2/45102_suitcase_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "phương tiện truyền thông đại chúng",
+          "correct": false,
+          "hint": [
+            "Hint: =the different forms of mass communication, e.g. radio, TV, newspapers, etc."
+          ],
+          "term": "media",
+          "sound": "/media/audio/list2/45102_media_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "sự thay thế, vật thay thế, người thay thế",
+          "correct": false,
+          "hint": [
+            "Hint: =the act of putting something/someone in place of something/someone else"
+          ],
+          "term": "replacement",
+          "sound": "/media/audio/list2/45102_replacement_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list2/45102_merchandise_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170322",
+      "order": 31,
+      "type": "textForeignTextLocal",
+      "word": "coworker",
+      "hint": [
+        "Hint: =a person that works with you in the same workplace"
+      ],
+      "options": [
+        {
+          "text": "đồng nghiệp",
+          "correct": true,
+          "hint": [
+            "Hint: =a person that works with you in the same workplace"
+          ],
+          "term": "coworker",
+          "sound": "/media/audio/list2/45102_coworker_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "một dự án hoặc nhiệm vụ",
+          "correct": false,
+          "hint": [
+            "Hint: =a project or task"
+          ],
+          "term": "assignment",
+          "sound": "/media/audio/list2/45102_assignment_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "thuộc về điện",
+          "correct": false,
+          "hint": [
+            "Hint: =to do with electricity"
+          ],
+          "term": "electrical",
+          "sound": "/media/audio/list2/45102_electrical_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "người tham gia, người tham dự",
+          "correct": false,
+          "hint": [
+            "Hint: =someone present (at a meeting or event)"
+          ],
+          "term": "attendee",
+          "sound": "/media/audio/list2/45102_attendee_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list2/45102_coworker_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170323",
+      "order": 32,
+      "type": "textForeignSentence",
+      "word": "admission",
+      "hint": [
+        "Hint: =entrance into something; the act of agreeing that something is true, especially unwillingly"
+      ],
+      "options": [
+        {
+          "text": "sự nhận vào, sự thu nạp; sự thú nhận",
+          "correct": true,
+          "hint": [
+            "Hint: =entrance into something; the act of agreeing that something is true, especially unwillingly"
+          ],
+          "term": "admission",
+          "sound": "/media/audio/list2/45102_admission_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "tổ chức bảo trợ, thế lực bảo vệ, sự bao trùm",
+          "correct": false,
+          "hint": [
+            "Hint: =something that includes or represents a group or range of similar things"
+          ],
+          "term": "umbrella",
+          "sound": "/media/audio/list2/45102_umbrella_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "gợi ý, manh mối",
+          "correct": false,
+          "hint": [
+            "Hint: =a sign or some information that helps you to find the answer to a problem, question, or mystery"
+          ],
+          "term": "clues",
+          "sound": "/media/audio/list2/45102_clue_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "máy tính xách tay",
+          "correct": false,
+          "hint": [
+            "Hint: =a computer small enough to carry and to use on your lap"
+          ],
+          "term": "laptop",
+          "sound": "/media/audio/list2/45102_laptop_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list2/45102_admission_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170324",
+      "order": 33,
+      "type": "textForeignTextLocal",
+      "word": "postpone",
+      "hint": [
+        "Hint: =put off until a later time"
+      ],
+      "options": [
+        {
+          "text": "trì hoãn, hoãn lại",
+          "correct": true,
+          "hint": [
+            "Hint: =put off until a later time"
+          ],
+          "term": "postpone",
+          "sound": "/media/audio/list2/45102_postpone_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "hình trái xoan, hình bầu dục",
+          "correct": false,
+          "hint": [
+            "Hint: =A shape that looks like an egg"
+          ],
+          "term": "oval",
+          "sound": "/media/audio/list2/45102_oval_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "thuộc về điện",
+          "correct": false,
+          "hint": [
+            "Hint: =to do with electricity"
+          ],
+          "term": "electrical",
+          "sound": "/media/audio/list2/45102_electrical_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "quán cà phê",
+          "correct": false,
+          "hint": [
+            "Hint: =coffee shop"
+          ],
+          "term": "café",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list2/45102_postpone_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170325",
+      "order": 34,
+      "type": "textForeignTextLocal",
+      "word": "comprehension",
+      "hint": [
+        "Hint: =the act of understanding"
+      ],
+      "options": [
+        {
+          "text": "sự hiểu, sự lĩnh hội",
+          "correct": true,
+          "hint": [
+            "Hint: =the act of understanding"
+          ],
+          "term": "comprehension",
+          "sound": "/media/audio/list2/45102_comprehension_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "vali",
+          "correct": false,
+          "hint": [
+            "Hint: =A large bag-like container for carrying clothes when traveling"
+          ],
+          "term": "suitcase",
+          "sound": "/media/audio/list2/45102_suitcase_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "đạt được, có được",
+          "correct": false,
+          "hint": [
+            "Hint: =to get"
+          ],
+          "term": "obtain",
+          "sound": "/media/audio/list2/45102_obtain_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "ngoài trời",
+          "correct": false,
+          "hint": [
+            "Hint: =outside in the open air"
+          ],
+          "term": "outdoor",
+          "sound": "/media/audio/list2/45102_outdoor_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list2/45102_comprehension_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170326",
+      "order": 35,
+      "type": "textForeignSentence",
+      "word": "cruise",
+      "hint": [
+        "Hint: =a long, relaxing holiday on a ship"
+      ],
+      "options": [
+        {
+          "text": "cuộc du ngoạn biển bằng tàu",
+          "correct": true,
+          "hint": [
+            "Hint: =a long, relaxing holiday on a ship"
+          ],
+          "term": "cruise",
+          "sound": "/media/audio/list2/45102_cruise_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "máy móc, thiết bị",
+          "correct": false,
+          "hint": [
+            "Hint: =a machine or device that does a particular task"
+          ],
+          "term": "appliances",
+          "sound": "/media/audio/list2/45102_appliance_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "sách hướng dẫn",
+          "correct": false,
+          "hint": [
+            "Hint: =a book that explains how to do something"
+          ],
+          "term": "manual",
+          "sound": "/media/audio/list2/45102_manual_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "rời đi, khởi hành",
+          "correct": false,
+          "hint": [
+            "Hint: =to leave"
+          ],
+          "term": "departed",
+          "sound": "/media/audio/list2/45102_depart_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list2/45102_cruise_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170327",
+      "order": 36,
+      "type": "textForeignSentence",
+      "word": "upcoming",
+      "hint": [
+        "Hint: =happening soon"
+      ],
+      "options": [
+        {
+          "text": "sắp tới",
+          "correct": true,
+          "hint": [
+            "Hint: =happening soon"
+          ],
+          "term": "upcoming",
+          "sound": "/media/audio/list2/45102_upcoming_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "nghề nghiệp",
+          "correct": false,
+          "hint": [
+            "Hint: =profession or job"
+          ],
+          "term": "occupations",
+          "sound": "/media/audio/list2/45102_occupation_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "hình trái xoan, hình bầu dục",
+          "correct": false,
+          "hint": [
+            "Hint: =A shape that looks like an egg"
+          ],
+          "term": "ovals",
+          "sound": "/media/audio/list2/45102_oval_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "máy bay",
+          "correct": false,
+          "hint": [
+            "Hint: =a powered vehicle that flies through the air to its destination"
+          ],
+          "term": "airplane",
+          "sound": "/media/audio/list2/45102_airplane_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list2/45102_upcoming_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170328",
+      "order": 37,
+      "type": "textForeignSentence",
+      "word": "instructor",
+      "hint": [
+        "Hint: =someone who teaches for a living"
+      ],
+      "options": [
+        {
+          "text": "người hướng dẫn (có thể là huấn luyện viên, giáo viên)",
+          "correct": true,
+          "hint": [
+            "Hint: =someone who teaches for a living"
+          ],
+          "term": "instructor",
+          "sound": "/media/audio/list2/45102_instructor_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "sự nâng cấp, sự tu sửa",
+          "correct": false,
+          "hint": [
+            "Hint: =the process of being restored to a previous or better condition"
+          ],
+          "term": "renovation",
+          "sound": "/media/audio/list2/45102_renovation_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "hộ chiếu",
+          "correct": false,
+          "hint": [
+            "Hint: =official document containing information about you, that allows you to enter other countries"
+          ],
+          "term": "passports",
+          "sound": "/media/audio/list2/45102_passport_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "trì hoãn, hoãn lại",
+          "correct": false,
+          "hint": [
+            "Hint: =put off until a later time"
+          ],
+          "term": "postpone",
+          "sound": "/media/audio/list2/45102_postpone_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list2/45102_instructor_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170329",
+      "order": 38,
+      "type": "textForeignSentence",
+      "word": "upgraded",
+      "hint": [
+        "Hint: =to improve what was old or outdated"
+      ],
+      "options": [
+        {
+          "text": "nâng cấp",
+          "correct": true,
+          "hint": [
+            "Hint: =to improve what was old or outdated"
+          ],
+          "term": "upgraded",
+          "sound": "/media/audio/list2/45102_upgrade_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "máy tính xách tay",
+          "correct": false,
+          "hint": [
+            "Hint: =a computer small enough to carry and to use on your lap"
+          ],
+          "term": "laptop",
+          "sound": "/media/audio/list2/45102_laptop_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "tổ chức bảo trợ, thế lực bảo vệ, sự bao trùm",
+          "correct": false,
+          "hint": [
+            "Hint: =something that includes or represents a group or range of similar things"
+          ],
+          "term": "umbrella",
+          "sound": "/media/audio/list2/45102_umbrella_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "nhấn mạnh/gạch chân",
+          "correct": false,
+          "hint": [
+            "Hint: =to call attention to; to draw a line under a word, especially in order to show its importance"
+          ],
+          "term": "underlined",
+          "sound": "/media/audio/list2/45102_underline_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list2/45102_upgrade_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170330",
+      "order": 39,
+      "type": "textForeignSentence",
+      "word": "occupations",
+      "hint": [
+        "Hint: =profession or job"
+      ],
+      "options": [
+        {
+          "text": "nghề nghiệp",
+          "correct": true,
+          "hint": [
+            "Hint: =profession or job"
+          ],
+          "term": "occupations",
+          "sound": "/media/audio/list2/45102_occupation_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "rời đi",
+          "correct": false,
+          "hint": [
+            "Hint: =to leave"
+          ],
+          "term": "exiting",
+          "sound": "/media/audio/list2/45102_exit_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "máy bay",
+          "correct": false,
+          "hint": [
+            "Hint: =a powered vehicle that flies through the air to its destination"
+          ],
+          "term": "airplane",
+          "sound": "/media/audio/list2/45102_airplane_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "ở trước, có trước, đến trước",
+          "correct": false,
+          "hint": [
+            "Hint: =to happen before something else"
+          ],
+          "term": "preceded",
+          "sound": "/media/audio/list2/45102_precede_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list2/45102_occupation_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170331",
+      "order": 40,
+      "type": "textForeignSentence",
+      "word": "garages",
+      "hint": [
+        "Hint: =a place where you keep your car"
+      ],
+      "options": [
+        {
+          "text": "nhà xe, ga-ra",
+          "correct": true,
+          "hint": [
+            "Hint: =a place where you keep your car"
+          ],
+          "term": "garages",
+          "sound": "/media/audio/list2/45102_garage_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "người tham gia, người tham dự",
+          "correct": false,
+          "hint": [
+            "Hint: =someone present (at a meeting or event)"
+          ],
+          "term": "attendees",
+          "sound": "/media/audio/list2/45102_attendee_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "hình trái xoan, hình bầu dục",
+          "correct": false,
+          "hint": [
+            "Hint: =A shape that looks like an egg"
+          ],
+          "term": "oval",
+          "sound": "/media/audio/list2/45102_oval_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "trung tâm thương mại, trung tâm mua sắm",
+          "correct": false,
+          "hint": [
+            "Hint: =very large building containing lots of stores and restaurants"
+          ],
+          "term": "mall",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list2/45102_garage_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170332",
+      "order": 41,
+      "type": "textForeignSentence",
+      "word": "suitcase",
+      "hint": [
+        "Hint: =A large bag-like container for carrying clothes when traveling"
+      ],
+      "options": [
+        {
+          "text": "vali",
+          "correct": true,
+          "hint": [
+            "Hint: =A large bag-like container for carrying clothes when traveling"
+          ],
+          "term": "suitcase",
+          "sound": "/media/audio/list2/45102_suitcase_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "hàng hóa",
+          "correct": false,
+          "hint": [
+            "Hint: =goods for sale"
+          ],
+          "term": "merchandise",
+          "sound": "/media/audio/list2/45102_merchandise_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "bàn phím máy tính",
+          "correct": false,
+          "hint": [
+            "Hint: =the part of a computer that you type on"
+          ],
+          "term": "keyboard",
+          "sound": "/media/audio/list2/45102_keyboard_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "thuộc về điện",
+          "correct": false,
+          "hint": [
+            "Hint: =to do with electricity"
+          ],
+          "term": "electrical",
+          "sound": "/media/audio/list2/45102_electrical_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list2/45102_suitcase_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170333",
+      "order": 42,
+      "type": "textForeignSentence",
+      "word": "explanatory",
+      "hint": [
+        "Hint: =intended to serve as an explanation"
+      ],
+      "options": [
+        {
+          "text": "để giải thích hoặc làm rõ",
+          "correct": true,
+          "hint": [
+            "Hint: =intended to serve as an explanation"
+          ],
+          "term": "explanatory",
+          "sound": "/media/audio/list2/45102_explanatory_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "sự nhận vào, sự thu nạp; sự thú nhận",
+          "correct": false,
+          "hint": [
+            "Hint: =entrance into something; the act of agreeing that something is true, especially unwillingly"
+          ],
+          "term": "admission",
+          "sound": "/media/audio/list2/45102_admission_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "máy bay",
+          "correct": false,
+          "hint": [
+            "Hint: =a powered vehicle that flies through the air to its destination"
+          ],
+          "term": "airplane",
+          "sound": "/media/audio/list2/45102_airplane_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "ăn tối",
+          "correct": false,
+          "hint": [
+            "Hint: =have supper; eat dinner"
+          ],
+          "term": "dine",
+          "sound": "/media/audio/list2/45102_dine_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list2/45102_explanatory_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170334",
+      "order": 43,
+      "type": "textForeignSentence",
+      "word": "airplane",
+      "hint": [
+        "Hint: =a powered vehicle that flies through the air to its destination"
+      ],
+      "options": [
+        {
+          "text": "máy bay",
+          "correct": true,
+          "hint": [
+            "Hint: =a powered vehicle that flies through the air to its destination"
+          ],
+          "term": "airplane",
+          "sound": "/media/audio/list2/45102_airplane_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "sự thay thế, vật thay thế, người thay thế",
+          "correct": false,
+          "hint": [
+            "Hint: =the act of putting something/someone in place of something/someone else"
+          ],
+          "term": "replacement",
+          "sound": "/media/audio/list2/45102_replacement_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "điểm đến",
+          "correct": false,
+          "hint": [
+            "Hint: =the place you want to be at the end of a journey"
+          ],
+          "term": "destination",
+          "sound": "/media/audio/list2/45102_destination_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "bác sĩ nha khoa",
+          "correct": false,
+          "hint": [
+            "Hint: =a person who looks after your teeth for a living"
+          ],
+          "term": "dentists",
+          "sound": "/media/audio/list2/45102_dentist_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list2/45102_airplane_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170335",
+      "order": 44,
+      "type": "textForeignSentence",
+      "word": "media",
+      "hint": [
+        "Hint: =the different forms of mass communication, e.g. radio, TV, newspapers, etc."
+      ],
+      "options": [
+        {
+          "text": "phương tiện truyền thông đại chúng",
+          "correct": true,
+          "hint": [
+            "Hint: =the different forms of mass communication, e.g. radio, TV, newspapers, etc."
+          ],
+          "term": "media",
+          "sound": "/media/audio/list2/45102_media_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "bản kiểm kê",
+          "correct": false,
+          "hint": [
+            "Hint: =detailed list of everything included"
+          ],
+          "term": "inventory",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "đúng đắn, có cơ sở/căn cứ vững chắc",
+          "correct": false,
+          "hint": [
+            "Hint: =based on good reasoning or facts; reasonable and acceptable"
+          ],
+          "term": "valid",
+          "sound": "/media/audio/list2/45102_valid_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "ngoài trời",
+          "correct": false,
+          "hint": [
+            "Hint: =outside in the open air"
+          ],
+          "term": "outdoor",
+          "sound": "/media/audio/list2/45102_outdoor_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list2/45102_media_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170336",
+      "order": 45,
+      "type": "textForeignSentence",
+      "word": "coupon",
+      "hint": [
+        "Hint: =a piece of paper that you can use to buy goods or to get them at a reduced price"
+      ],
+      "options": [
+        {
+          "text": "phiếu mua hàng, phiếu giảm giá",
+          "correct": true,
+          "hint": [
+            "Hint: =a piece of paper that you can use to buy goods or to get them at a reduced price"
+          ],
+          "term": "coupon",
+          "sound": "/media/audio/list2/45102_coupon_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "đồng nghiệp",
+          "correct": false,
+          "hint": [
+            "Hint: =a person that works with you in the same workplace"
+          ],
+          "term": "coworker",
+          "sound": "/media/audio/list2/45102_coworker_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "rời đi, khởi hành",
+          "correct": false,
+          "hint": [
+            "Hint: =to leave"
+          ],
+          "term": "depart",
+          "sound": "/media/audio/list2/45102_depart_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "tổ chức bảo trợ, thế lực bảo vệ, sự bao trùm",
+          "correct": false,
+          "hint": [
+            "Hint: =something that includes or represents a group or range of similar things"
+          ],
+          "term": "umbrella",
+          "sound": "/media/audio/list2/45102_umbrella_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list2/45102_coupon_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170337",
+      "order": 46,
+      "type": "textForeignSentence",
+      "word": "preceded",
+      "hint": [
+        "Hint: =to happen before something else"
+      ],
+      "options": [
+        {
+          "text": "ở trước, có trước, đến trước",
+          "correct": true,
+          "hint": [
+            "Hint: =to happen before something else"
+          ],
+          "term": "preceded",
+          "sound": "/media/audio/list2/45102_precede_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "giấy tờ nhận dạng",
+          "correct": false,
+          "hint": [
+            "Hint: =a document that shows who a person is, e.g. passport, driver's licence"
+          ],
+          "term": "identification",
+          "sound": "/media/audio/list2/45102_identification_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "siêu thị",
+          "correct": false,
+          "hint": [
+            "Hint: =a large self-service store selling food and household items"
+          ],
+          "term": "supermarket",
+          "sound": "/media/audio/list2/45102_supermarket_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "hình trái xoan, hình bầu dục",
+          "correct": false,
+          "hint": [
+            "Hint: =A shape that looks like an egg"
+          ],
+          "term": "ovals",
+          "sound": "/media/audio/list2/45102_oval_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list2/45102_precede_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170338",
+      "order": 47,
+      "type": "textForeignSentence",
+      "word": "renovation",
+      "hint": [
+        "Hint: =the process of being restored to a previous or better condition"
+      ],
+      "options": [
+        {
+          "text": "sự nâng cấp, sự tu sửa",
+          "correct": true,
+          "hint": [
+            "Hint: =the process of being restored to a previous or better condition"
+          ],
+          "term": "renovation",
+          "sound": "/media/audio/list2/45102_renovation_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "bác sĩ nha khoa",
+          "correct": false,
+          "hint": [
+            "Hint: =a person who looks after your teeth for a living"
+          ],
+          "term": "dentist",
+          "sound": "/media/audio/list2/45102_dentist_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "người tham gia, người tham dự",
+          "correct": false,
+          "hint": [
+            "Hint: =someone present (at a meeting or event)"
+          ],
+          "term": "attendees",
+          "sound": "/media/audio/list2/45102_attendee_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "hình trái xoan, hình bầu dục",
+          "correct": false,
+          "hint": [
+            "Hint: =A shape that looks like an egg"
+          ],
+          "term": "oval",
+          "sound": "/media/audio/list2/45102_oval_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list2/45102_renovation_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170339",
+      "order": 48,
+      "type": "textForeignSentence",
+      "word": "inventory",
+      "hint": [
+        "Hint: =detailed list of everything included"
+      ],
+      "options": [
+        {
+          "text": "bản kiểm kê",
+          "correct": true,
+          "hint": [
+            "Hint: =detailed list of everything included"
+          ],
+          "term": "inventory",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "nhân viên tiếp tân",
+          "correct": false,
+          "hint": [
+            "Hint: =someone who works at the front desk of an office or hotel, greeting visitors and answering the phone"
+          ],
+          "term": "receptionist",
+          "sound": "/media/audio/list2/45102_receptionist_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "người tham gia, người tham dự",
+          "correct": false,
+          "hint": [
+            "Hint: =someone present (at a meeting or event)"
+          ],
+          "term": "attendees",
+          "sound": "/media/audio/list2/45102_attendee_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "ở trước, có trước, đến trước",
+          "correct": false,
+          "hint": [
+            "Hint: =to happen before something else"
+          ],
+          "term": "precede",
+          "sound": "/media/audio/list2/45102_precede_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": ""
+    },
+    {
+      "id": "1170340",
+      "order": 49,
+      "type": "textForeignSentence",
+      "word": "assignment",
+      "hint": [
+        "Hint: =a project or task"
+      ],
+      "options": [
+        {
+          "text": "một dự án hoặc nhiệm vụ",
+          "correct": true,
+          "hint": [
+            "Hint: =a project or task"
+          ],
+          "term": "assignment",
+          "sound": "/media/audio/list2/45102_assignment_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "bác sĩ nha khoa",
+          "correct": false,
+          "hint": [
+            "Hint: =a person who looks after your teeth for a living"
+          ],
+          "term": "dentists",
+          "sound": "/media/audio/list2/45102_dentist_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "quán cà phê",
+          "correct": false,
+          "hint": [
+            "Hint: =coffee shop"
+          ],
+          "term": "cafes",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "máy bay",
+          "correct": false,
+          "hint": [
+            "Hint: =a powered vehicle that flies through the air to its destination"
+          ],
+          "term": "airplane",
+          "sound": "/media/audio/list2/45102_airplane_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list2/45102_assignment_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170341",
+      "order": 50,
+      "type": "textForeignTextLocal",
+      "word": "convenient",
+      "hint": [
+        "Hint: =suited to your needs; easy to use or get to"
+      ],
+      "options": [
+        {
+          "text": "tiện lợi, thuận tiện",
+          "correct": true,
+          "hint": [
+            "Hint: =suited to your needs; easy to use or get to"
+          ],
+          "term": "convenient",
+          "sound": "/media/audio/list2/45102_convenient_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "một dự án hoặc nhiệm vụ",
+          "correct": false,
+          "hint": [
+            "Hint: =a project or task"
+          ],
+          "term": "assignment",
+          "sound": "/media/audio/list2/45102_assignment_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "điểm đến",
+          "correct": false,
+          "hint": [
+            "Hint: =the place you want to be at the end of a journey"
+          ],
+          "term": "destination",
+          "sound": "/media/audio/list2/45102_destination_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "giấy tờ nhận dạng",
+          "correct": false,
+          "hint": [
+            "Hint: =a document that shows who a person is, e.g. passport, driver's licence"
+          ],
+          "term": "identification",
+          "sound": "/media/audio/list2/45102_identification_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list2/45102_convenient_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170342",
+      "order": 51,
+      "type": "textForeignSentence",
+      "word": "appliance",
+      "hint": [
+        "Hint: =a machine or device that does a particular task"
+      ],
+      "options": [
+        {
+          "text": "máy móc, thiết bị",
+          "correct": true,
+          "hint": [
+            "Hint: =a machine or device that does a particular task"
+          ],
+          "term": "appliance",
+          "sound": "/media/audio/list2/45102_appliance_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "sách hướng dẫn",
+          "correct": false,
+          "hint": [
+            "Hint: =a book that explains how to do something"
+          ],
+          "term": "manual",
+          "sound": "/media/audio/list2/45102_manual_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "người hướng dẫn (có thể là huấn luyện viên, giáo viên)",
+          "correct": false,
+          "hint": [
+            "Hint: =someone who teaches for a living"
+          ],
+          "term": "instructor",
+          "sound": "/media/audio/list2/45102_instructor_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "sắp tới",
+          "correct": false,
+          "hint": [
+            "Hint: =happening soon"
+          ],
+          "term": "upcoming",
+          "sound": "/media/audio/list2/45102_upcoming_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list2/45102_appliance_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170343",
+      "order": 52,
+      "type": "textForeignTextLocal",
+      "word": "tactic",
+      "hint": [
+        "Hint: =a planned way of doing something to achieve a particular result"
+      ],
+      "options": [
+        {
+          "text": "chiến thuật",
+          "correct": true,
+          "hint": [
+            "Hint: =a planned way of doing something to achieve a particular result"
+          ],
+          "term": "tactic",
+          "sound": "/media/audio/list2/45102_tactic_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "phương tiện truyền thông đại chúng",
+          "correct": false,
+          "hint": [
+            "Hint: =the different forms of mass communication, e.g. radio, TV, newspapers, etc."
+          ],
+          "term": "media",
+          "sound": "/media/audio/list2/45102_media_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "sự hiểu, sự lĩnh hội",
+          "correct": false,
+          "hint": [
+            "Hint: =the act of understanding"
+          ],
+          "term": "comprehension",
+          "sound": "/media/audio/list2/45102_comprehension_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "một dự án hoặc nhiệm vụ",
+          "correct": false,
+          "hint": [
+            "Hint: =a project or task"
+          ],
+          "term": "assignment",
+          "sound": "/media/audio/list2/45102_assignment_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list2/45102_tactic_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170344",
+      "order": 53,
+      "type": "textForeignTextLocal",
+      "word": "outdoor",
+      "hint": [
+        "Hint: =outside in the open air"
+      ],
+      "options": [
+        {
+          "text": "ngoài trời",
+          "correct": true,
+          "hint": [
+            "Hint: =outside in the open air"
+          ],
+          "term": "outdoor",
+          "sound": "/media/audio/list2/45102_outdoor_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "để giải thích hoặc làm rõ",
+          "correct": false,
+          "hint": [
+            "Hint: =intended to serve as an explanation"
+          ],
+          "term": "explanatory",
+          "sound": "/media/audio/list2/45102_explanatory_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "điện thoại di động",
+          "correct": false,
+          "hint": [
+            "Hint: =phone that connects to the system by radio so that you can use it anywhere"
+          ],
+          "term": "cellphone",
+          "sound": "/media/audio/list2/45102_cellphone_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "bản kiểm kê",
+          "correct": false,
+          "hint": [
+            "Hint: =detailed list of everything included"
+          ],
+          "term": "inventory",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list2/45102_outdoor_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170345",
+      "order": 54,
+      "type": "textForeignTextLocal",
+      "word": "compact",
+      "hint": [
+        "Hint: =tightly packed in a small size"
+      ],
+      "options": [
+        {
+          "text": "nhỏ gọn, gọn ghẽ",
+          "correct": true,
+          "hint": [
+            "Hint: =tightly packed in a small size"
+          ],
+          "term": "compact",
+          "sound": "/media/audio/list2/45102_compact_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "nhà xe, ga-ra",
+          "correct": false,
+          "hint": [
+            "Hint: =a place where you keep your car"
+          ],
+          "term": "garage",
+          "sound": "/media/audio/list2/45102_garage_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "chiến thuật",
+          "correct": false,
+          "hint": [
+            "Hint: =a planned way of doing something to achieve a particular result"
+          ],
+          "term": "tactic",
+          "sound": "/media/audio/list2/45102_tactic_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "để giải thích hoặc làm rõ",
+          "correct": false,
+          "hint": [
+            "Hint: =intended to serve as an explanation"
+          ],
+          "term": "explanatory",
+          "sound": "/media/audio/list2/45102_explanatory_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list2/45102_compact_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170346",
+      "order": 55,
+      "type": "textForeignSentence",
+      "word": "medication",
+      "hint": [
+        "Hint: =a substance used to make an illness or condition get better"
+      ],
+      "options": [
+        {
+          "text": "thuốc thang, dược phẩm",
+          "correct": true,
+          "hint": [
+            "Hint: =a substance used to make an illness or condition get better"
+          ],
+          "term": "medication",
+          "sound": "/media/audio/list2/45102_medication_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "thuộc về điện",
+          "correct": false,
+          "hint": [
+            "Hint: =to do with electricity"
+          ],
+          "term": "electrical",
+          "sound": "/media/audio/list2/45102_electrical_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "nhấn mạnh/gạch chân",
+          "correct": false,
+          "hint": [
+            "Hint: =to call attention to; to draw a line under a word, especially in order to show its importance"
+          ],
+          "term": "underlined",
+          "sound": "/media/audio/list2/45102_underline_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "sắp tới",
+          "correct": false,
+          "hint": [
+            "Hint: =happening soon"
+          ],
+          "term": "upcoming",
+          "sound": "/media/audio/list2/45102_upcoming_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list2/45102_medication_us.mp3",
+      "explanation": ""
+    }
+  ],
+  "totalQuestions": 55,
+  "complete": true
+}

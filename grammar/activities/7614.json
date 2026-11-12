@@ -1,0 +1,4631 @@
+{
+  "type": "exercise",
+  "questions": [
+    {
+      "id": "1089931",
+      "data": {
+        "question": [
+          [
+            "text",
+            "I am watching TV "
+          ],
+          [
+            "input",
+            {
+              "style": "inline",
+              "answer": [
+                "in"
+              ]
+            }
+          ],
+          [
+            "text",
+            " our flat."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Tôi đang xem TV ở căn hộ của chúng ta."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1089932",
+      "data": {
+        "question": [
+          [
+            "text",
+            "Do you live "
+          ],
+          [
+            "input",
+            {
+              "style": "inline",
+              "answer": [
+                "in"
+              ]
+            }
+          ],
+          [
+            "text",
+            " Japan?"
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Bạn sống ở Nhật à?"
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1089933",
+      "data": {
+        "question": [
+          [
+            "text",
+            "Go "
+          ],
+          [
+            "input",
+            {
+              "style": "inline",
+              "answer": [
+                "to"
+              ]
+            }
+          ],
+          [
+            "text",
+            " bed!"
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Đi ngủ đi!"
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1089934",
+      "data": {
+        "question": [
+          [
+            "text",
+            "Do you live "
+          ],
+          [
+            "input",
+            {
+              "style": "inline",
+              "answer": [
+                "in"
+              ]
+            }
+          ],
+          [
+            "text",
+            " a house?"
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Bạn sống trong nhà phải không?"
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1089935",
+      "data": {
+        "question": [
+          [
+            "text",
+            "I have a meeting "
+          ],
+          [
+            "input",
+            {
+              "style": "inline",
+              "answer": [
+                "in"
+              ]
+            }
+          ],
+          [
+            "text",
+            " Prague."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Tôi có một cuộc họp ở Prague."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1089936",
+      "data": {
+        "question": [
+          [
+            "text",
+            "I couldn't see the keys because they were "
+          ],
+          [
+            "input",
+            {
+              "style": "inline",
+              "answer": [
+                "under"
+              ]
+            }
+          ],
+          [
+            "text",
+            " a magazine."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Tôi không thấy chìa khóa vì chúng ở dưới cuốn tạp chí."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1089937",
+      "data": {
+        "question": [
+          [
+            "text",
+            "She is "
+          ],
+          [
+            "input",
+            {
+              "style": "inline",
+              "answer": [
+                "at"
+              ]
+            }
+          ],
+          [
+            "text",
+            " home."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Cô ấy ở nhà."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1089938",
+      "data": {
+        "question": [
+          [
+            "text",
+            "The key is "
+          ],
+          [
+            "input",
+            {
+              "style": "inline",
+              "answer": [
+                "in"
+              ]
+            }
+          ],
+          [
+            "text",
+            " your room."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Chìa khóa ở trong phòng cậu."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1089939",
+      "data": {
+        "question": [
+          [
+            "text",
+            "Where are you "
+          ],
+          [
+            "input",
+            {
+              "style": "inline",
+              "answer": [
+                "from"
+              ]
+            }
+          ],
+          [
+            "text",
+            "?"
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Bạn từ đâu tới?"
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1089940",
+      "data": {
+        "question": [
+          [
+            "text",
+            "I am "
+          ],
+          [
+            "input",
+            {
+              "style": "inline",
+              "answer": [
+                "in"
+              ]
+            }
+          ],
+          [
+            "text",
+            " the car. I am driving."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Tôi đang ở trong xe. Tôi đang lái xe."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1089941",
+      "data": {
+        "question": [
+          [
+            "text",
+            "We live "
+          ],
+          [
+            "input",
+            {
+              "style": "inline",
+              "answer": [
+                "in"
+              ]
+            }
+          ],
+          [
+            "text",
+            " Paris."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Chúng tôi sống ở Paris."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1089942",
+      "data": {
+        "question": [
+          [
+            "text",
+            "I usually go "
+          ],
+          [
+            "input",
+            {
+              "style": "inline",
+              "answer": [
+                "to"
+              ]
+            }
+          ],
+          [
+            "text",
+            " school by bus."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Tôi thường đi học bằng xe buýt."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1089943",
+      "data": {
+        "question": [
+          [
+            "text",
+            "I work "
+          ],
+          [
+            "input",
+            {
+              "style": "inline",
+              "answer": [
+                "in"
+              ]
+            }
+          ],
+          [
+            "text",
+            " an office."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Tôi làm việc ở văn phòng."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1089944",
+      "data": {
+        "question": [
+          [
+            "text",
+            "I study "
+          ],
+          [
+            "input",
+            {
+              "style": "inline",
+              "answer": [
+                "in"
+              ]
+            }
+          ],
+          [
+            "text",
+            " Brno."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Tôi học ở Brno."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1089945",
+      "data": {
+        "question": [
+          [
+            "text",
+            "There is a spider "
+          ],
+          [
+            "input",
+            {
+              "style": "inline",
+              "answer": [
+                "in"
+              ]
+            }
+          ],
+          [
+            "text",
+            " the bath."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Có con nhện trong bồn tắm."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1089946",
+      "data": {
+        "question": [
+          [
+            "text",
+            "We usually spend the evening "
+          ],
+          [
+            "input",
+            {
+              "style": "inline",
+              "answer": [
+                "at"
+              ]
+            }
+          ],
+          [
+            "text",
+            " home."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Chúng tôi thường ở nhà buổi tối."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1089947",
+      "data": {
+        "question": [
+          [
+            "text",
+            "I am "
+          ],
+          [
+            "input",
+            {
+              "style": "inline",
+              "answer": [
+                "at"
+              ]
+            }
+          ],
+          [
+            "text",
+            " home."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Tôi đang ở nhà."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1089948",
+      "data": {
+        "question": [
+          [
+            "text",
+            "My sister works "
+          ],
+          [
+            "input",
+            {
+              "style": "inline",
+              "answer": [
+                "in"
+              ]
+            }
+          ],
+          [
+            "text",
+            " Spain."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Chị tôi làm việc ở Tây Ban Nha."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1089949",
+      "data": {
+        "question": [
+          [
+            "text",
+            "The book is "
+          ],
+          [
+            "input",
+            {
+              "style": "inline",
+              "answer": [
+                "in"
+              ]
+            }
+          ],
+          [
+            "text",
+            " my room."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Cuốn sách ở trong phòng của tôi."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1089950",
+      "data": {
+        "question": [
+          [
+            "text",
+            "My brother lives "
+          ],
+          [
+            "input",
+            {
+              "style": "inline",
+              "answer": [
+                "in"
+              ]
+            }
+          ],
+          [
+            "text",
+            " Olomouc."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Anh tôi sống ở Olomouc."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1089951",
+      "data": {
+        "question": [
+          [
+            "text",
+            "Kuba was standing "
+          ],
+          [
+            "input",
+            {
+              "style": "inline",
+              "answer": [
+                "under"
+              ]
+            }
+          ],
+          [
+            "text",
+            " the tree waiting for the rain to stop."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Kuba đứng dưới gốc cây đợi mưa tạnh."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1089952",
+      "data": {
+        "question": [
+          [
+            "text",
+            "Patrik was born "
+          ],
+          [
+            "input",
+            {
+              "style": "inline",
+              "answer": [
+                "in"
+              ]
+            }
+          ],
+          [
+            "text",
+            " Paris."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Patrik sinh ra tại Paris."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1089953",
+      "data": {
+        "question": [
+          [
+            "text",
+            "Look at the picture "
+          ],
+          [
+            "input",
+            {
+              "style": "inline",
+              "answer": [
+                "on"
+              ]
+            }
+          ],
+          [
+            "text",
+            " the wall."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Hãy nhìn bức tranh trên tường."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1089954",
+      "data": {
+        "question": [
+          [
+            "text",
+            "I live "
+          ],
+          [
+            "input",
+            {
+              "style": "inline",
+              "answer": [
+                "in"
+              ]
+            }
+          ],
+          [
+            "text",
+            " the Czech Republic."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Tôi sống ở Cộng hòa Séc."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1089955",
+      "data": {
+        "question": [
+          [
+            "text",
+            "The cat is sitting "
+          ],
+          [
+            "input",
+            {
+              "style": "inline",
+              "answer": [
+                "on"
+              ]
+            }
+          ],
+          [
+            "text",
+            " the chair."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Con mèo đang ngồi trên ghế."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1089956",
+      "data": {
+        "question": [
+          [
+            "text",
+            "There were pillows "
+          ],
+          [
+            "input",
+            {
+              "style": "inline",
+              "answer": [
+                "on"
+              ]
+            }
+          ],
+          [
+            "text",
+            " the couch."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Có gối trên ghế dài."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1089957",
+      "data": {
+        "question": [
+          [
+            "text",
+            "They are "
+          ],
+          [
+            "input",
+            {
+              "style": "inline",
+              "answer": [
+                "at"
+              ]
+            }
+          ],
+          [
+            "text",
+            " home."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Họ đang ở nhà."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1089958",
+      "data": {
+        "question": [
+          [
+            "text",
+            "The fruit is "
+          ],
+          [
+            "input",
+            {
+              "style": "inline",
+              "answer": [
+                "in"
+              ]
+            }
+          ],
+          [
+            "text",
+            " the bowl."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Quả ở trong bát."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1089959",
+      "data": {
+        "question": [
+          [
+            "text",
+            "My brother is "
+          ],
+          [
+            "input",
+            {
+              "style": "inline",
+              "answer": [
+                "in"
+              ]
+            }
+          ],
+          [
+            "text",
+            " the living room."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Anh/em trai tôi đang ở phòng khách."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1089960",
+      "data": {
+        "question": [
+          [
+            "text",
+            "I am "
+          ],
+          [
+            "input",
+            {
+              "style": "inline",
+              "answer": [
+                "in"
+              ]
+            }
+          ],
+          [
+            "text",
+            " the kitchen."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Tôi đang trong bếp."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1089961",
+      "data": {
+        "options": [
+          {
+            "option": [
+              [
+                "text",
+                "at"
+              ]
+            ],
+            "correct": 1
+          },
+          {
+            "option": [
+              [
+                "text",
+                "on"
+              ]
+            ],
+            "correct": 0
+          }
+        ],
+        "question": [
+          [
+            "text",
+            "Katka was sitting _ the computer surfing the Internet."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Katka đang ngồi máy tính lướt Internet."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1089962",
+      "data": {
+        "options": [
+          {
+            "option": [
+              [
+                "text",
+                "in"
+              ]
+            ],
+            "correct": 0
+          },
+          {
+            "option": [
+              [
+                "text",
+                "on"
+              ]
+            ],
+            "correct": 1
+          }
+        ],
+        "question": [
+          [
+            "text",
+            "The computer printer is _ the table."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Máy in để trên bàn."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1089963",
+      "data": {
+        "options": [
+          {
+            "option": [
+              [
+                "text",
+                "into"
+              ]
+            ],
+            "correct": 0
+          },
+          {
+            "option": [
+              [
+                "text",
+                "on"
+              ]
+            ],
+            "correct": 1
+          }
+        ],
+        "question": [
+          [
+            "text",
+            "My car keys were _ the table."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Chìa khóa xe của tôi ở trên bàn."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1089964",
+      "data": {
+        "options": [
+          {
+            "option": [
+              [
+                "text",
+                "next to"
+              ]
+            ],
+            "correct": 1
+          },
+          {
+            "option": [
+              [
+                "text",
+                "under"
+              ]
+            ],
+            "correct": 0
+          }
+        ],
+        "question": [
+          [
+            "text",
+            "Jana is standing _ the car."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Jana đang đứng cạnh ô tô."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1089965",
+      "data": {
+        "options": [
+          {
+            "option": [
+              [
+                "text",
+                "next to"
+              ]
+            ],
+            "correct": 1
+          },
+          {
+            "option": [
+              [
+                "text",
+                "under"
+              ]
+            ],
+            "correct": 0
+          }
+        ],
+        "question": [
+          [
+            "text",
+            "I asked the man standing _ me on the bus where I should go."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Tôi hỏi người đàn ông đứng cạnh tôi trên xe buýt xem tôi nên đi đâu."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1089966",
+      "data": {
+        "options": [
+          {
+            "option": [
+              [
+                "text",
+                "in"
+              ]
+            ],
+            "correct": 1
+          },
+          {
+            "option": [
+              [
+                "text",
+                "on"
+              ]
+            ],
+            "correct": 0
+          }
+        ],
+        "question": [
+          [
+            "text",
+            "Her wallet wasn't _ her purse."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Ví của cô ấy không có trong túi xách."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1089967",
+      "data": {
+        "options": [
+          {
+            "option": [
+              [
+                "text",
+                "in"
+              ]
+            ],
+            "correct": 1
+          },
+          {
+            "option": [
+              [
+                "text",
+                "under"
+              ]
+            ],
+            "correct": 0
+          }
+        ],
+        "question": [
+          [
+            "text",
+            "Hurry up, we can talk about it _ the car."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Nhanh lên, chúng ta có thể nói chuyện đó trên xe."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1089968",
+      "data": {
+        "options": [
+          {
+            "option": [
+              [
+                "text",
+                "above"
+              ]
+            ],
+            "correct": 1
+          },
+          {
+            "option": [
+              [
+                "text",
+                "on"
+              ]
+            ],
+            "correct": 0
+          }
+        ],
+        "question": [
+          [
+            "text",
+            "I see a blue sky _ me."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Tôi thấy bầu trời xanh trên đầu."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1089969",
+      "data": {
+        "options": [
+          {
+            "option": [
+              [
+                "text",
+                "between"
+              ]
+            ],
+            "correct": 1
+          },
+          {
+            "option": [
+              [
+                "text",
+                "in"
+              ]
+            ],
+            "correct": 0
+          }
+        ],
+        "question": [
+          [
+            "text",
+            "The child was _ his mother and father."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Đứa bé ở giữa bố và mẹ."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1089970",
+      "data": {
+        "options": [
+          {
+            "option": [
+              [
+                "text",
+                "for"
+              ]
+            ],
+            "correct": 0
+          },
+          {
+            "option": [
+              [
+                "text",
+                "into"
+              ]
+            ],
+            "correct": 1
+          }
+        ],
+        "question": [
+          [
+            "text",
+            "Please put all those books _ the box."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Hãy bỏ tất cả sách đó vào hộp."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1089971",
+      "data": {
+        "options": [
+          {
+            "option": [
+              [
+                "text",
+                "in front of"
+              ]
+            ],
+            "correct": 1
+          },
+          {
+            "option": [
+              [
+                "text",
+                "under"
+              ]
+            ],
+            "correct": 0
+          }
+        ],
+        "question": [
+          [
+            "text",
+            "There was a sign _ the restaurant saying that it was closed."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Có một biển hiệu trước nhà hàng ghi rằng nó đã đóng cửa."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1089972",
+      "data": {
+        "options": [
+          {
+            "option": [
+              [
+                "text",
+                "in"
+              ]
+            ],
+            "correct": 1
+          },
+          {
+            "option": [
+              [
+                "text",
+                "on"
+              ]
+            ],
+            "correct": 0
+          }
+        ],
+        "question": [
+          [
+            "text",
+            "Why do you have a pencil _ the pocket?"
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Sao anh/chị/bạn có bút chì trong túi áo/quần vậy?"
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1089973",
+      "data": {
+        "options": [
+          {
+            "option": [
+              [
+                "text",
+                "below"
+              ]
+            ],
+            "correct": 1
+          },
+          {
+            "option": [
+              [
+                "text",
+                "in front of"
+              ]
+            ],
+            "correct": 0
+          }
+        ],
+        "question": [
+          [
+            "text",
+            "Hang the picture _ the other one."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Treo bức tranh bên dưới bức kia."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1089974",
+      "data": {
+        "options": [
+          {
+            "option": [
+              [
+                "text",
+                "behind"
+              ]
+            ],
+            "correct": 1
+          },
+          {
+            "option": [
+              [
+                "text",
+                "under"
+              ]
+            ],
+            "correct": 0
+          }
+        ],
+        "question": [
+          [
+            "text",
+            "We have a beautiful garden _ our house."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Chúng tôi có một khu vườn xinh đẹp sau nhà."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1089975",
+      "data": {
+        "options": [
+          {
+            "option": [
+              [
+                "text",
+                "in front of"
+              ]
+            ],
+            "correct": 0
+          },
+          {
+            "option": [
+              [
+                "text",
+                "in"
+              ]
+            ],
+            "correct": 1
+          }
+        ],
+        "question": [
+          [
+            "text",
+            "The hotel was locked so we slept _ the car."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Khách sạn đóng cửa nên chúng tôi ngủ trong xe."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1089976",
+      "data": {
+        "options": [
+          {
+            "option": [
+              [
+                "text",
+                "above"
+              ]
+            ],
+            "correct": 0
+          },
+          {
+            "option": [
+              [
+                "text",
+                "on"
+              ]
+            ],
+            "correct": 1
+          }
+        ],
+        "question": [
+          [
+            "text",
+            "The children were sitting _ the floor."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Những đứa trẻ đang ngồi dưới sàn."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1089977",
+      "data": {
+        "options": [
+          {
+            "option": [
+              [
+                "text",
+                "in"
+              ]
+            ],
+            "correct": 1
+          },
+          {
+            "option": [
+              [
+                "text",
+                "on"
+              ]
+            ],
+            "correct": 0
+          }
+        ],
+        "question": [
+          [
+            "text",
+            "There are four people _ the picture."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Có bốn người trong ảnh."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1089978",
+      "data": {
+        "options": [
+          {
+            "option": [
+              [
+                "text",
+                "In"
+              ]
+            ],
+            "correct": 0
+          },
+          {
+            "option": [
+              [
+                "text",
+                "On"
+              ]
+            ],
+            "correct": 1
+          }
+        ],
+        "question": [
+          [
+            "text",
+            "Where's your room? _ the first floor."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Phòng của bạn ở đâu? Ở tầng một."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1089979",
+      "data": {
+        "options": [
+          {
+            "option": [
+              [
+                "text",
+                "below"
+              ]
+            ],
+            "correct": 0
+          },
+          {
+            "option": [
+              [
+                "text",
+                "under"
+              ]
+            ],
+            "correct": 1
+          }
+        ],
+        "question": [
+          [
+            "text",
+            "The cat is sleeping _ the bed."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Con mèo đang ngủ dưới gầm giường."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1089980",
+      "data": {
+        "options": [
+          {
+            "option": [
+              [
+                "text",
+                "in front of"
+              ]
+            ],
+            "correct": 1
+          },
+          {
+            "option": [
+              [
+                "text",
+                "on"
+              ]
+            ],
+            "correct": 0
+          }
+        ],
+        "question": [
+          [
+            "text",
+            "I was waiting _ the cinema."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Tôi đang đợi trước rạp chiếu phim."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1089981",
+      "data": {
+        "options": [
+          {
+            "option": [
+              [
+                "text",
+                "on"
+              ]
+            ],
+            "correct": 0
+          },
+          {
+            "option": [
+              [
+                "text",
+                "under"
+              ]
+            ],
+            "correct": 1
+          }
+        ],
+        "question": [
+          [
+            "text",
+            "I couldn't find my bag because it was _ the table."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Tôi không tìm thấy túi vì nó ở dưới gầm bàn."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1089982",
+      "data": {
+        "options": [
+          {
+            "option": [
+              [
+                "text",
+                "in"
+              ]
+            ],
+            "correct": 0
+          },
+          {
+            "option": [
+              [
+                "text",
+                "on"
+              ]
+            ],
+            "correct": 1
+          }
+        ],
+        "question": [
+          [
+            "text",
+            "I drew the picture hanging _ the wall."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Tôi đã vẽ bức tranh treo trên tường."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1089983",
+      "data": {
+        "options": [
+          {
+            "option": [
+              [
+                "text",
+                "above"
+              ]
+            ],
+            "correct": 0
+          },
+          {
+            "option": [
+              [
+                "text",
+                "under"
+              ]
+            ],
+            "correct": 1
+          }
+        ],
+        "question": [
+          [
+            "text",
+            "We sat _ the tree."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Chúng tôi ngồi dưới gốc cây."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1089984",
+      "data": {
+        "options": [
+          {
+            "option": [
+              [
+                "text",
+                "into"
+              ]
+            ],
+            "correct": 0
+          },
+          {
+            "option": [
+              [
+                "text",
+                "next to"
+              ]
+            ],
+            "correct": 1
+          }
+        ],
+        "question": [
+          [
+            "text",
+            "The computer printer is _ the computer."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Máy in kế bên máy tính."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1089985",
+      "data": {
+        "options": [
+          {
+            "option": [
+              [
+                "text",
+                "in"
+              ]
+            ],
+            "correct": 0
+          },
+          {
+            "option": [
+              [
+                "text",
+                "on"
+              ]
+            ],
+            "correct": 1
+          }
+        ],
+        "question": [
+          [
+            "text",
+            "The girl I told you about is _ the left."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Cô gái tôi kể bạn nghe ở bên trái."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1089986",
+      "data": {
+        "options": [
+          {
+            "option": [
+              [
+                "text",
+                "above"
+              ]
+            ],
+            "correct": 0
+          },
+          {
+            "option": [
+              [
+                "text",
+                "on"
+              ]
+            ],
+            "correct": 1
+          }
+        ],
+        "question": [
+          [
+            "text",
+            "The cat is sleeping _ the bed."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Con mèo đang ngủ trên giường."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1089987",
+      "data": {
+        "options": [
+          {
+            "option": [
+              [
+                "text",
+                "across"
+              ]
+            ],
+            "correct": 1
+          },
+          {
+            "option": [
+              [
+                "text",
+                "through"
+              ]
+            ],
+            "correct": 0
+          }
+        ],
+        "question": [
+          [
+            "text",
+            "Our friends live just _ the street."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Bạn bè của chúng tôi sống ngay bên kia đường."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1089988",
+      "data": {
+        "options": [
+          {
+            "option": [
+              [
+                "text",
+                "behind"
+              ]
+            ],
+            "correct": 1
+          },
+          {
+            "option": [
+              [
+                "text",
+                "on"
+              ]
+            ],
+            "correct": 0
+          }
+        ],
+        "question": [
+          [
+            "text",
+            "The child was afraid of other people so he stood _ his mother."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Đứa trẻ sợ người lạ nên núp sau lưng mẹ."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1089989",
+      "data": {
+        "options": [
+          {
+            "option": [
+              [
+                "text",
+                "below"
+              ]
+            ],
+            "correct": 1
+          },
+          {
+            "option": [
+              [
+                "text",
+                "under"
+              ]
+            ],
+            "correct": 0
+          }
+        ],
+        "question": [
+          [
+            "text",
+            "The sun disappeared _ the horizon."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Mặt trời lặn."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1089990",
+      "data": {
+        "options": [
+          {
+            "option": [
+              [
+                "text",
+                "in"
+              ]
+            ],
+            "correct": 1
+          },
+          {
+            "option": [
+              [
+                "text",
+                "to"
+              ]
+            ],
+            "correct": 0
+          }
+        ],
+        "question": [
+          [
+            "text",
+            "I live _ London."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Tôi sống ở Luân Đôn."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1089991",
+      "data": {
+        "options": [
+          {
+            "option": [
+              [
+                "text",
+                "in"
+              ]
+            ],
+            "correct": 1
+          },
+          {
+            "option": [
+              [
+                "text",
+                "on"
+              ]
+            ],
+            "correct": 0
+          }
+        ],
+        "question": [
+          [
+            "text",
+            "Do you know where mum is? She is _ the kitchen."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Mẹ đâu rồi? Mẹ đang ở bếp."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1089992",
+      "data": {
+        "options": [
+          {
+            "option": [
+              [
+                "text",
+                "above"
+              ]
+            ],
+            "correct": 1
+          },
+          {
+            "option": [
+              [
+                "text",
+                "on"
+              ]
+            ],
+            "correct": 0
+          }
+        ],
+        "question": [
+          [
+            "text",
+            "The picture hangs _ my bed."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Bức tranh treo trên giường tôi"
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1089993",
+      "data": {
+        "options": [
+          {
+            "option": [
+              [
+                "text",
+                "above"
+              ]
+            ],
+            "correct": 1
+          },
+          {
+            "option": [
+              [
+                "text",
+                "over"
+              ]
+            ],
+            "correct": 0
+          }
+        ],
+        "question": [
+          [
+            "text",
+            "The chandelier hangs _ the dining room table."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Đèn chùm treo phía trên bàn ăn."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1089994",
+      "data": {
+        "options": [
+          {
+            "option": [
+              [
+                "text",
+                "in"
+              ]
+            ],
+            "correct": 0
+          },
+          {
+            "option": [
+              [
+                "text",
+                "over"
+              ]
+            ],
+            "correct": 1
+          }
+        ],
+        "question": [
+          [
+            "text",
+            "Put a jacket _ the shirt."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Mặc áo khoác bên ngoài áo sơ mi."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1089995",
+      "data": {
+        "options": [
+          {
+            "option": [
+              [
+                "text",
+                "below"
+              ]
+            ],
+            "correct": 0
+          },
+          {
+            "option": [
+              [
+                "text",
+                "in front of"
+              ]
+            ],
+            "correct": 1
+          }
+        ],
+        "question": [
+          [
+            "text",
+            "I'll wait _ the school."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Tôi sẽ đợi trước cổng trường."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1089996",
+      "data": {
+        "options": [
+          {
+            "option": [
+              [
+                "text",
+                "below"
+              ]
+            ],
+            "correct": 1
+          },
+          {
+            "option": [
+              [
+                "text",
+                "under"
+              ]
+            ],
+            "correct": 0
+          }
+        ],
+        "question": [
+          [
+            "text",
+            "Some parts of the city are _ sea level."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Một vài khu vực của thành phố nằm dưới mực nước biển."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1089997",
+      "data": {
+        "options": [
+          {
+            "option": [
+              [
+                "text",
+                "above"
+              ]
+            ],
+            "correct": 0
+          },
+          {
+            "option": [
+              [
+                "text",
+                "on"
+              ]
+            ],
+            "correct": 1
+          }
+        ],
+        "question": [
+          [
+            "text",
+            "The building you are looking for is _ the right."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Tòa nhà bạn tìm ở bên phải."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1089998",
+      "data": {
+        "options": [
+          {
+            "option": [
+              [
+                "text",
+                "at"
+              ]
+            ],
+            "correct": 1
+          },
+          {
+            "option": [
+              [
+                "text",
+                "under"
+              ]
+            ],
+            "correct": 0
+          }
+        ],
+        "question": [
+          [
+            "text",
+            "I was _ school the whole day."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Tôi đã ở trường cả ngày."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1089999",
+      "data": {
+        "options": [
+          {
+            "option": [
+              [
+                "text",
+                "inside"
+              ]
+            ],
+            "correct": 1
+          },
+          {
+            "option": [
+              [
+                "text",
+                "on"
+              ]
+            ],
+            "correct": 0
+          }
+        ],
+        "question": [
+          [
+            "text",
+            "The cat is hiding _ the box."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Con mèo đang trốn trong hộp."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1090000",
+      "data": {
+        "options": [
+          {
+            "option": [
+              [
+                "text",
+                "above"
+              ]
+            ],
+            "correct": 0
+          },
+          {
+            "option": [
+              [
+                "text",
+                "under"
+              ]
+            ],
+            "correct": 1
+          }
+        ],
+        "question": [
+          [
+            "text",
+            "My friends were waiting _ the tree for the rain to stop."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Bạn tôi đang đợi dưới gốc cây cho tạnh mưa."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1090001",
+      "data": {
+        "options": [
+          {
+            "option": [
+              [
+                "text",
+                "in"
+              ]
+            ],
+            "correct": 0
+          },
+          {
+            "option": [
+              [
+                "text",
+                "on"
+              ]
+            ],
+            "correct": 1
+          }
+        ],
+        "question": [
+          [
+            "text",
+            "Do you like the picture _ the wall?"
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Bạn có thích bức tranh trên tường không?"
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1090002",
+      "data": {
+        "options": [
+          {
+            "option": [
+              [
+                "text",
+                "in front of"
+              ]
+            ],
+            "correct": 0
+          },
+          {
+            "option": [
+              [
+                "text",
+                "under"
+              ]
+            ],
+            "correct": 1
+          }
+        ],
+        "question": [
+          [
+            "text",
+            "I couldn't see the keys because they were _ a magazine."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Tôi không thấy chùm chìa khóa vì chúng ở dưới một cuốn tạp chí."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1090003",
+      "data": {
+        "options": [
+          {
+            "option": [
+              [
+                "text",
+                "above"
+              ]
+            ],
+            "correct": 0
+          },
+          {
+            "option": [
+              [
+                "text",
+                "under"
+              ]
+            ],
+            "correct": 1
+          }
+        ],
+        "question": [
+          [
+            "text",
+            "The saucer is _ the cup."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Đĩa lót ly nằm dưới tách."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1090004",
+      "data": {
+        "options": [
+          {
+            "option": [
+              [
+                "text",
+                "above"
+              ]
+            ],
+            "correct": 1
+          },
+          {
+            "option": [
+              [
+                "text",
+                "on"
+              ]
+            ],
+            "correct": 0
+          }
+        ],
+        "question": [
+          [
+            "text",
+            "The sun is directly _ our heads."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Mặt trời đang ở ngay trên đầu chúng ta."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1090005",
+      "data": {
+        "options": [
+          {
+            "option": [
+              [
+                "text",
+                "above"
+              ]
+            ],
+            "correct": 1
+          },
+          {
+            "option": [
+              [
+                "text",
+                "over"
+              ]
+            ],
+            "correct": 0
+          }
+        ],
+        "question": [
+          [
+            "text",
+            "There is a picture _ the sofa."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Có một bức tranh phía trên ghế sofa."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1090006",
+      "data": {
+        "options": [
+          {
+            "option": [
+              [
+                "text",
+                "over"
+              ]
+            ],
+            "correct": 0
+          },
+          {
+            "option": [
+              [
+                "text",
+                "under"
+              ]
+            ],
+            "correct": 1
+          }
+        ],
+        "question": [
+          [
+            "text",
+            "My shoes are _ the bed."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Đôi giày của tôi ở dưới gầm giường."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1090007",
+      "data": {
+        "options": [
+          {
+            "option": [
+              [
+                "text",
+                "in"
+              ]
+            ],
+            "correct": 1
+          },
+          {
+            "option": [
+              [
+                "text",
+                "on"
+              ]
+            ],
+            "correct": 0
+          }
+        ],
+        "question": [
+          [
+            "text",
+            "The ball is hidden _ the box."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Quả bóng được giấu trong hộp."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1090008",
+      "data": {
+        "options": [
+          {
+            "option": [
+              [
+                "text",
+                "at"
+              ]
+            ],
+            "correct": 1
+          },
+          {
+            "option": [
+              [
+                "text",
+                "in"
+              ]
+            ],
+            "correct": 0
+          }
+        ],
+        "question": [
+          [
+            "text",
+            "They were sitting _ the table waiting for lunch."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Họ đang ngồi đợi bữa trưa."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1090009",
+      "data": {
+        "options": [
+          {
+            "option": [
+              [
+                "text",
+                "in front of"
+              ]
+            ],
+            "correct": 1
+          },
+          {
+            "option": [
+              [
+                "text",
+                "under"
+              ]
+            ],
+            "correct": 0
+          }
+        ],
+        "question": [
+          [
+            "text",
+            "The kids were sitting _ the TV the whole day."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Bọn trẻ ngồi trước TV cả ngày."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1090010",
+      "data": {
+        "options": [
+          {
+            "option": [
+              [
+                "text",
+                "at"
+              ]
+            ],
+            "correct": 0
+          },
+          {
+            "option": [
+              [
+                "text",
+                "under"
+              ]
+            ],
+            "correct": 1
+          }
+        ],
+        "question": [
+          [
+            "text",
+            "The dogs were sitting _ the table begging for food."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Những con chó ngồi dưới bàn xin ăn."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1090011",
+      "data": {
+        "options": [
+          {
+            "option": [
+              [
+                "text",
+                "In"
+              ]
+            ],
+            "correct": 1
+          },
+          {
+            "option": [
+              [
+                "text",
+                "On"
+              ]
+            ],
+            "correct": 0
+          }
+        ],
+        "question": [
+          [
+            "text",
+            "_ the picture, there is a dog."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Trong ảnh có một chú chó."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1090012",
+      "data": {
+        "options": [
+          {
+            "option": [
+              [
+                "text",
+                "between"
+              ]
+            ],
+            "correct": 1
+          },
+          {
+            "option": [
+              [
+                "text",
+                "in"
+              ]
+            ],
+            "correct": 0
+          }
+        ],
+        "question": [
+          [
+            "text",
+            "Our house is _ the supermarket and the school."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Nhà chúng tôi ở giữa siêu thị và trường học."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1090013",
+      "data": {
+        "options": [
+          {
+            "option": [
+              [
+                "text",
+                "by"
+              ]
+            ],
+            "correct": 1
+          },
+          {
+            "option": [
+              [
+                "text",
+                "under"
+              ]
+            ],
+            "correct": 0
+          }
+        ],
+        "question": [
+          [
+            "text",
+            "He lives in the house _ the river."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Anh ấy sống trong căn nhà bên sông."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1090014",
+      "data": {
+        "options": [
+          {
+            "option": [
+              [
+                "text",
+                "next to"
+              ]
+            ],
+            "correct": 1
+          },
+          {
+            "option": [
+              [
+                "text",
+                "on"
+              ]
+            ],
+            "correct": 0
+          }
+        ],
+        "question": [
+          [
+            "text",
+            "I couldn't see him even though I was right _ him."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Tôi không thể nhìn thấy anh ta dù đang đứng ngay cạnh."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1090015",
+      "data": {
+        "options": [
+          {
+            "option": [
+              [
+                "text",
+                "behind"
+              ]
+            ],
+            "correct": 1
+          },
+          {
+            "option": [
+              [
+                "text",
+                "in front of"
+              ]
+            ],
+            "correct": 0
+          }
+        ],
+        "question": [
+          [
+            "text",
+            "Alena couldn't see Tomáš because he was hiding _ the couch."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Alena không thấy Tomáš vì anh ấy trốn sau ghế bành."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1090016",
+      "data": {
+        "item": {
+          "sentences": [
+            {
+              "sound": "/media/ps_media/sound/i-left-the-car-keys-on-the-table.mp3",
+              "sentence": "I left the car keys _ the table.",
+              "solution": [
+                "on"
+              ],
+              "distractors": [
+                "in",
+                "above",
+                "under"
+              ],
+              "translation": "Tôi để chìa khóa xe trên bàn."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "1090017",
+      "data": {
+        "item": {
+          "sentences": [
+            {
+              "sound": "/media/ps_media/sound/we-sat-under-the-tree.mp3",
+              "sentence": "We sat _ the tree.",
+              "solution": [
+                "under"
+              ],
+              "distractors": [
+                "above",
+                "over"
+              ],
+              "translation": "Chúng tôi ngồi dưới gốc cây."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "1090018",
+      "data": {
+        "item": {
+          "sentences": [
+            {
+              "sound": "/media/ps_media/sound/the-plane-is-directly-above-our-heads.mp3",
+              "sentence": "The plane is directly _ our heads.",
+              "solution": [
+                "above"
+              ],
+              "distractors": [
+                "on",
+                "next to",
+                "over"
+              ],
+              "translation": "Chiếc máy bay đang ở ngay trên đầu chúng ta."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "1090019",
+      "data": {
+        "item": {
+          "sentences": [
+            {
+              "sound": "/media/ps_media/sound/where-is-your-room-on-the-third-floor.mp3",
+              "sentence": "Where is your room? _ the third floor.",
+              "solution": [
+                "On"
+              ],
+              "distractors": [
+                "In",
+                "Above",
+                "Below"
+              ],
+              "translation": "Phòng của bạn ở đâu? Trên tầng ba."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "1090020",
+      "data": {
+        "item": {
+          "sentences": [
+            {
+              "sound": "/media/ps_media/sound/the-children-were-sitting-on-the-floor.mp3",
+              "sentence": "The children were sitting _ the floor.",
+              "solution": [
+                "on"
+              ],
+              "distractors": [
+                "above",
+                "in",
+                "under"
+              ],
+              "translation": "Bọn trẻ đang ngồi trên sàn."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "1090021",
+      "data": {
+        "item": {
+          "sentences": [
+            {
+              "sound": "/media/ps_media/sound/the-plane-flew-over-the-building.mp3",
+              "sentence": "The plane flew _ the building.",
+              "solution": [
+                "over"
+              ],
+              "distractors": [
+                "above",
+                "below"
+              ],
+              "translation": "Máy bay bay qua tòa nhà."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "1090022",
+      "data": {
+        "item": {
+          "sentences": [
+            {
+              "sound": "/media/ps_media/sound/he-is-in-the-bathroom.mp3",
+              "sentence": "He is _ the bathroom.",
+              "solution": [
+                "in"
+              ],
+              "distractors": [
+                "on",
+                "with",
+                "above"
+              ],
+              "translation": "Anh ấy đang ở trong phòng tắm."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "1090023",
+      "data": {
+        "item": {
+          "sentences": [
+            {
+              "sound": "/media/ps_media/sound/we-walked-across-the-bridge.mp3",
+              "sentence": "We walked _ the bridge.",
+              "solution": [
+                "across"
+              ],
+              "distractors": [
+                "under",
+                "through"
+              ],
+              "translation": "Chúng tôi đi ngang cầu."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "1090024",
+      "data": {
+        "item": {
+          "sentences": [
+            {
+              "sound": "/media/ps_media/sound/there-is-a-blue-sky-above-me.mp3",
+              "sentence": "There is a blue sky _ me.",
+              "solution": [
+                "above"
+              ],
+              "distractors": [
+                "on",
+                "under",
+                "below"
+              ],
+              "translation": "Có một bầu trời xanh phía trên tôi."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "1090025",
+      "data": {
+        "item": {
+          "sentences": [
+            {
+              "sound": "/media/ps_media/sound/milan-was-sitting-at-the-computer-the-whole-day.mp3",
+              "sentence": "Milan was sitting _ the computer the whole day.",
+              "solution": [
+                "at"
+              ],
+              "distractors": [
+                "on",
+                "in"
+              ],
+              "translation": "Milan ngồi máy tính cả ngày."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "1090026",
+      "data": {
+        "item": {
+          "sentences": [
+            {
+              "sound": "/media/ps_media/sound/the-pencil-is-in-my-pencil-case.mp3",
+              "sentence": "The pencil is _ my pencil case.",
+              "solution": [
+                "in"
+              ],
+              "distractors": [
+                "on",
+                "into",
+                "of"
+              ],
+              "translation": "Bút chì ở trong hộp bút của tôi."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "1090027",
+      "data": {
+        "item": {
+          "sentences": [
+            {
+              "sound": "/media/ps_media/sound/my-shoes-are-under-the-bed.mp3",
+              "sentence": "My shoes are _ the bed.",
+              "solution": [
+                "under"
+              ],
+              "distractors": [
+                "above",
+                "over"
+              ],
+              "translation": "Đôi giày của tôi ở dưới gầm giường."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "1090028",
+      "data": {
+        "item": {
+          "sentences": [
+            {
+              "sound": "/media/ps_media/sound/i-live-in-brno.mp3",
+              "sentence": "I live _ Brno.",
+              "solution": [
+                "in"
+              ],
+              "distractors": [
+                "on",
+                "at",
+                "into"
+              ],
+              "translation": "Tôi sống ở Brno."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "1090029",
+      "data": {
+        "item": {
+          "sentences": [
+            {
+              "sound": "/media/ps_media/sound/my-parents-were-sitting-at-the-table.mp3",
+              "sentence": "My parents were sitting _ the table.",
+              "solution": [
+                "at"
+              ],
+              "distractors": [
+                "on",
+                "in",
+                "under"
+              ],
+              "translation": "Bố mẹ tôi đang ngồi ở bàn."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "1090030",
+      "data": {
+        "item": {
+          "sentences": [
+            {
+              "sound": "/media/ps_media/sound/jana-was-standing-next-to-you.mp3",
+              "sentence": "Jana was standing _ you.",
+              "solution": [
+                "next to"
+              ],
+              "distractors": [
+                "above",
+                "in front of"
+              ],
+              "translation": "Jana đã đứng cạnh bạn."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "1090031",
+      "data": {
+        "item": {
+          "sentences": [
+            {
+              "sound": "/media/ps_media/sound/hang-the-picture-below-the-other-one.mp3",
+              "sentence": "Hang the picture _ the other one.",
+              "solution": [
+                "below"
+              ],
+              "distractors": [
+                "above",
+                "under"
+              ],
+              "translation": "Treo bức tranh bên dưới bức kia."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "1090032",
+      "data": {
+        "item": {
+          "sentences": [
+            {
+              "sound": "/media/ps_media/sound/in-the-picture-there-is-my-favourite-place.mp3",
+              "sentence": "_ the picture, there is my favourite place.",
+              "solution": [
+                "In"
+              ],
+              "distractors": [
+                "On",
+                "To"
+              ],
+              "translation": "Trong hình là nơi tôi yêu thích."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "1090033",
+      "data": {
+        "item": {
+          "sentences": [
+            {
+              "sound": "/media/ps_media/sound/please-put-the-pen-into-the-pencil-case.mp3",
+              "sentence": "Please, put the pen _ the pencil case.",
+              "solution": [
+                "into"
+              ],
+              "distractors": [
+                "in",
+                "on",
+                "for"
+              ],
+              "translation": "Làm ơn bỏ bút vào hộp bút."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "1090034",
+      "data": {
+        "item": {
+          "sentences": [
+            {
+              "sound": "/media/ps_media/sound/the-picture-hangs-above-my-bed.mp3",
+              "sentence": "The picture hangs _ my bed.",
+              "solution": [
+                "above"
+              ],
+              "distractors": [
+                "on",
+                "under",
+                "below"
+              ],
+              "translation": "Bức tranh treo trên giường tôi."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "1090035",
+      "data": {
+        "item": {
+          "sentences": [
+            {
+              "sound": "/media/ps_media/sound/the-book-is-on-the-table-next-to-the-computer.mp3",
+              "sentence": "The book is _ the table _ the computer.",
+              "solution": [
+                "on",
+                "next to"
+              ],
+              "distractors": [
+                "behind",
+                "in"
+              ],
+              "translation": "Cuốn sách ở trên bàn cạnh máy tính."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "1090036",
+      "data": {
+        "item": {
+          "sentences": [
+            {
+              "sound": "/media/ps_media/sound/she-is-in-the-living-room.mp3",
+              "sentence": "She is _ the living room.",
+              "solution": [
+                "in"
+              ],
+              "distractors": [
+                "on",
+                "through",
+                "across"
+              ],
+              "translation": "Cô ấy đang ở trong phòng khách."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "1090037",
+      "data": {
+        "item": {
+          "sentences": [
+            {
+              "sound": "/media/ps_media/sound/do-you-like-the-picture-on-the-wall.mp3",
+              "sentence": "Do you like the picture _ the wall?",
+              "solution": [
+                "on"
+              ],
+              "distractors": [
+                "in",
+                "above",
+                "to"
+              ],
+              "translation": "Bạn thích bức tranh treo tường không?"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "1090038",
+      "data": {
+        "item": {
+          "sentences": [
+            {
+              "sound": "/media/ps_media/sound/martina-was-waiting-in-front-of-the-theatre.mp3",
+              "sentence": "Martina was waiting _ the theatre.",
+              "solution": [
+                "in front of"
+              ],
+              "distractors": [
+                "into",
+                "under"
+              ],
+              "translation": "Martina đang đợi trước nhà hát."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "1090039",
+      "data": {
+        "item": {
+          "sentences": [
+            {
+              "sound": "/media/ps_media/sound/the-dogs-were-under-the-table.mp3",
+              "sentence": "The dogs were _ the table.",
+              "solution": [
+                "under"
+              ],
+              "distractors": [
+                "below",
+                "above"
+              ],
+              "translation": "Những con chó ở dưới gầm bàn."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "1090040",
+      "data": {
+        "item": {
+          "sentences": [
+            {
+              "sound": "/media/ps_media/sound/the-letter-was-under-the-book.mp3",
+              "sentence": "The letter was _ the book.",
+              "solution": [
+                "under"
+              ],
+              "distractors": [
+                "across",
+                "through"
+              ],
+              "translation": "Lá thư ở dưới quyển sách."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "1090041",
+      "data": {
+        "item": {
+          "sentences": [
+            {
+              "sound": "/media/ps_media/sound/the-cat-is-sleeping-on-the-bed.mp3",
+              "sentence": "The cat is sleeping _ the bed.",
+              "solution": [
+                "on"
+              ],
+              "distractors": [
+                "above",
+                "under"
+              ],
+              "translation": "Con mèo đang ngủ trên giường."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "1090042",
+      "data": {
+        "item": {
+          "sentences": [
+            {
+              "sound": "/media/ps_media/sound/he-was-standing-next-to-me-the-whole-time.mp3",
+              "sentence": "He was standing _ me the whole time.",
+              "solution": [
+                "next to"
+              ],
+              "distractors": [
+                "at",
+                "behind"
+              ],
+              "translation": "Anh ấy đứng ngay cạnh tôi suốt."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "1090043",
+      "data": {
+        "item": {
+          "sentences": [
+            {
+              "sound": "/media/ps_media/sound/tom-was-hidden-behind-the-tree.mp3",
+              "sentence": "Tom was hidden _ the tree.",
+              "solution": [
+                "behind"
+              ],
+              "distractors": [
+                "next to",
+                "in",
+                "above"
+              ],
+              "translation": "Tom trốn sau cái cây."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "1090044",
+      "data": {
+        "item": {
+          "sentences": [
+            {
+              "sound": "/media/ps_media/sound/the-dog-jumped-over-the-fence.mp3",
+              "sentence": "The dog jumped _ the fence.",
+              "solution": [
+                "over"
+              ],
+              "distractors": [
+                "under",
+                "above"
+              ],
+              "translation": "Con chó nhảy qua hàng rào."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "1090045",
+      "data": {
+        "item": {
+          "sentences": [
+            {
+              "sound": "/media/ps_media/sound/our-house-is-between-the-school-and-the-shop.mp3",
+              "sentence": "Our house is _ the school and the shop.",
+              "solution": [
+                "between"
+              ],
+              "distractors": [
+                "in",
+                "in front of"
+              ],
+              "translation": "Nhà chúng tôi nằm giữa trường học và cửa hàng."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "1090046",
+      "data": {
+        "question": [
+          [
+            "text",
+            "Where is Markéta? She is "
+          ],
+          [
+            "input",
+            {
+              "style": "inline",
+              "answer": [
+                "at"
+              ]
+            }
+          ],
+          [
+            "text",
+            " school."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Markéta đâu rồi? Cô ấy đang ở trường."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1090047",
+      "data": {
+        "question": [
+          [
+            "text",
+            "I am "
+          ],
+          [
+            "input",
+            {
+              "style": "inline",
+              "answer": [
+                "in"
+              ]
+            }
+          ],
+          [
+            "text",
+            " the office."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Tôi đang ở văn phòng."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1090048",
+      "data": {
+        "question": [
+          [
+            "text",
+            "I am "
+          ],
+          [
+            "input",
+            {
+              "style": "inline",
+              "answer": [
+                "at"
+              ]
+            }
+          ],
+          [
+            "text",
+            " university."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Tôi đang ở trường đại học."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1090049",
+      "data": {
+        "question": [
+          [
+            "text",
+            "He went out "
+          ],
+          [
+            "input",
+            {
+              "style": "inline",
+              "answer": [
+                "through"
+              ]
+            }
+          ],
+          [
+            "text",
+            " the window."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Anh ấy ra ngoài qua cửa sổ."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1090050",
+      "data": {
+        "question": [
+          [
+            "text",
+            "I am waiting for you "
+          ],
+          [
+            "input",
+            {
+              "style": "inline",
+              "answer": [
+                "at"
+              ]
+            }
+          ],
+          [
+            "text",
+            " the bus stop."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Tôi đang đợi bạn ở trạm xe buýt."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1090051",
+      "data": {
+        "question": [
+          [
+            "text",
+            "My dog usually sits "
+          ],
+          [
+            "input",
+            {
+              "style": "inline",
+              "answer": [
+                "under"
+              ]
+            }
+          ],
+          [
+            "text",
+            " the table next to my leg begging for food."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Con chó của tôi thường ngồi dưới gầm bàn cạnh chân tôi để xin ăn."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1090052",
+      "data": {
+        "question": [
+          [
+            "text",
+            "We are going "
+          ],
+          [
+            "input",
+            {
+              "style": "inline",
+              "answer": [
+                "to"
+              ]
+            }
+          ],
+          [
+            "text",
+            " the cinema tonight."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Tối nay chúng ta sẽ đi xem phim."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1090053",
+      "data": {
+        "question": [
+          [
+            "text",
+            "I usually go "
+          ],
+          [
+            "input",
+            {
+              "style": "inline",
+              "answer": [
+                "to"
+              ]
+            }
+          ],
+          [
+            "text",
+            " bed at 10."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Tôi thường đi ngủ lúc 10 giờ."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1090054",
+      "data": {
+        "question": [
+          [
+            "text",
+            "There is a bridge "
+          ],
+          [
+            "input",
+            {
+              "style": "inline",
+              "answer": [
+                "over"
+              ]
+            }
+          ],
+          [
+            "text",
+            " the river."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Có một cây cầu bắc qua sông."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1090055",
+      "data": {
+        "question": [
+          [
+            "text",
+            "I am "
+          ],
+          [
+            "input",
+            {
+              "style": "inline",
+              "answer": [
+                "at"
+              ]
+            }
+          ],
+          [
+            "text",
+            " the airport."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Tôi đang ở sân bay."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1090056",
+      "data": {
+        "question": [
+          [
+            "text",
+            "The saucer is "
+          ],
+          [
+            "input",
+            {
+              "style": "inline",
+              "answer": [
+                "under"
+              ]
+            }
+          ],
+          [
+            "text",
+            " the cup."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Đĩa lót ở dưới tách."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1090057",
+      "data": {
+        "question": [
+          [
+            "text",
+            "We walked slowly "
+          ],
+          [
+            "input",
+            {
+              "style": "inline",
+              "answer": [
+                "through"
+              ]
+            }
+          ],
+          [
+            "text",
+            " the woods."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Chúng tôi đi chầm chậm qua rừng."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1090058",
+      "data": {
+        "question": [
+          [
+            "text",
+            "There is a painting "
+          ],
+          [
+            "input",
+            {
+              "style": "inline",
+              "answer": [
+                "above"
+              ]
+            }
+          ],
+          [
+            "text",
+            " the sofa."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Có một bức tranh phía trên ghế sofa."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1090059",
+      "data": {
+        "question": [
+          [
+            "text",
+            "I usually have lunch "
+          ],
+          [
+            "input",
+            {
+              "style": "inline",
+              "answer": [
+                "at"
+              ]
+            }
+          ],
+          [
+            "text",
+            " work."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Tôi thường ăn trưa ở chỗ làm."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1090060",
+      "data": {
+        "question": [
+          [
+            "text",
+            "Can you see the birds flying "
+          ],
+          [
+            "input",
+            {
+              "style": "inline",
+              "answer": [
+                "above"
+              ]
+            }
+          ],
+          [
+            "text",
+            " us?"
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Bạn có thấy chim bay trên đầu không?"
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1090061",
+      "data": {
+        "question": [
+          [
+            "text",
+            "Look up! Can you see the beautiful clouds "
+          ],
+          [
+            "input",
+            {
+              "style": "inline",
+              "answer": [
+                "above"
+              ]
+            }
+          ],
+          [
+            "text",
+            " us?"
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Nhìn lên! Bạn có thấy những đám mây đẹp phía trên chúng ta không?"
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1090062",
+      "data": {
+        "question": [
+          [
+            "text",
+            "I want to go "
+          ],
+          [
+            "input",
+            {
+              "style": "inline",
+              "answer": [
+                "to"
+              ]
+            }
+          ],
+          [
+            "text",
+            " the beach in the afternoon."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Tôi muốn đi biển vào buổi chiều."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1090063",
+      "data": {
+        "question": [
+          [
+            "text",
+            "My office is "
+          ],
+          [
+            "input",
+            {
+              "style": "inline",
+              "answer": [
+                "between"
+              ]
+            }
+          ],
+          [
+            "text",
+            " my house and the gym, so it takes the same time to get there."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Văn phòng tôi ở giữa nhà và phòng gym, nên thời gian đến đó là như nhau."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1090064",
+      "data": {
+        "question": [
+          [
+            "text",
+            "London is "
+          ],
+          [
+            "input",
+            {
+              "style": "inline",
+              "answer": [
+                "on"
+              ]
+            }
+          ],
+          [
+            "text",
+            " the river Thames."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Luân Đôn nằm trên sông Thames."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1090065",
+      "data": {
+        "question": [
+          [
+            "text",
+            "Bára is "
+          ],
+          [
+            "input",
+            {
+              "style": "inline",
+              "answer": [
+                "at"
+              ]
+            }
+          ],
+          [
+            "text",
+            " school."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Bára đang ở trường."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1090066",
+      "data": {
+        "question": [
+          [
+            "text",
+            "My parents are "
+          ],
+          [
+            "input",
+            {
+              "style": "inline",
+              "answer": [
+                "in"
+              ]
+            }
+          ],
+          [
+            "text",
+            " a pub."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Bố mẹ tôi đang ở quán rượu."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1090067",
+      "data": {
+        "question": [
+          [
+            "text",
+            "The office is "
+          ],
+          [
+            "input",
+            {
+              "style": "inline",
+              "answer": [
+                "on"
+              ]
+            }
+          ],
+          [
+            "text",
+            " the left."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Văn phòng ở bên trái."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1090068",
+      "data": {
+        "question": [
+          [
+            "text",
+            "Get off the elevator "
+          ],
+          [
+            "input",
+            {
+              "style": "inline",
+              "answer": [
+                "on"
+              ]
+            }
+          ],
+          [
+            "text",
+            " the fourth floor."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Ra khỏi thang máy ở tầng 4."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1090069",
+      "data": {
+        "question": [
+          [
+            "text",
+            "She thought the keys were "
+          ],
+          [
+            "input",
+            {
+              "style": "inline",
+              "answer": [
+                "in"
+              ]
+            }
+          ],
+          [
+            "text",
+            " her purse, but they were in her pocket."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Cô ấy nghĩ chìa khóa ở trong ví, nhưng chúng lại ở trong túi."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1090070",
+      "data": {
+        "question": [
+          [
+            "text",
+            "I am "
+          ],
+          [
+            "input",
+            {
+              "style": "inline",
+              "answer": [
+                "from"
+              ]
+            }
+          ],
+          [
+            "text",
+            " the Czech Republic."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Tôi đến từ Cộng hòa Séc."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1090071",
+      "data": {
+        "question": [
+          [
+            "text",
+            "We go "
+          ],
+          [
+            "input",
+            {
+              "style": "inline",
+              "answer": [
+                "to"
+              ]
+            }
+          ],
+          [
+            "text",
+            " Italy every summer."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Hè nào chúng tôi cũng đi Ý."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1090072",
+      "data": {
+        "question": [
+          [
+            "text",
+            "We went "
+          ],
+          [
+            "input",
+            {
+              "style": "inline",
+              "answer": [
+                "to"
+              ]
+            }
+          ],
+          [
+            "text",
+            " Prague last week."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Tuần trước chúng tôi đi Prague."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1090073",
+      "data": {
+        "question": [
+          [
+            "text",
+            "I can't talk to you right now, I am "
+          ],
+          [
+            "input",
+            {
+              "style": "inline",
+              "answer": [
+                "at"
+              ]
+            }
+          ],
+          [
+            "text",
+            " work."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Tôi không nói chuyện với bạn bây giờ được, tôi đang làm việc."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1090074",
+      "data": {
+        "question": [
+          [
+            "text",
+            "I usually go "
+          ],
+          [
+            "input",
+            {
+              "style": "inline",
+              "answer": [
+                "to"
+              ]
+            }
+          ],
+          [
+            "text",
+            " work at 8 am."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Tôi thường đi làm lúc 8 giờ sáng."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1090075",
+      "data": {
+        "question": [
+          [
+            "text",
+            "I met Jakub "
+          ],
+          [
+            "input",
+            {
+              "style": "inline",
+              "answer": [
+                "at"
+              ]
+            }
+          ],
+          [
+            "text",
+            " the party."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Tôi gặp Jakub ở bữa tiệc."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1090076",
+      "data": {
+        "question": [
+          [
+            "text",
+            "The book is "
+          ],
+          [
+            "input",
+            {
+              "style": "inline",
+              "answer": [
+                "on"
+              ]
+            }
+          ],
+          [
+            "text",
+            " the table next to the computer."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Cuốn sách ở trên bàn cạnh máy tính."
+          ]
+        ],
+        "explanation": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,470 @@
+{
+  "type": "exercise",
+  "questions": [
+    {
+      "id": "1090642",
+      "data": {
+        "question": [
+          [
+            "text",
+            "Karel likes English better "
+          ],
+          [
+            "input",
+            {
+              "style": "inline",
+              "answer": [
+                "than"
+              ]
+            }
+          ],
+          [
+            "text",
+            " maths."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Karel thích tiếng Anh hơn toán."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1090643",
+      "data": {
+        "question": [
+          [
+            "text",
+            "First, we go to Paris and "
+          ],
+          [
+            "input",
+            {
+              "style": "inline",
+              "answer": [
+                "then"
+              ]
+            }
+          ],
+          [
+            "text",
+            " we would like to go to Lyon."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Đầu tiên, chúng tôi đi Paris và sau đó chúng tôi muốn đi Lyon."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1090644",
+      "data": {
+        "question": [
+          [
+            "text",
+            "Will you be at home at noon? I will call you "
+          ],
+          [
+            "input",
+            {
+              "style": "inline",
+              "answer": [
+                "then"
+              ]
+            }
+          ],
+          [
+            "text",
+            "."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Trưa nay bạn có nhà không? Tôi sẽ gọi cho bạn lúc đó."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1090645",
+      "data": {
+        "question": [
+          [
+            "text",
+            "Turn right and "
+          ],
+          [
+            "input",
+            {
+              "style": "inline",
+              "answer": [
+                "then"
+              ]
+            }
+          ],
+          [
+            "text",
+            " go straight on for about 100 metres."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Rẽ phải rồi đi thẳng khoảng 100 mét."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1090646",
+      "data": {
+        "question": [
+          [
+            "text",
+            "Did you get more presents "
+          ],
+          [
+            "input",
+            {
+              "style": "inline",
+              "answer": [
+                "than"
+              ]
+            }
+          ],
+          [
+            "text",
+            " he did?"
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Bạn nhận được nhiều quà hơn anh ấy phải không?"
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1090647",
+      "data": {
+        "question": [
+          [
+            "text",
+            "He smiled, "
+          ],
+          [
+            "input",
+            {
+              "style": "inline",
+              "answer": [
+                "then"
+              ]
+            }
+          ],
+          [
+            "text",
+            " turned to me and nodded."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Anh ấy cười rồi quay sang gật đầu với tôi."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1090648",
+      "data": {
+        "question": [
+          [
+            "text",
+            "Roman's writing is much easier to read "
+          ],
+          [
+            "input",
+            {
+              "style": "inline",
+              "answer": [
+                "than"
+              ]
+            }
+          ],
+          [
+            "text",
+            " yours."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Văn của Roman dễ đọc hơn của bạn nhiều."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1090649",
+      "data": {
+        "question": [
+          [
+            "text",
+            "My sister is taller "
+          ],
+          [
+            "input",
+            {
+              "style": "inline",
+              "answer": [
+                "than"
+              ]
+            }
+          ],
+          [
+            "text",
+            " me."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Chị/Em gái tôi cao hơn tôi."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1090650",
+      "data": {
+        "question": [
+          [
+            "text",
+            "Let him finish his job, "
+          ],
+          [
+            "input",
+            {
+              "style": "inline",
+              "answer": [
+                "then"
+              ]
+            }
+          ],
+          [
+            "text",
+            " we will go."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Để anh ấy làm xong việc rồi chúng ta đi."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1090651",
+      "data": {
+        "question": [
+          [
+            "text",
+            "Are you older "
+          ],
+          [
+            "input",
+            {
+              "style": "inline",
+              "answer": [
+                "than"
+              ]
+            }
+          ],
+          [
+            "text",
+            " your sister?"
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Bạn có lớn hơn chị/em gái của bạn không?"
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1090652",
+      "data": {
+        "question": [
+          [
+            "text",
+            "I would rather work at home "
+          ],
+          [
+            "input",
+            {
+              "style": "inline",
+              "answer": [
+                "than"
+              ]
+            }
+          ],
+          [
+            "text",
+            " at the office."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Tôi thà làm việc ở nhà còn hơn ở văn phòng."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1090653",
+      "data": {
+        "question": [
+          [
+            "text",
+            "First, I will talk about the rules, "
+          ],
+          [
+            "input",
+            {
+              "style": "inline",
+              "answer": [
+                "then"
+              ]
+            }
+          ],
+          [
+            "text",
+            " I will move to its use."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Đầu tiên, tôi sẽ nói về luật, sau đó tôi sẽ chuyển sang cách sử dụng nó."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1090654",
+      "data": {
+        "question": [
+          [
+            "text",
+            "Alice will call you tomorrow - she should have the details by "
+          ],
+          [
+            "input",
+            {
+              "style": "inline",
+              "answer": [
+                "then"
+              ]
+            }
+          ],
+          [
+            "text",
+            "."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Alice sẽ gọi bạn ngày mai - lúc đó cô ấy sẽ có chi tiết."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1090655",
+      "data": {
+        "question": [
+          [
+            "text",
+            "It's raining. –Let's stay at home, "
+          ],
+          [
+            "input",
+            {
+              "style": "inline",
+              "answer": [
+                "then"
+              ]
+            }
+          ],
+          [
+            "text",
+            "."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Trời mưa rồi. –Vậy thì ta ở nhà thôi."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1090656",
+      "data": {
+        "question": [
+          [
+            "text",
+            "I went to the gym and "
+          ],
+          [
+            "input",
+            {
+              "style": "inline",
+              "answer": [
+                "then"
+              ]
+            }
+          ],
+          [
+            "text",
+            " I went home."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Tôi đi tập gym rồi về nhà."
+          ]
+        ],
+        "explanation": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,997 @@
+{
+  "type": "exercise",
+  "questions": [
+    {
+      "id": "1083712",
+      "data": {
+        "question": [
+          [
+            "text",
+            "What are you "
+          ],
+          [
+            "input",
+            {
+              "style": "inline",
+              "answer": [
+                "eating"
+              ]
+            }
+          ],
+          [
+            "text",
+            " (eat)?"
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Bạn ăn gì đấy?"
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1083713",
+      "data": {
+        "question": [
+          [
+            "text",
+            "We are "
+          ],
+          [
+            "input",
+            {
+              "style": "inline",
+              "answer": [
+                "building"
+              ]
+            }
+          ],
+          [
+            "text",
+            " (build) a house."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Chúng tôi đang xây nhà."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1083714",
+      "data": {
+        "question": [
+          [
+            "text",
+            "They are "
+          ],
+          [
+            "input",
+            {
+              "style": "inline",
+              "answer": [
+                "swimming"
+              ]
+            }
+          ],
+          [
+            "text",
+            " (swim) in the pool."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Họ đang bơi trong hồ bơi."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1083715",
+      "data": {
+        "question": [
+          [
+            "text",
+            "The children are "
+          ],
+          [
+            "input",
+            {
+              "style": "inline",
+              "answer": [
+                "sleeping"
+              ]
+            }
+          ],
+          [
+            "text",
+            " (sleep)."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Bọn trẻ đang ngủ."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1083716",
+      "data": {
+        "question": [
+          [
+            "text",
+            "He is "
+          ],
+          [
+            "input",
+            {
+              "style": "inline",
+              "answer": [
+                "opening"
+              ]
+            }
+          ],
+          [
+            "text",
+            " (open) the window."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Anh ấy đang mở cửa sổ."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1083717",
+      "data": {
+        "question": [
+          [
+            "text",
+            "They are "
+          ],
+          [
+            "input",
+            {
+              "style": "inline",
+              "answer": [
+                "sitting"
+              ]
+            }
+          ],
+          [
+            "text",
+            " (sit)."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Họ đang ngồi."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1083718",
+      "data": {
+        "question": [
+          [
+            "text",
+            "I am "
+          ],
+          [
+            "input",
+            {
+              "style": "inline",
+              "answer": [
+                "working"
+              ]
+            }
+          ],
+          [
+            "text",
+            " (work)."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Tôi đang làm việc."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1083719",
+      "data": {
+        "question": [
+          [
+            "text",
+            "They are "
+          ],
+          [
+            "input",
+            {
+              "style": "inline",
+              "answer": [
+                "having"
+              ]
+            }
+          ],
+          [
+            "text",
+            " (have) dinner."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Họ đang ăn tối."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1083720",
+      "data": {
+        "question": [
+          [
+            "text",
+            "What is "
+          ],
+          [
+            "input",
+            {
+              "style": "inline",
+              "answer": [
+                "stopping"
+              ]
+            }
+          ],
+          [
+            "text",
+            " (stop) you?"
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Điều gì ngăn cản bạn?"
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1083721",
+      "data": {
+        "question": [
+          [
+            "text",
+            "What are you "
+          ],
+          [
+            "input",
+            {
+              "style": "inline",
+              "answer": [
+                "thinking"
+              ]
+            }
+          ],
+          [
+            "text",
+            " (think) about?"
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Bạn đang nghĩ gì vậy?"
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1083722",
+      "data": {
+        "question": [
+          [
+            "text",
+            "She is "
+          ],
+          [
+            "input",
+            {
+              "style": "inline",
+              "answer": [
+                "learning"
+              ]
+            }
+          ],
+          [
+            "text",
+            " (learn) to drive."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Cô ấy đang học lái xe."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1083723",
+      "data": {
+        "question": [
+          [
+            "text",
+            "I am just "
+          ],
+          [
+            "input",
+            {
+              "style": "inline",
+              "answer": [
+                "visiting"
+              ]
+            }
+          ],
+          [
+            "text",
+            " (visit) for the afternoon."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Tôi chỉ ghé thăm vào buổi chiều thôi."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1083724",
+      "data": {
+        "question": [
+          [
+            "text",
+            "I am "
+          ],
+          [
+            "input",
+            {
+              "style": "inline",
+              "answer": [
+                "meeting"
+              ]
+            }
+          ],
+          [
+            "text",
+            " (meet) my boyfriend tonight."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Tối nay tôi gặp bạn trai."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1083725",
+      "data": {
+        "question": [
+          [
+            "text",
+            "I am "
+          ],
+          [
+            "input",
+            {
+              "style": "inline",
+              "answer": [
+                "getting"
+              ]
+            }
+          ],
+          [
+            "text",
+            " (get) angry."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Tôi đang tức giận."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1083726",
+      "data": {
+        "question": [
+          [
+            "text",
+            "She is "
+          ],
+          [
+            "input",
+            {
+              "style": "inline",
+              "answer": [
+                "sitting"
+              ]
+            }
+          ],
+          [
+            "text",
+            " (sit) next to me."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Cô ấy đang ngồi cạnh tôi."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1083727",
+      "data": {
+        "question": [
+          [
+            "text",
+            "Pavel is "
+          ],
+          [
+            "input",
+            {
+              "style": "inline",
+              "answer": [
+                "cutting"
+              ]
+            }
+          ],
+          [
+            "text",
+            " (cut) the lawn."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Pavel đang cắt cỏ."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1083728",
+      "data": {
+        "question": [
+          [
+            "text",
+            "You are always "
+          ],
+          [
+            "input",
+            {
+              "style": "inline",
+              "answer": [
+                "complaining"
+              ]
+            }
+          ],
+          [
+            "text",
+            " (complain)."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Bạn lúc nào cũng than phiền."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1083729",
+      "data": {
+        "question": [
+          [
+            "text",
+            "I am just "
+          ],
+          [
+            "input",
+            {
+              "style": "inline",
+              "answer": [
+                "leaving"
+              ]
+            }
+          ],
+          [
+            "text",
+            " (leave) work."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Tôi đang rời công sở."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1083730",
+      "data": {
+        "question": [
+          [
+            "text",
+            "I am "
+          ],
+          [
+            "input",
+            {
+              "style": "inline",
+              "answer": [
+                "beginning"
+              ]
+            }
+          ],
+          [
+            "text",
+            " (begin) to get angry."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Tôi bắt đầu thấy tức giận."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1083731",
+      "data": {
+        "question": [
+          [
+            "text",
+            "I am "
+          ],
+          [
+            "input",
+            {
+              "style": "inline",
+              "answer": [
+                "planning"
+              ]
+            }
+          ],
+          [
+            "text",
+            " (plan) a trip."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Tôi đang lên kế hoạch cho một chuyến đi."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1083732",
+      "data": {
+        "question": [
+          [
+            "text",
+            "The audience is "
+          ],
+          [
+            "input",
+            {
+              "style": "inline",
+              "answer": [
+                "clapping"
+              ]
+            }
+          ],
+          [
+            "text",
+            " (clap)."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Khán giả đang vỗ tay."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1083733",
+      "data": {
+        "question": [
+          [
+            "text",
+            "He is "
+          ],
+          [
+            "input",
+            {
+              "style": "inline",
+              "answer": [
+                "hitting"
+              ]
+            }
+          ],
+          [
+            "text",
+            " (hit) the ball."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Anh ấy đang đánh bóng."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1083734",
+      "data": {
+        "question": [
+          [
+            "text",
+            "What are you "
+          ],
+          [
+            "input",
+            {
+              "style": "inline",
+              "answer": [
+                "writing"
+              ]
+            }
+          ],
+          [
+            "text",
+            " (write)?"
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Bạn đang viết gì vậy?"
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1083735",
+      "data": {
+        "question": [
+          [
+            "text",
+            "What are you "
+          ],
+          [
+            "input",
+            {
+              "style": "inline",
+              "answer": [
+                "listening"
+              ]
+            }
+          ],
+          [
+            "text",
+            " (listen) to?"
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Bạn đang nghe gì?"
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1083736",
+      "data": {
+        "question": [
+          [
+            "text",
+            "Watch where you are "
+          ],
+          [
+            "input",
+            {
+              "style": "inline",
+              "answer": [
+                "putting"
+              ]
+            }
+          ],
+          [
+            "text",
+            " (put) your feet!"
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Coi chừng bước chân!"
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1083737",
+      "data": {
+        "question": [
+          [
+            "text",
+            "He is "
+          ],
+          [
+            "input",
+            {
+              "style": "inline",
+              "answer": [
+                "running"
+              ]
+            }
+          ],
+          [
+            "text",
+            " (run) very fast."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Anh ấy đang chạy rất nhanh."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1083738",
+      "data": {
+        "question": [
+          [
+            "text",
+            "Look! David is "
+          ],
+          [
+            "input",
+            {
+              "style": "inline",
+              "answer": [
+                "coming"
+              ]
+            }
+          ],
+          [
+            "text",
+            " (come) home."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Kìa! David đang về nhà."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1083739",
+      "data": {
+        "question": [
+          [
+            "text",
+            "He is "
+          ],
+          [
+            "input",
+            {
+              "style": "inline",
+              "answer": [
+                "swimming"
+              ]
+            }
+          ],
+          [
+            "text",
+            " (swim)."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Anh ấy đang bơi."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1083740",
+      "data": {
+        "question": [
+          [
+            "text",
+            "Marek is "
+          ],
+          [
+            "input",
+            {
+              "style": "inline",
+              "answer": [
+                "feeling"
+              ]
+            }
+          ],
+          [
+            "text",
+            " (feel) much better."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Marek đỡ nhiều rồi."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1083741",
+      "data": {
+        "question": [
+          [
+            "text",
+            "What are you "
+          ],
+          [
+            "input",
+            {
+              "style": "inline",
+              "answer": [
+                "talking"
+              ]
+            }
+          ],
+          [
+            "text",
+            " (talk) about?"
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Bạn đang nói về cái gì vậy?"
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1083742",
+      "data": {
+        "question": [
+          [
+            "text",
+            "The dog is "
+          ],
+          [
+            "input",
+            {
+              "style": "inline",
+              "answer": [
+                "running"
+              ]
+            }
+          ],
+          [
+            "text",
+            " (run) to the park."
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Chú chó đang chạy đến công viên."
+          ]
+        ],
+        "explanation": ""
+      }
+    },
+    {
+      "id": "1083743",
+      "data": {
+        "question": [
+          [
+            "text",
+            "Are you "
+          ],
+          [
+            "input",
+            {
+              "style": "inline",
+              "answer": [
+                "singing"
+              ]
+            }
+          ],
+          [
+            "text",
+            " (sing)?"
+          ]
+        ],
+        "translation": [
+          [
+            "text",
+            "Bạn đang hát à?"
+          ]
+        ],
+        "explanation": ""
+      }
+    }
+  ]
+}

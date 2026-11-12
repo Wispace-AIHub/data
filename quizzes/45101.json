@@ -1,0 +1,3184 @@
+{
+  "listNumber": 1,
+  "expectedQuestions": 55,
+  "listId": "45101",
+  "questions": [
+    {
+      "id": "1170161",
+      "order": 1,
+      "type": "textForeignTextLocal",
+      "word": "goods",
+      "hint": [
+        "Hint: =resources or things bought or sold"
+      ],
+      "options": [
+        {
+          "text": "hàng hóa, mặt hàng",
+          "correct": true,
+          "hint": [
+            "Hint: =resources or things bought or sold"
+          ],
+          "term": "goods",
+          "sound": "/media/audio/list1/45101_goods_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "hành lý",
+          "correct": false,
+          "hint": [
+            "Hint: =Bags and cases that you carry your clothes in when you go on a journey"
+          ],
+          "term": "luggage",
+          "sound": "/media/audio/list1/45101_luggage_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "người đang gọi điện cho bạn",
+          "correct": false,
+          "hint": [
+            "Hint: =the person that is phoning you"
+          ],
+          "term": "caller",
+          "sound": "/media/audio/list1/45101_caller_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "tiền sảnh (của khách sạn)",
+          "correct": false,
+          "hint": [
+            "Hint: =the main area of a hotel just inside the entrance"
+          ],
+          "term": "lobby",
+          "sound": "/media/audio/list1/45101_lobby_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list1/45101_goods_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170162",
+      "order": 2,
+      "type": "textForeignSentence",
+      "word": "faxed",
+      "hint": [
+        "Hint: =to send using a fax machine"
+      ],
+      "options": [
+        {
+          "text": "gửi bằng máy fax",
+          "correct": true,
+          "hint": [
+            "Hint: =to send using a fax machine"
+          ],
+          "term": "faxed",
+          "sound": "/media/audio/list1/45101_fax_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "tiền xe, tiền vé",
+          "correct": false,
+          "hint": [
+            "Hint: =the cost for a ride, e.g. bus, or taxi"
+          ],
+          "term": "fare",
+          "sound": "/media/audio/list1/45101_fare_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "một cách xưng hô lịch sự với một người đàn ông",
+          "correct": false,
+          "hint": [
+            "Hint: =a form of address for a man"
+          ],
+          "term": "mister",
+          "sound": "/media/audio/list1/45101_mister_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "trang web",
+          "correct": false,
+          "hint": [
+            "Hint: =a set of internet pages that give information about a particular person or organization"
+          ],
+          "term": "website",
+          "sound": "/media/audio/list1/45101_website_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list1/45101_fax_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170163",
+      "order": 3,
+      "type": "textForeignTextLocal",
+      "word": "seminar",
+      "hint": [
+        "Hint: =a discussion session or class led by a teacher or expert"
+      ],
+      "options": [
+        {
+          "text": "buổi hội thảo, buổi thảo luận chuyên đề",
+          "correct": true,
+          "hint": [
+            "Hint: =a discussion session or class led by a teacher or expert"
+          ],
+          "term": "seminar",
+          "sound": "/media/audio/list1/45101_seminar_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "khách du lịch",
+          "correct": false,
+          "hint": [
+            "Hint: =a tourist or adventurer who visits many countries"
+          ],
+          "term": "traveler",
+          "sound": "/media/audio/list1/45101_traveler_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "sự giao hàng",
+          "correct": false,
+          "hint": [
+            "Hint: =delivery of goods, e.g. carried by a large vehicle"
+          ],
+          "term": "shipment",
+          "sound": "/media/audio/list1/45101_shipment_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "một cách chân thành",
+          "correct": false,
+          "hint": [
+            "Hint: =with honesty"
+          ],
+          "term": "sincerely",
+          "sound": "/media/audio/list1/45101_sincerely_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list1/45101_seminar_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170164",
+      "order": 4,
+      "type": "textForeignSentence",
+      "word": "subscription",
+      "hint": [
+        "Hint: =the amount of money that you pay to receive a service or product regularly"
+      ],
+      "options": [
+        {
+          "text": "phí đăng ký, phí thuê bao; sự đăng ký dài hạn",
+          "correct": true,
+          "hint": [
+            "Hint: =the amount of money that you pay to receive a service or product regularly"
+          ],
+          "term": "subscription",
+          "sound": "/media/audio/list1/45101_subscription_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "khách du lịch",
+          "correct": false,
+          "hint": [
+            "Hint: =a tourist or adventurer who visits many countries"
+          ],
+          "term": "travelers",
+          "sound": "/media/audio/list1/45101_traveler_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "một cách chính xác, đúng đắn",
+          "correct": false,
+          "hint": [
+            "Hint: =to do something the right way"
+          ],
+          "term": "correctly",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "sự đặt trước",
+          "correct": false,
+          "hint": [
+            "Hint: =the act of putting something on hold / reserving for use later, e.g. car, hotel room"
+          ],
+          "term": "reservation",
+          "sound": "/media/audio/list1/45101_reservation_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list1/45101_subscription_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170165",
+      "order": 5,
+      "type": "textForeignTextLocal",
+      "word": "brochure",
+      "hint": [
+        "Hint: =a small paper book that gives information about a product or service"
+      ],
+      "options": [
+        {
+          "text": "tờ gấp quảng cáo",
+          "correct": true,
+          "hint": [
+            "Hint: =a small paper book that gives information about a product or service"
+          ],
+          "term": "brochure",
+          "sound": "/media/audio/list1/45101_brochure_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "khách du lịch",
+          "correct": false,
+          "hint": [
+            "Hint: =a tourist or adventurer who visits many countries"
+          ],
+          "term": "traveler",
+          "sound": "/media/audio/list1/45101_traveler_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "nhân viên phục vụ (nam giới)",
+          "correct": false,
+          "hint": [
+            "Hint: =a man whose job it is to bring meals to your table in a restaurant or cafe"
+          ],
+          "term": "waiter",
+          "sound": "/media/audio/list1/45101_waiter_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "một cách chính xác, đúng đắn",
+          "correct": false,
+          "hint": [
+            "Hint: =to do something the right way"
+          ],
+          "term": "correctly",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list1/45101_brochure_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170166",
+      "order": 6,
+      "type": "textForeignSentence",
+      "word": "fare",
+      "hint": [
+        "Hint: =the cost for a ride, e.g. bus, or taxi"
+      ],
+      "options": [
+        {
+          "text": "tiền xe, tiền vé",
+          "correct": true,
+          "hint": [
+            "Hint: =the cost for a ride, e.g. bus, or taxi"
+          ],
+          "term": "fare",
+          "sound": "/media/audio/list1/45101_fare_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "một lúc nào đó",
+          "correct": false,
+          "hint": [
+            "Hint: =at some unknown point in time"
+          ],
+          "term": "sometime",
+          "sound": "/media/audio/list1/45101_sometime_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "một cách xưng hô lịch sự với một người đàn ông",
+          "correct": false,
+          "hint": [
+            "Hint: =a form of address for a man"
+          ],
+          "term": "mister",
+          "sound": "/media/audio/list1/45101_mister_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "trang web",
+          "correct": false,
+          "hint": [
+            "Hint: =a set of internet pages that give information about a particular person or organization"
+          ],
+          "term": "website",
+          "sound": "/media/audio/list1/45101_website_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list1/45101_fare_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170167",
+      "order": 7,
+      "type": "textForeignSentence",
+      "word": "travelers",
+      "hint": [
+        "Hint: =a tourist or adventurer who visits many countries"
+      ],
+      "options": [
+        {
+          "text": "khách du lịch",
+          "correct": true,
+          "hint": [
+            "Hint: =a tourist or adventurer who visits many countries"
+          ],
+          "term": "travelers",
+          "sound": "/media/audio/list1/45101_traveler_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "ứng cử viên",
+          "correct": false,
+          "hint": [
+            "Hint: =a person being considered for a job or position in office"
+          ],
+          "term": "candidates",
+          "sound": "/media/audio/list1/45101_candidate_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "nhân viên phục vụ (nam giới)",
+          "correct": false,
+          "hint": [
+            "Hint: =a man whose job it is to bring meals to your table in a restaurant or cafe"
+          ],
+          "term": "waiter",
+          "sound": "/media/audio/list1/45101_waiter_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "người giám sát",
+          "correct": false,
+          "hint": [
+            "Hint: =the person who is in charge"
+          ],
+          "term": "supervisors",
+          "sound": "/media/audio/list1/45101_supervisor_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list1/45101_traveler_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170168",
+      "order": 8,
+      "type": "textForeignTextLocal",
+      "word": "client",
+      "hint": [
+        "Hint: =someone who pays for a service"
+      ],
+      "options": [
+        {
+          "text": "khách hàng",
+          "correct": true,
+          "hint": [
+            "Hint: =someone who pays for a service"
+          ],
+          "term": "client",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "tiền xe, tiền vé",
+          "correct": false,
+          "hint": [
+            "Hint: =the cost for a ride, e.g. bus, or taxi"
+          ],
+          "term": "fare",
+          "sound": "/media/audio/list1/45101_fare_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "gửi bằng máy fax",
+          "correct": false,
+          "hint": [
+            "Hint: =to send using a fax machine"
+          ],
+          "term": "fax",
+          "sound": "/media/audio/list1/45101_fax_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "thang máy",
+          "correct": false,
+          "hint": [
+            "Hint: =a machine that takes people to different floors in a building"
+          ],
+          "term": "elevator",
+          "sound": "/media/audio/list1/45101_elevator_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": ""
+    },
+    {
+      "id": "1170169",
+      "order": 9,
+      "type": "textForeignSentence",
+      "word": "rental",
+      "hint": [
+        "Hint: =an arrangement to rent something for a period of time, or the act of renting something"
+      ],
+      "options": [
+        {
+          "text": "sự cho thuê",
+          "correct": true,
+          "hint": [
+            "Hint: =an arrangement to rent something for a period of time, or the act of renting something"
+          ],
+          "term": "rental",
+          "sound": "/media/audio/list1/45101_rental_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "người phục vụ",
+          "correct": false,
+          "hint": [
+            "Hint: =someone who waits on or tends to the needs of another"
+          ],
+          "term": "attendant",
+          "sound": "/media/audio/list1/45101_attendant_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "người giám sát",
+          "correct": false,
+          "hint": [
+            "Hint: =the person who is in charge"
+          ],
+          "term": "supervisor",
+          "sound": "/media/audio/list1/45101_supervisor_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "sự giao hàng",
+          "correct": false,
+          "hint": [
+            "Hint: =delivery of goods, e.g. carried by a large vehicle"
+          ],
+          "term": "shipment",
+          "sound": "/media/audio/list1/45101_shipment_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list1/45101_rental_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170170",
+      "order": 10,
+      "type": "textForeignSentence",
+      "word": "invoice",
+      "hint": [
+        "Hint: =a written request for payment for the goods and services listed"
+      ],
+      "options": [
+        {
+          "text": "hóa đơn",
+          "correct": true,
+          "hint": [
+            "Hint: =a written request for payment for the goods and services listed"
+          ],
+          "term": "invoice",
+          "sound": "/media/audio/list1/45101_invoice_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "buổi hội thảo, buổi thảo luận chuyên đề",
+          "correct": false,
+          "hint": [
+            "Hint: =a discussion session or class led by a teacher or expert"
+          ],
+          "term": "seminar",
+          "sound": "/media/audio/list1/45101_seminar_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "quán ăn tự phục vụ",
+          "correct": false,
+          "hint": [
+            "Hint: =a restaurant where you serve yourself and pay a cashier"
+          ],
+          "term": "cafeterias",
+          "sound": "/media/audio/list1/45101_cafeteria_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "hàng hóa, mặt hàng",
+          "correct": false,
+          "hint": [
+            "Hint: =resources or things bought or sold"
+          ],
+          "term": "goods",
+          "sound": "/media/audio/list1/45101_goods_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list1/45101_invoice_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170171",
+      "order": 11,
+      "type": "textForeignSentence",
+      "word": "notified",
+      "hint": [
+        "Hint: =officially tell someone some information"
+      ],
+      "options": [
+        {
+          "text": "thông báo, cho biết",
+          "correct": true,
+          "hint": [
+            "Hint: =officially tell someone some information"
+          ],
+          "term": "notified",
+          "sound": "/media/audio/list1/45101_notify_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "khách hàng",
+          "correct": false,
+          "hint": [
+            "Hint: =someone who pays for a service"
+          ],
+          "term": "client",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "một cách chính xác, đúng đắn",
+          "correct": false,
+          "hint": [
+            "Hint: =to do something the right way"
+          ],
+          "term": "correctly",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "buổi hội thảo, buổi thảo luận chuyên đề",
+          "correct": false,
+          "hint": [
+            "Hint: =a discussion session or class led by a teacher or expert"
+          ],
+          "term": "seminar",
+          "sound": "/media/audio/list1/45101_seminar_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list1/45101_notify_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170172",
+      "order": 12,
+      "type": "textForeignSentence",
+      "word": "workshop",
+      "hint": [
+        "Hint: =a building or room where things are made or repaired"
+      ],
+      "options": [
+        {
+          "text": "phân xưởng",
+          "correct": true,
+          "hint": [
+            "Hint: =a building or room where things are made or repaired"
+          ],
+          "term": "workshop",
+          "sound": "/media/audio/list1/45101_workshop_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "kỹ thuật viên",
+          "correct": false,
+          "hint": [
+            "Hint: =someone who is trained with special skills to do practical work"
+          ],
+          "term": "technician",
+          "sound": "/media/audio/list1/45101_technician_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "gửi bằng máy fax",
+          "correct": false,
+          "hint": [
+            "Hint: =to send using a fax machine"
+          ],
+          "term": "fax",
+          "sound": "/media/audio/list1/45101_fax_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "sự giao hàng",
+          "correct": false,
+          "hint": [
+            "Hint: =delivery of goods, e.g. carried by a large vehicle"
+          ],
+          "term": "shipments",
+          "sound": "/media/audio/list1/45101_shipment_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list1/45101_workshop_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170173",
+      "order": 13,
+      "type": "textForeignSentence",
+      "word": "published",
+      "hint": [
+        "Hint: =to print and distribute"
+      ],
+      "options": [
+        {
+          "text": "xuất bản, công bố, đăng tải",
+          "correct": true,
+          "hint": [
+            "Hint: =to print and distribute"
+          ],
+          "term": "published",
+          "sound": "/media/audio/list1/45101_publish_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "hoàn tiền",
+          "correct": false,
+          "hint": [
+            "Hint: =give back money that has already been paid"
+          ],
+          "term": "refunded",
+          "sound": "/media/audio/list1/45101_refund_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "một người chịu trách nhiệm về tiền trong một doanh nghiệp, kế toán",
+          "correct": false,
+          "hint": [
+            "Hint: =a person responsible for the money in a business"
+          ],
+          "term": "accountants",
+          "sound": "/media/audio/list1/45101_accountant_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "kỳ nghỉ",
+          "correct": false,
+          "hint": [
+            "Hint: =a holiday or break from work"
+          ],
+          "term": "vacation",
+          "sound": "/media/audio/list1/45101_vacation_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list1/45101_publish_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170174",
+      "order": 14,
+      "type": "textForeignSentence",
+      "word": "e-books",
+      "hint": [
+        "Hint: =electronic book"
+      ],
+      "options": [
+        {
+          "text": "sách điện tử",
+          "correct": true,
+          "hint": [
+            "Hint: =electronic book"
+          ],
+          "term": "e-books",
+          "sound": "/media/audio/list1/45101_e-book_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "người giám sát",
+          "correct": false,
+          "hint": [
+            "Hint: =the person who is in charge"
+          ],
+          "term": "supervisors",
+          "sound": "/media/audio/list1/45101_supervisor_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "hóa đơn",
+          "correct": false,
+          "hint": [
+            "Hint: =a written request for payment for the goods and services listed"
+          ],
+          "term": "invoices",
+          "sound": "/media/audio/list1/45101_invoice_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "tiền xe, tiền vé",
+          "correct": false,
+          "hint": [
+            "Hint: =the cost for a ride, e.g. bus, or taxi"
+          ],
+          "term": "fares",
+          "sound": "/media/audio/list1/45101_fare_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list1/45101_e-book_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170175",
+      "order": 15,
+      "type": "textForeignSentence",
+      "word": "refunded",
+      "hint": [
+        "Hint: =give back money that has already been paid"
+      ],
+      "options": [
+        {
+          "text": "hoàn tiền",
+          "correct": true,
+          "hint": [
+            "Hint: =give back money that has already been paid"
+          ],
+          "term": "refunded",
+          "sound": "/media/audio/list1/45101_refund_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "thang máy",
+          "correct": false,
+          "hint": [
+            "Hint: =a machine that takes people to different floors in a building"
+          ],
+          "term": "elevator",
+          "sound": "/media/audio/list1/45101_elevator_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "tờ gấp quảng cáo",
+          "correct": false,
+          "hint": [
+            "Hint: =a small paper book that gives information about a product or service"
+          ],
+          "term": "brochure",
+          "sound": "/media/audio/list1/45101_brochure_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "thuê",
+          "correct": false,
+          "hint": [
+            "Hint: =to rent"
+          ],
+          "term": "lease",
+          "sound": "/media/audio/list1/45101_lease_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list1/45101_refund_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170176",
+      "order": 16,
+      "type": "textForeignSentence",
+      "word": "airport",
+      "hint": [
+        "Hint: =the place where you go to get on a plane"
+      ],
+      "options": [
+        {
+          "text": "sân bay",
+          "correct": true,
+          "hint": [
+            "Hint: =the place where you go to get on a plane"
+          ],
+          "term": "airport",
+          "sound": "/media/audio/list1/45101_airport_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "tiền xe, tiền vé",
+          "correct": false,
+          "hint": [
+            "Hint: =the cost for a ride, e.g. bus, or taxi"
+          ],
+          "term": "fares",
+          "sound": "/media/audio/list1/45101_fare_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "giấy ghi chú",
+          "correct": false,
+          "hint": [
+            "Hint: =a written reminder to do something"
+          ],
+          "term": "memo",
+          "sound": "/media/audio/list1/45101_memo_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "hóa đơn",
+          "correct": false,
+          "hint": [
+            "Hint: =a written request for payment for the goods and services listed"
+          ],
+          "term": "invoices",
+          "sound": "/media/audio/list1/45101_invoice_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list1/45101_airport_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170177",
+      "order": 17,
+      "type": "textForeignSentence",
+      "word": "shipment",
+      "hint": [
+        "Hint: =delivery of goods, e.g. carried by a large vehicle"
+      ],
+      "options": [
+        {
+          "text": "sự giao hàng",
+          "correct": true,
+          "hint": [
+            "Hint: =delivery of goods, e.g. carried by a large vehicle"
+          ],
+          "term": "shipment",
+          "sound": "/media/audio/list1/45101_shipment_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "hoàn tiền",
+          "correct": false,
+          "hint": [
+            "Hint: =give back money that has already been paid"
+          ],
+          "term": "refunded",
+          "sound": "/media/audio/list1/45101_refund_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "cái khăn",
+          "correct": false,
+          "hint": [
+            "Hint: =a piece of thin material"
+          ],
+          "term": "cloth",
+          "sound": "/media/audio/list1/45101_cloth_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "người phục vụ",
+          "correct": false,
+          "hint": [
+            "Hint: =someone who waits on or tends to the needs of another"
+          ],
+          "term": "attendant",
+          "sound": "/media/audio/list1/45101_attendant_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list1/45101_shipment_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170178",
+      "order": 18,
+      "type": "textForeignSentence",
+      "word": "subway",
+      "hint": [
+        "Hint: =a tunnel under the road for people to walk through"
+      ],
+      "options": [
+        {
+          "text": "đường hầm",
+          "correct": true,
+          "hint": [
+            "Hint: =a tunnel under the road for people to walk through"
+          ],
+          "term": "subway",
+          "sound": "/media/audio/list1/45101_subway_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "sự bảo hành",
+          "correct": false,
+          "hint": [
+            "Hint: =the promise to repair or replace a product if it ceases to work properly"
+          ],
+          "term": "warranty",
+          "sound": "/media/audio/list1/45101_warranty_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "một cách chân thành",
+          "correct": false,
+          "hint": [
+            "Hint: =with honesty"
+          ],
+          "term": "sincerely",
+          "sound": "/media/audio/list1/45101_sincerely_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "nhân viên phục vụ (nam giới)",
+          "correct": false,
+          "hint": [
+            "Hint: =a man whose job it is to bring meals to your table in a restaurant or cafe"
+          ],
+          "term": "waiter",
+          "sound": "/media/audio/list1/45101_waiter_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list1/45101_subway_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170179",
+      "order": 19,
+      "type": "textForeignTextLocal",
+      "word": "applicant",
+      "hint": [
+        "Hint: =a person who submits papers in order to do something, e.g. job applicant"
+      ],
+      "options": [
+        {
+          "text": "ứng viên",
+          "correct": true,
+          "hint": [
+            "Hint: =a person who submits papers in order to do something, e.g. job applicant"
+          ],
+          "term": "applicant",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "người phục vụ",
+          "correct": false,
+          "hint": [
+            "Hint: =someone who waits on or tends to the needs of another"
+          ],
+          "term": "attendant",
+          "sound": "/media/audio/list1/45101_attendant_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "theo logic, hợp lý",
+          "correct": false,
+          "hint": [
+            "Hint: =to do with reason"
+          ],
+          "term": "logical",
+          "sound": "/media/audio/list1/45101_logical_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "người giám sát",
+          "correct": false,
+          "hint": [
+            "Hint: =the person who is in charge"
+          ],
+          "term": "supervisor",
+          "sound": "/media/audio/list1/45101_supervisor_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": ""
+    },
+    {
+      "id": "1170180",
+      "order": 20,
+      "type": "textForeignSentence",
+      "word": "infer",
+      "hint": [
+        "Hint: =to guess something with given information"
+      ],
+      "options": [
+        {
+          "text": "suy ra, phỏng đoán",
+          "correct": true,
+          "hint": [
+            "Hint: =to guess something with given information"
+          ],
+          "term": "infer",
+          "sound": "/media/audio/list1/45101_infer_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "hàng hóa, mặt hàng",
+          "correct": false,
+          "hint": [
+            "Hint: =resources or things bought or sold"
+          ],
+          "term": "goods",
+          "sound": "/media/audio/list1/45101_goods_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "biên lai",
+          "correct": false,
+          "hint": [
+            "Hint: =proof of payment"
+          ],
+          "term": "receipt",
+          "sound": "/media/audio/list1/45101_receipt_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "khách du lịch",
+          "correct": false,
+          "hint": [
+            "Hint: =a tourist or adventurer who visits many countries"
+          ],
+          "term": "travelers",
+          "sound": "/media/audio/list1/45101_traveler_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list1/45101_infer_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170181",
+      "order": 21,
+      "type": "textForeignTextLocal",
+      "word": "deadline",
+      "hint": [
+        "Hint: =when something must be finished"
+      ],
+      "options": [
+        {
+          "text": "hạn chót, thời gian cụ thể hoàn thành một nhiệm vụ hoặc công việc được giao",
+          "correct": true,
+          "hint": [
+            "Hint: =when something must be finished"
+          ],
+          "term": "deadline",
+          "sound": "/media/audio/list1/45101_deadline_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "hoàn tiền",
+          "correct": false,
+          "hint": [
+            "Hint: =give back money that has already been paid"
+          ],
+          "term": "refund",
+          "sound": "/media/audio/list1/45101_refund_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "sự đặt trước",
+          "correct": false,
+          "hint": [
+            "Hint: =the act of putting something on hold / reserving for use later, e.g. car, hotel room"
+          ],
+          "term": "reservation",
+          "sound": "/media/audio/list1/45101_reservation_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "một người chịu trách nhiệm về tiền trong một doanh nghiệp, kế toán",
+          "correct": false,
+          "hint": [
+            "Hint: =a person responsible for the money in a business"
+          ],
+          "term": "accountant",
+          "sound": "/media/audio/list1/45101_accountant_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list1/45101_deadline_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170182",
+      "order": 22,
+      "type": "textForeignSentence",
+      "word": "sincerely",
+      "hint": [
+        "Hint: =with honesty"
+      ],
+      "options": [
+        {
+          "text": "một cách chân thành",
+          "correct": true,
+          "hint": [
+            "Hint: =with honesty"
+          ],
+          "term": "sincerely",
+          "sound": "/media/audio/list1/45101_sincerely_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "giấy ghi chú",
+          "correct": false,
+          "hint": [
+            "Hint: =a written reminder to do something"
+          ],
+          "term": "memo",
+          "sound": "/media/audio/list1/45101_memo_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "phí đăng ký, phí thuê bao; sự đăng ký dài hạn",
+          "correct": false,
+          "hint": [
+            "Hint: =the amount of money that you pay to receive a service or product regularly"
+          ],
+          "term": "subscription",
+          "sound": "/media/audio/list1/45101_subscription_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "một cách chính xác, đúng đắn",
+          "correct": false,
+          "hint": [
+            "Hint: =to do something the right way"
+          ],
+          "term": "correctly",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list1/45101_sincerely_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170183",
+      "order": 23,
+      "type": "textForeignTextLocal",
+      "word": "noon",
+      "hint": [
+        "Hint: =the middle of the day"
+      ],
+      "options": [
+        {
+          "text": "giữa trưa",
+          "correct": true,
+          "hint": [
+            "Hint: =the middle of the day"
+          ],
+          "term": "noon",
+          "sound": "/media/audio/list1/45101_noon_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "sự đặt trước",
+          "correct": false,
+          "hint": [
+            "Hint: =the act of putting something on hold / reserving for use later, e.g. car, hotel room"
+          ],
+          "term": "reservation",
+          "sound": "/media/audio/list1/45101_reservation_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "người đang gọi điện cho bạn",
+          "correct": false,
+          "hint": [
+            "Hint: =the person that is phoning you"
+          ],
+          "term": "caller",
+          "sound": "/media/audio/list1/45101_caller_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "ứng viên",
+          "correct": false,
+          "hint": [
+            "Hint: =a person who submits papers in order to do something, e.g. job applicant"
+          ],
+          "term": "applicant",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list1/45101_noon_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170184",
+      "order": 24,
+      "type": "textForeignTextLocal",
+      "word": "waiter",
+      "hint": [
+        "Hint: =a man whose job it is to bring meals to your table in a restaurant or cafe"
+      ],
+      "options": [
+        {
+          "text": "nhân viên phục vụ (nam giới)",
+          "correct": true,
+          "hint": [
+            "Hint: =a man whose job it is to bring meals to your table in a restaurant or cafe"
+          ],
+          "term": "waiter",
+          "sound": "/media/audio/list1/45101_waiter_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "hội nghị, hội thảo",
+          "correct": false,
+          "hint": [
+            "Hint: =an event where people exchange ideas"
+          ],
+          "term": "conference",
+          "sound": "/media/audio/list1/45101_conference_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "một lúc nào đó",
+          "correct": false,
+          "hint": [
+            "Hint: =at some unknown point in time"
+          ],
+          "term": "sometime",
+          "sound": "/media/audio/list1/45101_sometime_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "thang máy",
+          "correct": false,
+          "hint": [
+            "Hint: =a machine that takes people to different floors in a building"
+          ],
+          "term": "elevator",
+          "sound": "/media/audio/list1/45101_elevator_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list1/45101_waiter_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170185",
+      "order": 25,
+      "type": "textForeignSentence",
+      "word": "elevator",
+      "hint": [
+        "Hint: =a machine that takes people to different floors in a building"
+      ],
+      "options": [
+        {
+          "text": "thang máy",
+          "correct": true,
+          "hint": [
+            "Hint: =a machine that takes people to different floors in a building"
+          ],
+          "term": "elevator",
+          "sound": "/media/audio/list1/45101_elevator_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "theo logic, hợp lý",
+          "correct": false,
+          "hint": [
+            "Hint: =to do with reason"
+          ],
+          "term": "logical",
+          "sound": "/media/audio/list1/45101_logical_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "sự đặt trước",
+          "correct": false,
+          "hint": [
+            "Hint: =the act of putting something on hold / reserving for use later, e.g. car, hotel room"
+          ],
+          "term": "reservation",
+          "sound": "/media/audio/list1/45101_reservation_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "đầu bếp",
+          "correct": false,
+          "hint": [
+            "Hint: =a person who cooks for a living"
+          ],
+          "term": "chefs",
+          "sound": "/media/audio/list1/45101_chef_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list1/45101_elevator_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170186",
+      "order": 26,
+      "type": "textForeignTextLocal",
+      "word": "warranty",
+      "hint": [
+        "Hint: =the promise to repair or replace a product if it ceases to work properly"
+      ],
+      "options": [
+        {
+          "text": "sự bảo hành",
+          "correct": true,
+          "hint": [
+            "Hint: =the promise to repair or replace a product if it ceases to work properly"
+          ],
+          "term": "warranty",
+          "sound": "/media/audio/list1/45101_warranty_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "ứng cử viên",
+          "correct": false,
+          "hint": [
+            "Hint: =a person being considered for a job or position in office"
+          ],
+          "term": "candidate",
+          "sound": "/media/audio/list1/45101_candidate_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "người phục vụ",
+          "correct": false,
+          "hint": [
+            "Hint: =someone who waits on or tends to the needs of another"
+          ],
+          "term": "attendant",
+          "sound": "/media/audio/list1/45101_attendant_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "tiền sảnh (của khách sạn)",
+          "correct": false,
+          "hint": [
+            "Hint: =the main area of a hotel just inside the entrance"
+          ],
+          "term": "lobby",
+          "sound": "/media/audio/list1/45101_lobby_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list1/45101_warranty_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170187",
+      "order": 27,
+      "type": "textForeignSentence",
+      "word": "lease",
+      "hint": [
+        "Hint: =to rent"
+      ],
+      "options": [
+        {
+          "text": "thuê",
+          "correct": true,
+          "hint": [
+            "Hint: =to rent"
+          ],
+          "term": "lease",
+          "sound": "/media/audio/list1/45101_lease_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "người giám sát",
+          "correct": false,
+          "hint": [
+            "Hint: =the person who is in charge"
+          ],
+          "term": "supervisors",
+          "sound": "/media/audio/list1/45101_supervisor_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "Sự xem trước, sự duyệt trước",
+          "correct": false,
+          "hint": [
+            "Hint: =a chance to see something before it becomes generally available"
+          ],
+          "term": "preview",
+          "sound": "/media/audio/list1/45101_preview_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "sự đặt trước",
+          "correct": false,
+          "hint": [
+            "Hint: =the act of putting something on hold / reserving for use later, e.g. car, hotel room"
+          ],
+          "term": "reservation",
+          "sound": "/media/audio/list1/45101_reservation_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list1/45101_lease_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170188",
+      "order": 28,
+      "type": "textForeignSentence",
+      "word": "supervisor",
+      "hint": [
+        "Hint: =the person who is in charge"
+      ],
+      "options": [
+        {
+          "text": "người giám sát",
+          "correct": true,
+          "hint": [
+            "Hint: =the person who is in charge"
+          ],
+          "term": "supervisor",
+          "sound": "/media/audio/list1/45101_supervisor_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "Sự xem trước, sự duyệt trước",
+          "correct": false,
+          "hint": [
+            "Hint: =a chance to see something before it becomes generally available"
+          ],
+          "term": "previews",
+          "sound": "/media/audio/list1/45101_preview_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "hàng hóa, mặt hàng",
+          "correct": false,
+          "hint": [
+            "Hint: =resources or things bought or sold"
+          ],
+          "term": "goods",
+          "sound": "/media/audio/list1/45101_goods_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "sân bay",
+          "correct": false,
+          "hint": [
+            "Hint: =the place where you go to get on a plane"
+          ],
+          "term": "airport",
+          "sound": "/media/audio/list1/45101_airport_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list1/45101_supervisor_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170189",
+      "order": 29,
+      "type": "textForeignTextLocal",
+      "word": "reception",
+      "hint": [
+        "Hint: =the act of greeting people; a formal party at which important people are welcomed"
+      ],
+      "options": [
+        {
+          "text": "sự đón tiếp, tiệc chiêu đãi",
+          "correct": true,
+          "hint": [
+            "Hint: =the act of greeting people; a formal party at which important people are welcomed"
+          ],
+          "term": "reception",
+          "sound": "/media/audio/list1/45101_reception_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "sự giao hàng",
+          "correct": false,
+          "hint": [
+            "Hint: =delivery of goods, e.g. carried by a large vehicle"
+          ],
+          "term": "shipment",
+          "sound": "/media/audio/list1/45101_shipment_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "sự cho thuê",
+          "correct": false,
+          "hint": [
+            "Hint: =an arrangement to rent something for a period of time, or the act of renting something"
+          ],
+          "term": "rental",
+          "sound": "/media/audio/list1/45101_rental_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "một cách xưng hô lịch sự với một người đàn ông",
+          "correct": false,
+          "hint": [
+            "Hint: =a form of address for a man"
+          ],
+          "term": "mister",
+          "sound": "/media/audio/list1/45101_mister_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list1/45101_reception_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170190",
+      "order": 30,
+      "type": "textForeignTextLocal",
+      "word": "logical",
+      "hint": [
+        "Hint: =to do with reason"
+      ],
+      "options": [
+        {
+          "text": "theo logic, hợp lý",
+          "correct": true,
+          "hint": [
+            "Hint: =to do with reason"
+          ],
+          "term": "logical",
+          "sound": "/media/audio/list1/45101_logical_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "giờ trong ngày",
+          "correct": false,
+          "hint": [
+            "Hint: =the hour of the day"
+          ],
+          "term": "o'clock",
+          "sound": "/media/audio/list1/45101_o_clock_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "tiền sảnh (của khách sạn)",
+          "correct": false,
+          "hint": [
+            "Hint: =the main area of a hotel just inside the entrance"
+          ],
+          "term": "lobby",
+          "sound": "/media/audio/list1/45101_lobby_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "giữa trưa",
+          "correct": false,
+          "hint": [
+            "Hint: =the middle of the day"
+          ],
+          "term": "noon",
+          "sound": "/media/audio/list1/45101_noon_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list1/45101_logical_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170191",
+      "order": 31,
+      "type": "textForeignTextLocal",
+      "word": "conference",
+      "hint": [
+        "Hint: =an event where people exchange ideas"
+      ],
+      "options": [
+        {
+          "text": "hội nghị, hội thảo",
+          "correct": true,
+          "hint": [
+            "Hint: =an event where people exchange ideas"
+          ],
+          "term": "conference",
+          "sound": "/media/audio/list1/45101_conference_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "gửi bằng máy fax",
+          "correct": false,
+          "hint": [
+            "Hint: =to send using a fax machine"
+          ],
+          "term": "fax",
+          "sound": "/media/audio/list1/45101_fax_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "sự bảo hành",
+          "correct": false,
+          "hint": [
+            "Hint: =the promise to repair or replace a product if it ceases to work properly"
+          ],
+          "term": "warranty",
+          "sound": "/media/audio/list1/45101_warranty_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "khu vực trung tâm của thành phố",
+          "correct": false,
+          "hint": [
+            "Hint: =the business or central part of a city or town"
+          ],
+          "term": "downtown",
+          "sound": "/media/audio/list1/45101_downtown_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list1/45101_conference_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170192",
+      "order": 32,
+      "type": "textForeignTextLocal",
+      "word": "caller",
+      "hint": [
+        "Hint: =the person that is phoning you"
+      ],
+      "options": [
+        {
+          "text": "người đang gọi điện cho bạn",
+          "correct": true,
+          "hint": [
+            "Hint: =the person that is phoning you"
+          ],
+          "term": "caller",
+          "sound": "/media/audio/list1/45101_caller_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "một lúc nào đó",
+          "correct": false,
+          "hint": [
+            "Hint: =at some unknown point in time"
+          ],
+          "term": "sometime",
+          "sound": "/media/audio/list1/45101_sometime_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "kỹ thuật viên",
+          "correct": false,
+          "hint": [
+            "Hint: =someone who is trained with special skills to do practical work"
+          ],
+          "term": "technician",
+          "sound": "/media/audio/list1/45101_technician_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "vây quanh, rào quanh",
+          "correct": false,
+          "hint": [
+            "Hint: =to surround fully"
+          ],
+          "term": "enclose",
+          "sound": "/media/audio/list1/45101_enclose_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list1/45101_caller_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170193",
+      "order": 33,
+      "type": "textForeignTextLocal",
+      "word": "preview",
+      "hint": [
+        "Hint: =a chance to see something before it becomes generally available"
+      ],
+      "options": [
+        {
+          "text": "Sự xem trước, sự duyệt trước",
+          "correct": true,
+          "hint": [
+            "Hint: =a chance to see something before it becomes generally available"
+          ],
+          "term": "preview",
+          "sound": "/media/audio/list1/45101_preview_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "sự đặt trước",
+          "correct": false,
+          "hint": [
+            "Hint: =the act of putting something on hold / reserving for use later, e.g. car, hotel room"
+          ],
+          "term": "reservation",
+          "sound": "/media/audio/list1/45101_reservation_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "người đang gọi điện cho bạn",
+          "correct": false,
+          "hint": [
+            "Hint: =the person that is phoning you"
+          ],
+          "term": "caller",
+          "sound": "/media/audio/list1/45101_caller_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "kỳ nghỉ",
+          "correct": false,
+          "hint": [
+            "Hint: =a holiday or break from work"
+          ],
+          "term": "vacation",
+          "sound": "/media/audio/list1/45101_vacation_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list1/45101_preview_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170194",
+      "order": 34,
+      "type": "textForeignTextLocal",
+      "word": "receipt",
+      "hint": [
+        "Hint: =proof of payment"
+      ],
+      "options": [
+        {
+          "text": "biên lai",
+          "correct": true,
+          "hint": [
+            "Hint: =proof of payment"
+          ],
+          "term": "receipt",
+          "sound": "/media/audio/list1/45101_receipt_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "một cách chính xác, đúng đắn",
+          "correct": false,
+          "hint": [
+            "Hint: =to do something the right way"
+          ],
+          "term": "correctly",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "phí đăng ký, phí thuê bao; sự đăng ký dài hạn",
+          "correct": false,
+          "hint": [
+            "Hint: =the amount of money that you pay to receive a service or product regularly"
+          ],
+          "term": "subscription",
+          "sound": "/media/audio/list1/45101_subscription_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "sự đặt trước",
+          "correct": false,
+          "hint": [
+            "Hint: =the act of putting something on hold / reserving for use later, e.g. car, hotel room"
+          ],
+          "term": "reservation",
+          "sound": "/media/audio/list1/45101_reservation_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list1/45101_receipt_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170195",
+      "order": 35,
+      "type": "textForeignTextLocal",
+      "word": "accountant",
+      "hint": [
+        "Hint: =a person responsible for the money in a business"
+      ],
+      "options": [
+        {
+          "text": "một người chịu trách nhiệm về tiền trong một doanh nghiệp, kế toán",
+          "correct": true,
+          "hint": [
+            "Hint: =a person responsible for the money in a business"
+          ],
+          "term": "accountant",
+          "sound": "/media/audio/list1/45101_accountant_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "thuê",
+          "correct": false,
+          "hint": [
+            "Hint: =to rent"
+          ],
+          "term": "lease",
+          "sound": "/media/audio/list1/45101_lease_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "giữa trưa",
+          "correct": false,
+          "hint": [
+            "Hint: =the middle of the day"
+          ],
+          "term": "noon",
+          "sound": "/media/audio/list1/45101_noon_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "buổi hội thảo, buổi thảo luận chuyên đề",
+          "correct": false,
+          "hint": [
+            "Hint: =a discussion session or class led by a teacher or expert"
+          ],
+          "term": "seminar",
+          "sound": "/media/audio/list1/45101_seminar_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list1/45101_accountant_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170196",
+      "order": 36,
+      "type": "textForeignTextLocal",
+      "word": "lobby",
+      "hint": [
+        "Hint: =the main area of a hotel just inside the entrance"
+      ],
+      "options": [
+        {
+          "text": "tiền sảnh (của khách sạn)",
+          "correct": true,
+          "hint": [
+            "Hint: =the main area of a hotel just inside the entrance"
+          ],
+          "term": "lobby",
+          "sound": "/media/audio/list1/45101_lobby_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "ứng cử viên",
+          "correct": false,
+          "hint": [
+            "Hint: =a person being considered for a job or position in office"
+          ],
+          "term": "candidate",
+          "sound": "/media/audio/list1/45101_candidate_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "sự đặt trước",
+          "correct": false,
+          "hint": [
+            "Hint: =the act of putting something on hold / reserving for use later, e.g. car, hotel room"
+          ],
+          "term": "reservation",
+          "sound": "/media/audio/list1/45101_reservation_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "người đang gọi điện cho bạn",
+          "correct": false,
+          "hint": [
+            "Hint: =the person that is phoning you"
+          ],
+          "term": "caller",
+          "sound": "/media/audio/list1/45101_caller_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list1/45101_lobby_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170197",
+      "order": 37,
+      "type": "textForeignSentence",
+      "word": "downtowns",
+      "hint": [
+        "Hint: =the business or central part of a city or town"
+      ],
+      "options": [
+        {
+          "text": "khu vực trung tâm của thành phố",
+          "correct": true,
+          "hint": [
+            "Hint: =the business or central part of a city or town"
+          ],
+          "term": "downtowns",
+          "sound": "/media/audio/list1/45101_downtown_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "vây quanh, rào quanh",
+          "correct": false,
+          "hint": [
+            "Hint: =to surround fully"
+          ],
+          "term": "encloses",
+          "sound": "/media/audio/list1/45101_enclose_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "đầu bếp",
+          "correct": false,
+          "hint": [
+            "Hint: =a person who cooks for a living"
+          ],
+          "term": "chef",
+          "sound": "/media/audio/list1/45101_chef_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "thang máy",
+          "correct": false,
+          "hint": [
+            "Hint: =a machine that takes people to different floors in a building"
+          ],
+          "term": "elevator",
+          "sound": "/media/audio/list1/45101_elevator_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list1/45101_downtown_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170198",
+      "order": 38,
+      "type": "textForeignTextLocal",
+      "word": "luggage",
+      "hint": [
+        "Hint: =Bags and cases that you carry your clothes in when you go on a journey"
+      ],
+      "options": [
+        {
+          "text": "hành lý",
+          "correct": true,
+          "hint": [
+            "Hint: =Bags and cases that you carry your clothes in when you go on a journey"
+          ],
+          "term": "luggage",
+          "sound": "/media/audio/list1/45101_luggage_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "sự cho thuê",
+          "correct": false,
+          "hint": [
+            "Hint: =an arrangement to rent something for a period of time, or the act of renting something"
+          ],
+          "term": "rental",
+          "sound": "/media/audio/list1/45101_rental_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "ứng cử viên",
+          "correct": false,
+          "hint": [
+            "Hint: =a person being considered for a job or position in office"
+          ],
+          "term": "candidate",
+          "sound": "/media/audio/list1/45101_candidate_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "phí đăng ký, phí thuê bao; sự đăng ký dài hạn",
+          "correct": false,
+          "hint": [
+            "Hint: =the amount of money that you pay to receive a service or product regularly"
+          ],
+          "term": "subscription",
+          "sound": "/media/audio/list1/45101_subscription_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list1/45101_luggage_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170199",
+      "order": 39,
+      "type": "textForeignSentence",
+      "word": "website",
+      "hint": [
+        "Hint: =a set of internet pages that give information about a particular person or organization"
+      ],
+      "options": [
+        {
+          "text": "trang web",
+          "correct": true,
+          "hint": [
+            "Hint: =a set of internet pages that give information about a particular person or organization"
+          ],
+          "term": "website",
+          "sound": "/media/audio/list1/45101_website_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "buổi hội thảo, buổi thảo luận chuyên đề",
+          "correct": false,
+          "hint": [
+            "Hint: =a discussion session or class led by a teacher or expert"
+          ],
+          "term": "seminar",
+          "sound": "/media/audio/list1/45101_seminar_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "sự giao hàng",
+          "correct": false,
+          "hint": [
+            "Hint: =delivery of goods, e.g. carried by a large vehicle"
+          ],
+          "term": "shipment",
+          "sound": "/media/audio/list1/45101_shipment_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "tờ gấp quảng cáo",
+          "correct": false,
+          "hint": [
+            "Hint: =a small paper book that gives information about a product or service"
+          ],
+          "term": "brochure",
+          "sound": "/media/audio/list1/45101_brochure_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list1/45101_website_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170200",
+      "order": 40,
+      "type": "textForeignSentence",
+      "word": "o'clock",
+      "hint": [
+        "Hint: =the hour of the day"
+      ],
+      "options": [
+        {
+          "text": "giờ trong ngày",
+          "correct": true,
+          "hint": [
+            "Hint: =the hour of the day"
+          ],
+          "term": "o'clock",
+          "sound": "/media/audio/list1/45101_o_clock_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "cái khăn",
+          "correct": false,
+          "hint": [
+            "Hint: =a piece of thin material"
+          ],
+          "term": "cloth",
+          "sound": "/media/audio/list1/45101_cloth_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "xe đạp",
+          "correct": false,
+          "hint": [
+            "Hint: =a vehicle with two wheels and pedals"
+          ],
+          "term": "bicycle",
+          "sound": "/media/audio/list1/45101_bicycle_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "khách du lịch",
+          "correct": false,
+          "hint": [
+            "Hint: =a tourist or adventurer who visits many countries"
+          ],
+          "term": "travelers",
+          "sound": "/media/audio/list1/45101_traveler_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list1/45101_o_clock_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170201",
+      "order": 41,
+      "type": "textForeignTextLocal",
+      "word": "bicycle",
+      "hint": [
+        "Hint: =a vehicle with two wheels and pedals"
+      ],
+      "options": [
+        {
+          "text": "xe đạp",
+          "correct": true,
+          "hint": [
+            "Hint: =a vehicle with two wheels and pedals"
+          ],
+          "term": "bicycle",
+          "sound": "/media/audio/list1/45101_bicycle_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "khách du lịch",
+          "correct": false,
+          "hint": [
+            "Hint: =a tourist or adventurer who visits many countries"
+          ],
+          "term": "traveler",
+          "sound": "/media/audio/list1/45101_traveler_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "sự giao hàng",
+          "correct": false,
+          "hint": [
+            "Hint: =delivery of goods, e.g. carried by a large vehicle"
+          ],
+          "term": "shipment",
+          "sound": "/media/audio/list1/45101_shipment_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "kỳ nghỉ",
+          "correct": false,
+          "hint": [
+            "Hint: =a holiday or break from work"
+          ],
+          "term": "vacation",
+          "sound": "/media/audio/list1/45101_vacation_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list1/45101_bicycle_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170202",
+      "order": 42,
+      "type": "textForeignSentence",
+      "word": "cloth",
+      "hint": [
+        "Hint: =a piece of thin material"
+      ],
+      "options": [
+        {
+          "text": "cái khăn",
+          "correct": true,
+          "hint": [
+            "Hint: =a piece of thin material"
+          ],
+          "term": "cloth",
+          "sound": "/media/audio/list1/45101_cloth_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "Sự xem trước, sự duyệt trước",
+          "correct": false,
+          "hint": [
+            "Hint: =a chance to see something before it becomes generally available"
+          ],
+          "term": "previews",
+          "sound": "/media/audio/list1/45101_preview_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "hàng hóa, mặt hàng",
+          "correct": false,
+          "hint": [
+            "Hint: =resources or things bought or sold"
+          ],
+          "term": "goods",
+          "sound": "/media/audio/list1/45101_goods_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "gửi bằng máy fax",
+          "correct": false,
+          "hint": [
+            "Hint: =to send using a fax machine"
+          ],
+          "term": "faxed",
+          "sound": "/media/audio/list1/45101_fax_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list1/45101_cloth_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170203",
+      "order": 43,
+      "type": "textForeignTextLocal",
+      "word": "chef",
+      "hint": [
+        "Hint: =a person who cooks for a living"
+      ],
+      "options": [
+        {
+          "text": "đầu bếp",
+          "correct": true,
+          "hint": [
+            "Hint: =a person who cooks for a living"
+          ],
+          "term": "chef",
+          "sound": "/media/audio/list1/45101_chef_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "nhân viên bán hàng",
+          "correct": false,
+          "hint": [
+            "Hint: =someone who works at a counter"
+          ],
+          "term": "clerk",
+          "sound": "/media/audio/list1/45101_clerk_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "kỹ thuật viên",
+          "correct": false,
+          "hint": [
+            "Hint: =someone who is trained with special skills to do practical work"
+          ],
+          "term": "technician",
+          "sound": "/media/audio/list1/45101_technician_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "một cách xưng hô lịch sự với một người đàn ông",
+          "correct": false,
+          "hint": [
+            "Hint: =a form of address for a man"
+          ],
+          "term": "mister",
+          "sound": "/media/audio/list1/45101_mister_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list1/45101_chef_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170204",
+      "order": 44,
+      "type": "textForeignSentence",
+      "word": "mister",
+      "hint": [
+        "Hint: =a form of address for a man"
+      ],
+      "options": [
+        {
+          "text": "một cách xưng hô lịch sự với một người đàn ông",
+          "correct": true,
+          "hint": [
+            "Hint: =a form of address for a man"
+          ],
+          "term": "mister",
+          "sound": "/media/audio/list1/45101_mister_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "khách du lịch",
+          "correct": false,
+          "hint": [
+            "Hint: =a tourist or adventurer who visits many countries"
+          ],
+          "term": "travelers",
+          "sound": "/media/audio/list1/45101_traveler_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "người phục vụ",
+          "correct": false,
+          "hint": [
+            "Hint: =someone who waits on or tends to the needs of another"
+          ],
+          "term": "attendant",
+          "sound": "/media/audio/list1/45101_attendant_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "sự đón tiếp, tiệc chiêu đãi",
+          "correct": false,
+          "hint": [
+            "Hint: =the act of greeting people; a formal party at which important people are welcomed"
+          ],
+          "term": "reception",
+          "sound": "/media/audio/list1/45101_reception_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list1/45101_mister_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170205",
+      "order": 45,
+      "type": "textForeignSentence",
+      "word": "candidates",
+      "hint": [
+        "Hint: =a person being considered for a job or position in office"
+      ],
+      "options": [
+        {
+          "text": "ứng cử viên",
+          "correct": true,
+          "hint": [
+            "Hint: =a person being considered for a job or position in office"
+          ],
+          "term": "candidates",
+          "sound": "/media/audio/list1/45101_candidate_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "thông báo, cho biết",
+          "correct": false,
+          "hint": [
+            "Hint: =officially tell someone some information"
+          ],
+          "term": "notify",
+          "sound": "/media/audio/list1/45101_notify_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "nhân viên bán hàng",
+          "correct": false,
+          "hint": [
+            "Hint: =someone who works at a counter"
+          ],
+          "term": "clerk",
+          "sound": "/media/audio/list1/45101_clerk_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "trang web",
+          "correct": false,
+          "hint": [
+            "Hint: =a set of internet pages that give information about a particular person or organization"
+          ],
+          "term": "website",
+          "sound": "/media/audio/list1/45101_website_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list1/45101_candidate_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170206",
+      "order": 46,
+      "type": "textForeignSentence",
+      "word": "enclosing",
+      "hint": [
+        "Hint: =to surround fully"
+      ],
+      "options": [
+        {
+          "text": "vây quanh, rào quanh",
+          "correct": true,
+          "hint": [
+            "Hint: =to surround fully"
+          ],
+          "term": "enclosing",
+          "sound": "/media/audio/list1/45101_enclose_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "phân xưởng",
+          "correct": false,
+          "hint": [
+            "Hint: =a building or room where things are made or repaired"
+          ],
+          "term": "workshop",
+          "sound": "/media/audio/list1/45101_workshop_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "tờ gấp quảng cáo",
+          "correct": false,
+          "hint": [
+            "Hint: =a small paper book that gives information about a product or service"
+          ],
+          "term": "brochure",
+          "sound": "/media/audio/list1/45101_brochure_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "đường hầm",
+          "correct": false,
+          "hint": [
+            "Hint: =a tunnel under the road for people to walk through"
+          ],
+          "term": "subway",
+          "sound": "/media/audio/list1/45101_subway_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list1/45101_enclose_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170207",
+      "order": 47,
+      "type": "textForeignSentence",
+      "word": "cafeterias",
+      "hint": [
+        "Hint: =a restaurant where you serve yourself and pay a cashier"
+      ],
+      "options": [
+        {
+          "text": "quán ăn tự phục vụ",
+          "correct": true,
+          "hint": [
+            "Hint: =a restaurant where you serve yourself and pay a cashier"
+          ],
+          "term": "cafeterias",
+          "sound": "/media/audio/list1/45101_cafeteria_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "nhân viên phục vụ (nam giới)",
+          "correct": false,
+          "hint": [
+            "Hint: =a man whose job it is to bring meals to your table in a restaurant or cafe"
+          ],
+          "term": "waiter",
+          "sound": "/media/audio/list1/45101_waiter_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "phân xưởng",
+          "correct": false,
+          "hint": [
+            "Hint: =a building or room where things are made or repaired"
+          ],
+          "term": "workshop",
+          "sound": "/media/audio/list1/45101_workshop_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "đường hầm",
+          "correct": false,
+          "hint": [
+            "Hint: =a tunnel under the road for people to walk through"
+          ],
+          "term": "subway",
+          "sound": "/media/audio/list1/45101_subway_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list1/45101_cafeteria_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170208",
+      "order": 48,
+      "type": "textForeignSentence",
+      "word": "attendants",
+      "hint": [
+        "Hint: =someone who waits on or tends to the needs of another"
+      ],
+      "options": [
+        {
+          "text": "người phục vụ",
+          "correct": true,
+          "hint": [
+            "Hint: =someone who waits on or tends to the needs of another"
+          ],
+          "term": "attendants",
+          "sound": "/media/audio/list1/45101_attendant_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "tiền xe, tiền vé",
+          "correct": false,
+          "hint": [
+            "Hint: =the cost for a ride, e.g. bus, or taxi"
+          ],
+          "term": "fare",
+          "sound": "/media/audio/list1/45101_fare_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "giữa trưa",
+          "correct": false,
+          "hint": [
+            "Hint: =the middle of the day"
+          ],
+          "term": "noon",
+          "sound": "/media/audio/list1/45101_noon_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "đường hầm",
+          "correct": false,
+          "hint": [
+            "Hint: =a tunnel under the road for people to walk through"
+          ],
+          "term": "subway",
+          "sound": "/media/audio/list1/45101_subway_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list1/45101_attendant_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170209",
+      "order": 49,
+      "type": "textForeignTextLocal",
+      "word": "clerk",
+      "hint": [
+        "Hint: =someone who works at a counter"
+      ],
+      "options": [
+        {
+          "text": "nhân viên bán hàng",
+          "correct": true,
+          "hint": [
+            "Hint: =someone who works at a counter"
+          ],
+          "term": "clerk",
+          "sound": "/media/audio/list1/45101_clerk_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "một người chịu trách nhiệm về tiền trong một doanh nghiệp, kế toán",
+          "correct": false,
+          "hint": [
+            "Hint: =a person responsible for the money in a business"
+          ],
+          "term": "accountant",
+          "sound": "/media/audio/list1/45101_accountant_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "ứng viên",
+          "correct": false,
+          "hint": [
+            "Hint: =a person who submits papers in order to do something, e.g. job applicant"
+          ],
+          "term": "applicant",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "người giám sát",
+          "correct": false,
+          "hint": [
+            "Hint: =the person who is in charge"
+          ],
+          "term": "supervisor",
+          "sound": "/media/audio/list1/45101_supervisor_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list1/45101_clerk_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170210",
+      "order": 50,
+      "type": "textForeignTextLocal",
+      "word": "vacation",
+      "hint": [
+        "Hint: =a holiday or break from work"
+      ],
+      "options": [
+        {
+          "text": "kỳ nghỉ",
+          "correct": true,
+          "hint": [
+            "Hint: =a holiday or break from work"
+          ],
+          "term": "vacation",
+          "sound": "/media/audio/list1/45101_vacation_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "thuê",
+          "correct": false,
+          "hint": [
+            "Hint: =to rent"
+          ],
+          "term": "lease",
+          "sound": "/media/audio/list1/45101_lease_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "sự bảo hành",
+          "correct": false,
+          "hint": [
+            "Hint: =the promise to repair or replace a product if it ceases to work properly"
+          ],
+          "term": "warranty",
+          "sound": "/media/audio/list1/45101_warranty_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "kỹ thuật viên",
+          "correct": false,
+          "hint": [
+            "Hint: =someone who is trained with special skills to do practical work"
+          ],
+          "term": "technician",
+          "sound": "/media/audio/list1/45101_technician_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list1/45101_vacation_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170211",
+      "order": 51,
+      "type": "textForeignSentence",
+      "word": "technicians",
+      "hint": [
+        "Hint: =someone who is trained with special skills to do practical work"
+      ],
+      "options": [
+        {
+          "text": "kỹ thuật viên",
+          "correct": true,
+          "hint": [
+            "Hint: =someone who is trained with special skills to do practical work"
+          ],
+          "term": "technicians",
+          "sound": "/media/audio/list1/45101_technician_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "một cách xưng hô lịch sự với một người đàn ông",
+          "correct": false,
+          "hint": [
+            "Hint: =a form of address for a man"
+          ],
+          "term": "mister",
+          "sound": "/media/audio/list1/45101_mister_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "tờ gấp quảng cáo",
+          "correct": false,
+          "hint": [
+            "Hint: =a small paper book that gives information about a product or service"
+          ],
+          "term": "brochure",
+          "sound": "/media/audio/list1/45101_brochure_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "thông báo, cho biết",
+          "correct": false,
+          "hint": [
+            "Hint: =officially tell someone some information"
+          ],
+          "term": "notify",
+          "sound": "/media/audio/list1/45101_notify_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list1/45101_technician_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170212",
+      "order": 52,
+      "type": "textForeignTextLocal",
+      "word": "memo",
+      "hint": [
+        "Hint: =a written reminder to do something"
+      ],
+      "options": [
+        {
+          "text": "giấy ghi chú",
+          "correct": true,
+          "hint": [
+            "Hint: =a written reminder to do something"
+          ],
+          "term": "memo",
+          "sound": "/media/audio/list1/45101_memo_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "trang web",
+          "correct": false,
+          "hint": [
+            "Hint: =a set of internet pages that give information about a particular person or organization"
+          ],
+          "term": "website",
+          "sound": "/media/audio/list1/45101_website_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "vây quanh, rào quanh",
+          "correct": false,
+          "hint": [
+            "Hint: =to surround fully"
+          ],
+          "term": "enclose",
+          "sound": "/media/audio/list1/45101_enclose_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "tiền xe, tiền vé",
+          "correct": false,
+          "hint": [
+            "Hint: =the cost for a ride, e.g. bus, or taxi"
+          ],
+          "term": "fare",
+          "sound": "/media/audio/list1/45101_fare_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list1/45101_memo_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170213",
+      "order": 53,
+      "type": "textForeignTextLocal",
+      "word": "sometime",
+      "hint": [
+        "Hint: =at some unknown point in time"
+      ],
+      "options": [
+        {
+          "text": "một lúc nào đó",
+          "correct": true,
+          "hint": [
+            "Hint: =at some unknown point in time"
+          ],
+          "term": "sometime",
+          "sound": "/media/audio/list1/45101_sometime_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "xe đạp",
+          "correct": false,
+          "hint": [
+            "Hint: =a vehicle with two wheels and pedals"
+          ],
+          "term": "bicycle",
+          "sound": "/media/audio/list1/45101_bicycle_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "kỳ nghỉ",
+          "correct": false,
+          "hint": [
+            "Hint: =a holiday or break from work"
+          ],
+          "term": "vacation",
+          "sound": "/media/audio/list1/45101_vacation_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "vây quanh, rào quanh",
+          "correct": false,
+          "hint": [
+            "Hint: =to surround fully"
+          ],
+          "term": "enclose",
+          "sound": "/media/audio/list1/45101_enclose_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list1/45101_sometime_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170214",
+      "order": 54,
+      "type": "textForeignSentence",
+      "word": "correctly",
+      "hint": [
+        "Hint: =to do something the right way"
+      ],
+      "options": [
+        {
+          "text": "một cách chính xác, đúng đắn",
+          "correct": true,
+          "hint": [
+            "Hint: =to do something the right way"
+          ],
+          "term": "correctly",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "sự giao hàng",
+          "correct": false,
+          "hint": [
+            "Hint: =delivery of goods, e.g. carried by a large vehicle"
+          ],
+          "term": "shipment",
+          "sound": "/media/audio/list1/45101_shipment_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "đường hầm",
+          "correct": false,
+          "hint": [
+            "Hint: =a tunnel under the road for people to walk through"
+          ],
+          "term": "subway",
+          "sound": "/media/audio/list1/45101_subway_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "khách hàng",
+          "correct": false,
+          "hint": [
+            "Hint: =someone who pays for a service"
+          ],
+          "term": "clients",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": ""
+    },
+    {
+      "id": "1170215",
+      "order": 55,
+      "type": "textForeignTextLocal",
+      "word": "reservation",
+      "hint": [
+        "Hint: =the act of putting something on hold / reserving for use later, e.g. car, hotel room"
+      ],
+      "options": [
+        {
+          "text": "sự đặt trước",
+          "correct": true,
+          "hint": [
+            "Hint: =the act of putting something on hold / reserving for use later, e.g. car, hotel room"
+          ],
+          "term": "reservation",
+          "sound": "/media/audio/list1/45101_reservation_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "vây quanh, rào quanh",
+          "correct": false,
+          "hint": [
+            "Hint: =to surround fully"
+          ],
+          "term": "enclose",
+          "sound": "/media/audio/list1/45101_enclose_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "một cách chân thành",
+          "correct": false,
+          "hint": [
+            "Hint: =with honesty"
+          ],
+          "term": "sincerely",
+          "sound": "/media/audio/list1/45101_sincerely_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "một cách xưng hô lịch sự với một người đàn ông",
+          "correct": false,
+          "hint": [
+            "Hint: =a form of address for a man"
+          ],
+          "term": "mister",
+          "sound": "/media/audio/list1/45101_mister_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list1/45101_reservation_us.mp3",
+      "explanation": ""
+    }
+  ],
+  "totalQuestions": 55,
+  "complete": true
+}

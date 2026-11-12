@@ -1,0 +1,3199 @@
+{
+  "listNumber": 10,
+  "expectedQuestions": 55,
+  "listId": "45110",
+  "questions": [
+    {
+      "id": "1171339",
+      "order": 1,
+      "type": "textForeignSentence",
+      "word": "misplaced",
+      "hint": [
+        "Hint: =to put something somewhere and then forget where it is"
+      ],
+      "options": [
+        {
+          "text": "để nhầm chỗ",
+          "correct": true,
+          "hint": [
+            "Hint: =to put something somewhere and then forget where it is"
+          ],
+          "term": "misplaced",
+          "sound": "/media/audio/list10/45110_misplace_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "bị lỗi, mắc khuyết điểm",
+          "correct": false,
+          "hint": [
+            "Hint: =broken, not perfect"
+          ],
+          "term": "faulty",
+          "sound": "/media/audio/list10/45110_faulty_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "phần còn lại, phần dư",
+          "correct": false,
+          "hint": [
+            "Hint: =what is left over"
+          ],
+          "term": "remainder",
+          "sound": "/media/audio/list10/45110_remainder_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "giá đỡ, kệ để đồ",
+          "correct": false,
+          "hint": [
+            "Hint: =a stand or shelf to put things on"
+          ],
+          "term": "rack",
+          "sound": "/media/audio/list10/45110_rack_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list10/45110_misplace_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1171340",
+      "order": 2,
+      "type": "textForeignSentence",
+      "word": "deducted",
+      "hint": [
+        "Hint: =to subtract or take away (an amount)"
+      ],
+      "options": [
+        {
+          "text": "trừ hoặc lấy đi",
+          "correct": true,
+          "hint": [
+            "Hint: =to subtract or take away (an amount)"
+          ],
+          "term": "deducted",
+          "sound": "/media/audio/list10/45110_deduct_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "không giới hạn",
+          "correct": false,
+          "hint": [
+            "Hint: =without end"
+          ],
+          "term": "unlimited",
+          "sound": "/media/audio/list10/45110_unlimited_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "để nhầm chỗ",
+          "correct": false,
+          "hint": [
+            "Hint: =to put something somewhere and then forget where it is"
+          ],
+          "term": "misplaces",
+          "sound": "/media/audio/list10/45110_misplace_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "giấy chứng nhận, chứng chỉ",
+          "correct": false,
+          "hint": [
+            "Hint: =written proof that you did something or that something is good enough"
+          ],
+          "term": "certification",
+          "sound": "/media/audio/list10/45110_certification_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list10/45110_deduct_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1171341",
+      "order": 3,
+      "type": "textForeignSentence",
+      "word": "graduation",
+      "hint": [
+        "Hint: =the ceremony upon finishing a degree or program"
+      ],
+      "options": [
+        {
+          "text": "lễ tốt nghiệp, sự tốt nghiệp",
+          "correct": true,
+          "hint": [
+            "Hint: =the ceremony upon finishing a degree or program"
+          ],
+          "term": "graduation",
+          "sound": "/media/audio/list10/45110_graduation_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "tu sửa",
+          "correct": false,
+          "hint": [
+            "Hint: =change or alter nearly everything to make it look different"
+          ],
+          "term": "remodel",
+          "sound": "/media/audio/list10/45110_remodel_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "làm cho lạc đường; lừa dối",
+          "correct": false,
+          "hint": [
+            "Hint: =to make someone believe something that is not true; to give someone wrong directions"
+          ],
+          "term": "mislead",
+          "sound": "/media/audio/list10/45110_mislead_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "người lập kế hoạch",
+          "correct": false,
+          "hint": [
+            "Hint: =a person who makes plans"
+          ],
+          "term": "planners",
+          "sound": "/media/audio/list10/45110_planner_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list10/45110_graduation_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1171342",
+      "order": 4,
+      "type": "textForeignTextLocal",
+      "word": "planner",
+      "hint": [
+        "Hint: =a person who makes plans"
+      ],
+      "options": [
+        {
+          "text": "người lập kế hoạch",
+          "correct": true,
+          "hint": [
+            "Hint: =a person who makes plans"
+          ],
+          "term": "planner",
+          "sound": "/media/audio/list10/45110_planner_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "đường hầm",
+          "correct": false,
+          "hint": [
+            "Hint: =a hole one can travel through"
+          ],
+          "term": "tunnel",
+          "sound": "/media/audio/list10/45110_tunnel_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "tỉnh táo, cảnh giác",
+          "correct": false,
+          "hint": [
+            "Hint: =wide awake, aware"
+          ],
+          "term": "alert",
+          "sound": "/media/audio/list10/45110_alert_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "đồng phạm",
+          "correct": false,
+          "hint": [
+            "Hint: =partner in crime"
+          ],
+          "term": "accessory",
+          "sound": "/media/audio/list10/45110_accessory_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list10/45110_planner_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1171343",
+      "order": 5,
+      "type": "textForeignTextLocal",
+      "word": "rack",
+      "hint": [
+        "Hint: =a stand or shelf to put things on"
+      ],
+      "options": [
+        {
+          "text": "giá đỡ, kệ để đồ",
+          "correct": true,
+          "hint": [
+            "Hint: =a stand or shelf to put things on"
+          ],
+          "term": "rack",
+          "sound": "/media/audio/list10/45110_rack_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "(trang phục) thông thường, thoải mái; (sự kiện) không trang trọng",
+          "correct": false,
+          "hint": [
+            "Hint: =relaxed, casual - often used to describe clothes or an event"
+          ],
+          "term": "informal",
+          "sound": "/media/audio/list10/45110_informal_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "tu sửa",
+          "correct": false,
+          "hint": [
+            "Hint: =change or alter nearly everything to make it look different"
+          ],
+          "term": "remodel",
+          "sound": "/media/audio/list10/45110_remodel_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "khán phòng, giảng đường",
+          "correct": false,
+          "hint": [
+            "Hint: =the area of a theater or concert hall where the audience sits"
+          ],
+          "term": "auditorium",
+          "sound": "/media/audio/list10/45110_auditorium_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list10/45110_rack_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1171344",
+      "order": 6,
+      "type": "textForeignSentence",
+      "word": "businessperson",
+      "hint": [
+        "Hint: =a person who works in commercial or industrial business, especially an owner or executive"
+      ],
+      "options": [
+        {
+          "text": "doanh nhân",
+          "correct": true,
+          "hint": [
+            "Hint: =a person who works in commercial or industrial business, especially an owner or executive"
+          ],
+          "term": "businessperson",
+          "sound": "/media/audio/list10/45110_businessperson_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "sở thú",
+          "correct": false,
+          "hint": [
+            "Hint: =a park where many different types of live animals are kept"
+          ],
+          "term": "zoo",
+          "sound": "/media/audio/list10/45110_zoo_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "đường hầm",
+          "correct": false,
+          "hint": [
+            "Hint: =a hole one can travel through"
+          ],
+          "term": "tunnel",
+          "sound": "/media/audio/list10/45110_tunnel_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "thợ điện",
+          "correct": false,
+          "hint": [
+            "Hint: =a person who installs or repairs electrical or telephone lines"
+          ],
+          "term": "electricians",
+          "sound": "/media/audio/list10/45110_electrician_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list10/45110_businessperson_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1171345",
+      "order": 7,
+      "type": "textForeignSentence",
+      "word": "superiors",
+      "hint": [
+        "Hint: =the leader, someone higher than you in rank"
+      ],
+      "options": [
+        {
+          "text": "cấp trên",
+          "correct": true,
+          "hint": [
+            "Hint: =the leader, someone higher than you in rank"
+          ],
+          "term": "superiors",
+          "sound": "/media/audio/list10/45110_superior_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "vitamin",
+          "correct": false,
+          "hint": [
+            "Hint: =a natural substance found in food and drink that your body needs to be healthy"
+          ],
+          "term": "vitamin",
+          "sound": "/media/audio/list10/45110_vitamin_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "(trang phục) thông thường, thoải mái; (sự kiện) không trang trọng",
+          "correct": false,
+          "hint": [
+            "Hint: =relaxed, casual - often used to describe clothes or an event"
+          ],
+          "term": "informal",
+          "sound": "/media/audio/list10/45110_informal_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "nướng bằng lò",
+          "correct": false,
+          "hint": [
+            "Hint: =to cook things inside the oven"
+          ],
+          "term": "bakes",
+          "sound": "/media/audio/list10/45110_bake_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list10/45110_superior_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1171346",
+      "order": 8,
+      "type": "textForeignSentence",
+      "word": "overheads",
+      "hint": [
+        "Hint: =the fixed cost of a business, e.g. rent"
+      ],
+      "options": [
+        {
+          "text": "chi phí cố định của một doanh nghiệp",
+          "correct": true,
+          "hint": [
+            "Hint: =the fixed cost of a business, e.g. rent"
+          ],
+          "term": "overheads",
+          "sound": "/media/audio/list10/45110_overhead_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "đồng phạm",
+          "correct": false,
+          "hint": [
+            "Hint: =partner in crime"
+          ],
+          "term": "accessory",
+          "sound": "/media/audio/list10/45110_accessory_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "vitamin",
+          "correct": false,
+          "hint": [
+            "Hint: =a natural substance found in food and drink that your body needs to be healthy"
+          ],
+          "term": "vitamin",
+          "sound": "/media/audio/list10/45110_vitamin_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "đường hầm",
+          "correct": false,
+          "hint": [
+            "Hint: =a hole one can travel through"
+          ],
+          "term": "tunnel",
+          "sound": "/media/audio/list10/45110_tunnel_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list10/45110_overhead_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1171347",
+      "order": 9,
+      "type": "textForeignSentence",
+      "word": "disruption",
+      "hint": [
+        "Hint: =the act of interrupting and causing chaos"
+      ],
+      "options": [
+        {
+          "text": "hành động gián đoạn và gây ra sự hỗn loạn",
+          "correct": true,
+          "hint": [
+            "Hint: =the act of interrupting and causing chaos"
+          ],
+          "term": "disruption",
+          "sound": "/media/audio/list10/45110_disruption_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "đường hầm",
+          "correct": false,
+          "hint": [
+            "Hint: =a hole one can travel through"
+          ],
+          "term": "tunnel",
+          "sound": "/media/audio/list10/45110_tunnel_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "chi phí cố định của một doanh nghiệp",
+          "correct": false,
+          "hint": [
+            "Hint: =the fixed cost of a business, e.g. rent"
+          ],
+          "term": "overheads",
+          "sound": "/media/audio/list10/45110_overhead_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "sự đóng cửa (cơ sở kinh doanh)",
+          "correct": false,
+          "hint": [
+            "Hint: =when something is closed for good"
+          ],
+          "term": "closure",
+          "sound": "/media/audio/list10/45110_closure_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list10/45110_disruption_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1171348",
+      "order": 10,
+      "type": "textForeignTextLocal",
+      "word": "faulty",
+      "hint": [
+        "Hint: =broken, not perfect"
+      ],
+      "options": [
+        {
+          "text": "bị lỗi, mắc khuyết điểm",
+          "correct": true,
+          "hint": [
+            "Hint: =broken, not perfect"
+          ],
+          "term": "faulty",
+          "sound": "/media/audio/list10/45110_faulty_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "sự đóng cửa (cơ sở kinh doanh)",
+          "correct": false,
+          "hint": [
+            "Hint: =when something is closed for good"
+          ],
+          "term": "closure",
+          "sound": "/media/audio/list10/45110_closure_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "phần còn lại, phần dư",
+          "correct": false,
+          "hint": [
+            "Hint: =what is left over"
+          ],
+          "term": "remainder",
+          "sound": "/media/audio/list10/45110_remainder_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "quầy bán báo",
+          "correct": false,
+          "hint": [
+            "Hint: =a small structure where newspapers and magazines are sold"
+          ],
+          "term": "newsstand",
+          "sound": "/media/audio/list10/45110_newsstand_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list10/45110_faulty_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1171349",
+      "order": 11,
+      "type": "textForeignTextLocal",
+      "word": "statue",
+      "hint": [
+        "Hint: =a work of art, usually a model of a person or animal, made from hard material"
+      ],
+      "options": [
+        {
+          "text": "tượng",
+          "correct": true,
+          "hint": [
+            "Hint: =a work of art, usually a model of a person or animal, made from hard material"
+          ],
+          "term": "statue",
+          "sound": "/media/audio/list10/45110_statue_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "nướng bằng lò",
+          "correct": false,
+          "hint": [
+            "Hint: =to cook things inside the oven"
+          ],
+          "term": "bake",
+          "sound": "/media/audio/list10/45110_bake_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "nhà tuyển dụng",
+          "correct": false,
+          "hint": [
+            "Hint: =a person who hires people for businesses"
+          ],
+          "term": "recruiter",
+          "sound": "/media/audio/list10/45110_recruiter_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "Xe môtô",
+          "correct": false,
+          "hint": [
+            "Hint: =a motor vehicle with two wheels and a strong frame"
+          ],
+          "term": "motorcycle",
+          "sound": "/media/audio/list10/45110_motorcycle_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list10/45110_statue_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1171350",
+      "order": 12,
+      "type": "textForeignSentence",
+      "word": "mislead",
+      "hint": [
+        "Hint: =to make someone believe something that is not true; to give someone wrong directions"
+      ],
+      "options": [
+        {
+          "text": "làm cho lạc đường; lừa dối",
+          "correct": true,
+          "hint": [
+            "Hint: =to make someone believe something that is not true; to give someone wrong directions"
+          ],
+          "term": "mislead",
+          "sound": "/media/audio/list10/45110_mislead_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "sở thích",
+          "correct": false,
+          "hint": [
+            "Hint: =something you do in your spare time for fun"
+          ],
+          "term": "hobbies",
+          "sound": "/media/audio/list10/45110_hobby_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "hăng hái, nhiệt tình",
+          "correct": false,
+          "hint": [
+            "Hint: =showing a lot of excitement about something"
+          ],
+          "term": "enthusiastic",
+          "sound": "/media/audio/list10/45110_enthusiastic_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "kilômet",
+          "correct": false,
+          "hint": [
+            "Hint: =a metric unit of length equal to 1000 meters"
+          ],
+          "term": "kilometers",
+          "sound": "/media/audio/list10/45110_kilometer_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list10/45110_mislead_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1171351",
+      "order": 13,
+      "type": "textForeignSentence",
+      "word": "accessory",
+      "hint": [
+        "Hint: =partner in crime"
+      ],
+      "options": [
+        {
+          "text": "đồng phạm",
+          "correct": true,
+          "hint": [
+            "Hint: =partner in crime"
+          ],
+          "term": "accessory",
+          "sound": "/media/audio/list10/45110_accessory_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "(thuộc) giám đốc; (thuộc) quản lý",
+          "correct": false,
+          "hint": [
+            "Hint: =to do with management or supervision"
+          ],
+          "term": "managerial",
+          "sound": "/media/audio/list10/45110_managerial_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "giá đỡ, kệ để đồ",
+          "correct": false,
+          "hint": [
+            "Hint: =a stand or shelf to put things on"
+          ],
+          "term": "rack",
+          "sound": "/media/audio/list10/45110_rack_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "nhà tuyển dụng",
+          "correct": false,
+          "hint": [
+            "Hint: =a person who hires people for businesses"
+          ],
+          "term": "recruiters",
+          "sound": "/media/audio/list10/45110_recruiter_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list10/45110_accessory_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1171352",
+      "order": 14,
+      "type": "textForeignTextLocal",
+      "word": "airfare",
+      "hint": [
+        "Hint: =the amount of money charged for traveling by airplane"
+      ],
+      "options": [
+        {
+          "text": "tiền máy bay, phí hàng không",
+          "correct": true,
+          "hint": [
+            "Hint: =the amount of money charged for traveling by airplane"
+          ],
+          "term": "airfare",
+          "sound": "/media/audio/list10/45110_airfare_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "người lập kế hoạch",
+          "correct": false,
+          "hint": [
+            "Hint: =a person who makes plans"
+          ],
+          "term": "planner",
+          "sound": "/media/audio/list10/45110_planner_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "số liệu thống kê",
+          "correct": false,
+          "hint": [
+            "Hint: =numbers or facts collected to give information about something"
+          ],
+          "term": "statistics",
+          "sound": "/media/audio/list10/45110_statistics_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "vitamin",
+          "correct": false,
+          "hint": [
+            "Hint: =a natural substance found in food and drink that your body needs to be healthy"
+          ],
+          "term": "vitamin",
+          "sound": "/media/audio/list10/45110_vitamin_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list10/45110_airfare_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1171353",
+      "order": 15,
+      "type": "textForeignSentence",
+      "word": "electrician",
+      "hint": [
+        "Hint: =a person who installs or repairs electrical or telephone lines"
+      ],
+      "options": [
+        {
+          "text": "thợ điện",
+          "correct": true,
+          "hint": [
+            "Hint: =a person who installs or repairs electrical or telephone lines"
+          ],
+          "term": "electrician",
+          "sound": "/media/audio/list10/45110_electrician_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "một cách đều đặn, từ từ",
+          "correct": false,
+          "hint": [
+            "Hint: =in a slow and even manner"
+          ],
+          "term": "steadily",
+          "sound": "/media/audio/list10/45110_steadily_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "bị lỗi, mắc khuyết điểm",
+          "correct": false,
+          "hint": [
+            "Hint: =broken, not perfect"
+          ],
+          "term": "faulty",
+          "sound": "/media/audio/list10/45110_faulty_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "người nổi tiếng",
+          "correct": false,
+          "hint": [
+            "Hint: =someone famous"
+          ],
+          "term": "celebrities",
+          "sound": "/media/audio/list10/45110_celebrity_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list10/45110_electrician_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1171354",
+      "order": 16,
+      "type": "textForeignTextLocal",
+      "word": "downstairs",
+      "hint": [
+        "Hint: =on a lower floor of a building"
+      ],
+      "options": [
+        {
+          "text": "tầng dưới",
+          "correct": true,
+          "hint": [
+            "Hint: =on a lower floor of a building"
+          ],
+          "term": "downstairs",
+          "sound": "/media/audio/list10/45110_downstairs_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "khán phòng, giảng đường",
+          "correct": false,
+          "hint": [
+            "Hint: =the area of a theater or concert hall where the audience sits"
+          ],
+          "term": "auditorium",
+          "sound": "/media/audio/list10/45110_auditorium_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "làm cho lạc đường; lừa dối",
+          "correct": false,
+          "hint": [
+            "Hint: =to make someone believe something that is not true; to give someone wrong directions"
+          ],
+          "term": "mislead",
+          "sound": "/media/audio/list10/45110_mislead_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "Xe môtô",
+          "correct": false,
+          "hint": [
+            "Hint: =a motor vehicle with two wheels and a strong frame"
+          ],
+          "term": "motorcycle",
+          "sound": "/media/audio/list10/45110_motorcycle_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list10/45110_downstairs_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1171355",
+      "order": 17,
+      "type": "textForeignSentence",
+      "word": "programmer",
+      "hint": [
+        "Hint: =a person who designs and writes and tests computer programs"
+      ],
+      "options": [
+        {
+          "text": "lập trình viên",
+          "correct": true,
+          "hint": [
+            "Hint: =a person who designs and writes and tests computer programs"
+          ],
+          "term": "programmer",
+          "sound": "/media/audio/list10/45110_programmer_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "cuộc tụ tập, cuộc họp, hội đồng",
+          "correct": false,
+          "hint": [
+            "Hint: =when people are gathered together"
+          ],
+          "term": "assembly",
+          "sound": "/media/audio/list10/45110_assembly_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "số liệu thống kê",
+          "correct": false,
+          "hint": [
+            "Hint: =numbers or facts collected to give information about something"
+          ],
+          "term": "statistics",
+          "sound": "/media/audio/list10/45110_statistics_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "lễ tốt nghiệp, sự tốt nghiệp",
+          "correct": false,
+          "hint": [
+            "Hint: =the ceremony upon finishing a degree or program"
+          ],
+          "term": "graduation",
+          "sound": "/media/audio/list10/45110_graduation_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list10/45110_programmer_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1171356",
+      "order": 18,
+      "type": "textForeignTextLocal",
+      "word": "certification",
+      "hint": [
+        "Hint: =written proof that you did something or that something is good enough"
+      ],
+      "options": [
+        {
+          "text": "giấy chứng nhận, chứng chỉ",
+          "correct": true,
+          "hint": [
+            "Hint: =written proof that you did something or that something is good enough"
+          ],
+          "term": "certification",
+          "sound": "/media/audio/list10/45110_certification_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "hoa hồng",
+          "correct": false,
+          "hint": [
+            "Hint: =a red flower used to show love"
+          ],
+          "term": "rose",
+          "sound": "/media/audio/list10/45110_rose_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "sở thú",
+          "correct": false,
+          "hint": [
+            "Hint: =a park where many different types of live animals are kept"
+          ],
+          "term": "zoo",
+          "sound": "/media/audio/list10/45110_zoo_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "Đọc rà soát (để tìm ra lỗi)",
+          "correct": false,
+          "hint": [
+            "Hint: =read for errors"
+          ],
+          "term": "proofread",
+          "sound": "/media/audio/list10/45110_proofread_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list10/45110_certification_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1171357",
+      "order": 19,
+      "type": "textForeignTextLocal",
+      "word": "recruiter",
+      "hint": [
+        "Hint: =a person who hires people for businesses"
+      ],
+      "options": [
+        {
+          "text": "nhà tuyển dụng",
+          "correct": true,
+          "hint": [
+            "Hint: =a person who hires people for businesses"
+          ],
+          "term": "recruiter",
+          "sound": "/media/audio/list10/45110_recruiter_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "sự đóng cửa (cơ sở kinh doanh)",
+          "correct": false,
+          "hint": [
+            "Hint: =when something is closed for good"
+          ],
+          "term": "closure",
+          "sound": "/media/audio/list10/45110_closure_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "giá đỡ, kệ để đồ",
+          "correct": false,
+          "hint": [
+            "Hint: =a stand or shelf to put things on"
+          ],
+          "term": "rack",
+          "sound": "/media/audio/list10/45110_rack_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "số liệu thống kê",
+          "correct": false,
+          "hint": [
+            "Hint: =numbers or facts collected to give information about something"
+          ],
+          "term": "statistics",
+          "sound": "/media/audio/list10/45110_statistics_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list10/45110_recruiter_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1171358",
+      "order": 20,
+      "type": "textForeignSentence",
+      "word": "portfolio",
+      "hint": [
+        "Hint: =a collection of investments that someone owns"
+      ],
+      "options": [
+        {
+          "text": "danh mục đầu tư (của công ty, ngân hàng)",
+          "correct": true,
+          "hint": [
+            "Hint: =a collection of investments that someone owns"
+          ],
+          "term": "portfolio",
+          "sound": "/media/audio/list10/45110_portfolio_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "sở thích",
+          "correct": false,
+          "hint": [
+            "Hint: =something you do in your spare time for fun"
+          ],
+          "term": "hobbies",
+          "sound": "/media/audio/list10/45110_hobby_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "tu sửa",
+          "correct": false,
+          "hint": [
+            "Hint: =change or alter nearly everything to make it look different"
+          ],
+          "term": "remodel",
+          "sound": "/media/audio/list10/45110_remodel_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "giỏ, rổ",
+          "correct": false,
+          "hint": [
+            "Hint: =a container made of thin strips of material woven together"
+          ],
+          "term": "basket",
+          "sound": "/media/audio/list10/45110_basket_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list10/45110_portfolio_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1171359",
+      "order": 21,
+      "type": "textForeignTextLocal",
+      "word": "unlimited",
+      "hint": [
+        "Hint: =without end"
+      ],
+      "options": [
+        {
+          "text": "không giới hạn",
+          "correct": true,
+          "hint": [
+            "Hint: =without end"
+          ],
+          "term": "unlimited",
+          "sound": "/media/audio/list10/45110_unlimited_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "sở thích",
+          "correct": false,
+          "hint": [
+            "Hint: =something you do in your spare time for fun"
+          ],
+          "term": "hobby",
+          "sound": "/media/audio/list10/45110_hobby_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "tu sửa",
+          "correct": false,
+          "hint": [
+            "Hint: =change or alter nearly everything to make it look different"
+          ],
+          "term": "remodel",
+          "sound": "/media/audio/list10/45110_remodel_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "doanh nhân",
+          "correct": false,
+          "hint": [
+            "Hint: =a person who works in commercial or industrial business, especially an owner or executive"
+          ],
+          "term": "businessperson",
+          "sound": "/media/audio/list10/45110_businessperson_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list10/45110_unlimited_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1171360",
+      "order": 22,
+      "type": "textForeignTextLocal",
+      "word": "bake",
+      "hint": [
+        "Hint: =to cook things inside the oven"
+      ],
+      "options": [
+        {
+          "text": "nướng bằng lò",
+          "correct": true,
+          "hint": [
+            "Hint: =to cook things inside the oven"
+          ],
+          "term": "bake",
+          "sound": "/media/audio/list10/45110_bake_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "khán phòng, giảng đường",
+          "correct": false,
+          "hint": [
+            "Hint: =the area of a theater or concert hall where the audience sits"
+          ],
+          "term": "auditorium",
+          "sound": "/media/audio/list10/45110_auditorium_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "chi phí cố định của một doanh nghiệp",
+          "correct": false,
+          "hint": [
+            "Hint: =the fixed cost of a business, e.g. rent"
+          ],
+          "term": "overhead",
+          "sound": "/media/audio/list10/45110_overhead_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "kính hiển vi",
+          "correct": false,
+          "hint": [
+            "Hint: =a device that makes very small things look bigger so you can study them more closely"
+          ],
+          "term": "microscope",
+          "sound": "/media/audio/list10/45110_microscope_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list10/45110_bake_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1171361",
+      "order": 23,
+      "type": "textForeignSentence",
+      "word": "irregular",
+      "hint": [
+        "Hint: =not even or regular in shape"
+      ],
+      "options": [
+        {
+          "text": "không đều, không theo quy luật",
+          "correct": true,
+          "hint": [
+            "Hint: =not even or regular in shape"
+          ],
+          "term": "irregular",
+          "sound": "/media/audio/list10/45110_irregular_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "tỉnh táo, cảnh giác",
+          "correct": false,
+          "hint": [
+            "Hint: =wide awake, aware"
+          ],
+          "term": "alert",
+          "sound": "/media/audio/list10/45110_alert_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "một cách đáng kể",
+          "correct": false,
+          "hint": [
+            "Hint: =to a large degree"
+          ],
+          "term": "considerably",
+          "sound": "/media/audio/list10/45110_considerably_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "quầy bán báo",
+          "correct": false,
+          "hint": [
+            "Hint: =a small structure where newspapers and magazines are sold"
+          ],
+          "term": "newsstands",
+          "sound": "/media/audio/list10/45110_newsstand_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list10/45110_irregular_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1171362",
+      "order": 24,
+      "type": "textForeignSentence",
+      "word": "motorcycle",
+      "hint": [
+        "Hint: =a motor vehicle with two wheels and a strong frame"
+      ],
+      "options": [
+        {
+          "text": "Xe môtô",
+          "correct": true,
+          "hint": [
+            "Hint: =a motor vehicle with two wheels and a strong frame"
+          ],
+          "term": "motorcycle",
+          "sound": "/media/audio/list10/45110_motorcycle_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "nhà tuyển dụng",
+          "correct": false,
+          "hint": [
+            "Hint: =a person who hires people for businesses"
+          ],
+          "term": "recruiters",
+          "sound": "/media/audio/list10/45110_recruiter_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "giá đỡ, kệ để đồ",
+          "correct": false,
+          "hint": [
+            "Hint: =a stand or shelf to put things on"
+          ],
+          "term": "rack",
+          "sound": "/media/audio/list10/45110_rack_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "phần còn lại, phần dư",
+          "correct": false,
+          "hint": [
+            "Hint: =what is left over"
+          ],
+          "term": "remainder",
+          "sound": "/media/audio/list10/45110_remainder_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list10/45110_motorcycle_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1171363",
+      "order": 25,
+      "type": "textForeignTextLocal",
+      "word": "auditorium",
+      "hint": [
+        "Hint: =the area of a theater or concert hall where the audience sits"
+      ],
+      "options": [
+        {
+          "text": "khán phòng, giảng đường",
+          "correct": true,
+          "hint": [
+            "Hint: =the area of a theater or concert hall where the audience sits"
+          ],
+          "term": "auditorium",
+          "sound": "/media/audio/list10/45110_auditorium_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "trừ hoặc lấy đi",
+          "correct": false,
+          "hint": [
+            "Hint: =to subtract or take away (an amount)"
+          ],
+          "term": "deduct",
+          "sound": "/media/audio/list10/45110_deduct_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "hành động gián đoạn và gây ra sự hỗn loạn",
+          "correct": false,
+          "hint": [
+            "Hint: =the act of interrupting and causing chaos"
+          ],
+          "term": "disruption",
+          "sound": "/media/audio/list10/45110_disruption_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "một cách đáng kể",
+          "correct": false,
+          "hint": [
+            "Hint: =to a large degree"
+          ],
+          "term": "considerably",
+          "sound": "/media/audio/list10/45110_considerably_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list10/45110_auditorium_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1171364",
+      "order": 26,
+      "type": "textForeignSentence",
+      "word": "kilometers",
+      "hint": [
+        "Hint: =a metric unit of length equal to 1000 meters"
+      ],
+      "options": [
+        {
+          "text": "kilômet",
+          "correct": true,
+          "hint": [
+            "Hint: =a metric unit of length equal to 1000 meters"
+          ],
+          "term": "kilometers",
+          "sound": "/media/audio/list10/45110_kilometer_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "không đều, không theo quy luật",
+          "correct": false,
+          "hint": [
+            "Hint: =not even or regular in shape"
+          ],
+          "term": "irregular",
+          "sound": "/media/audio/list10/45110_irregular_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "kính hiển vi",
+          "correct": false,
+          "hint": [
+            "Hint: =a device that makes very small things look bigger so you can study them more closely"
+          ],
+          "term": "microscope",
+          "sound": "/media/audio/list10/45110_microscope_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "tượng",
+          "correct": false,
+          "hint": [
+            "Hint: =a work of art, usually a model of a person or animal, made from hard material"
+          ],
+          "term": "statue",
+          "sound": "/media/audio/list10/45110_statue_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list10/45110_kilometer_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1171365",
+      "order": 27,
+      "type": "textForeignSentence",
+      "word": "microscope",
+      "hint": [
+        "Hint: =a device that makes very small things look bigger so you can study them more closely"
+      ],
+      "options": [
+        {
+          "text": "kính hiển vi",
+          "correct": true,
+          "hint": [
+            "Hint: =a device that makes very small things look bigger so you can study them more closely"
+          ],
+          "term": "microscope",
+          "sound": "/media/audio/list10/45110_microscope_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "thợ điện",
+          "correct": false,
+          "hint": [
+            "Hint: =a person who installs or repairs electrical or telephone lines"
+          ],
+          "term": "electricians",
+          "sound": "/media/audio/list10/45110_electrician_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "sự đóng cửa (cơ sở kinh doanh)",
+          "correct": false,
+          "hint": [
+            "Hint: =when something is closed for good"
+          ],
+          "term": "closure",
+          "sound": "/media/audio/list10/45110_closure_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "người nổi tiếng",
+          "correct": false,
+          "hint": [
+            "Hint: =someone famous"
+          ],
+          "term": "celebrities",
+          "sound": "/media/audio/list10/45110_celebrity_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list10/45110_microscope_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1171366",
+      "order": 28,
+      "type": "textForeignSentence",
+      "word": "considerably",
+      "hint": [
+        "Hint: =to a large degree"
+      ],
+      "options": [
+        {
+          "text": "một cách đáng kể",
+          "correct": true,
+          "hint": [
+            "Hint: =to a large degree"
+          ],
+          "term": "considerably",
+          "sound": "/media/audio/list10/45110_considerably_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "để nhầm chỗ",
+          "correct": false,
+          "hint": [
+            "Hint: =to put something somewhere and then forget where it is"
+          ],
+          "term": "misplaces",
+          "sound": "/media/audio/list10/45110_misplace_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "lễ tốt nghiệp, sự tốt nghiệp",
+          "correct": false,
+          "hint": [
+            "Hint: =the ceremony upon finishing a degree or program"
+          ],
+          "term": "graduation",
+          "sound": "/media/audio/list10/45110_graduation_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "người lập kế hoạch",
+          "correct": false,
+          "hint": [
+            "Hint: =a person who makes plans"
+          ],
+          "term": "planners",
+          "sound": "/media/audio/list10/45110_planner_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list10/45110_considerably_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1171367",
+      "order": 29,
+      "type": "textForeignTextLocal",
+      "word": "vitamin",
+      "hint": [
+        "Hint: =a natural substance found in food and drink that your body needs to be healthy"
+      ],
+      "options": [
+        {
+          "text": "vitamin",
+          "correct": true,
+          "hint": [
+            "Hint: =a natural substance found in food and drink that your body needs to be healthy"
+          ],
+          "term": "vitamin",
+          "sound": "/media/audio/list10/45110_vitamin_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "giá đỡ, kệ để đồ",
+          "correct": false,
+          "hint": [
+            "Hint: =a stand or shelf to put things on"
+          ],
+          "term": "rack",
+          "sound": "/media/audio/list10/45110_rack_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "không giới hạn",
+          "correct": false,
+          "hint": [
+            "Hint: =without end"
+          ],
+          "term": "unlimited",
+          "sound": "/media/audio/list10/45110_unlimited_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "tu sửa",
+          "correct": false,
+          "hint": [
+            "Hint: =change or alter nearly everything to make it look different"
+          ],
+          "term": "remodel",
+          "sound": "/media/audio/list10/45110_remodel_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list10/45110_vitamin_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1171368",
+      "order": 30,
+      "type": "textForeignSentence",
+      "word": "necessity",
+      "hint": [
+        "Hint: =something which you need"
+      ],
+      "options": [
+        {
+          "text": "vật dụng cần thiết",
+          "correct": true,
+          "hint": [
+            "Hint: =something which you need"
+          ],
+          "term": "necessity",
+          "sound": "/media/audio/list10/45110_necessity_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "tiền máy bay, phí hàng không",
+          "correct": false,
+          "hint": [
+            "Hint: =the amount of money charged for traveling by airplane"
+          ],
+          "term": "airfares",
+          "sound": "/media/audio/list10/45110_airfare_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "cấp trên",
+          "correct": false,
+          "hint": [
+            "Hint: =the leader, someone higher than you in rank"
+          ],
+          "term": "superiors",
+          "sound": "/media/audio/list10/45110_superior_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "làm cho lạc đường; lừa dối",
+          "correct": false,
+          "hint": [
+            "Hint: =to make someone believe something that is not true; to give someone wrong directions"
+          ],
+          "term": "misleading",
+          "sound": "/media/audio/list10/45110_mislead_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list10/45110_necessity_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1171369",
+      "order": 31,
+      "type": "textForeignTextLocal",
+      "word": "vacant",
+      "hint": [
+        "Hint: =empty"
+      ],
+      "options": [
+        {
+          "text": "trống không",
+          "correct": true,
+          "hint": [
+            "Hint: =empty"
+          ],
+          "term": "vacant",
+          "sound": "/media/audio/list10/45110_vacant_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "giấy chứng nhận, chứng chỉ",
+          "correct": false,
+          "hint": [
+            "Hint: =written proof that you did something or that something is good enough"
+          ],
+          "term": "certification",
+          "sound": "/media/audio/list10/45110_certification_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "cuộc tụ tập, cuộc họp, hội đồng",
+          "correct": false,
+          "hint": [
+            "Hint: =when people are gathered together"
+          ],
+          "term": "assembly",
+          "sound": "/media/audio/list10/45110_assembly_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "doanh nhân",
+          "correct": false,
+          "hint": [
+            "Hint: =a person who works in commercial or industrial business, especially an owner or executive"
+          ],
+          "term": "businessperson",
+          "sound": "/media/audio/list10/45110_businessperson_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list10/45110_vacant_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1171370",
+      "order": 32,
+      "type": "textForeignSentence",
+      "word": "managerial",
+      "hint": [
+        "Hint: =to do with management or supervision"
+      ],
+      "options": [
+        {
+          "text": "(thuộc) giám đốc; (thuộc) quản lý",
+          "correct": true,
+          "hint": [
+            "Hint: =to do with management or supervision"
+          ],
+          "term": "managerial",
+          "sound": "/media/audio/list10/45110_managerial_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "(trang phục) thông thường, thoải mái; (sự kiện) không trang trọng",
+          "correct": false,
+          "hint": [
+            "Hint: =relaxed, casual - often used to describe clothes or an event"
+          ],
+          "term": "informal",
+          "sound": "/media/audio/list10/45110_informal_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "để nhầm chỗ",
+          "correct": false,
+          "hint": [
+            "Hint: =to put something somewhere and then forget where it is"
+          ],
+          "term": "misplaced",
+          "sound": "/media/audio/list10/45110_misplace_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "vitamin",
+          "correct": false,
+          "hint": [
+            "Hint: =a natural substance found in food and drink that your body needs to be healthy"
+          ],
+          "term": "vitamin",
+          "sound": "/media/audio/list10/45110_vitamin_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list10/45110_managerial_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1171371",
+      "order": 33,
+      "type": "textForeignSentence",
+      "word": "icy",
+      "hint": [
+        "Hint: =covered with ice; extremely cold"
+      ],
+      "options": [
+        {
+          "text": "Đóng băng, băng giá",
+          "correct": true,
+          "hint": [
+            "Hint: =covered with ice; extremely cold"
+          ],
+          "term": "icy",
+          "sound": "/media/audio/list10/45110_icy_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "hăng hái, nhiệt tình",
+          "correct": false,
+          "hint": [
+            "Hint: =showing a lot of excitement about something"
+          ],
+          "term": "enthusiastic",
+          "sound": "/media/audio/list10/45110_enthusiastic_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "sự đóng cửa (cơ sở kinh doanh)",
+          "correct": false,
+          "hint": [
+            "Hint: =when something is closed for good"
+          ],
+          "term": "closure",
+          "sound": "/media/audio/list10/45110_closure_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "lập trình viên",
+          "correct": false,
+          "hint": [
+            "Hint: =a person who designs and writes and tests computer programs"
+          ],
+          "term": "programmer",
+          "sound": "/media/audio/list10/45110_programmer_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list10/45110_icy_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1171372",
+      "order": 34,
+      "type": "textForeignSentence",
+      "word": "stockholders",
+      "hint": [
+        "Hint: =someone who holds shares of stock in a corporation"
+      ],
+      "options": [
+        {
+          "text": "cổ đông, người góp vốn",
+          "correct": true,
+          "hint": [
+            "Hint: =someone who holds shares of stock in a corporation"
+          ],
+          "term": "stockholders",
+          "sound": "/media/audio/list10/45110_stockholder_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "nướng bằng lò",
+          "correct": false,
+          "hint": [
+            "Hint: =to cook things inside the oven"
+          ],
+          "term": "bakes",
+          "sound": "/media/audio/list10/45110_bake_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "kilômet",
+          "correct": false,
+          "hint": [
+            "Hint: =a metric unit of length equal to 1000 meters"
+          ],
+          "term": "kilometers",
+          "sound": "/media/audio/list10/45110_kilometer_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "không đều, không theo quy luật",
+          "correct": false,
+          "hint": [
+            "Hint: =not even or regular in shape"
+          ],
+          "term": "irregular",
+          "sound": "/media/audio/list10/45110_irregular_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list10/45110_stockholder_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1171373",
+      "order": 35,
+      "type": "textForeignSentence",
+      "word": "assembly",
+      "hint": [
+        "Hint: =when people are gathered together"
+      ],
+      "options": [
+        {
+          "text": "cuộc tụ tập, cuộc họp, hội đồng",
+          "correct": true,
+          "hint": [
+            "Hint: =when people are gathered together"
+          ],
+          "term": "assembly",
+          "sound": "/media/audio/list10/45110_assembly_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "không đều, không theo quy luật",
+          "correct": false,
+          "hint": [
+            "Hint: =not even or regular in shape"
+          ],
+          "term": "irregular",
+          "sound": "/media/audio/list10/45110_irregular_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "thợ điện",
+          "correct": false,
+          "hint": [
+            "Hint: =a person who installs or repairs electrical or telephone lines"
+          ],
+          "term": "electrician",
+          "sound": "/media/audio/list10/45110_electrician_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "trống không",
+          "correct": false,
+          "hint": [
+            "Hint: =empty"
+          ],
+          "term": "vacant",
+          "sound": "/media/audio/list10/45110_vacant_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list10/45110_assembly_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1171374",
+      "order": 36,
+      "type": "textForeignSentence",
+      "word": "hobby",
+      "hint": [
+        "Hint: =something you do in your spare time for fun"
+      ],
+      "options": [
+        {
+          "text": "sở thích",
+          "correct": true,
+          "hint": [
+            "Hint: =something you do in your spare time for fun"
+          ],
+          "term": "hobby",
+          "sound": "/media/audio/list10/45110_hobby_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "thợ điện",
+          "correct": false,
+          "hint": [
+            "Hint: =a person who installs or repairs electrical or telephone lines"
+          ],
+          "term": "electricians",
+          "sound": "/media/audio/list10/45110_electrician_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "bị lỗi, mắc khuyết điểm",
+          "correct": false,
+          "hint": [
+            "Hint: =broken, not perfect"
+          ],
+          "term": "faulty",
+          "sound": "/media/audio/list10/45110_faulty_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "tượng",
+          "correct": false,
+          "hint": [
+            "Hint: =a work of art, usually a model of a person or animal, made from hard material"
+          ],
+          "term": "statue",
+          "sound": "/media/audio/list10/45110_statue_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list10/45110_hobby_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1171375",
+      "order": 37,
+      "type": "textForeignTextLocal",
+      "word": "celebrity",
+      "hint": [
+        "Hint: =someone famous"
+      ],
+      "options": [
+        {
+          "text": "người nổi tiếng",
+          "correct": true,
+          "hint": [
+            "Hint: =someone famous"
+          ],
+          "term": "celebrity",
+          "sound": "/media/audio/list10/45110_celebrity_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "phần còn lại, phần dư",
+          "correct": false,
+          "hint": [
+            "Hint: =what is left over"
+          ],
+          "term": "remainder",
+          "sound": "/media/audio/list10/45110_remainder_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "tu sửa",
+          "correct": false,
+          "hint": [
+            "Hint: =change or alter nearly everything to make it look different"
+          ],
+          "term": "remodel",
+          "sound": "/media/audio/list10/45110_remodel_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "để nhầm chỗ",
+          "correct": false,
+          "hint": [
+            "Hint: =to put something somewhere and then forget where it is"
+          ],
+          "term": "misplace",
+          "sound": "/media/audio/list10/45110_misplace_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list10/45110_celebrity_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1171376",
+      "order": 38,
+      "type": "textForeignSentence",
+      "word": "remainder",
+      "hint": [
+        "Hint: =what is left over"
+      ],
+      "options": [
+        {
+          "text": "phần còn lại, phần dư",
+          "correct": true,
+          "hint": [
+            "Hint: =what is left over"
+          ],
+          "term": "remainder",
+          "sound": "/media/audio/list10/45110_remainder_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "nướng bằng lò",
+          "correct": false,
+          "hint": [
+            "Hint: =to cook things inside the oven"
+          ],
+          "term": "bake",
+          "sound": "/media/audio/list10/45110_bake_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "không thích, ghét",
+          "correct": false,
+          "hint": [
+            "Hint: =to not like, hate"
+          ],
+          "term": "dislike",
+          "sound": "/media/audio/list10/45110_dislike_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "tỉnh táo, cảnh giác",
+          "correct": false,
+          "hint": [
+            "Hint: =wide awake, aware"
+          ],
+          "term": "alert",
+          "sound": "/media/audio/list10/45110_alert_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list10/45110_remainder_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1171377",
+      "order": 39,
+      "type": "textForeignSentence",
+      "word": "remodeled",
+      "hint": [
+        "Hint: =change or alter nearly everything to make it look different"
+      ],
+      "options": [
+        {
+          "text": "tu sửa",
+          "correct": true,
+          "hint": [
+            "Hint: =change or alter nearly everything to make it look different"
+          ],
+          "term": "remodeled",
+          "sound": "/media/audio/list10/45110_remodel_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "doanh nhân",
+          "correct": false,
+          "hint": [
+            "Hint: =a person who works in commercial or industrial business, especially an owner or executive"
+          ],
+          "term": "businessperson",
+          "sound": "/media/audio/list10/45110_businessperson_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "đồng phạm",
+          "correct": false,
+          "hint": [
+            "Hint: =partner in crime"
+          ],
+          "term": "accessory",
+          "sound": "/media/audio/list10/45110_accessory_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "quầy bán báo",
+          "correct": false,
+          "hint": [
+            "Hint: =a small structure where newspapers and magazines are sold"
+          ],
+          "term": "newsstands",
+          "sound": "/media/audio/list10/45110_newsstand_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list10/45110_remodel_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1171378",
+      "order": 40,
+      "type": "textForeignTextLocal",
+      "word": "statistics",
+      "hint": [
+        "Hint: =numbers or facts collected to give information about something"
+      ],
+      "options": [
+        {
+          "text": "số liệu thống kê",
+          "correct": true,
+          "hint": [
+            "Hint: =numbers or facts collected to give information about something"
+          ],
+          "term": "statistics",
+          "sound": "/media/audio/list10/45110_statistics_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "trừ hoặc lấy đi",
+          "correct": false,
+          "hint": [
+            "Hint: =to subtract or take away (an amount)"
+          ],
+          "term": "deduct",
+          "sound": "/media/audio/list10/45110_deduct_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "nướng bằng lò",
+          "correct": false,
+          "hint": [
+            "Hint: =to cook things inside the oven"
+          ],
+          "term": "bake",
+          "sound": "/media/audio/list10/45110_bake_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "bị lỗi, mắc khuyết điểm",
+          "correct": false,
+          "hint": [
+            "Hint: =broken, not perfect"
+          ],
+          "term": "faulty",
+          "sound": "/media/audio/list10/45110_faulty_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list10/45110_statistics_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1171379",
+      "order": 41,
+      "type": "textForeignTextLocal",
+      "word": "newsstand",
+      "hint": [
+        "Hint: =a small structure where newspapers and magazines are sold"
+      ],
+      "options": [
+        {
+          "text": "quầy bán báo",
+          "correct": true,
+          "hint": [
+            "Hint: =a small structure where newspapers and magazines are sold"
+          ],
+          "term": "newsstand",
+          "sound": "/media/audio/list10/45110_newsstand_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "số liệu thống kê",
+          "correct": false,
+          "hint": [
+            "Hint: =numbers or facts collected to give information about something"
+          ],
+          "term": "statistics",
+          "sound": "/media/audio/list10/45110_statistics_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "sự đóng cửa (cơ sở kinh doanh)",
+          "correct": false,
+          "hint": [
+            "Hint: =when something is closed for good"
+          ],
+          "term": "closure",
+          "sound": "/media/audio/list10/45110_closure_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "giá đỡ, kệ để đồ",
+          "correct": false,
+          "hint": [
+            "Hint: =a stand or shelf to put things on"
+          ],
+          "term": "rack",
+          "sound": "/media/audio/list10/45110_rack_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list10/45110_newsstand_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1171380",
+      "order": 42,
+      "type": "textForeignSentence",
+      "word": "login",
+      "hint": [
+        "Hint: =to enter a computer website account"
+      ],
+      "options": [
+        {
+          "text": "đăng nhập",
+          "correct": true,
+          "hint": [
+            "Hint: =to enter a computer website account"
+          ],
+          "term": "login",
+          "sound": "/media/audio/list10/45110_login_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "vật dụng cần thiết",
+          "correct": false,
+          "hint": [
+            "Hint: =something which you need"
+          ],
+          "term": "necessities",
+          "sound": "/media/audio/list10/45110_necessity_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "đồng phạm",
+          "correct": false,
+          "hint": [
+            "Hint: =partner in crime"
+          ],
+          "term": "accessory",
+          "sound": "/media/audio/list10/45110_accessory_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "bãi cỏ",
+          "correct": false,
+          "hint": [
+            "Hint: =the grassy area in your garden"
+          ],
+          "term": "lawn",
+          "sound": "/media/audio/list10/45110_lawn_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list10/45110_login_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1171381",
+      "order": 43,
+      "type": "textForeignTextLocal",
+      "word": "steadily",
+      "hint": [
+        "Hint: =in a slow and even manner"
+      ],
+      "options": [
+        {
+          "text": "một cách đều đặn, từ từ",
+          "correct": true,
+          "hint": [
+            "Hint: =in a slow and even manner"
+          ],
+          "term": "steadily",
+          "sound": "/media/audio/list10/45110_steadily_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "Xe môtô",
+          "correct": false,
+          "hint": [
+            "Hint: =a motor vehicle with two wheels and a strong frame"
+          ],
+          "term": "motorcycle",
+          "sound": "/media/audio/list10/45110_motorcycle_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "danh mục đầu tư (của công ty, ngân hàng)",
+          "correct": false,
+          "hint": [
+            "Hint: =a collection of investments that someone owns"
+          ],
+          "term": "portfolio",
+          "sound": "/media/audio/list10/45110_portfolio_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "(thuộc) giám đốc; (thuộc) quản lý",
+          "correct": false,
+          "hint": [
+            "Hint: =to do with management or supervision"
+          ],
+          "term": "managerial",
+          "sound": "/media/audio/list10/45110_managerial_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list10/45110_steadily_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1171382",
+      "order": 44,
+      "type": "textForeignSentence",
+      "word": "proofread",
+      "hint": [
+        "Hint: =read for errors"
+      ],
+      "options": [
+        {
+          "text": "Đọc rà soát (để tìm ra lỗi)",
+          "correct": true,
+          "hint": [
+            "Hint: =read for errors"
+          ],
+          "term": "proofread",
+          "sound": "/media/audio/list10/45110_proofread_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "người lập kế hoạch",
+          "correct": false,
+          "hint": [
+            "Hint: =a person who makes plans"
+          ],
+          "term": "planners",
+          "sound": "/media/audio/list10/45110_planner_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "trống không",
+          "correct": false,
+          "hint": [
+            "Hint: =empty"
+          ],
+          "term": "vacant",
+          "sound": "/media/audio/list10/45110_vacant_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "không đều, không theo quy luật",
+          "correct": false,
+          "hint": [
+            "Hint: =not even or regular in shape"
+          ],
+          "term": "irregular",
+          "sound": "/media/audio/list10/45110_irregular_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list10/45110_proofread_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1171383",
+      "order": 45,
+      "type": "textForeignSentence",
+      "word": "lawn",
+      "hint": [
+        "Hint: =the grassy area in your garden"
+      ],
+      "options": [
+        {
+          "text": "bãi cỏ",
+          "correct": true,
+          "hint": [
+            "Hint: =the grassy area in your garden"
+          ],
+          "term": "lawn",
+          "sound": "/media/audio/list10/45110_lawn_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "khán phòng, giảng đường",
+          "correct": false,
+          "hint": [
+            "Hint: =the area of a theater or concert hall where the audience sits"
+          ],
+          "term": "auditorium",
+          "sound": "/media/audio/list10/45110_auditorium_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "cuộc tụ tập, cuộc họp, hội đồng",
+          "correct": false,
+          "hint": [
+            "Hint: =when people are gathered together"
+          ],
+          "term": "assembly",
+          "sound": "/media/audio/list10/45110_assembly_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "Đóng băng, băng giá",
+          "correct": false,
+          "hint": [
+            "Hint: =covered with ice; extremely cold"
+          ],
+          "term": "icy",
+          "sound": "/media/audio/list10/45110_icy_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list10/45110_lawn_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1171384",
+      "order": 46,
+      "type": "textForeignSentence",
+      "word": "mineral",
+      "hint": [
+        "Hint: =a type of substance found in nature"
+      ],
+      "options": [
+        {
+          "text": "khoáng chất",
+          "correct": true,
+          "hint": [
+            "Hint: =a type of substance found in nature"
+          ],
+          "term": "mineral",
+          "sound": "/media/audio/list10/45110_mineral_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "vật dụng cần thiết",
+          "correct": false,
+          "hint": [
+            "Hint: =something which you need"
+          ],
+          "term": "necessity",
+          "sound": "/media/audio/list10/45110_necessity_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "vitamin",
+          "correct": false,
+          "hint": [
+            "Hint: =a natural substance found in food and drink that your body needs to be healthy"
+          ],
+          "term": "vitamin",
+          "sound": "/media/audio/list10/45110_vitamin_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "giỏ, rổ",
+          "correct": false,
+          "hint": [
+            "Hint: =a container made of thin strips of material woven together"
+          ],
+          "term": "basket",
+          "sound": "/media/audio/list10/45110_basket_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list10/45110_mineral_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1171385",
+      "order": 47,
+      "type": "textForeignSentence",
+      "word": "informal",
+      "hint": [
+        "Hint: =relaxed, casual - often used to describe clothes or an event"
+      ],
+      "options": [
+        {
+          "text": "(trang phục) thông thường, thoải mái; (sự kiện) không trang trọng",
+          "correct": true,
+          "hint": [
+            "Hint: =relaxed, casual - often used to describe clothes or an event"
+          ],
+          "term": "informal",
+          "sound": "/media/audio/list10/45110_informal_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "nhà tuyển dụng",
+          "correct": false,
+          "hint": [
+            "Hint: =a person who hires people for businesses"
+          ],
+          "term": "recruiter",
+          "sound": "/media/audio/list10/45110_recruiter_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "bãi cỏ",
+          "correct": false,
+          "hint": [
+            "Hint: =the grassy area in your garden"
+          ],
+          "term": "lawn",
+          "sound": "/media/audio/list10/45110_lawn_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "kilômet",
+          "correct": false,
+          "hint": [
+            "Hint: =a metric unit of length equal to 1000 meters"
+          ],
+          "term": "kilometers",
+          "sound": "/media/audio/list10/45110_kilometer_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list10/45110_informal_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1171386",
+      "order": 48,
+      "type": "textForeignTextLocal",
+      "word": "tunnel",
+      "hint": [
+        "Hint: =a hole one can travel through"
+      ],
+      "options": [
+        {
+          "text": "đường hầm",
+          "correct": true,
+          "hint": [
+            "Hint: =a hole one can travel through"
+          ],
+          "term": "tunnel",
+          "sound": "/media/audio/list10/45110_tunnel_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "nhà tuyển dụng",
+          "correct": false,
+          "hint": [
+            "Hint: =a person who hires people for businesses"
+          ],
+          "term": "recruiter",
+          "sound": "/media/audio/list10/45110_recruiter_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "không giới hạn",
+          "correct": false,
+          "hint": [
+            "Hint: =without end"
+          ],
+          "term": "unlimited",
+          "sound": "/media/audio/list10/45110_unlimited_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "lập trình viên",
+          "correct": false,
+          "hint": [
+            "Hint: =a person who designs and writes and tests computer programs"
+          ],
+          "term": "programmer",
+          "sound": "/media/audio/list10/45110_programmer_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list10/45110_tunnel_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1171387",
+      "order": 49,
+      "type": "textForeignTextLocal",
+      "word": "dislike",
+      "hint": [
+        "Hint: =to not like, hate"
+      ],
+      "options": [
+        {
+          "text": "không thích, ghét",
+          "correct": true,
+          "hint": [
+            "Hint: =to not like, hate"
+          ],
+          "term": "dislike",
+          "sound": "/media/audio/list10/45110_dislike_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "doanh nhân",
+          "correct": false,
+          "hint": [
+            "Hint: =a person who works in commercial or industrial business, especially an owner or executive"
+          ],
+          "term": "businessperson",
+          "sound": "/media/audio/list10/45110_businessperson_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "sự đóng cửa (cơ sở kinh doanh)",
+          "correct": false,
+          "hint": [
+            "Hint: =when something is closed for good"
+          ],
+          "term": "closure",
+          "sound": "/media/audio/list10/45110_closure_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "khoáng chất",
+          "correct": false,
+          "hint": [
+            "Hint: =a type of substance found in nature"
+          ],
+          "term": "mineral",
+          "sound": "/media/audio/list10/45110_mineral_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list10/45110_dislike_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1171388",
+      "order": 50,
+      "type": "textForeignTextLocal",
+      "word": "closure",
+      "hint": [
+        "Hint: =when something is closed for good"
+      ],
+      "options": [
+        {
+          "text": "sự đóng cửa (cơ sở kinh doanh)",
+          "correct": true,
+          "hint": [
+            "Hint: =when something is closed for good"
+          ],
+          "term": "closure",
+          "sound": "/media/audio/list10/45110_closure_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "người nổi tiếng",
+          "correct": false,
+          "hint": [
+            "Hint: =someone famous"
+          ],
+          "term": "celebrity",
+          "sound": "/media/audio/list10/45110_celebrity_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "(thuộc) giám đốc; (thuộc) quản lý",
+          "correct": false,
+          "hint": [
+            "Hint: =to do with management or supervision"
+          ],
+          "term": "managerial",
+          "sound": "/media/audio/list10/45110_managerial_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "đồng phạm",
+          "correct": false,
+          "hint": [
+            "Hint: =partner in crime"
+          ],
+          "term": "accessory",
+          "sound": "/media/audio/list10/45110_accessory_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list10/45110_closure_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1171389",
+      "order": 51,
+      "type": "textForeignTextLocal",
+      "word": "basket",
+      "hint": [
+        "Hint: =a container made of thin strips of material woven together"
+      ],
+      "options": [
+        {
+          "text": "giỏ, rổ",
+          "correct": true,
+          "hint": [
+            "Hint: =a container made of thin strips of material woven together"
+          ],
+          "term": "basket",
+          "sound": "/media/audio/list10/45110_basket_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "Xe môtô",
+          "correct": false,
+          "hint": [
+            "Hint: =a motor vehicle with two wheels and a strong frame"
+          ],
+          "term": "motorcycle",
+          "sound": "/media/audio/list10/45110_motorcycle_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "sở thú",
+          "correct": false,
+          "hint": [
+            "Hint: =a park where many different types of live animals are kept"
+          ],
+          "term": "zoo",
+          "sound": "/media/audio/list10/45110_zoo_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "bãi cỏ",
+          "correct": false,
+          "hint": [
+            "Hint: =the grassy area in your garden"
+          ],
+          "term": "lawn",
+          "sound": "/media/audio/list10/45110_lawn_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list10/45110_basket_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1171390",
+      "order": 52,
+      "type": "textForeignSentence",
+      "word": "zoo",
+      "hint": [
+        "Hint: =a park where many different types of live animals are kept"
+      ],
+      "options": [
+        {
+          "text": "sở thú",
+          "correct": true,
+          "hint": [
+            "Hint: =a park where many different types of live animals are kept"
+          ],
+          "term": "zoo",
+          "sound": "/media/audio/list10/45110_zoo_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "giỏ, rổ",
+          "correct": false,
+          "hint": [
+            "Hint: =a container made of thin strips of material woven together"
+          ],
+          "term": "basket",
+          "sound": "/media/audio/list10/45110_basket_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "vật dụng cần thiết",
+          "correct": false,
+          "hint": [
+            "Hint: =something which you need"
+          ],
+          "term": "necessity",
+          "sound": "/media/audio/list10/45110_necessity_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "giá đỡ, kệ để đồ",
+          "correct": false,
+          "hint": [
+            "Hint: =a stand or shelf to put things on"
+          ],
+          "term": "rack",
+          "sound": "/media/audio/list10/45110_rack_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list10/45110_zoo_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1171391",
+      "order": 53,
+      "type": "textForeignSentence",
+      "word": "enthusiastic",
+      "hint": [
+        "Hint: =showing a lot of excitement about something"
+      ],
+      "options": [
+        {
+          "text": "hăng hái, nhiệt tình",
+          "correct": true,
+          "hint": [
+            "Hint: =showing a lot of excitement about something"
+          ],
+          "term": "enthusiastic",
+          "sound": "/media/audio/list10/45110_enthusiastic_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "tỉnh táo, cảnh giác",
+          "correct": false,
+          "hint": [
+            "Hint: =wide awake, aware"
+          ],
+          "term": "alert",
+          "sound": "/media/audio/list10/45110_alert_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "danh mục đầu tư (của công ty, ngân hàng)",
+          "correct": false,
+          "hint": [
+            "Hint: =a collection of investments that someone owns"
+          ],
+          "term": "portfolio",
+          "sound": "/media/audio/list10/45110_portfolio_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "lập trình viên",
+          "correct": false,
+          "hint": [
+            "Hint: =a person who designs and writes and tests computer programs"
+          ],
+          "term": "programmer",
+          "sound": "/media/audio/list10/45110_programmer_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list10/45110_enthusiastic_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1171392",
+      "order": 54,
+      "type": "textForeignSentence",
+      "word": "rose",
+      "hint": [
+        "Hint: =a red flower used to show love"
+      ],
+      "options": [
+        {
+          "text": "hoa hồng",
+          "correct": true,
+          "hint": [
+            "Hint: =a red flower used to show love"
+          ],
+          "term": "rose",
+          "sound": "/media/audio/list10/45110_rose_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "hành động gián đoạn và gây ra sự hỗn loạn",
+          "correct": false,
+          "hint": [
+            "Hint: =the act of interrupting and causing chaos"
+          ],
+          "term": "disruptions",
+          "sound": "/media/audio/list10/45110_disruption_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "để nhầm chỗ",
+          "correct": false,
+          "hint": [
+            "Hint: =to put something somewhere and then forget where it is"
+          ],
+          "term": "misplaces",
+          "sound": "/media/audio/list10/45110_misplace_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "cuộc tụ tập, cuộc họp, hội đồng",
+          "correct": false,
+          "hint": [
+            "Hint: =when people are gathered together"
+          ],
+          "term": "assembly",
+          "sound": "/media/audio/list10/45110_assembly_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list10/45110_rose_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1171393",
+      "order": 55,
+      "type": "textForeignSentence",
+      "word": "alert",
+      "hint": [
+        "Hint: =wide awake, aware"
+      ],
+      "options": [
+        {
+          "text": "tỉnh táo, cảnh giác",
+          "correct": true,
+          "hint": [
+            "Hint: =wide awake, aware"
+          ],
+          "term": "alert",
+          "sound": "/media/audio/list10/45110_alert_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "không thích, ghét",
+          "correct": false,
+          "hint": [
+            "Hint: =to not like, hate"
+          ],
+          "term": "disliked",
+          "sound": "/media/audio/list10/45110_dislike_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "hoa hồng",
+          "correct": false,
+          "hint": [
+            "Hint: =a red flower used to show love"
+          ],
+          "term": "rose",
+          "sound": "/media/audio/list10/45110_rose_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "sự đóng cửa (cơ sở kinh doanh)",
+          "correct": false,
+          "hint": [
+            "Hint: =when something is closed for good"
+          ],
+          "term": "closure",
+          "sound": "/media/audio/list10/45110_closure_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list10/45110_alert_us.mp3",
+      "explanation": ""
+    }
+  ],
+  "totalQuestions": 55,
+  "complete": true
+}

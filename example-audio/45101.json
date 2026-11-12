@@ -1,0 +1,829 @@
+{
+  "examples": [
+    {
+      "word": "accountant",
+      "exampleIndex": 1,
+      "audio": "/media/audio/examples/list1/45101_1_1.mp3"
+    },
+    {
+      "word": "accountant",
+      "exampleIndex": 2,
+      "audio": "/media/audio/examples/list1/45101_1_2.mp3"
+    },
+    {
+      "word": "accountant",
+      "exampleIndex": 3,
+      "audio": "/media/audio/examples/list1/45101_1_3.mp3"
+    },
+    {
+      "word": "airport",
+      "exampleIndex": 1,
+      "audio": "/media/audio/examples/list1/45101_2_1.mp3"
+    },
+    {
+      "word": "airport",
+      "exampleIndex": 2,
+      "audio": "/media/audio/examples/list1/45101_2_2.mp3"
+    },
+    {
+      "word": "airport",
+      "exampleIndex": 3,
+      "audio": "/media/audio/examples/list1/45101_2_3.mp3"
+    },
+    {
+      "word": "applicant",
+      "exampleIndex": 1,
+      "audio": "/media/audio/examples/list1/45101_3_1.mp3"
+    },
+    {
+      "word": "applicant",
+      "exampleIndex": 2,
+      "audio": "/media/audio/examples/list1/45101_3_2.mp3"
+    },
+    {
+      "word": "applicant",
+      "exampleIndex": 3,
+      "audio": "/media/audio/examples/list1/45101_3_3.mp3"
+    },
+    {
+      "word": "attendant",
+      "exampleIndex": 1,
+      "audio": "/media/audio/examples/list1/45101_4_1.mp3"
+    },
+    {
+      "word": "attendant",
+      "exampleIndex": 2,
+      "audio": "/media/audio/examples/list1/45101_4_2.mp3"
+    },
+    {
+      "word": "attendant",
+      "exampleIndex": 3,
+      "audio": "/media/audio/examples/list1/45101_4_3.mp3"
+    },
+    {
+      "word": "bicycle",
+      "exampleIndex": 1,
+      "audio": "/media/audio/examples/list1/45101_5_1.mp3"
+    },
+    {
+      "word": "bicycle",
+      "exampleIndex": 2,
+      "audio": "/media/audio/examples/list1/45101_5_2.mp3"
+    },
+    {
+      "word": "bicycle",
+      "exampleIndex": 3,
+      "audio": "/media/audio/examples/list1/45101_5_3.mp3"
+    },
+    {
+      "word": "brochure",
+      "exampleIndex": 1,
+      "audio": "/media/audio/examples/list1/45101_6_1.mp3"
+    },
+    {
+      "word": "brochure",
+      "exampleIndex": 2,
+      "audio": "/media/audio/examples/list1/45101_6_2.mp3"
+    },
+    {
+      "word": "brochure",
+      "exampleIndex": 3,
+      "audio": "/media/audio/examples/list1/45101_6_3.mp3"
+    },
+    {
+      "word": "cafeteria",
+      "exampleIndex": 1,
+      "audio": "/media/audio/examples/list1/45101_7_1.mp3"
+    },
+    {
+      "word": "cafeteria",
+      "exampleIndex": 2,
+      "audio": "/media/audio/examples/list1/45101_7_2.mp3"
+    },
+    {
+      "word": "cafeteria",
+      "exampleIndex": 3,
+      "audio": "/media/audio/examples/list1/45101_7_3.mp3"
+    },
+    {
+      "word": "caller",
+      "exampleIndex": 1,
+      "audio": "/media/audio/examples/list1/45101_8_1.mp3"
+    },
+    {
+      "word": "caller",
+      "exampleIndex": 2,
+      "audio": "/media/audio/examples/list1/45101_8_2.mp3"
+    },
+    {
+      "word": "caller",
+      "exampleIndex": 3,
+      "audio": "/media/audio/examples/list1/45101_8_3.mp3"
+    },
+    {
+      "word": "candidate",
+      "exampleIndex": 1,
+      "audio": "/media/audio/examples/list1/45101_9_1.mp3"
+    },
+    {
+      "word": "candidate",
+      "exampleIndex": 2,
+      "audio": "/media/audio/examples/list1/45101_9_2.mp3"
+    },
+    {
+      "word": "candidate",
+      "exampleIndex": 3,
+      "audio": "/media/audio/examples/list1/45101_9_3.mp3"
+    },
+    {
+      "word": "chef",
+      "exampleIndex": 1,
+      "audio": "/media/audio/examples/list1/45101_10_1.mp3"
+    },
+    {
+      "word": "chef",
+      "exampleIndex": 2,
+      "audio": "/media/audio/examples/list1/45101_10_2.mp3"
+    },
+    {
+      "word": "chef",
+      "exampleIndex": 3,
+      "audio": "/media/audio/examples/list1/45101_10_3.mp3"
+    },
+    {
+      "word": "clerk",
+      "exampleIndex": 1,
+      "audio": "/media/audio/examples/list1/45101_11_1.mp3"
+    },
+    {
+      "word": "clerk",
+      "exampleIndex": 2,
+      "audio": "/media/audio/examples/list1/45101_11_2.mp3"
+    },
+    {
+      "word": "clerk",
+      "exampleIndex": 3,
+      "audio": "/media/audio/examples/list1/45101_11_3.mp3"
+    },
+    {
+      "word": "client",
+      "exampleIndex": 1,
+      "audio": "/media/audio/examples/list1/45101_12_1.mp3"
+    },
+    {
+      "word": "client",
+      "exampleIndex": 2,
+      "audio": "/media/audio/examples/list1/45101_12_2.mp3"
+    },
+    {
+      "word": "client",
+      "exampleIndex": 3,
+      "audio": "/media/audio/examples/list1/45101_12_3.mp3"
+    },
+    {
+      "word": "cloth",
+      "exampleIndex": 1,
+      "audio": "/media/audio/examples/list1/45101_13_1.mp3"
+    },
+    {
+      "word": "cloth",
+      "exampleIndex": 2,
+      "audio": "/media/audio/examples/list1/45101_13_2.mp3"
+    },
+    {
+      "word": "cloth",
+      "exampleIndex": 3,
+      "audio": "/media/audio/examples/list1/45101_13_3.mp3"
+    },
+    {
+      "word": "conference",
+      "exampleIndex": 1,
+      "audio": "/media/audio/examples/list1/45101_14_1.mp3"
+    },
+    {
+      "word": "conference",
+      "exampleIndex": 2,
+      "audio": "/media/audio/examples/list1/45101_14_2.mp3"
+    },
+    {
+      "word": "conference",
+      "exampleIndex": 3,
+      "audio": "/media/audio/examples/list1/45101_14_3.mp3"
+    },
+    {
+      "word": "correctly",
+      "exampleIndex": 1,
+      "audio": "/media/audio/examples/list1/45101_15_1.mp3"
+    },
+    {
+      "word": "correctly",
+      "exampleIndex": 2,
+      "audio": "/media/audio/examples/list1/45101_15_2.mp3"
+    },
+    {
+      "word": "correctly",
+      "exampleIndex": 3,
+      "audio": "/media/audio/examples/list1/45101_15_3.mp3"
+    },
+    {
+      "word": "deadline",
+      "exampleIndex": 1,
+      "audio": "/media/audio/examples/list1/45101_16_1.mp3"
+    },
+    {
+      "word": "deadline",
+      "exampleIndex": 2,
+      "audio": "/media/audio/examples/list1/45101_16_2.mp3"
+    },
+    {
+      "word": "deadline",
+      "exampleIndex": 3,
+      "audio": "/media/audio/examples/list1/45101_16_3.mp3"
+    },
+    {
+      "word": "downtown",
+      "exampleIndex": 1,
+      "audio": "/media/audio/examples/list1/45101_17_1.mp3"
+    },
+    {
+      "word": "downtown",
+      "exampleIndex": 2,
+      "audio": "/media/audio/examples/list1/45101_17_2.mp3"
+    },
+    {
+      "word": "downtown",
+      "exampleIndex": 3,
+      "audio": "/media/audio/examples/list1/45101_17_3.mp3"
+    },
+    {
+      "word": "e-book",
+      "exampleIndex": 1,
+      "audio": "/media/audio/examples/list1/45101_18_1.mp3"
+    },
+    {
+      "word": "e-book",
+      "exampleIndex": 2,
+      "audio": "/media/audio/examples/list1/45101_18_2.mp3"
+    },
+    {
+      "word": "e-book",
+      "exampleIndex": 3,
+      "audio": "/media/audio/examples/list1/45101_18_3.mp3"
+    },
+    {
+      "word": "elevator",
+      "exampleIndex": 1,
+      "audio": "/media/audio/examples/list1/45101_19_1.mp3"
+    },
+    {
+      "word": "elevator",
+      "exampleIndex": 2,
+      "audio": "/media/audio/examples/list1/45101_19_2.mp3"
+    },
+    {
+      "word": "elevator",
+      "exampleIndex": 3,
+      "audio": "/media/audio/examples/list1/45101_19_3.mp3"
+    },
+    {
+      "word": "enclose",
+      "exampleIndex": 1,
+      "audio": "/media/audio/examples/list1/45101_20_1.mp3"
+    },
+    {
+      "word": "enclose",
+      "exampleIndex": 2,
+      "audio": "/media/audio/examples/list1/45101_20_2.mp3"
+    },
+    {
+      "word": "enclose",
+      "exampleIndex": 3,
+      "audio": "/media/audio/examples/list1/45101_20_3.mp3"
+    },
+    {
+      "word": "fare",
+      "exampleIndex": 1,
+      "audio": "/media/audio/examples/list1/45101_21_1.mp3"
+    },
+    {
+      "word": "fare",
+      "exampleIndex": 2,
+      "audio": "/media/audio/examples/list1/45101_21_2.mp3"
+    },
+    {
+      "word": "fare",
+      "exampleIndex": 3,
+      "audio": "/media/audio/examples/list1/45101_21_3.mp3"
+    },
+    {
+      "word": "fax",
+      "exampleIndex": 1,
+      "audio": "/media/audio/examples/list1/45101_22_1.mp3"
+    },
+    {
+      "word": "fax",
+      "exampleIndex": 2,
+      "audio": "/media/audio/examples/list1/45101_22_2.mp3"
+    },
+    {
+      "word": "fax",
+      "exampleIndex": 3,
+      "audio": "/media/audio/examples/list1/45101_22_3.mp3"
+    },
+    {
+      "word": "goods",
+      "exampleIndex": 1,
+      "audio": "/media/audio/examples/list1/45101_23_1.mp3"
+    },
+    {
+      "word": "goods",
+      "exampleIndex": 2,
+      "audio": "/media/audio/examples/list1/45101_23_2.mp3"
+    },
+    {
+      "word": "goods",
+      "exampleIndex": 3,
+      "audio": "/media/audio/examples/list1/45101_23_3.mp3"
+    },
+    {
+      "word": "infer",
+      "exampleIndex": 1,
+      "audio": "/media/audio/examples/list1/45101_24_1.mp3"
+    },
+    {
+      "word": "infer",
+      "exampleIndex": 2,
+      "audio": "/media/audio/examples/list1/45101_24_2.mp3"
+    },
+    {
+      "word": "infer",
+      "exampleIndex": 3,
+      "audio": "/media/audio/examples/list1/45101_24_3.mp3"
+    },
+    {
+      "word": "invoice",
+      "exampleIndex": 1,
+      "audio": "/media/audio/examples/list1/45101_25_1.mp3"
+    },
+    {
+      "word": "invoice",
+      "exampleIndex": 2,
+      "audio": "/media/audio/examples/list1/45101_25_2.mp3"
+    },
+    {
+      "word": "invoice",
+      "exampleIndex": 3,
+      "audio": "/media/audio/examples/list1/45101_25_3.mp3"
+    },
+    {
+      "word": "lease",
+      "exampleIndex": 1,
+      "audio": "/media/audio/examples/list1/45101_26_1.mp3"
+    },
+    {
+      "word": "lease",
+      "exampleIndex": 2,
+      "audio": "/media/audio/examples/list1/45101_26_2.mp3"
+    },
+    {
+      "word": "lease",
+      "exampleIndex": 3,
+      "audio": "/media/audio/examples/list1/45101_26_3.mp3"
+    },
+    {
+      "word": "lobby",
+      "exampleIndex": 1,
+      "audio": "/media/audio/examples/list1/45101_27_1.mp3"
+    },
+    {
+      "word": "lobby",
+      "exampleIndex": 2,
+      "audio": "/media/audio/examples/list1/45101_27_2.mp3"
+    },
+    {
+      "word": "lobby",
+      "exampleIndex": 3,
+      "audio": "/media/audio/examples/list1/45101_27_3.mp3"
+    },
+    {
+      "word": "logical",
+      "exampleIndex": 1,
+      "audio": "/media/audio/examples/list1/45101_28_1.mp3"
+    },
+    {
+      "word": "logical",
+      "exampleIndex": 2,
+      "audio": "/media/audio/examples/list1/45101_28_2.mp3"
+    },
+    {
+      "word": "logical",
+      "exampleIndex": 3,
+      "audio": "/media/audio/examples/list1/45101_28_3.mp3"
+    },
+    {
+      "word": "luggage",
+      "exampleIndex": 1,
+      "audio": "/media/audio/examples/list1/45101_29_1.mp3"
+    },
+    {
+      "word": "luggage",
+      "exampleIndex": 2,
+      "audio": "/media/audio/examples/list1/45101_29_2.mp3"
+    },
+    {
+      "word": "luggage",
+      "exampleIndex": 3,
+      "audio": "/media/audio/examples/list1/45101_29_3.mp3"
+    },
+    {
+      "word": "memo",
+      "exampleIndex": 1,
+      "audio": "/media/audio/examples/list1/45101_30_1.mp3"
+    },
+    {
+      "word": "memo",
+      "exampleIndex": 2,
+      "audio": "/media/audio/examples/list1/45101_30_2.mp3"
+    },
+    {
+      "word": "memo",
+      "exampleIndex": 3,
+      "audio": "/media/audio/examples/list1/45101_30_3.mp3"
+    },
+    {
+      "word": "mister",
+      "exampleIndex": 1,
+      "audio": "/media/audio/examples/list1/45101_31_1.mp3"
+    },
+    {
+      "word": "mister",
+      "exampleIndex": 2,
+      "audio": "/media/audio/examples/list1/45101_31_2.mp3"
+    },
+    {
+      "word": "mister",
+      "exampleIndex": 3,
+      "audio": "/media/audio/examples/list1/45101_31_3.mp3"
+    },
+    {
+      "word": "noon",
+      "exampleIndex": 1,
+      "audio": "/media/audio/examples/list1/45101_32_1.mp3"
+    },
+    {
+      "word": "noon",
+      "exampleIndex": 2,
+      "audio": "/media/audio/examples/list1/45101_32_2.mp3"
+    },
+    {
+      "word": "noon",
+      "exampleIndex": 3,
+      "audio": "/media/audio/examples/list1/45101_32_3.mp3"
+    },
+    {
+      "word": "notify",
+      "exampleIndex": 1,
+      "audio": "/media/audio/examples/list1/45101_33_1.mp3"
+    },
+    {
+      "word": "notify",
+      "exampleIndex": 2,
+      "audio": "/media/audio/examples/list1/45101_33_2.mp3"
+    },
+    {
+      "word": "notify",
+      "exampleIndex": 3,
+      "audio": "/media/audio/examples/list1/45101_33_3.mp3"
+    },
+    {
+      "word": "o'clock",
+      "exampleIndex": 1,
+      "audio": "/media/audio/examples/list1/45101_34_1.mp3"
+    },
+    {
+      "word": "o'clock",
+      "exampleIndex": 2,
+      "audio": "/media/audio/examples/list1/45101_34_2.mp3"
+    },
+    {
+      "word": "o'clock",
+      "exampleIndex": 3,
+      "audio": "/media/audio/examples/list1/45101_34_3.mp3"
+    },
+    {
+      "word": "preview",
+      "exampleIndex": 1,
+      "audio": "/media/audio/examples/list1/45101_35_1.mp3"
+    },
+    {
+      "word": "preview",
+      "exampleIndex": 2,
+      "audio": "/media/audio/examples/list1/45101_35_2.mp3"
+    },
+    {
+      "word": "preview",
+      "exampleIndex": 3,
+      "audio": "/media/audio/examples/list1/45101_35_3.mp3"
+    },
+    {
+      "word": "publish",
+      "exampleIndex": 1,
+      "audio": "/media/audio/examples/list1/45101_36_1.mp3"
+    },
+    {
+      "word": "publish",
+      "exampleIndex": 2,
+      "audio": "/media/audio/examples/list1/45101_36_2.mp3"
+    },
+    {
+      "word": "publish",
+      "exampleIndex": 3,
+      "audio": "/media/audio/examples/list1/45101_36_3.mp3"
+    },
+    {
+      "word": "receipt",
+      "exampleIndex": 1,
+      "audio": "/media/audio/examples/list1/45101_37_1.mp3"
+    },
+    {
+      "word": "receipt",
+      "exampleIndex": 2,
+      "audio": "/media/audio/examples/list1/45101_37_2.mp3"
+    },
+    {
+      "word": "receipt",
+      "exampleIndex": 3,
+      "audio": "/media/audio/examples/list1/45101_37_3.mp3"
+    },
+    {
+      "word": "reception",
+      "exampleIndex": 1,
+      "audio": "/media/audio/examples/list1/45101_38_1.mp3"
+    },
+    {
+      "word": "reception",
+      "exampleIndex": 2,
+      "audio": "/media/audio/examples/list1/45101_38_2.mp3"
+    },
+    {
+      "word": "reception",
+      "exampleIndex": 3,
+      "audio": "/media/audio/examples/list1/45101_38_3.mp3"
+    },
+    {
+      "word": "refund",
+      "exampleIndex": 1,
+      "audio": "/media/audio/examples/list1/45101_39_1.mp3"
+    },
+    {
+      "word": "refund",
+      "exampleIndex": 2,
+      "audio": "/media/audio/examples/list1/45101_39_2.mp3"
+    },
+    {
+      "word": "refund",
+      "exampleIndex": 3,
+      "audio": "/media/audio/examples/list1/45101_39_3.mp3"
+    },
+    {
+      "word": "rental",
+      "exampleIndex": 1,
+      "audio": "/media/audio/examples/list1/45101_40_1.mp3"
+    },
+    {
+      "word": "rental",
+      "exampleIndex": 2,
+      "audio": "/media/audio/examples/list1/45101_40_2.mp3"
+    },
+    {
+      "word": "rental",
+      "exampleIndex": 3,
+      "audio": "/media/audio/examples/list1/45101_40_3.mp3"
+    },
+    {
+      "word": "reservation",
+      "exampleIndex": 1,
+      "audio": "/media/audio/examples/list1/45101_41_1.mp3"
+    },
+    {
+      "word": "reservation",
+      "exampleIndex": 2,
+      "audio": "/media/audio/examples/list1/45101_41_2.mp3"
+    },
+    {
+      "word": "reservation",
+      "exampleIndex": 3,
+      "audio": "/media/audio/examples/list1/45101_41_3.mp3"
+    },
+    {
+      "word": "seminar",
+      "exampleIndex": 1,
+      "audio": "/media/audio/examples/list1/45101_42_1.mp3"
+    },
+    {
+      "word": "seminar",
+      "exampleIndex": 2,
+      "audio": "/media/audio/examples/list1/45101_42_2.mp3"
+    },
+    {
+      "word": "seminar",
+      "exampleIndex": 3,
+      "audio": "/media/audio/examples/list1/45101_42_3.mp3"
+    },
+    {
+      "word": "shipment",
+      "exampleIndex": 1,
+      "audio": "/media/audio/examples/list1/45101_43_1.mp3"
+    },
+    {
+      "word": "shipment",
+      "exampleIndex": 2,
+      "audio": "/media/audio/examples/list1/45101_43_2.mp3"
+    },
+    {
+      "word": "shipment",
+      "exampleIndex": 3,
+      "audio": "/media/audio/examples/list1/45101_43_3.mp3"
+    },
+    {
+      "word": "sincerely",
+      "exampleIndex": 1,
+      "audio": "/media/audio/examples/list1/45101_44_1.mp3"
+    },
+    {
+      "word": "sincerely",
+      "exampleIndex": 2,
+      "audio": "/media/audio/examples/list1/45101_44_2.mp3"
+    },
+    {
+      "word": "sincerely",
+      "exampleIndex": 3,
+      "audio": "/media/audio/examples/list1/45101_44_3.mp3"
+    },
+    {
+      "word": "sometime",
+      "exampleIndex": 1,
+      "audio": "/media/audio/examples/list1/45101_45_1.mp3"
+    },
+    {
+      "word": "sometime",
+      "exampleIndex": 2,
+      "audio": "/media/audio/examples/list1/45101_45_2.mp3"
+    },
+    {
+      "word": "sometime",
+      "exampleIndex": 3,
+      "audio": "/media/audio/examples/list1/45101_45_3.mp3"
+    },
+    {
+      "word": "subscription",
+      "exampleIndex": 1,
+      "audio": "/media/audio/examples/list1/45101_46_1.mp3"
+    },
+    {
+      "word": "subscription",
+      "exampleIndex": 2,
+      "audio": "/media/audio/examples/list1/45101_46_2.mp3"
+    },
+    {
+      "word": "subscription",
+      "exampleIndex": 3,
+      "audio": "/media/audio/examples/list1/45101_46_3.mp3"
+    },
+    {
+      "word": "subway",
+      "exampleIndex": 1,
+      "audio": "/media/audio/examples/list1/45101_47_1.mp3"
+    },
+    {
+      "word": "subway",
+      "exampleIndex": 2,
+      "audio": "/media/audio/examples/list1/45101_47_2.mp3"
+    },
+    {
+      "word": "subway",
+      "exampleIndex": 3,
+      "audio": "/media/audio/examples/list1/45101_47_3.mp3"
+    },
+    {
+      "word": "supervisor",
+      "exampleIndex": 1,
+      "audio": "/media/audio/examples/list1/45101_48_1.mp3"
+    },
+    {
+      "word": "supervisor",
+      "exampleIndex": 2,
+      "audio": "/media/audio/examples/list1/45101_48_2.mp3"
+    },
+    {
+      "word": "supervisor",
+      "exampleIndex": 3,
+      "audio": "/media/audio/examples/list1/45101_48_3.mp3"
+    },
+    {
+      "word": "technician",
+      "exampleIndex": 1,
+      "audio": "/media/audio/examples/list1/45101_49_1.mp3"
+    },
+    {
+      "word": "technician",
+      "exampleIndex": 2,
+      "audio": "/media/audio/examples/list1/45101_49_2.mp3"
+    },
+    {
+      "word": "technician",
+      "exampleIndex": 3,
+      "audio": "/media/audio/examples/list1/45101_49_3.mp3"
+    },
+    {
+      "word": "traveler",
+      "exampleIndex": 1,
+      "audio": "/media/audio/examples/list1/45101_50_1.mp3"
+    },
+    {
+      "word": "traveler",
+      "exampleIndex": 2,
+      "audio": "/media/audio/examples/list1/45101_50_2.mp3"
+    },
+    {
+      "word": "traveler",
+      "exampleIndex": 3,
+      "audio": "/media/audio/examples/list1/45101_50_3.mp3"
+    },
+    {
+      "word": "vacation",
+      "exampleIndex": 1,
+      "audio": "/media/audio/examples/list1/45101_51_1.mp3"
+    },
+    {
+      "word": "vacation",
+      "exampleIndex": 2,
+      "audio": "/media/audio/examples/list1/45101_51_2.mp3"
+    },
+    {
+      "word": "vacation",
+      "exampleIndex": 3,
+      "audio": "/media/audio/examples/list1/45101_51_3.mp3"
+    },
+    {
+      "word": "waiter",
+      "exampleIndex": 1,
+      "audio": "/media/audio/examples/list1/45101_52_1.mp3"
+    },
+    {
+      "word": "waiter",
+      "exampleIndex": 2,
+      "audio": "/media/audio/examples/list1/45101_52_2.mp3"
+    },
+    {
+      "word": "waiter",
+      "exampleIndex": 3,
+      "audio": "/media/audio/examples/list1/45101_52_3.mp3"
+    },
+    {
+      "word": "warranty",
+      "exampleIndex": 1,
+      "audio": "/media/audio/examples/list1/45101_53_1.mp3"
+    },
+    {
+      "word": "warranty",
+      "exampleIndex": 2,
+      "audio": "/media/audio/examples/list1/45101_53_2.mp3"
+    },
+    {
+      "word": "warranty",
+      "exampleIndex": 3,
+      "audio": "/media/audio/examples/list1/45101_53_3.mp3"
+    },
+    {
+      "word": "website",
+      "exampleIndex": 1,
+      "audio": "/media/audio/examples/list1/45101_54_1.mp3"
+    },
+    {
+      "word": "website",
+      "exampleIndex": 2,
+      "audio": "/media/audio/examples/list1/45101_54_2.mp3"
+    },
+    {
+      "word": "website",
+      "exampleIndex": 3,
+      "audio": "/media/audio/examples/list1/45101_54_3.mp3"
+    },
+    {
+      "word": "workshop",
+      "exampleIndex": 1,
+      "audio": "/media/audio/examples/list1/45101_55_1.mp3"
+    },
+    {
+      "word": "workshop",
+      "exampleIndex": 2,
+      "audio": "/media/audio/examples/list1/45101_55_2.mp3"
+    },
+    {
+      "word": "workshop",
+      "exampleIndex": 3,
+      "audio": "/media/audio/examples/list1/45101_55_3.mp3"
+    }
+  ]
+}

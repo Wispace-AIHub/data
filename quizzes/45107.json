@@ -1,0 +1,3199 @@
+{
+  "listNumber": 7,
+  "expectedQuestions": 55,
+  "listId": "45107",
+  "questions": [
+    {
+      "id": "1170946",
+      "order": 1,
+      "type": "textForeignSentence",
+      "word": "bench",
+      "hint": [
+        "Hint: =a long, usually wooden, seat found mainly in parks"
+      ],
+      "options": [
+        {
+          "text": "ghế dài (thường thấy trong công viên)",
+          "correct": true,
+          "hint": [
+            "Hint: =a long, usually wooden, seat found mainly in parks"
+          ],
+          "term": "bench",
+          "sound": "/media/audio/list7/45107_bench_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "tủ lạnh",
+          "correct": false,
+          "hint": [
+            "Hint: =an electric box that cools food"
+          ],
+          "term": "refrigerator",
+          "sound": "/media/audio/list7/45107_refrigerator_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "nước ép (từ trái cây hoặc rau củ quả)",
+          "correct": false,
+          "hint": [
+            "Hint: =the natural liquid from a plant or fruit"
+          ],
+          "term": "juices",
+          "sound": "/media/audio/list7/45107_juice_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "rộng lượng, hào phóng",
+          "correct": false,
+          "hint": [
+            "Hint: =to give willingly and freely"
+          ],
+          "term": "generous",
+          "sound": "/media/audio/list7/45107_generous_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list7/45107_bench_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170947",
+      "order": 2,
+      "type": "textForeignSentence",
+      "word": "retailers",
+      "hint": [
+        "Hint: =a person or business that sells goods to the public"
+      ],
+      "options": [
+        {
+          "text": "nhà bán lẻ, cửa hàng bán lẻ",
+          "correct": true,
+          "hint": [
+            "Hint: =a person or business that sells goods to the public"
+          ],
+          "term": "retailers",
+          "sound": "/media/audio/list7/45107_retailer_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "danh bạ, niên giám",
+          "correct": false,
+          "hint": [
+            "Hint: =an alphabetical list of names and addresses"
+          ],
+          "term": "directory",
+          "sound": "/media/audio/list7/45107_directory_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "sự hủy bỏ",
+          "correct": false,
+          "hint": [
+            "Hint: =when something is not going to happen after all"
+          ],
+          "term": "cancellations",
+          "sound": "/media/audio/list7/45107_cancellation_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "tích lũy",
+          "correct": false,
+          "hint": [
+            "Hint: =increasing gradually as more is added"
+          ],
+          "term": "cumulative",
+          "sound": "/media/audio/list7/45107_cumulative_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list7/45107_retailer_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170948",
+      "order": 3,
+      "type": "textForeignTextLocal",
+      "word": "auto",
+      "hint": [
+        "Hint: =car"
+      ],
+      "options": [
+        {
+          "text": "xe hơi",
+          "correct": true,
+          "hint": [
+            "Hint: =car"
+          ],
+          "term": "auto",
+          "sound": "/media/audio/list7/45107_auto_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "nơi trưng bày, phòng trưng bày",
+          "correct": false,
+          "hint": [
+            "Hint: =an area where goods for sale are set out so people can look at them"
+          ],
+          "term": "showroom",
+          "sound": "/media/audio/list7/45107_showroom_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "công việc hoặc vị trí còn bỏ trống",
+          "correct": false,
+          "hint": [
+            "Hint: =job or position that needs to be filled"
+          ],
+          "term": "vacancy",
+          "sound": "/media/audio/list7/45107_vacancy_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "một cách hữu hiệu, một cách hiệu quả",
+          "correct": false,
+          "hint": [
+            "Hint: =to do something well in a little amount of time"
+          ],
+          "term": "efficiently",
+          "sound": "/media/audio/list7/45107_efficiently_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list7/45107_auto_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170949",
+      "order": 4,
+      "type": "textForeignSentence",
+      "word": "born",
+      "hint": [
+        "Hint: =brought to life"
+      ],
+      "options": [
+        {
+          "text": "sinh ra, đẻ ra",
+          "correct": true,
+          "hint": [
+            "Hint: =brought to life"
+          ],
+          "term": "born",
+          "sound": "/media/audio/list7/45107_born_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "tiết kiệm, kinh tế",
+          "correct": false,
+          "hint": [
+            "Hint: =of good value"
+          ],
+          "term": "economical",
+          "sound": "/media/audio/list7/45107_economical_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "người ăn chay",
+          "correct": false,
+          "hint": [
+            "Hint: =someone who does not eat meat or fish"
+          ],
+          "term": "vegetarian",
+          "sound": "/media/audio/list7/45107_vegetarian_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "nhân viên thu ngân",
+          "correct": false,
+          "hint": [
+            "Hint: =the person whose job it is to take the money you pay for goods or services"
+          ],
+          "term": "cashiers",
+          "sound": "/media/audio/list7/45107_cashier_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list7/45107_born_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170950",
+      "order": 5,
+      "type": "textForeignSentence",
+      "word": "profitable",
+      "hint": [
+        "Hint: =able to make money"
+      ],
+      "options": [
+        {
+          "text": "có lợi nhuận",
+          "correct": true,
+          "hint": [
+            "Hint: =able to make money"
+          ],
+          "term": "profitable",
+          "sound": "/media/audio/list7/45107_profitable_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "thợ sửa ống nước",
+          "correct": false,
+          "hint": [
+            "Hint: =someone who connects and mends water pipes for a living"
+          ],
+          "term": "plumber",
+          "sound": "/media/audio/list7/45107_plumber_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "không thường xuyên, không có kế hoạch",
+          "correct": false,
+          "hint": [
+            "Hint: =not regular, unplanned"
+          ],
+          "term": "casual",
+          "sound": "/media/audio/list7/45107_casual_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "thở hổn hển",
+          "correct": false,
+          "hint": [
+            "Hint: =take short sharp breaths through your mouth, noisily"
+          ],
+          "term": "panting",
+          "sound": "/media/audio/list7/45107_pant_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list7/45107_profitable_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170951",
+      "order": 6,
+      "type": "textForeignTextLocal",
+      "word": "casual",
+      "hint": [
+        "Hint: =not regular, unplanned"
+      ],
+      "options": [
+        {
+          "text": "không thường xuyên, không có kế hoạch",
+          "correct": true,
+          "hint": [
+            "Hint: =not regular, unplanned"
+          ],
+          "term": "casual",
+          "sound": "/media/audio/list7/45107_casual_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "thùng nhỏ, gói nhỏ, kiện hàng",
+          "correct": false,
+          "hint": [
+            "Hint: =a small carton or package"
+          ],
+          "term": "packet",
+          "sound": "/media/audio/list7/45107_packet_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "người quản gia, nhân viên dọn dẹp",
+          "correct": false,
+          "hint": [
+            "Hint: =someone whose job it is to take care of and clean another person's house"
+          ],
+          "term": "housekeeper",
+          "sound": "/media/audio/list7/45107_housekeeper_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "cuốn sách nhỏ, chứa thông tin quảng cáo hoặc hướng dẫn",
+          "correct": false,
+          "hint": [
+            "Hint: =a small book, leaflet, or brochure"
+          ],
+          "term": "booklet",
+          "sound": "/media/audio/list7/45107_booklet_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list7/45107_casual_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170952",
+      "order": 7,
+      "type": "textForeignTextLocal",
+      "word": "broker",
+      "hint": [
+        "Hint: =someone who buys and sells things for a percentage of sales"
+      ],
+      "options": [
+        {
+          "text": "người môi giới",
+          "correct": true,
+          "hint": [
+            "Hint: =someone who buys and sells things for a percentage of sales"
+          ],
+          "term": "broker",
+          "sound": "/media/audio/list7/45107_broker_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "nhân viên thu ngân",
+          "correct": false,
+          "hint": [
+            "Hint: =the person whose job it is to take the money you pay for goods or services"
+          ],
+          "term": "cashier",
+          "sound": "/media/audio/list7/45107_cashier_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "áo quần, hàng may mặc",
+          "correct": false,
+          "hint": [
+            "Hint: =something made of material that you can wear, like pants or a dress"
+          ],
+          "term": "garment",
+          "sound": "/media/audio/list7/45107_garment_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "rộng lượng, hào phóng",
+          "correct": false,
+          "hint": [
+            "Hint: =to give willingly and freely"
+          ],
+          "term": "generous",
+          "sound": "/media/audio/list7/45107_generous_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list7/45107_broker_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170953",
+      "order": 8,
+      "type": "textForeignTextLocal",
+      "word": "franchise",
+      "hint": [
+        "Hint: =one of many branches of a business you buy, e.g. KFC"
+      ],
+      "options": [
+        {
+          "text": "nhượng quyền kinh doanh, chi nhánh",
+          "correct": true,
+          "hint": [
+            "Hint: =one of many branches of a business you buy, e.g. KFC"
+          ],
+          "term": "franchise",
+          "sound": "/media/audio/list7/45107_franchise_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "ghế dài (thường thấy trong công viên)",
+          "correct": false,
+          "hint": [
+            "Hint: =a long, usually wooden, seat found mainly in parks"
+          ],
+          "term": "bench",
+          "sound": "/media/audio/list7/45107_bench_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "cuốn sách nhỏ, chứa thông tin quảng cáo hoặc hướng dẫn",
+          "correct": false,
+          "hint": [
+            "Hint: =a small book, leaflet, or brochure"
+          ],
+          "term": "booklet",
+          "sound": "/media/audio/list7/45107_booklet_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "danh bạ, niên giám",
+          "correct": false,
+          "hint": [
+            "Hint: =an alphabetical list of names and addresses"
+          ],
+          "term": "directory",
+          "sound": "/media/audio/list7/45107_directory_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list7/45107_franchise_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170954",
+      "order": 9,
+      "type": "textForeignSentence",
+      "word": "vacancy",
+      "hint": [
+        "Hint: =job or position that needs to be filled"
+      ],
+      "options": [
+        {
+          "text": "công việc hoặc vị trí còn bỏ trống",
+          "correct": true,
+          "hint": [
+            "Hint: =job or position that needs to be filled"
+          ],
+          "term": "vacancy",
+          "sound": "/media/audio/list7/45107_vacancy_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "nơi trưng bày, phòng trưng bày",
+          "correct": false,
+          "hint": [
+            "Hint: =an area where goods for sale are set out so people can look at them"
+          ],
+          "term": "showrooms",
+          "sound": "/media/audio/list7/45107_showroom_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "người quản gia, nhân viên dọn dẹp",
+          "correct": false,
+          "hint": [
+            "Hint: =someone whose job it is to take care of and clean another person's house"
+          ],
+          "term": "housekeepers",
+          "sound": "/media/audio/list7/45107_housekeeper_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "tờ gấp quảng cáo, tờ rơi",
+          "correct": false,
+          "hint": [
+            "Hint: =brochure, leaflet"
+          ],
+          "term": "flyers",
+          "sound": "/media/audio/list7/45107_flyer_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list7/45107_vacancy_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170955",
+      "order": 10,
+      "type": "textForeignSentence",
+      "word": "plumber",
+      "hint": [
+        "Hint: =someone who connects and mends water pipes for a living"
+      ],
+      "options": [
+        {
+          "text": "thợ sửa ống nước",
+          "correct": true,
+          "hint": [
+            "Hint: =someone who connects and mends water pipes for a living"
+          ],
+          "term": "plumber",
+          "sound": "/media/audio/list7/45107_plumber_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "nhanh chóng, ngay lập tức; đúng giờ",
+          "correct": false,
+          "hint": [
+            "Hint: =done right away, immediately; also exactly at the stated time"
+          ],
+          "term": "promptly",
+          "sound": "/media/audio/list7/45107_promptly_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "nơi trưng bày, phòng trưng bày",
+          "correct": false,
+          "hint": [
+            "Hint: =an area where goods for sale are set out so people can look at them"
+          ],
+          "term": "showroom",
+          "sound": "/media/audio/list7/45107_showroom_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "đường nhỏ, đường làng, ngõ",
+          "correct": false,
+          "hint": [
+            "Hint: =a narrow road"
+          ],
+          "term": "lane",
+          "sound": "/media/audio/list7/45107_lane_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list7/45107_plumber_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170956",
+      "order": 11,
+      "type": "textForeignTextLocal",
+      "word": "decorate",
+      "hint": [
+        "Hint: =make more attractive by adding ornament, colour, etc."
+      ],
+      "options": [
+        {
+          "text": "trang trí, trang hoàng",
+          "correct": true,
+          "hint": [
+            "Hint: =make more attractive by adding ornament, colour, etc."
+          ],
+          "term": "decorate",
+          "sound": "/media/audio/list7/45107_decorate_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "cửa hàng bán lẻ bán đồ xả, đồ giảm giá chính hãng",
+          "correct": false,
+          "hint": [
+            "Hint: =a store that sells things at a discount"
+          ],
+          "term": "outlet",
+          "sound": "/media/audio/list7/45107_outlet_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "tích lũy",
+          "correct": false,
+          "hint": [
+            "Hint: =increasing gradually as more is added"
+          ],
+          "term": "cumulative",
+          "sound": "/media/audio/list7/45107_cumulative_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "chi tiết, đặc điểm, sự chỉ rõ",
+          "correct": false,
+          "hint": [
+            "Hint: =a special detail or necessity for something"
+          ],
+          "term": "specification",
+          "sound": "/media/audio/list7/45107_specification_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list7/45107_decorate_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170957",
+      "order": 12,
+      "type": "textForeignSentence",
+      "word": "deduction",
+      "hint": [
+        "Hint: =the act of taking away, usually money"
+      ],
+      "options": [
+        {
+          "text": "sự lấy đi, sự khấu trừ",
+          "correct": true,
+          "hint": [
+            "Hint: =the act of taking away, usually money"
+          ],
+          "term": "deduction",
+          "sound": "/media/audio/list7/45107_deduction_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "sinh ra, đẻ ra",
+          "correct": false,
+          "hint": [
+            "Hint: =brought to life"
+          ],
+          "term": "born",
+          "sound": "/media/audio/list7/45107_born_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "nhân viên thu ngân",
+          "correct": false,
+          "hint": [
+            "Hint: =the person whose job it is to take the money you pay for goods or services"
+          ],
+          "term": "cashier",
+          "sound": "/media/audio/list7/45107_cashier_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "chắc chắn, chính xác",
+          "correct": false,
+          "hint": [
+            "Hint: =for certain, exact"
+          ],
+          "term": "definite",
+          "sound": "/media/audio/list7/45107_definite_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list7/45107_deduction_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170958",
+      "order": 13,
+      "type": "textForeignSentence",
+      "word": "panting",
+      "hint": [
+        "Hint: =take short sharp breaths through your mouth, noisily"
+      ],
+      "options": [
+        {
+          "text": "thở hổn hển",
+          "correct": true,
+          "hint": [
+            "Hint: =take short sharp breaths through your mouth, noisily"
+          ],
+          "term": "panting",
+          "sound": "/media/audio/list7/45107_pant_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "tích lũy",
+          "correct": false,
+          "hint": [
+            "Hint: =increasing gradually as more is added"
+          ],
+          "term": "cumulative",
+          "sound": "/media/audio/list7/45107_cumulative_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "người quản lý, người quản trị",
+          "correct": false,
+          "hint": [
+            "Hint: =the person who manages an office"
+          ],
+          "term": "administrator",
+          "sound": "/media/audio/list7/45107_administrator_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "nhân viên thu ngân",
+          "correct": false,
+          "hint": [
+            "Hint: =the person whose job it is to take the money you pay for goods or services"
+          ],
+          "term": "cashiers",
+          "sound": "/media/audio/list7/45107_cashier_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list7/45107_pant_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170959",
+      "order": 14,
+      "type": "textForeignTextLocal",
+      "word": "fountain",
+      "hint": [
+        "Hint: =a man-made spray of water that shoots upwards"
+      ],
+      "options": [
+        {
+          "text": "đài phun nước",
+          "correct": true,
+          "hint": [
+            "Hint: =a man-made spray of water that shoots upwards"
+          ],
+          "term": "fountain",
+          "sound": "/media/audio/list7/45107_fountain_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "người ăn chay",
+          "correct": false,
+          "hint": [
+            "Hint: =someone who does not eat meat or fish"
+          ],
+          "term": "vegetarian",
+          "sound": "/media/audio/list7/45107_vegetarian_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "ghế dài (thường thấy trong công viên)",
+          "correct": false,
+          "hint": [
+            "Hint: =a long, usually wooden, seat found mainly in parks"
+          ],
+          "term": "bench",
+          "sound": "/media/audio/list7/45107_bench_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "sự phỏng đoán về tương lai",
+          "correct": false,
+          "hint": [
+            "Hint: =a guess about the future"
+          ],
+          "term": "prediction",
+          "sound": "/media/audio/list7/45107_prediction_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list7/45107_fountain_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170960",
+      "order": 15,
+      "type": "textForeignTextLocal",
+      "word": "conditioner",
+      "hint": [
+        "Hint: =shampoo-like substance used after washing hair"
+      ],
+      "options": [
+        {
+          "text": "dầu xả cho tóc",
+          "correct": true,
+          "hint": [
+            "Hint: =shampoo-like substance used after washing hair"
+          ],
+          "term": "conditioner",
+          "sound": "/media/audio/list7/45107_conditioner_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "xe hơi",
+          "correct": false,
+          "hint": [
+            "Hint: =car"
+          ],
+          "term": "auto",
+          "sound": "/media/audio/list7/45107_auto_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "cuốn sách nhỏ, chứa thông tin quảng cáo hoặc hướng dẫn",
+          "correct": false,
+          "hint": [
+            "Hint: =a small book, leaflet, or brochure"
+          ],
+          "term": "booklet",
+          "sound": "/media/audio/list7/45107_booklet_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "sự nổi tiếng, sự yêu mến của quần chúng",
+          "correct": false,
+          "hint": [
+            "Hint: =the state of being liked by many people"
+          ],
+          "term": "popularity",
+          "sound": "/media/audio/list7/45107_popularity_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list7/45107_conditioner_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170961",
+      "order": 16,
+      "type": "textForeignTextLocal",
+      "word": "packet",
+      "hint": [
+        "Hint: =a small carton or package"
+      ],
+      "options": [
+        {
+          "text": "thùng nhỏ, gói nhỏ, kiện hàng",
+          "correct": true,
+          "hint": [
+            "Hint: =a small carton or package"
+          ],
+          "term": "packet",
+          "sound": "/media/audio/list7/45107_packet_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "ghi danh, đăng ký",
+          "correct": false,
+          "hint": [
+            "Hint: =to register for something"
+          ],
+          "term": "enroll",
+          "sound": "/media/audio/list7/45107_enroll_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "thở hổn hển",
+          "correct": false,
+          "hint": [
+            "Hint: =take short sharp breaths through your mouth, noisily"
+          ],
+          "term": "pant",
+          "sound": "/media/audio/list7/45107_pant_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "người môi giới",
+          "correct": false,
+          "hint": [
+            "Hint: =someone who buys and sells things for a percentage of sales"
+          ],
+          "term": "broker",
+          "sound": "/media/audio/list7/45107_broker_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list7/45107_packet_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170962",
+      "order": 17,
+      "type": "textForeignSentence",
+      "word": "frustrated",
+      "hint": [
+        "Hint: =to upset someone"
+      ],
+      "options": [
+        {
+          "text": "làm thất vọng, làm bực mình",
+          "correct": true,
+          "hint": [
+            "Hint: =to upset someone"
+          ],
+          "term": "frustrated",
+          "sound": "/media/audio/list7/45107_frustrate_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "tích lũy",
+          "correct": false,
+          "hint": [
+            "Hint: =increasing gradually as more is added"
+          ],
+          "term": "cumulative",
+          "sound": "/media/audio/list7/45107_cumulative_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "tủ lạnh",
+          "correct": false,
+          "hint": [
+            "Hint: =an electric box that cools food"
+          ],
+          "term": "refrigerator",
+          "sound": "/media/audio/list7/45107_refrigerator_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "không thường xuyên, không có kế hoạch",
+          "correct": false,
+          "hint": [
+            "Hint: =not regular, unplanned"
+          ],
+          "term": "casual",
+          "sound": "/media/audio/list7/45107_casual_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list7/45107_frustrate_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170963",
+      "order": 18,
+      "type": "textForeignTextLocal",
+      "word": "interrupt",
+      "hint": [
+        "Hint: =to stop something or someone in the middle of something"
+      ],
+      "options": [
+        {
+          "text": "làm gián đoạn, làm ngắt quãng",
+          "correct": true,
+          "hint": [
+            "Hint: =to stop something or someone in the middle of something"
+          ],
+          "term": "interrupt",
+          "sound": "/media/audio/list7/45107_interrupt_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "nhượng quyền kinh doanh, chi nhánh",
+          "correct": false,
+          "hint": [
+            "Hint: =one of many branches of a business you buy, e.g. KFC"
+          ],
+          "term": "franchise",
+          "sound": "/media/audio/list7/45107_franchise_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "nước ép (từ trái cây hoặc rau củ quả)",
+          "correct": false,
+          "hint": [
+            "Hint: =the natural liquid from a plant or fruit"
+          ],
+          "term": "juice",
+          "sound": "/media/audio/list7/45107_juice_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "tấm áp phích, quảng cáo",
+          "correct": false,
+          "hint": [
+            "Hint: =a large printed picture or notice to stick on a wall"
+          ],
+          "term": "poster",
+          "sound": "/media/audio/list7/45107_poster_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list7/45107_interrupt_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170964",
+      "order": 19,
+      "type": "textForeignSentence",
+      "word": "enrolled",
+      "hint": [
+        "Hint: =to register for something"
+      ],
+      "options": [
+        {
+          "text": "ghi danh, đăng ký",
+          "correct": true,
+          "hint": [
+            "Hint: =to register for something"
+          ],
+          "term": "enrolled",
+          "sound": "/media/audio/list7/45107_enroll_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "xe hơi",
+          "correct": false,
+          "hint": [
+            "Hint: =car"
+          ],
+          "term": "auto",
+          "sound": "/media/audio/list7/45107_auto_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "người quản gia, nhân viên dọn dẹp",
+          "correct": false,
+          "hint": [
+            "Hint: =someone whose job it is to take care of and clean another person's house"
+          ],
+          "term": "housekeepers",
+          "sound": "/media/audio/list7/45107_housekeeper_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "áo quần, hàng may mặc",
+          "correct": false,
+          "hint": [
+            "Hint: =something made of material that you can wear, like pants or a dress"
+          ],
+          "term": "garment",
+          "sound": "/media/audio/list7/45107_garment_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list7/45107_enroll_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170965",
+      "order": 20,
+      "type": "textForeignSentence",
+      "word": "popularity",
+      "hint": [
+        "Hint: =the state of being liked by many people"
+      ],
+      "options": [
+        {
+          "text": "sự nổi tiếng, sự yêu mến của quần chúng",
+          "correct": true,
+          "hint": [
+            "Hint: =the state of being liked by many people"
+          ],
+          "term": "popularity",
+          "sound": "/media/audio/list7/45107_popularity_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "sự phỏng đoán về tương lai",
+          "correct": false,
+          "hint": [
+            "Hint: =a guess about the future"
+          ],
+          "term": "predictions",
+          "sound": "/media/audio/list7/45107_prediction_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "tiết kiệm, kinh tế",
+          "correct": false,
+          "hint": [
+            "Hint: =of good value"
+          ],
+          "term": "economical",
+          "sound": "/media/audio/list7/45107_economical_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "chắc chắn, chính xác",
+          "correct": false,
+          "hint": [
+            "Hint: =for certain, exact"
+          ],
+          "term": "definite",
+          "sound": "/media/audio/list7/45107_definite_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list7/45107_popularity_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170966",
+      "order": 21,
+      "type": "textForeignSentence",
+      "word": "cancellations",
+      "hint": [
+        "Hint: =when something is not going to happen after all"
+      ],
+      "options": [
+        {
+          "text": "sự hủy bỏ",
+          "correct": true,
+          "hint": [
+            "Hint: =when something is not going to happen after all"
+          ],
+          "term": "cancellations",
+          "sound": "/media/audio/list7/45107_cancellation_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "chắc chắn, chính xác",
+          "correct": false,
+          "hint": [
+            "Hint: =for certain, exact"
+          ],
+          "term": "definite",
+          "sound": "/media/audio/list7/45107_definite_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "áo quần, hàng may mặc",
+          "correct": false,
+          "hint": [
+            "Hint: =something made of material that you can wear, like pants or a dress"
+          ],
+          "term": "garment",
+          "sound": "/media/audio/list7/45107_garment_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "trang trí, trang hoàng",
+          "correct": false,
+          "hint": [
+            "Hint: =make more attractive by adding ornament, colour, etc."
+          ],
+          "term": "decorated",
+          "sound": "/media/audio/list7/45107_decorate_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list7/45107_cancellation_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170967",
+      "order": 22,
+      "type": "textForeignSentence",
+      "word": "orientation",
+      "hint": [
+        "Hint: =something that makes you familiar with a place"
+      ],
+      "options": [
+        {
+          "text": "sự định hướng",
+          "correct": true,
+          "hint": [
+            "Hint: =something that makes you familiar with a place"
+          ],
+          "term": "orientation",
+          "sound": "/media/audio/list7/45107_orientation_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "cuốn sách nhỏ, chứa thông tin quảng cáo hoặc hướng dẫn",
+          "correct": false,
+          "hint": [
+            "Hint: =a small book, leaflet, or brochure"
+          ],
+          "term": "booklets",
+          "sound": "/media/audio/list7/45107_booklet_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "tủ lạnh",
+          "correct": false,
+          "hint": [
+            "Hint: =an electric box that cools food"
+          ],
+          "term": "refrigerator",
+          "sound": "/media/audio/list7/45107_refrigerator_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "hoàn lại tiền, bồi hoàn",
+          "correct": false,
+          "hint": [
+            "Hint: =give back the money for an expense that has been paid out"
+          ],
+          "term": "reimburse",
+          "sound": "/media/audio/list7/45107_reimburse_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list7/45107_orientation_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170968",
+      "order": 23,
+      "type": "textForeignTextLocal",
+      "word": "reimburse",
+      "hint": [
+        "Hint: =give back the money for an expense that has been paid out"
+      ],
+      "options": [
+        {
+          "text": "hoàn lại tiền, bồi hoàn",
+          "correct": true,
+          "hint": [
+            "Hint: =give back the money for an expense that has been paid out"
+          ],
+          "term": "reimburse",
+          "sound": "/media/audio/list7/45107_reimburse_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "người đăng kí",
+          "correct": false,
+          "hint": [
+            "Hint: =someone who pays money to receive a service or product regularly"
+          ],
+          "term": "subscriber",
+          "sound": "/media/audio/list7/45107_subscriber_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "người quản lý, người quản trị",
+          "correct": false,
+          "hint": [
+            "Hint: =the person who manages an office"
+          ],
+          "term": "administrator",
+          "sound": "/media/audio/list7/45107_administrator_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "am hiểu",
+          "correct": false,
+          "hint": [
+            "Hint: =knowing a lot about a subject"
+          ],
+          "term": "knowledgeable",
+          "sound": "/media/audio/list7/45107_knowledgeable_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list7/45107_reimburse_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170969",
+      "order": 24,
+      "type": "textForeignTextLocal",
+      "word": "vegetarian",
+      "hint": [
+        "Hint: =someone who does not eat meat or fish"
+      ],
+      "options": [
+        {
+          "text": "người ăn chay",
+          "correct": true,
+          "hint": [
+            "Hint: =someone who does not eat meat or fish"
+          ],
+          "term": "vegetarian",
+          "sound": "/media/audio/list7/45107_vegetarian_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "sự xử lý, sự vứt bỏ",
+          "correct": false,
+          "hint": [
+            "Hint: =the act of getting rid of something"
+          ],
+          "term": "disposal",
+          "sound": "/media/audio/list7/45107_disposal_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "công việc hoặc vị trí còn bỏ trống",
+          "correct": false,
+          "hint": [
+            "Hint: =job or position that needs to be filled"
+          ],
+          "term": "vacancy",
+          "sound": "/media/audio/list7/45107_vacancy_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "tủ lạnh",
+          "correct": false,
+          "hint": [
+            "Hint: =an electric box that cools food"
+          ],
+          "term": "refrigerator",
+          "sound": "/media/audio/list7/45107_refrigerator_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list7/45107_vegetarian_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170970",
+      "order": 25,
+      "type": "textForeignSentence",
+      "word": "juices",
+      "hint": [
+        "Hint: =the natural liquid from a plant or fruit"
+      ],
+      "options": [
+        {
+          "text": "nước ép (từ trái cây hoặc rau củ quả)",
+          "correct": true,
+          "hint": [
+            "Hint: =the natural liquid from a plant or fruit"
+          ],
+          "term": "juices",
+          "sound": "/media/audio/list7/45107_juice_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "sự nổi tiếng, sự yêu mến của quần chúng",
+          "correct": false,
+          "hint": [
+            "Hint: =the state of being liked by many people"
+          ],
+          "term": "popularity",
+          "sound": "/media/audio/list7/45107_popularity_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "danh bạ, niên giám",
+          "correct": false,
+          "hint": [
+            "Hint: =an alphabetical list of names and addresses"
+          ],
+          "term": "directory",
+          "sound": "/media/audio/list7/45107_directory_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "người quản lý, người quản trị",
+          "correct": false,
+          "hint": [
+            "Hint: =the person who manages an office"
+          ],
+          "term": "administrator",
+          "sound": "/media/audio/list7/45107_administrator_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list7/45107_juice_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170971",
+      "order": 26,
+      "type": "textForeignSentence",
+      "word": "cumulative",
+      "hint": [
+        "Hint: =increasing gradually as more is added"
+      ],
+      "options": [
+        {
+          "text": "tích lũy",
+          "correct": true,
+          "hint": [
+            "Hint: =increasing gradually as more is added"
+          ],
+          "term": "cumulative",
+          "sound": "/media/audio/list7/45107_cumulative_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "danh bạ, niên giám",
+          "correct": false,
+          "hint": [
+            "Hint: =an alphabetical list of names and addresses"
+          ],
+          "term": "directory",
+          "sound": "/media/audio/list7/45107_directory_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "chi tiết, đặc điểm, sự chỉ rõ",
+          "correct": false,
+          "hint": [
+            "Hint: =a special detail or necessity for something"
+          ],
+          "term": "specification",
+          "sound": "/media/audio/list7/45107_specification_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "rộng lượng, hào phóng",
+          "correct": false,
+          "hint": [
+            "Hint: =to give willingly and freely"
+          ],
+          "term": "generous",
+          "sound": "/media/audio/list7/45107_generous_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list7/45107_cumulative_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170972",
+      "order": 27,
+      "type": "textForeignSentence",
+      "word": "efficiently",
+      "hint": [
+        "Hint: =to do something well in a little amount of time"
+      ],
+      "options": [
+        {
+          "text": "một cách hữu hiệu, một cách hiệu quả",
+          "correct": true,
+          "hint": [
+            "Hint: =to do something well in a little amount of time"
+          ],
+          "term": "efficiently",
+          "sound": "/media/audio/list7/45107_efficiently_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "làm gián đoạn, làm ngắt quãng",
+          "correct": false,
+          "hint": [
+            "Hint: =to stop something or someone in the middle of something"
+          ],
+          "term": "interrupted",
+          "sound": "/media/audio/list7/45107_interrupt_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "thùng nhỏ, gói nhỏ, kiện hàng",
+          "correct": false,
+          "hint": [
+            "Hint: =a small carton or package"
+          ],
+          "term": "packet",
+          "sound": "/media/audio/list7/45107_packet_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "nhà bán lẻ, cửa hàng bán lẻ",
+          "correct": false,
+          "hint": [
+            "Hint: =a person or business that sells goods to the public"
+          ],
+          "term": "retailer",
+          "sound": "/media/audio/list7/45107_retailer_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list7/45107_efficiently_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170973",
+      "order": 28,
+      "type": "textForeignTextLocal",
+      "word": "booklet",
+      "hint": [
+        "Hint: =a small book, leaflet, or brochure"
+      ],
+      "options": [
+        {
+          "text": "cuốn sách nhỏ, chứa thông tin quảng cáo hoặc hướng dẫn",
+          "correct": true,
+          "hint": [
+            "Hint: =a small book, leaflet, or brochure"
+          ],
+          "term": "booklet",
+          "sound": "/media/audio/list7/45107_booklet_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "sự xử lý, sự vứt bỏ",
+          "correct": false,
+          "hint": [
+            "Hint: =the act of getting rid of something"
+          ],
+          "term": "disposal",
+          "sound": "/media/audio/list7/45107_disposal_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "nhà bán lẻ, cửa hàng bán lẻ",
+          "correct": false,
+          "hint": [
+            "Hint: =a person or business that sells goods to the public"
+          ],
+          "term": "retailer",
+          "sound": "/media/audio/list7/45107_retailer_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "ghế dài (thường thấy trong công viên)",
+          "correct": false,
+          "hint": [
+            "Hint: =a long, usually wooden, seat found mainly in parks"
+          ],
+          "term": "bench",
+          "sound": "/media/audio/list7/45107_bench_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list7/45107_booklet_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170974",
+      "order": 29,
+      "type": "textForeignSentence",
+      "word": "knowledgeable",
+      "hint": [
+        "Hint: =knowing a lot about a subject"
+      ],
+      "options": [
+        {
+          "text": "am hiểu",
+          "correct": true,
+          "hint": [
+            "Hint: =knowing a lot about a subject"
+          ],
+          "term": "knowledgeable",
+          "sound": "/media/audio/list7/45107_knowledgeable_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "không thường xuyên, không có kế hoạch",
+          "correct": false,
+          "hint": [
+            "Hint: =not regular, unplanned"
+          ],
+          "term": "casual",
+          "sound": "/media/audio/list7/45107_casual_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "nhân viên thu ngân",
+          "correct": false,
+          "hint": [
+            "Hint: =the person whose job it is to take the money you pay for goods or services"
+          ],
+          "term": "cashier",
+          "sound": "/media/audio/list7/45107_cashier_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "thở hổn hển",
+          "correct": false,
+          "hint": [
+            "Hint: =take short sharp breaths through your mouth, noisily"
+          ],
+          "term": "panting",
+          "sound": "/media/audio/list7/45107_pant_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list7/45107_knowledgeable_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170975",
+      "order": 30,
+      "type": "textForeignTextLocal",
+      "word": "garment",
+      "hint": [
+        "Hint: =something made of material that you can wear, like pants or a dress"
+      ],
+      "options": [
+        {
+          "text": "áo quần, hàng may mặc",
+          "correct": true,
+          "hint": [
+            "Hint: =something made of material that you can wear, like pants or a dress"
+          ],
+          "term": "garment",
+          "sound": "/media/audio/list7/45107_garment_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "sự phỏng đoán về tương lai",
+          "correct": false,
+          "hint": [
+            "Hint: =a guess about the future"
+          ],
+          "term": "prediction",
+          "sound": "/media/audio/list7/45107_prediction_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "người quản gia, nhân viên dọn dẹp",
+          "correct": false,
+          "hint": [
+            "Hint: =someone whose job it is to take care of and clean another person's house"
+          ],
+          "term": "housekeeper",
+          "sound": "/media/audio/list7/45107_housekeeper_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "xe hơi",
+          "correct": false,
+          "hint": [
+            "Hint: =car"
+          ],
+          "term": "auto",
+          "sound": "/media/audio/list7/45107_auto_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list7/45107_garment_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170976",
+      "order": 31,
+      "type": "textForeignSentence",
+      "word": "refrigerator",
+      "hint": [
+        "Hint: =an electric box that cools food"
+      ],
+      "options": [
+        {
+          "text": "tủ lạnh",
+          "correct": true,
+          "hint": [
+            "Hint: =an electric box that cools food"
+          ],
+          "term": "refrigerator",
+          "sound": "/media/audio/list7/45107_refrigerator_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "đài phun nước",
+          "correct": false,
+          "hint": [
+            "Hint: =a man-made spray of water that shoots upwards"
+          ],
+          "term": "fountain",
+          "sound": "/media/audio/list7/45107_fountain_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "ví, bao da",
+          "correct": false,
+          "hint": [
+            "Hint: =a small case that can fit in a pocket, used by men to hold money and credit cards"
+          ],
+          "term": "wallet",
+          "sound": "/media/audio/list7/45107_wallet_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "công việc hoặc vị trí còn bỏ trống",
+          "correct": false,
+          "hint": [
+            "Hint: =job or position that needs to be filled"
+          ],
+          "term": "vacancy",
+          "sound": "/media/audio/list7/45107_vacancy_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list7/45107_refrigerator_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170977",
+      "order": 32,
+      "type": "textForeignTextLocal",
+      "word": "poster",
+      "hint": [
+        "Hint: =a large printed picture or notice to stick on a wall"
+      ],
+      "options": [
+        {
+          "text": "tấm áp phích, quảng cáo",
+          "correct": true,
+          "hint": [
+            "Hint: =a large printed picture or notice to stick on a wall"
+          ],
+          "term": "poster",
+          "sound": "/media/audio/list7/45107_poster_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "người đăng kí",
+          "correct": false,
+          "hint": [
+            "Hint: =someone who pays money to receive a service or product regularly"
+          ],
+          "term": "subscriber",
+          "sound": "/media/audio/list7/45107_subscriber_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "xe hơi",
+          "correct": false,
+          "hint": [
+            "Hint: =car"
+          ],
+          "term": "auto",
+          "sound": "/media/audio/list7/45107_auto_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "người quản lý, người quản trị",
+          "correct": false,
+          "hint": [
+            "Hint: =the person who manages an office"
+          ],
+          "term": "administrator",
+          "sound": "/media/audio/list7/45107_administrator_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list7/45107_poster_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170978",
+      "order": 33,
+      "type": "textForeignTextLocal",
+      "word": "oven",
+      "hint": [
+        "Hint: =kitchen appliance used for baking or roasting"
+      ],
+      "options": [
+        {
+          "text": "lò nướng",
+          "correct": true,
+          "hint": [
+            "Hint: =kitchen appliance used for baking or roasting"
+          ],
+          "term": "oven",
+          "sound": "/media/audio/list7/45107_oven_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "làm thất vọng, làm bực mình",
+          "correct": false,
+          "hint": [
+            "Hint: =to upset someone"
+          ],
+          "term": "frustrate",
+          "sound": "/media/audio/list7/45107_frustrate_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "tiết kiệm, kinh tế",
+          "correct": false,
+          "hint": [
+            "Hint: =of good value"
+          ],
+          "term": "economical",
+          "sound": "/media/audio/list7/45107_economical_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "sự hủy bỏ",
+          "correct": false,
+          "hint": [
+            "Hint: =when something is not going to happen after all"
+          ],
+          "term": "cancellation",
+          "sound": "/media/audio/list7/45107_cancellation_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list7/45107_oven_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170979",
+      "order": 34,
+      "type": "textForeignSentence",
+      "word": "specification",
+      "hint": [
+        "Hint: =a special detail or necessity for something"
+      ],
+      "options": [
+        {
+          "text": "chi tiết, đặc điểm, sự chỉ rõ",
+          "correct": true,
+          "hint": [
+            "Hint: =a special detail or necessity for something"
+          ],
+          "term": "specification",
+          "sound": "/media/audio/list7/45107_specification_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "trang trí, trang hoàng",
+          "correct": false,
+          "hint": [
+            "Hint: =make more attractive by adding ornament, colour, etc."
+          ],
+          "term": "decorated",
+          "sound": "/media/audio/list7/45107_decorate_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "sự lấy đi, sự khấu trừ",
+          "correct": false,
+          "hint": [
+            "Hint: =the act of taking away, usually money"
+          ],
+          "term": "deduction",
+          "sound": "/media/audio/list7/45107_deduction_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "nhân viên thu ngân",
+          "correct": false,
+          "hint": [
+            "Hint: =the person whose job it is to take the money you pay for goods or services"
+          ],
+          "term": "cashiers",
+          "sound": "/media/audio/list7/45107_cashier_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list7/45107_specification_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170980",
+      "order": 35,
+      "type": "textForeignTextLocal",
+      "word": "economical",
+      "hint": [
+        "Hint: =of good value"
+      ],
+      "options": [
+        {
+          "text": "tiết kiệm, kinh tế",
+          "correct": true,
+          "hint": [
+            "Hint: =of good value"
+          ],
+          "term": "economical",
+          "sound": "/media/audio/list7/45107_economical_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "sự hủy bỏ",
+          "correct": false,
+          "hint": [
+            "Hint: =when something is not going to happen after all"
+          ],
+          "term": "cancellation",
+          "sound": "/media/audio/list7/45107_cancellation_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "người quản lý, người quản trị",
+          "correct": false,
+          "hint": [
+            "Hint: =the person who manages an office"
+          ],
+          "term": "administrator",
+          "sound": "/media/audio/list7/45107_administrator_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "tủ lạnh",
+          "correct": false,
+          "hint": [
+            "Hint: =an electric box that cools food"
+          ],
+          "term": "refrigerator",
+          "sound": "/media/audio/list7/45107_refrigerator_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list7/45107_economical_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170981",
+      "order": 36,
+      "type": "textForeignSentence",
+      "word": "subscribers",
+      "hint": [
+        "Hint: =someone who pays money to receive a service or product regularly"
+      ],
+      "options": [
+        {
+          "text": "người đăng kí",
+          "correct": true,
+          "hint": [
+            "Hint: =someone who pays money to receive a service or product regularly"
+          ],
+          "term": "subscribers",
+          "sound": "/media/audio/list7/45107_subscriber_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "sự lấy đi, sự khấu trừ",
+          "correct": false,
+          "hint": [
+            "Hint: =the act of taking away, usually money"
+          ],
+          "term": "deduction",
+          "sound": "/media/audio/list7/45107_deduction_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "thùng nhỏ, gói nhỏ, kiện hàng",
+          "correct": false,
+          "hint": [
+            "Hint: =a small carton or package"
+          ],
+          "term": "packet",
+          "sound": "/media/audio/list7/45107_packet_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "cuốn sách nhỏ, chứa thông tin quảng cáo hoặc hướng dẫn",
+          "correct": false,
+          "hint": [
+            "Hint: =a small book, leaflet, or brochure"
+          ],
+          "term": "booklets",
+          "sound": "/media/audio/list7/45107_booklet_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list7/45107_subscriber_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170982",
+      "order": 37,
+      "type": "textForeignSentence",
+      "word": "predictions",
+      "hint": [
+        "Hint: =a guess about the future"
+      ],
+      "options": [
+        {
+          "text": "sự phỏng đoán về tương lai",
+          "correct": true,
+          "hint": [
+            "Hint: =a guess about the future"
+          ],
+          "term": "predictions",
+          "sound": "/media/audio/list7/45107_prediction_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "đường nhỏ, đường làng, ngõ",
+          "correct": false,
+          "hint": [
+            "Hint: =a narrow road"
+          ],
+          "term": "lane",
+          "sound": "/media/audio/list7/45107_lane_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "khoan lỗ",
+          "correct": false,
+          "hint": [
+            "Hint: =to bore a hole into something"
+          ],
+          "term": "drilled",
+          "sound": "/media/audio/list7/45107_drill_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "tiết kiệm, kinh tế",
+          "correct": false,
+          "hint": [
+            "Hint: =of good value"
+          ],
+          "term": "economical",
+          "sound": "/media/audio/list7/45107_economical_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list7/45107_prediction_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170983",
+      "order": 38,
+      "type": "textForeignSentence",
+      "word": "housekeeper",
+      "hint": [
+        "Hint: =someone whose job it is to take care of and clean another person's house"
+      ],
+      "options": [
+        {
+          "text": "người quản gia, nhân viên dọn dẹp",
+          "correct": true,
+          "hint": [
+            "Hint: =someone whose job it is to take care of and clean another person's house"
+          ],
+          "term": "housekeeper",
+          "sound": "/media/audio/list7/45107_housekeeper_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "danh bạ, niên giám",
+          "correct": false,
+          "hint": [
+            "Hint: =an alphabetical list of names and addresses"
+          ],
+          "term": "directory",
+          "sound": "/media/audio/list7/45107_directory_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "tủ lạnh",
+          "correct": false,
+          "hint": [
+            "Hint: =an electric box that cools food"
+          ],
+          "term": "refrigerator",
+          "sound": "/media/audio/list7/45107_refrigerator_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "người môi giới",
+          "correct": false,
+          "hint": [
+            "Hint: =someone who buys and sells things for a percentage of sales"
+          ],
+          "term": "brokers",
+          "sound": "/media/audio/list7/45107_broker_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list7/45107_housekeeper_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170984",
+      "order": 39,
+      "type": "textForeignSentence",
+      "word": "internship",
+      "hint": [
+        "Hint: =a position or placement for someone to learn a job through work, sometimes without pay"
+      ],
+      "options": [
+        {
+          "text": "kì thực tập",
+          "correct": true,
+          "hint": [
+            "Hint: =a position or placement for someone to learn a job through work, sometimes without pay"
+          ],
+          "term": "internship",
+          "sound": "/media/audio/list7/45107_internship_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "ví, bao da",
+          "correct": false,
+          "hint": [
+            "Hint: =a small case that can fit in a pocket, used by men to hold money and credit cards"
+          ],
+          "term": "wallet",
+          "sound": "/media/audio/list7/45107_wallet_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "thợ sửa ống nước",
+          "correct": false,
+          "hint": [
+            "Hint: =someone who connects and mends water pipes for a living"
+          ],
+          "term": "plumber",
+          "sound": "/media/audio/list7/45107_plumber_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "quá hạn",
+          "correct": false,
+          "hint": [
+            "Hint: =past the date you should do something; late"
+          ],
+          "term": "overdue",
+          "sound": "/media/audio/list7/45107_overdue_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list7/45107_internship_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170985",
+      "order": 40,
+      "type": "textForeignSentence",
+      "word": "lane",
+      "hint": [
+        "Hint: =a narrow road"
+      ],
+      "options": [
+        {
+          "text": "đường nhỏ, đường làng, ngõ",
+          "correct": true,
+          "hint": [
+            "Hint: =a narrow road"
+          ],
+          "term": "lane",
+          "sound": "/media/audio/list7/45107_lane_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "công việc hoặc vị trí còn bỏ trống",
+          "correct": false,
+          "hint": [
+            "Hint: =job or position that needs to be filled"
+          ],
+          "term": "vacancies",
+          "sound": "/media/audio/list7/45107_vacancy_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "làm thất vọng, làm bực mình",
+          "correct": false,
+          "hint": [
+            "Hint: =to upset someone"
+          ],
+          "term": "frustrate",
+          "sound": "/media/audio/list7/45107_frustrate_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "tờ gấp quảng cáo, tờ rơi",
+          "correct": false,
+          "hint": [
+            "Hint: =brochure, leaflet"
+          ],
+          "term": "flyer",
+          "sound": "/media/audio/list7/45107_flyer_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list7/45107_lane_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170986",
+      "order": 41,
+      "type": "textForeignSentence",
+      "word": "cashiers",
+      "hint": [
+        "Hint: =the person whose job it is to take the money you pay for goods or services"
+      ],
+      "options": [
+        {
+          "text": "nhân viên thu ngân",
+          "correct": true,
+          "hint": [
+            "Hint: =the person whose job it is to take the money you pay for goods or services"
+          ],
+          "term": "cashiers",
+          "sound": "/media/audio/list7/45107_cashier_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "nước ép (từ trái cây hoặc rau củ quả)",
+          "correct": false,
+          "hint": [
+            "Hint: =the natural liquid from a plant or fruit"
+          ],
+          "term": "juice",
+          "sound": "/media/audio/list7/45107_juice_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "bảo mật",
+          "correct": false,
+          "hint": [
+            "Hint: =something that needs to be kept secret"
+          ],
+          "term": "confidential",
+          "sound": "/media/audio/list7/45107_confidential_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "sự nổi tiếng, sự yêu mến của quần chúng",
+          "correct": false,
+          "hint": [
+            "Hint: =the state of being liked by many people"
+          ],
+          "term": "popularity",
+          "sound": "/media/audio/list7/45107_popularity_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list7/45107_cashier_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170987",
+      "order": 42,
+      "type": "textForeignSentence",
+      "word": "wallet",
+      "hint": [
+        "Hint: =a small case that can fit in a pocket, used by men to hold money and credit cards"
+      ],
+      "options": [
+        {
+          "text": "ví, bao da",
+          "correct": true,
+          "hint": [
+            "Hint: =a small case that can fit in a pocket, used by men to hold money and credit cards"
+          ],
+          "term": "wallet",
+          "sound": "/media/audio/list7/45107_wallet_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "chắc chắn, chính xác",
+          "correct": false,
+          "hint": [
+            "Hint: =for certain, exact"
+          ],
+          "term": "definite",
+          "sound": "/media/audio/list7/45107_definite_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "kì thực tập",
+          "correct": false,
+          "hint": [
+            "Hint: =a position or placement for someone to learn a job through work, sometimes without pay"
+          ],
+          "term": "internship",
+          "sound": "/media/audio/list7/45107_internship_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "tích lũy",
+          "correct": false,
+          "hint": [
+            "Hint: =increasing gradually as more is added"
+          ],
+          "term": "cumulative",
+          "sound": "/media/audio/list7/45107_cumulative_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list7/45107_wallet_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170988",
+      "order": 43,
+      "type": "textForeignSentence",
+      "word": "flyers",
+      "hint": [
+        "Hint: =brochure, leaflet"
+      ],
+      "options": [
+        {
+          "text": "tờ gấp quảng cáo, tờ rơi",
+          "correct": true,
+          "hint": [
+            "Hint: =brochure, leaflet"
+          ],
+          "term": "flyers",
+          "sound": "/media/audio/list7/45107_flyer_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "kì thực tập",
+          "correct": false,
+          "hint": [
+            "Hint: =a position or placement for someone to learn a job through work, sometimes without pay"
+          ],
+          "term": "internship",
+          "sound": "/media/audio/list7/45107_internship_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "làm thất vọng, làm bực mình",
+          "correct": false,
+          "hint": [
+            "Hint: =to upset someone"
+          ],
+          "term": "frustrated",
+          "sound": "/media/audio/list7/45107_frustrate_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "am hiểu",
+          "correct": false,
+          "hint": [
+            "Hint: =knowing a lot about a subject"
+          ],
+          "term": "knowledgeable",
+          "sound": "/media/audio/list7/45107_knowledgeable_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list7/45107_flyer_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170989",
+      "order": 44,
+      "type": "textForeignSentence",
+      "word": "directory",
+      "hint": [
+        "Hint: =an alphabetical list of names and addresses"
+      ],
+      "options": [
+        {
+          "text": "danh bạ, niên giám",
+          "correct": true,
+          "hint": [
+            "Hint: =an alphabetical list of names and addresses"
+          ],
+          "term": "directory",
+          "sound": "/media/audio/list7/45107_directory_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "chi tiết, đặc điểm, sự chỉ rõ",
+          "correct": false,
+          "hint": [
+            "Hint: =a special detail or necessity for something"
+          ],
+          "term": "specifications",
+          "sound": "/media/audio/list7/45107_specification_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "rộng lượng, hào phóng",
+          "correct": false,
+          "hint": [
+            "Hint: =to give willingly and freely"
+          ],
+          "term": "generous",
+          "sound": "/media/audio/list7/45107_generous_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "công việc hoặc vị trí còn bỏ trống",
+          "correct": false,
+          "hint": [
+            "Hint: =job or position that needs to be filled"
+          ],
+          "term": "vacancies",
+          "sound": "/media/audio/list7/45107_vacancy_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list7/45107_directory_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170990",
+      "order": 45,
+      "type": "textForeignTextLocal",
+      "word": "administrator",
+      "hint": [
+        "Hint: =the person who manages an office"
+      ],
+      "options": [
+        {
+          "text": "người quản lý, người quản trị",
+          "correct": true,
+          "hint": [
+            "Hint: =the person who manages an office"
+          ],
+          "term": "administrator",
+          "sound": "/media/audio/list7/45107_administrator_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "đài phun nước",
+          "correct": false,
+          "hint": [
+            "Hint: =a man-made spray of water that shoots upwards"
+          ],
+          "term": "fountain",
+          "sound": "/media/audio/list7/45107_fountain_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "chi tiết, đặc điểm, sự chỉ rõ",
+          "correct": false,
+          "hint": [
+            "Hint: =a special detail or necessity for something"
+          ],
+          "term": "specification",
+          "sound": "/media/audio/list7/45107_specification_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "sinh ra, đẻ ra",
+          "correct": false,
+          "hint": [
+            "Hint: =brought to life"
+          ],
+          "term": "born",
+          "sound": "/media/audio/list7/45107_born_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list7/45107_administrator_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170991",
+      "order": 46,
+      "type": "textForeignSentence",
+      "word": "overdue",
+      "hint": [
+        "Hint: =past the date you should do something; late"
+      ],
+      "options": [
+        {
+          "text": "quá hạn",
+          "correct": true,
+          "hint": [
+            "Hint: =past the date you should do something; late"
+          ],
+          "term": "overdue",
+          "sound": "/media/audio/list7/45107_overdue_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "kì thực tập",
+          "correct": false,
+          "hint": [
+            "Hint: =a position or placement for someone to learn a job through work, sometimes without pay"
+          ],
+          "term": "internship",
+          "sound": "/media/audio/list7/45107_internship_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "đài phun nước",
+          "correct": false,
+          "hint": [
+            "Hint: =a man-made spray of water that shoots upwards"
+          ],
+          "term": "fountain",
+          "sound": "/media/audio/list7/45107_fountain_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "công việc hoặc vị trí còn bỏ trống",
+          "correct": false,
+          "hint": [
+            "Hint: =job or position that needs to be filled"
+          ],
+          "term": "vacancy",
+          "sound": "/media/audio/list7/45107_vacancy_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list7/45107_overdue_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170992",
+      "order": 47,
+      "type": "textForeignTextLocal",
+      "word": "organizer",
+      "hint": [
+        "Hint: =someone who plans things for a living"
+      ],
+      "options": [
+        {
+          "text": "người tổ chức",
+          "correct": true,
+          "hint": [
+            "Hint: =someone who plans things for a living"
+          ],
+          "term": "organizer",
+          "sound": "/media/audio/list7/45107_organizer_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "xe hơi",
+          "correct": false,
+          "hint": [
+            "Hint: =car"
+          ],
+          "term": "auto",
+          "sound": "/media/audio/list7/45107_auto_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "cửa hàng bán lẻ bán đồ xả, đồ giảm giá chính hãng",
+          "correct": false,
+          "hint": [
+            "Hint: =a store that sells things at a discount"
+          ],
+          "term": "outlet",
+          "sound": "/media/audio/list7/45107_outlet_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "khoan lỗ",
+          "correct": false,
+          "hint": [
+            "Hint: =to bore a hole into something"
+          ],
+          "term": "drill",
+          "sound": "/media/audio/list7/45107_drill_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list7/45107_organizer_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170993",
+      "order": 48,
+      "type": "textForeignTextLocal",
+      "word": "generous",
+      "hint": [
+        "Hint: =to give willingly and freely"
+      ],
+      "options": [
+        {
+          "text": "rộng lượng, hào phóng",
+          "correct": true,
+          "hint": [
+            "Hint: =to give willingly and freely"
+          ],
+          "term": "generous",
+          "sound": "/media/audio/list7/45107_generous_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "tờ gấp quảng cáo, tờ rơi",
+          "correct": false,
+          "hint": [
+            "Hint: =brochure, leaflet"
+          ],
+          "term": "flyer",
+          "sound": "/media/audio/list7/45107_flyer_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "không thường xuyên, không có kế hoạch",
+          "correct": false,
+          "hint": [
+            "Hint: =not regular, unplanned"
+          ],
+          "term": "casual",
+          "sound": "/media/audio/list7/45107_casual_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "ghế dài (thường thấy trong công viên)",
+          "correct": false,
+          "hint": [
+            "Hint: =a long, usually wooden, seat found mainly in parks"
+          ],
+          "term": "bench",
+          "sound": "/media/audio/list7/45107_bench_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list7/45107_generous_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170994",
+      "order": 49,
+      "type": "textForeignSentence",
+      "word": "definite",
+      "hint": [
+        "Hint: =for certain, exact"
+      ],
+      "options": [
+        {
+          "text": "chắc chắn, chính xác",
+          "correct": true,
+          "hint": [
+            "Hint: =for certain, exact"
+          ],
+          "term": "definite",
+          "sound": "/media/audio/list7/45107_definite_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "thùng nhỏ, gói nhỏ, kiện hàng",
+          "correct": false,
+          "hint": [
+            "Hint: =a small carton or package"
+          ],
+          "term": "packet",
+          "sound": "/media/audio/list7/45107_packet_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "trang trí, trang hoàng",
+          "correct": false,
+          "hint": [
+            "Hint: =make more attractive by adding ornament, colour, etc."
+          ],
+          "term": "decorated",
+          "sound": "/media/audio/list7/45107_decorate_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "đường nhỏ, đường làng, ngõ",
+          "correct": false,
+          "hint": [
+            "Hint: =a narrow road"
+          ],
+          "term": "lanes",
+          "sound": "/media/audio/list7/45107_lane_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list7/45107_definite_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170995",
+      "order": 50,
+      "type": "textForeignSentence",
+      "word": "outlets",
+      "hint": [
+        "Hint: =a store that sells things at a discount"
+      ],
+      "options": [
+        {
+          "text": "cửa hàng bán lẻ bán đồ xả, đồ giảm giá chính hãng",
+          "correct": true,
+          "hint": [
+            "Hint: =a store that sells things at a discount"
+          ],
+          "term": "outlets",
+          "sound": "/media/audio/list7/45107_outlet_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "ví, bao da",
+          "correct": false,
+          "hint": [
+            "Hint: =a small case that can fit in a pocket, used by men to hold money and credit cards"
+          ],
+          "term": "wallet",
+          "sound": "/media/audio/list7/45107_wallet_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "làm thất vọng, làm bực mình",
+          "correct": false,
+          "hint": [
+            "Hint: =to upset someone"
+          ],
+          "term": "frustrate",
+          "sound": "/media/audio/list7/45107_frustrate_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "người tổ chức",
+          "correct": false,
+          "hint": [
+            "Hint: =someone who plans things for a living"
+          ],
+          "term": "organizers",
+          "sound": "/media/audio/list7/45107_organizer_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list7/45107_outlet_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170996",
+      "order": 51,
+      "type": "textForeignTextLocal",
+      "word": "showroom",
+      "hint": [
+        "Hint: =an area where goods for sale are set out so people can look at them"
+      ],
+      "options": [
+        {
+          "text": "nơi trưng bày, phòng trưng bày",
+          "correct": true,
+          "hint": [
+            "Hint: =an area where goods for sale are set out so people can look at them"
+          ],
+          "term": "showroom",
+          "sound": "/media/audio/list7/45107_showroom_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "không thường xuyên, không có kế hoạch",
+          "correct": false,
+          "hint": [
+            "Hint: =not regular, unplanned"
+          ],
+          "term": "casual",
+          "sound": "/media/audio/list7/45107_casual_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "lò nướng",
+          "correct": false,
+          "hint": [
+            "Hint: =kitchen appliance used for baking or roasting"
+          ],
+          "term": "oven",
+          "sound": "/media/audio/list7/45107_oven_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "tờ gấp quảng cáo, tờ rơi",
+          "correct": false,
+          "hint": [
+            "Hint: =brochure, leaflet"
+          ],
+          "term": "flyer",
+          "sound": "/media/audio/list7/45107_flyer_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list7/45107_showroom_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170997",
+      "order": 52,
+      "type": "textForeignTextLocal",
+      "word": "disposal",
+      "hint": [
+        "Hint: =the act of getting rid of something"
+      ],
+      "options": [
+        {
+          "text": "sự xử lý, sự vứt bỏ",
+          "correct": true,
+          "hint": [
+            "Hint: =the act of getting rid of something"
+          ],
+          "term": "disposal",
+          "sound": "/media/audio/list7/45107_disposal_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "xe hơi",
+          "correct": false,
+          "hint": [
+            "Hint: =car"
+          ],
+          "term": "auto",
+          "sound": "/media/audio/list7/45107_auto_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "dầu xả cho tóc",
+          "correct": false,
+          "hint": [
+            "Hint: =shampoo-like substance used after washing hair"
+          ],
+          "term": "conditioner",
+          "sound": "/media/audio/list7/45107_conditioner_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "tiết kiệm, kinh tế",
+          "correct": false,
+          "hint": [
+            "Hint: =of good value"
+          ],
+          "term": "economical",
+          "sound": "/media/audio/list7/45107_economical_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list7/45107_disposal_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170998",
+      "order": 53,
+      "type": "textForeignSentence",
+      "word": "drilled",
+      "hint": [
+        "Hint: =to bore a hole into something"
+      ],
+      "options": [
+        {
+          "text": "khoan lỗ",
+          "correct": true,
+          "hint": [
+            "Hint: =to bore a hole into something"
+          ],
+          "term": "drilled",
+          "sound": "/media/audio/list7/45107_drill_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "sự phỏng đoán về tương lai",
+          "correct": false,
+          "hint": [
+            "Hint: =a guess about the future"
+          ],
+          "term": "predictions",
+          "sound": "/media/audio/list7/45107_prediction_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "xe hơi",
+          "correct": false,
+          "hint": [
+            "Hint: =car"
+          ],
+          "term": "autos",
+          "sound": "/media/audio/list7/45107_auto_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "nơi trưng bày, phòng trưng bày",
+          "correct": false,
+          "hint": [
+            "Hint: =an area where goods for sale are set out so people can look at them"
+          ],
+          "term": "showroom",
+          "sound": "/media/audio/list7/45107_showroom_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list7/45107_drill_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1170999",
+      "order": 54,
+      "type": "textForeignTextLocal",
+      "word": "promptly",
+      "hint": [
+        "Hint: =done right away, immediately; also exactly at the stated time"
+      ],
+      "options": [
+        {
+          "text": "nhanh chóng, ngay lập tức; đúng giờ",
+          "correct": true,
+          "hint": [
+            "Hint: =done right away, immediately; also exactly at the stated time"
+          ],
+          "term": "promptly",
+          "sound": "/media/audio/list7/45107_promptly_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "trang trí, trang hoàng",
+          "correct": false,
+          "hint": [
+            "Hint: =make more attractive by adding ornament, colour, etc."
+          ],
+          "term": "decorate",
+          "sound": "/media/audio/list7/45107_decorate_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "công việc hoặc vị trí còn bỏ trống",
+          "correct": false,
+          "hint": [
+            "Hint: =job or position that needs to be filled"
+          ],
+          "term": "vacancy",
+          "sound": "/media/audio/list7/45107_vacancy_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "tấm áp phích, quảng cáo",
+          "correct": false,
+          "hint": [
+            "Hint: =a large printed picture or notice to stick on a wall"
+          ],
+          "term": "poster",
+          "sound": "/media/audio/list7/45107_poster_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list7/45107_promptly_us.mp3",
+      "explanation": ""
+    },
+    {
+      "id": "1171000",
+      "order": 55,
+      "type": "textForeignTextLocal",
+      "word": "confidential",
+      "hint": [
+        "Hint: =something that needs to be kept secret"
+      ],
+      "options": [
+        {
+          "text": "bảo mật",
+          "correct": true,
+          "hint": [
+            "Hint: =something that needs to be kept secret"
+          ],
+          "term": "confidential",
+          "sound": "/media/audio/list7/45107_confidential_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "chắc chắn, chính xác",
+          "correct": false,
+          "hint": [
+            "Hint: =for certain, exact"
+          ],
+          "term": "definite",
+          "sound": "/media/audio/list7/45107_definite_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "nhà bán lẻ, cửa hàng bán lẻ",
+          "correct": false,
+          "hint": [
+            "Hint: =a person or business that sells goods to the public"
+          ],
+          "term": "retailer",
+          "sound": "/media/audio/list7/45107_retailer_us.mp3",
+          "image": "",
+          "explanation": ""
+        },
+        {
+          "text": "ghế dài (thường thấy trong công viên)",
+          "correct": false,
+          "hint": [
+            "Hint: =a long, usually wooden, seat found mainly in parks"
+          ],
+          "term": "bench",
+          "sound": "/media/audio/list7/45107_bench_us.mp3",
+          "image": "",
+          "explanation": ""
+        }
+      ],
+      "correctIndex": 0,
+      "audio": "/media/audio/list7/45107_confidential_us.mp3",
+      "explanation": ""
+    }
+  ],
+  "totalQuestions": 55,
+  "complete": true
+}
