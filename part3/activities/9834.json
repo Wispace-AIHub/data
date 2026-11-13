@@ -1,0 +1,77 @@
+{
+    "expectedQuestions":  1,
+    "activityId":  "9834",
+    "text":  "",
+    "audioUrls":  [
+                      "/media/tez_media/sound/ets_toeic_2020_test_6_68_70.mp3",
+                      "https://s4-media1.study4.com/media/tez_media/sound/ets_toeic_2020_test_6_68_70.mp3"
+                  ],
+    "videos":  [
+
+               ],
+    "html":  "",
+    "complete":  false,
+    "questions":  [
+                      {
+                          "id":  "450811",
+                          "data":  {
+                                       "questionBankComplete":  false,
+                                       "sample":  {
+                                                      "id":  "11459",
+                                                      "answerAvailable":  false,
+                                                      "prompt":  "What kind of business does the man want to start?\nA. A shop\nB. A restaurant\nC. A bank\nD. A farm",
+                                                      "imageUrls":  [
+                                                                        "https://s4-media1.study4.com/media/tez_media/img/ets_toeic_2020_test_6_68_70.png",
+                                                                        "/media/tez_media/img/ets_toeic_2020_test_6_68_70.png"
+                                                                    ],
+                                                      "audioUrls":  [
+                                                                        "/media/tez_media/sound/ets_toeic_2020_test_6_68_70.mp3",
+                                                                        "https://s4-media1.study4.com/media/tez_media/sound/ets_toeic_2020_test_6_68_70.mp3"
+                                                                    ],
+                                                      "correctAnswer":  null,
+                                                      "options":  [
+                                                                      {
+                                                                          "key":  "A",
+                                                                          "text":  "A. A shop"
+                                                                      },
+                                                                      {
+                                                                          "key":  "B",
+                                                                          "text":  "B. A restaurant"
+                                                                      },
+                                                                      {
+                                                                          "key":  "C",
+                                                                          "text":  "C. A bank"
+                                                                      },
+                                                                      {
+                                                                          "key":  "D",
+                                                                          "text":  "D. A farm"
+                                                                      }
+                                                                  ]
+                                                  },
+                                       "sourceUrl":  "https://study4.com/practice/problem/?format_exam=1\u0026format_section=2\u0026format_part=4\u0026title=(%3F%3APractice%20Set%7CSample%20TOEIC%20Test%20(10%7C%5B1-9%5D))%5Cy\u0026view=embed",
+                                       "type":  "practice-pool",
+                                       "filters":  {
+                                                       "format_exam":  "1",
+                                                       "format_section":  "2",
+                                                       "format_part":  "4",
+                                                       "title":  "(?:Practice Set|Sample TOEIC Test (10|[1-9]))\\y"
+                                                   }
+                                   },
+                          "audioUrls":  [
+                                            "/media/tez_media/sound/ets_toeic_2020_test_6_68_70.mp3",
+                                            "https://s4-media1.study4.com/media/tez_media/sound/ets_toeic_2020_test_6_68_70.mp3"
+                                        ],
+                          "imageUrls":  [
+                                            "https://s4-media1.study4.com/media/tez_media/img/ets_toeic_2020_test_6_68_70.png",
+                                            "/media/tez_media/img/ets_toeic_2020_test_6_68_70.png"
+                                        ]
+                      }
+                  ],
+    "collectionStatus":  "dynamic-pool",
+    "title":  "Luyện tập: Trắc nghiệm format TOEIC",
+    "lessonTitle":  "PRACTICE ZONE",
+    "imageUrls":  [
+                      "https://s4-media1.study4.com/media/tez_media/img/ets_toeic_2020_test_6_68_70.png",
+                      "/media/tez_media/img/ets_toeic_2020_test_6_68_70.png"
+                  ]
+}
