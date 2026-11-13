@@ -1,0 +1,950 @@
+{
+    "expectedQuestions":  18,
+    "activityId":  "7352",
+    "text":  "",
+    "audioUrls":  [
+
+                  ],
+    "videos":  [
+
+               ],
+    "html":  "",
+    "complete":  true,
+    "questions":  [
+                      {
+                          "id":  "405075",
+                          "data":  {
+                                       "contextHtml":  "\n                            \u003cp\u003e\u003cspan\u003eEd Singh (9:46 A.M.):\u003c/span\u003e\u003cspan\u003e Hi Marisa, has David Yuen stopped by your office?\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003eMarisa Viteli (9:48 A.M.):\u003c/span\u003e\u003cspan\u003e Not that I know of. I just got here.\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003eEd Singh (9:49 A.M.):\u003c/span\u003e\u003cspan\u003e OK. He’s having a hard time debugging a program and I told him to ask you to look at it. I hope you don’t mind.\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003eMarisa Viteli (9:50 A.M.):\u003c/span\u003e\u003cspan\u003e Not at all. He\u0027s on the Zandos project, right?\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003eEd Singh (9:51 A.M.):\u003c/span\u003e\u003cspan\u003e Yes, they’re building an order-tracking system and it has to be delivered in a few weeks.\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003eMarisa Viteli (9:52 A.M.):\u003c/span\u003e\u003cspan\u003e Ah, that’s a huge program. I can see why he’s having coding problems.\u003c/span\u003e\u003c/p\u003e\n                        ",
+                                       "translation":  "Ed Singh (9:46 A.M.): Xin chào Marisa, David Yuen có ghé qua văn phòng của bạn không?\nMarisa Viteli (9:48 A.M.): Không, theo những gì tôi biết. Tôi chỉ vừa mới đến đây.\nEd Singh (9:49 A.M.): OK. Anh ấy gặp khó khăn trong việc gỡ lỗi một chương trình và tôi nhờ anh ấy đề nghị bạn xem nó. Tôi hy vọng bạn không phiền.\nMarisa Viteli (9:50 A.M.): Không hề. Anh ấy đang trong dự án Zandos, phải không?\nEd Singh (9:51 A.M.): Vâng, họ đang xây dựng một hệ thống theo dõi đơn đặt hàng và nó sẽ phải được hoàn thành trong vài tuần nữa.\nMarisa Viteli (9:52 A.M.): Ah, đó là một chương trình lớn. Tôi có thể thấy lý do tại sao anh ấy gặp vấn đề về lập trình.",
+                                       "transcript":  "",
+                                       "type":  "mcq",
+                                       "context":  "Ed Singh (9:46 A.M.): Hi Marisa, has David Yuen stopped by your office?\nMarisa Viteli (9:48 A.M.): Not that I know of. I just got here.\nEd Singh (9:49 A.M.): OK. He’s having a hard time debugging a program and I told him to ask you to look at it. I hope you don’t mind.\nMarisa Viteli (9:50 A.M.): Not at all. He\u0027s on the Zandos project, right?\nEd Singh (9:51 A.M.): Yes, they’re building an order-tracking system and it has to be delivered in a few weeks.\nMarisa Viteli (9:52 A.M.): Ah, that’s a huge program. I can see why he’s having coding problems.",
+                                       "questions":  [
+                                                         {
+                                                             "number":  "149",
+                                                             "prompt":  "For whom do the writers most likely work?",
+                                                             "promptHtml":  "\n                                    \u003cp\u003e\u003cspan\u003eFor whom do the writers most likely work?\u003c/span\u003e\u003c/p\u003e\n                                ",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A. A home repair business"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B. A food delivery business"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C. A building construction company"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "D",
+                                                                                 "text":  "D. A software development company"
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "D",
+                                                             "transcript":  "",
+                                                             "explanation":  "Đáp án đúng: D\nNhững người viết có khả năng làm việc cho công ty về gì nhất? =\u003e cần tìm đáp án chứa nơi làm việc của những người viết.\nA. Một doanh nghiệp sửa chữa nhà\nB. Một doanh nghiệp giao đồ ăn\nC. Một công ty xây dựng tòa nhà\nD. Một công ty phát triển phần mềm =\u003e nội dung đoạn chat có nhắc đến việc gỡ lỗi một chương trình (debugging a program) và vấn đề về lập trình (coding problems), vậy nên đây là một công ty về phần mềm máy tính, chọn.",
+                                                             "translation":  "Ed Singh (9:46 A.M.): Xin chào Marisa, David Yuen có ghé qua văn phòng của bạn không?\nMarisa Viteli (9:48 A.M.): Không, theo những gì tôi biết. Tôi chỉ vừa mới đến đây.\nEd Singh (9:49 A.M.): OK. Anh ấy gặp khó khăn trong việc gỡ lỗi một chương trình và tôi nhờ anh ấy đề nghị bạn xem nó. Tôi hy vọng bạn không phiền.\nMarisa Viteli (9:50 A.M.): Không hề. Anh ấy đang trong dự án Zandos, phải không?\nEd Singh (9:51 A.M.): Vâng, họ đang xây dựng một hệ thống theo dõi đơn đặt hàng và nó sẽ phải được hoàn thành trong vài tuần nữa.\nMarisa Viteli (9:52 A.M.): Ah, đó là một chương trình lớn. Tôi có thể thấy lý do tại sao anh ấy gặp vấn đề về lập trình."
+                                                         }
+                                                     ]
+                                   },
+                          "audioUrls":  [
+
+                                        ],
+                          "imageUrls":  [
+
+                                        ]
+                      },
+                      {
+                          "id":  "405076",
+                          "data":  {
+                                       "contextHtml":  "\n                            \u003cp\u003e\u003cspan\u003e*Live Chat*\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003eAriana Jones (1:18 P.M.):\u003c/span\u003e\u003cspan\u003e Hi, Renalto and Janice. How are things coming along with those blogs I asked you to start?\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003eJanice Canto (1:20 P.M.): \u003c/span\u003e\u003cspan\u003eI am thinking of profiling the members of our team of investment advisors.\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003eAriana Jones (1:22 P.M.):\u003c/span\u003e\u003cspan\u003e Could you give me more details on that?\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003eJanice Canto (1:24 P.M.):\u003c/span\u003e\u003cspan\u003e Well, I want to feature an interview with a different team member every month. I could get a little personal and professional background information, and inquire about the member’s views on investment strategies, that sort of thing.\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003eAriana Jones (1:25 P.M.):\u003c/span\u003e\u003cspan\u003e Nice. Our customers would really like that. What about you, Renalto?\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003eRenalto Pereira (1 :27 P.M.):\u003c/span\u003e\u003cspan\u003e I\u0027m thinking of reporting on emerging stock market trends. I\u0027ve already collected a lot of material about this topic.\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003eJanice Canto (1:27 P.M.):\u003c/span\u003e\u003cspan\u003e Sorry, I have to leave for a meeting in about five minutes.\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003eAriana Jones (1:28 P.M.):\u003c/span\u003e\u003cspan\u003e Sounds interesting. Do you need assistance with the research?\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003eRenalto Pereira (1:29 P.M.): \u003c/span\u003e\u003cspan\u003eThanks, but I think I\u0027ve got it covered.\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003eAriana Jones (1:30 P.M.):\u003c/span\u003e\u003cspan\u003e OK, I\u0027d like both of you to get back to me by Monday with your progress on these ideas.\u003c/span\u003e\u003c/p\u003e\n                        ",
+                                       "translation":  "*Live Chat*\nAriana Jones (1:18 P.M.): Xin chào, Renalto và Janice. những blog tôi đã yêu cầu các bạn làm được thực hiện đến đâu rồi?\nJanice Canto (1:20 P.M.): Tôi đang nghĩ đến việc khắc họa các thành viên của nhóm cố vấn đầu tư của chúng ta.\nAriana Jones (1:22 P.M.): Bạn có thể cho tôi biết thêm chi tiết về điều đó không?\nJanice Canto (1:24 P.M.): Chà, tôi muốn thực hiện một cuộc phỏng vấn với một thành viên khác nhau trong nhóm mỗi tháng. Tôi có thể có được một chút thông tin cá nhân và chuyên ngành, và tìm hiểu quan điểm của các thành viên về chiến lược đầu tư, đại loại thế.\nAriana Jones (1:25 P.M.): Tuyệt. Khách hàng của chúng ta sẽ thích điều đó. Còn bạn thì sao, Renalto?\nRenalto Pereira (1: 27 P.M.): Tôi đang nghĩ đến việc báo cáo về xu hướng thị trường chứng khoán mới nổi. Tôi đã thu thập rất nhiều tài liệu về chủ đề này.\nJanice Canto (1:27 P.M.): Xin lỗi, tôi phải rời đi cho một cuộc họp trong khoảng năm phút nữa.\nAriana Jones (1:28 P.M.): Nghe có vẻ thú vị. Bạn có cần người hỗ trợ với nghiên cứu này không?\nRenalto Pereira (1:29 P.M.): Cảm ơn, nhưng tôi nghĩ rằng tôi có thể làm được.\nAriana Jones (1:30 P.M.): OK, tôi muốn cả hai bạn báo cáo lại với tôi vào thứ Hai về sự phát triển thêm của các bạn về những ý tưởng này.",
+                                       "transcript":  "",
+                                       "type":  "mcq",
+                                       "context":  "*Live Chat*\nAriana Jones (1:18 P.M.): Hi, Renalto and Janice. How are things coming along with those blogs I asked you to start?\nJanice Canto (1:20 P.M.): I am thinking of profiling the members of our team of investment advisors.\nAriana Jones (1:22 P.M.): Could you give me more details on that?\nJanice Canto (1:24 P.M.): Well, I want to feature an interview with a different team member every month. I could get a little personal and professional background information, and inquire about the member’s views on investment strategies, that sort of thing.\nAriana Jones (1:25 P.M.): Nice. Our customers would really like that. What about you, Renalto?\nRenalto Pereira (1 :27 P.M.): I\u0027m thinking of reporting on emerging stock market trends. I\u0027ve already collected a lot of material about this topic.\nJanice Canto (1:27 P.M.): Sorry, I have to leave for a meeting in about five minutes.\nAriana Jones (1:28 P.M.): Sounds interesting. Do you need assistance with the research?\nRenalto Pereira (1:29 P.M.): Thanks, but I think I\u0027ve got it covered.\nAriana Jones (1:30 P.M.): OK, I\u0027d like both of you to get back to me by Monday with your progress on these ideas.",
+                                       "questions":  [
+                                                         {
+                                                             "number":  "164",
+                                                             "prompt":  "In what industry do the participants most likely work?",
+                                                             "promptHtml":  "\n                                    \u003cp\u003e\u003cspan\u003eIn what industry do the participants most likely work?\u003c/span\u003e\u003c/p\u003e\n                                ",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A. Finance"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B. Health care"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C. Technology"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "D",
+                                                                                 "text":  "D. Real estate"
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "A",
+                                                             "transcript":  "",
+                                                             "explanation":  "Đáp án đúng: A\nNhững người tham gia dự án này có khả năng làm việc trong ngành nào? =\u003e tìm thông tin chứa đáp án về ngành nghề những người này có thể đang làm.\nA. Tài chính =\u003e đoạn hội thoại nói về các vấn đề đầu tư, thị trường chứng khoán --\u003e những người tham gia có khả năng làm trong ngành Tài chính.\nB. Chăm sóc sức khỏe\nC. Công nghệ\nD. Bất động sản.",
+                                                             "translation":  "*Live Chat*\nAriana Jones (1:18 P.M.): Xin chào, Renalto và Janice. những blog tôi đã yêu cầu các bạn làm được thực hiện đến đâu rồi?\nJanice Canto (1:20 P.M.): Tôi đang nghĩ đến việc khắc họa các thành viên của nhóm cố vấn đầu tư của chúng ta.\nAriana Jones (1:22 P.M.): Bạn có thể cho tôi biết thêm chi tiết về điều đó không?\nJanice Canto (1:24 P.M.): Chà, tôi muốn thực hiện một cuộc phỏng vấn với một thành viên khác nhau trong nhóm mỗi tháng. Tôi có thể có được một chút thông tin cá nhân và chuyên ngành, và tìm hiểu quan điểm của các thành viên về chiến lược đầu tư, đại loại thế.\nAriana Jones (1:25 P.M.): Tuyệt. Khách hàng của chúng ta sẽ thích điều đó. Còn bạn thì sao, Renalto?\nRenalto Pereira (1: 27 P.M.): Tôi đang nghĩ đến việc báo cáo về xu hướng thị trường chứng khoán mới nổi. Tôi đã thu thập rất nhiều tài liệu về chủ đề này.\nJanice Canto (1:27 P.M.): Xin lỗi, tôi phải rời đi cho một cuộc họp trong khoảng năm phút nữa.\nAriana Jones (1:28 P.M.): Nghe có vẻ thú vị. Bạn có cần người hỗ trợ với nghiên cứu này không?\nRenalto Pereira (1:29 P.M.): Cảm ơn, nhưng tôi nghĩ rằng tôi có thể làm được.\nAriana Jones (1:30 P.M.): OK, tôi muốn cả hai bạn báo cáo lại với tôi vào thứ Hai về sự phát triển thêm của các bạn về những ý tưởng này."
+                                                         }
+                                                     ]
+                                   },
+                          "audioUrls":  [
+
+                                        ],
+                          "imageUrls":  [
+
+                                        ]
+                      },
+                      {
+                          "id":  "405077",
+                          "data":  {
+                                       "contextHtml":  "\n                            \u003cp\u003e\u003cspan\u003e*E-Mail Message*\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003eTo: Andrea Williams\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003eFrom: Samuel Penfold\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003eDate: 2 August\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003eSubject: Re: Cardiology conference\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003eDear Dr. Williams,\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003eYes, I will be going to the cardiology conference, and I am looking forward to it. Unfortunately, I will not be able to travel there with you because I am seeing patients until 3 P.M. on 5 August. I will have to miss the first day’s sessions, but I will be on-site that evening and for the next two days.\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003eMaybe we can have dinner together one evening? Evrim Turgut was telling me about your research together into diagnostic imaging technologies, and I would love the chance to discuss it with you.\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003eLet me know when you will be free.\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003eAll best,\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003eSamuel Penfold, MD\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003e—------------------\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003e—------------------\u003c/span\u003e\u003c/p\u003e\u003ctable\u003e\u003ctr\u003e\u003ctd colspan=\"5\" rowspan=\"1\"\u003e\u003cp\u003e\u003cspan\u003eTrain Schedule—NTS Rail\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003eLancaster to Manchester\u003c/span\u003e\u003c/p\u003e\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd colspan=\"1\" rowspan=\"1\"\u003e\u003cp\u003e\u003cspan\u003eTrain Number\u003c/span\u003e\u003c/p\u003e\u003c/td\u003e\u003ctd colspan=\"1\" rowspan=\"1\"\u003e\u003cp\u003e\u003cspan\u003eDeparture Time\u003c/span\u003e\u003c/p\u003e\u003c/td\u003e\u003ctd colspan=\"1\" rowspan=\"1\"\u003e\u003cp\u003e\u003cspan\u003eDuration\u003c/span\u003e\u003c/p\u003e\u003c/td\u003e\u003ctd colspan=\"1\" rowspan=\"1\"\u003e\u003cp\u003e\u003cspan\u003eArrival Time\u003c/span\u003e\u003c/p\u003e\u003c/td\u003e\u003ctd colspan=\"1\" rowspan=\"1\"\u003e\u003cp\u003e\u003cspan\u003ePrice\u003c/span\u003e\u003c/p\u003e\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd colspan=\"1\" rowspan=\"1\"\u003e\u003cp\u003e\u003cspan\u003eEX111\u003c/span\u003e\u003c/p\u003e\u003c/td\u003e\u003ctd colspan=\"1\" rowspan=\"1\"\u003e\u003cp\u003e\u003cspan\u003e7:00 AM.\u003c/span\u003e\u003c/p\u003e\u003c/td\u003e\u003ctd colspan=\"1\" rowspan=\"1\"\u003e\u003cp\u003e\u003cspan\u003e55 min\u003c/span\u003e\u003c/p\u003e\u003c/td\u003e\u003ctd colspan=\"1\" rowspan=\"1\"\u003e\u003cp\u003e\u003cspan\u003e7:55 AM.\u003c/span\u003e\u003c/p\u003e\u003c/td\u003e\u003ctd colspan=\"1\" rowspan=\"1\"\u003e\u003cp\u003e\u003cspan\u003e£20.00\u003c/span\u003e\u003c/p\u003e\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd colspan=\"1\" rowspan=\"1\"\u003e\u003cp\u003e\u003cspan\u003eRN902\u003c/span\u003e\u003c/p\u003e\u003c/td\u003e\u003ctd colspan=\"1\" rowspan=\"1\"\u003e\u003cp\u003e\u003cspan\u003e8:30 A.M.\u003c/span\u003e\u003c/p\u003e\u003c/td\u003e\u003ctd colspan=\"1\" rowspan=\"1\"\u003e\u003cp\u003e\u003cspan\u003e1 h 01 min\u003c/span\u003e\u003c/p\u003e\u003c/td\u003e\u003ctd colspan=\"1\" rowspan=\"1\"\u003e\u003cp\u003e\u003cspan\u003e9:31 AM.\u003c/span\u003e\u003c/p\u003e\u003c/td\u003e\u003ctd colspan=\"1\" rowspan=\"1\"\u003e\u003cp\u003e\u003cspan\u003e£20.00\u003c/span\u003e\u003c/p\u003e\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd colspan=\"1\" rowspan=\"1\"\u003e\u003cp\u003e\u003cspan\u003eEX224\u003c/span\u003e\u003c/p\u003e\u003c/td\u003e\u003ctd colspan=\"1\" rowspan=\"1\"\u003e\u003cp\u003e\u003cspan\u003e10:15 AM.\u003c/span\u003e\u003c/p\u003e\u003c/td\u003e\u003ctd colspan=\"1\" rowspan=\"1\"\u003e\u003cp\u003e\u003cspan\u003e1 h 15 min\u003c/span\u003e\u003c/p\u003e\u003c/td\u003e\u003ctd colspan=\"1\" rowspan=\"1\"\u003e\u003cp\u003e\u003cspan\u003e11:30 AM.\u003c/span\u003e\u003c/p\u003e\u003c/td\u003e\u003ctd colspan=\"1\" rowspan=\"1\"\u003e\u003cp\u003e\u003cspan\u003e£18.00\u003c/span\u003e\u003c/p\u003e\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd colspan=\"1\" rowspan=\"1\"\u003e\u003cp\u003e\u003cspan\u003eRN516\u003c/span\u003e\u003c/p\u003e\u003c/td\u003e\u003ctd colspan=\"1\" rowspan=\"1\"\u003e\u003cp\u003e\u003cspan\u003e12:30 P.M.\u003c/span\u003e\u003c/p\u003e\u003c/td\u003e\u003ctd colspan=\"1\" rowspan=\"1\"\u003e\u003cp\u003e\u003cspan\u003e1 h 25 min\u003c/span\u003e\u003c/p\u003e\u003c/td\u003e\u003ctd colspan=\"1\" rowspan=\"1\"\u003e\u003cp\u003e\u003cspan\u003e1:55 P.M.\u003c/span\u003e\u003c/p\u003e\u003c/td\u003e\u003ctd colspan=\"1\" rowspan=\"1\"\u003e\u003cp\u003e\u003cspan\u003e£18.00\u003c/span\u003e\u003c/p\u003e\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd colspan=\"1\" rowspan=\"1\"\u003e\u003cp\u003e\u003cspan\u003eEX670\u003c/span\u003e\u003c/p\u003e\u003c/td\u003e\u003ctd colspan=\"1\" rowspan=\"1\"\u003e\u003cp\u003e\u003cspan\u003e2:00 P.M.\u003c/span\u003e\u003c/p\u003e\u003c/td\u003e\u003ctd colspan=\"1\" rowspan=\"1\"\u003e\u003cp\u003e\u003cspan\u003e1 h 35 min\u003c/span\u003e\u003c/p\u003e\u003c/td\u003e\u003ctd colspan=\"1\" rowspan=\"1\"\u003e\u003cp\u003e\u003cspan\u003e3:35 P.M.\u003c/span\u003e\u003c/p\u003e\u003c/td\u003e\u003ctd colspan=\"1\" rowspan=\"1\"\u003e\u003cp\u003e\u003cspan\u003e£18.00\u003c/span\u003e\u003c/p\u003e\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd colspan=\"1\" rowspan=\"1\"\u003e\u003cp\u003e\u003cspan\u003eRN823\u003c/span\u003e\u003c/p\u003e\u003c/td\u003e\u003ctd colspan=\"1\" rowspan=\"1\"\u003e\u003cp\u003e\u003cspan\u003e4:45 P.M.\u003c/span\u003e\u003c/p\u003e\u003c/td\u003e\u003ctd colspan=\"1\" rowspan=\"1\"\u003e\u003cp\u003e\u003cspan\u003e1 h 05 min\u003c/span\u003e\u003c/p\u003e\u003c/td\u003e\u003ctd colspan=\"1\" rowspan=\"1\"\u003e\u003cp\u003e\u003cspan\u003e5:50 PM.\u003c/span\u003e\u003c/p\u003e\u003c/td\u003e\u003ctd colspan=\"1\" rowspan=\"1\"\u003e\u003cp\u003e\u003cspan\u003e£20.00\u003c/span\u003e\u003c/p\u003e\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd colspan=\"5\" rowspan=\"1\"\u003e\u003cp\u003e\u003cspan\u003ePurchasing tickets online at https://www.ntsrail.co.uk more than 24 hours before your trip entitles you to a 10 percent discount off the above- listed fares. Full-price tickets are available at all NTS Rail kiosks.\u003c/span\u003e\u003c/p\u003e\u003c/td\u003e\u003c/tr\u003e\u003c/table\u003e\n                        ",
+                                       "translation":  "*Tin nhắn email*\nTới: Andrea Williams\nTừ: Samuel Penprint\nNgày: 2 tháng 8\nChủ đề: Re: Hội thảo về tim mạch\nBác sĩ Williams thân mến,\nVâng, tôi sẽ đi đến hội thảo về tim mạch, và tôi đang mong chờ nó. Thật không may, tôi sẽ không thể đi tới đó với bạn vì tôi cần gặp bệnh nhân cho đến tận 3 P.M ngày 5 tháng 8. Tôi sẽ phải bỏ lỡ các phiên họp ngày đầu tiên, nhưng tôi sẽ có mặt tối hôm đó và trong hai ngày tiếp theo.\nCó lẽ chúng ta có thể ăn tối cùng nhau vào một buổi tối? Evrim Turgut đã nói với tôi về nghiên cứu của bạn về các công nghệ chẩn đoán hình ảnh và tôi rất mong cơ hội thảo luận điều đó với bạn.\nHãy cho tôi biết khi nào bạn sẽ rảnh.\nChúc mọi điều tốt nhất,\nSamuel Penfold, MD\nLịch trình tàu — NTS Rail\nLancaster tới Manchester\nChuyến tàu số\nGiờ đi\nThời gian đi\nGiờ đến\nGiá\nEX111\n7:00 AM.\n55 phút\n7:55 AM.\n£20.00\nRN902\n8:30 A.M.\n1 h 01 phút\n9:31 AM.\n£20.00\nEX224\n10:15 AM.\n1 h 15 phút\n11:30 AM.\n£18.00\nRN516\n12:30 P.M.\n1 h 25 phút\n1:55 P.M.\n£18.00\nEX670\n2:00 P.M.\n1 h 35 phút\n3:35 P.M.\n£18.00\nRN823\n4:45 P.M.\n1 h 05 phút\n5:50 PM.\n£20.00\nMua vé trực tuyến tại https://www.ntsrail.co.uk trước 24 giờ trước chuyến đi của bạn sẽ được giảm giá 10 phần trăm so với giá vé được liệt kê ở trên. Vé luôn có sẵn và được bán với Giá gốc tại tất cả các ki-ốt NTS Rail.",
+                                       "transcript":  "",
+                                       "type":  "mcq",
+                                       "context":  "*E-Mail Message*\nTo: Andrea Williams\nFrom: Samuel Penfold\nDate: 2 August\nSubject: Re: Cardiology conference\nDear Dr. Williams,\nYes, I will be going to the cardiology conference, and I am looking forward to it. Unfortunately, I will not be able to travel there with you because I am seeing patients until 3 P.M. on 5 August. I will have to miss the first day’s sessions, but I will be on-site that evening and for the next two days.\nMaybe we can have dinner together one evening? Evrim Turgut was telling me about your research together into diagnostic imaging technologies, and I would love the chance to discuss it with you.\nLet me know when you will be free.\nAll best,\nSamuel Penfold, MD\n—------------------\n—------------------\nTrain Schedule—NTS Rail\nLancaster to Manchester\nTrain Number\nDeparture Time\nDuration\nArrival Time\nPrice\nEX111\n7:00 AM.\n55 min\n7:55 AM.\n£20.00\nRN902\n8:30 A.M.\n1 h 01 min\n9:31 AM.\n£20.00\nEX224\n10:15 AM.\n1 h 15 min\n11:30 AM.\n£18.00\nRN516\n12:30 P.M.\n1 h 25 min\n1:55 P.M.\n£18.00\nEX670\n2:00 P.M.\n1 h 35 min\n3:35 P.M.\n£18.00\nRN823\n4:45 P.M.\n1 h 05 min\n5:50 PM.\n£20.00\nPurchasing tickets online at https://www.ntsrail.co.uk more than 24 hours before your trip entitles you to a 10 percent discount off the above- listed fares. Full-price tickets are available at all NTS Rail kiosks.",
+                                       "questions":  [
+                                                         {
+                                                             "number":  "190",
+                                                             "prompt":  "According to the schedule, what is true about the train trips?",
+                                                             "promptHtml":  "\n                                    \u003cp\u003e\u003cspan\u003eAccording to the schedule, what is true about the train trips?\u003c/span\u003e\u003c/p\u003e\n                                ",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A. They last the same length of time."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B. They are cheaper in the morning."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C. They will end at the same destination."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "D",
+                                                                                 "text":  "D. They must be purchased in person."
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "C",
+                                                             "transcript":  "",
+                                                             "explanation":  "Đáp án đúng: C\nTheo lịch trình, điều gì là đúng về các chuyến tàu? =\u003e cần tìm đáp án chứa thông tin đúng về chuyến tàu dựa theo lịch trình.\nA. Chúng kéo dài cùng một khoảng thời gian. =\u003e theo lịch trình mỗi chuyến đều tốn khoảng thời gian khác nhau, loại\nB. Chúng rẻ hơn vào buổi sáng. =\u003e không được đề cập đến ở lịch trình, loại.\nC. Họ sẽ đến cùng một điểm. =\u003e theo lịch trình thì tất cả các chuyến tàu đều đi tới Manchester, chọn.\nD. Họ phải được mua trực tiếp. =\u003e lịch trình nói rằng hành khách có thể mua vé trực tuyến (Purchasing tickets online), loại",
+                                                             "translation":  "*Tin nhắn email*\nTới: Andrea Williams\nTừ: Samuel Penprint\nNgày: 2 tháng 8\nChủ đề: Re: Hội thảo về tim mạch\nBác sĩ Williams thân mến,\nVâng, tôi sẽ đi đến hội thảo về tim mạch, và tôi đang mong chờ nó. Thật không may, tôi sẽ không thể đi tới đó với bạn vì tôi cần gặp bệnh nhân cho đến tận 3 P.M ngày 5 tháng 8. Tôi sẽ phải bỏ lỡ các phiên họp ngày đầu tiên, nhưng tôi sẽ có mặt tối hôm đó và trong hai ngày tiếp theo.\nCó lẽ chúng ta có thể ăn tối cùng nhau vào một buổi tối? Evrim Turgut đã nói với tôi về nghiên cứu của bạn về các công nghệ chẩn đoán hình ảnh và tôi rất mong cơ hội thảo luận điều đó với bạn.\nHãy cho tôi biết khi nào bạn sẽ rảnh.\nChúc mọi điều tốt nhất,\nSamuel Penfold, MD\nLịch trình tàu — NTS Rail\nLancaster tới Manchester\nChuyến tàu số\nGiờ đi\nThời gian đi\nGiờ đến\nGiá\nEX111\n7:00 AM.\n55 phút\n7:55 AM.\n£20.00\nRN902\n8:30 A.M.\n1 h 01 phút\n9:31 AM.\n£20.00\nEX224\n10:15 AM.\n1 h 15 phút\n11:30 AM.\n£18.00\nRN516\n12:30 P.M.\n1 h 25 phút\n1:55 P.M.\n£18.00\nEX670\n2:00 P.M.\n1 h 35 phút\n3:35 P.M.\n£18.00\nRN823\n4:45 P.M.\n1 h 05 phút\n5:50 PM.\n£20.00\nMua vé trực tuyến tại https://www.ntsrail.co.uk trước 24 giờ trước chuyến đi của bạn sẽ được giảm giá 10 phần trăm so với giá vé được liệt kê ở trên. Vé luôn có sẵn và được bán với Giá gốc tại tất cả các ki-ốt NTS Rail."
+                                                         }
+                                                     ]
+                                   },
+                          "audioUrls":  [
+
+                                        ],
+                          "imageUrls":  [
+                                            "/media/toeic_course_problems/reading/image1.png"
+                                        ]
+                      },
+                      {
+                          "id":  "405078",
+                          "data":  {
+                                       "contextHtml":  "\n                            \u003cp\u003e\u003cspan\u003eYou are cordially invited to the\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003eDr. Jatin Sachdeva Memorial Lecture\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003edelivered by\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003eDr. Seema Razdan\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003eDirector, National Centre for Research and author of\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003eImproving Your Bedside Manner: Essential Skills in Health Care\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003eTopic\u003c/span\u003e\u003cspan\u003e:Patient Care\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003eDate\u003c/span\u003e\u003cspan\u003e: 15 May, 9:30—l0:30 A.M.\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003eVenue\u003c/span\u003e\u003cspan\u003e: Nadkarni Auditorium\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003eThis lecture is open only to Jalandhar Hospital medical personnel who interact daily with patients. Seating is limited. E-mail Mr. Arnav Gopal to hold your spot.\u003c/span\u003e\u003c/p\u003e\n                        ",
+                                       "translation":  "Bạn được chân thành mời đến\nBài giảng tưởng niệm Tiến sĩ Jatin Sachdeva\nđược gửi từ\nBác sĩ Seema Razdan\nGiám đốc, Trung tâm nghiên cứu quốc gia và là tác giả của\nCải thiện thói quen trên giường của bạn: Kỹ năng cần thiết trong chăm sóc sức khỏe\nChủ đề: Chăm sóc bệnh nhân\nNgày: 15 tháng 5, 9: 30 Đầm l0: 30 A.M.\nĐịa điểm: Thính phòng Nadkarni\nBài giảng này chỉ dành cho nhân viên y tế của Bệnh viện Jalandhar, những người tương tác hàng ngày với bệnh nhân. Chỗ ngồi có hạn. Gửi email cho ông Arnav Gopal để giữ chỗ của bạn.",
+                                       "transcript":  "",
+                                       "type":  "mcq",
+                                       "context":  "You are cordially invited to the\nDr. Jatin Sachdeva Memorial Lecture\ndelivered by\nDr. Seema Razdan\nDirector, National Centre for Research and author of\nImproving Your Bedside Manner: Essential Skills in Health Care\nTopic:Patient Care\nDate: 15 May, 9:30—l0:30 A.M.\nVenue: Nadkarni Auditorium\nThis lecture is open only to Jalandhar Hospital medical personnel who interact daily with patients. Seating is limited. E-mail Mr. Arnav Gopal to hold your spot.",
+                                       "questions":  [
+                                                         {
+                                                             "number":  "147",
+                                                             "prompt":  "For whom is the invitation most likely intended?",
+                                                             "promptHtml":  "\n                                    \u003cp\u003e\u003cspan\u003eFor whom is the invitation most likely intended?\u003c/span\u003e\u003c/p\u003e\n                                ",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A. Health insurance providers"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B. Hospital gift-shop workers"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C. Doctors and nurses"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "D",
+                                                                                 "text":  "D. Administrators and managers"
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "C",
+                                                             "transcript":  "",
+                                                             "explanation":  "Đáp án đúng: C\nLời mời có khả năng dành cho ai nhất?\nA. Nhà cung cấp bảo hiểm y tế\nB. Nhân viên cửa hàng quà tặng tại bệnh viện\nC. Bác sĩ và y tá =\u003e trong bài có nhắc đến là bài giảng chỉ mở với “Jalandhar Hospital medical personnel” nghĩa là nhân viên y tế của bệnh viện, bao gồm cả bác sĩ và y tá, chọn.\nD. Quản trị viên và người quản lý",
+                                                             "translation":  "Bạn được chân thành mời đến\nBài giảng tưởng niệm Tiến sĩ Jatin Sachdeva\nđược gửi từ\nBác sĩ Seema Razdan\nGiám đốc, Trung tâm nghiên cứu quốc gia và là tác giả của\nCải thiện thói quen trên giường của bạn: Kỹ năng cần thiết trong chăm sóc sức khỏe\nChủ đề: Chăm sóc bệnh nhân\nNgày: 15 tháng 5, 9: 30 Đầm l0: 30 A.M.\nĐịa điểm: Thính phòng Nadkarni\nBài giảng này chỉ dành cho nhân viên y tế của Bệnh viện Jalandhar, những người tương tác hàng ngày với bệnh nhân. Chỗ ngồi có hạn. Gửi email cho ông Arnav Gopal để giữ chỗ của bạn."
+                                                         }
+                                                     ]
+                                   },
+                          "audioUrls":  [
+
+                                        ],
+                          "imageUrls":  [
+
+                                        ]
+                      },
+                      {
+                          "id":  "405079",
+                          "data":  {
+                                       "contextHtml":  "\n                            \u003cp\u003e\u003cspan\u003eWorkshop: Team Building\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003e17 April\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003e9:15 A.M. to 4:30 P.M.\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003e£40 per person\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003e9:15 A.M.: First Steps\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003eFocus on important issues that small businesses face. Identify your company\u0027s long-and short-term objectives as well as any areas in need of improvement.\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003e10:45 A.M.: Fostering Fellowship\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003eLearn how to help create an atmosphere of cooperation rather than competition among your employees at all levels.\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003e12:15 P.M.: Lunch Break\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003eParticipants may choose between two complimentary entrees: grilled chicken sandwich with salad greens or pasta with vegetables.\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003e1:30 P.M.: Team Activities\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003eExperiment with team-building exercises for both small and large groups. Work with your fellow participants to get ideas that you can use with your own employees.\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003e3:00 P.M.: Evaluation Techniques\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003eLearn about methods to determine whether team-building activities are having the intended effect. Get tips on how to use common office software to track progress at your company.\u003c/span\u003e\u003c/p\u003e\n                        ",
+                                       "translation":  "Hội thảo: Xây dựng nhóm\nNgày 17 tháng 4\n9:15 A.M. đến 4:30 P.M.\n£40 một người\n9:15 A.M.: Bước đầu tiên\nTập trung vào những vấn đề quan trọng mà doanh nghiệp nhỏ đối mặt. Xác định được mục tiêu dài hạn và ngắn hạn cũng như những lĩnh vực cần cải thiện.\n10:45 A.M.: Nuôi dưỡng tình đồng đội\nHọc cách làm thế nào để tạo ra môi trường hợp tác hơn là cạnh tranh giữa nhân viên ở tất cả cấp.\n12:15 P.M.: Ăn trưa\nNgười tham dự có thể chọn giữa hai món được cung cấp: sandwich gà nướng với salad hoặc pasta với rau củ.\n1:30 P.M.: Hoạt động nhóm\nThực hành bài tập xây dựng đội ngũ với cả nhóm nhỏ và lớn. Làm việc với những người tham gia khác để tiếp thu ý kiến của họ mà bạn có thể áp dụng với chính nhân viên của mình.\n3:00 P.M.: Kỹ thuật đánh giá\nHọc các phương pháp nhận biết những hoạt động xây dựng đội ngũ có mang lại những hiệu quả như mong muốn hay không. Tiếp thu những mẹo để sử dụng những kỹ năng mềm thúc đẩy sự phát triển cho công ty.",
+                                       "transcript":  "",
+                                       "type":  "mcq",
+                                       "context":  "Workshop: Team Building\n17 April\n9:15 A.M. to 4:30 P.M.\n£40 per person\n9:15 A.M.: First Steps\nFocus on important issues that small businesses face. Identify your company\u0027s long-and short-term objectives as well as any areas in need of improvement.\n10:45 A.M.: Fostering Fellowship\nLearn how to help create an atmosphere of cooperation rather than competition among your employees at all levels.\n12:15 P.M.: Lunch Break\nParticipants may choose between two complimentary entrees: grilled chicken sandwich with salad greens or pasta with vegetables.\n1:30 P.M.: Team Activities\nExperiment with team-building exercises for both small and large groups. Work with your fellow participants to get ideas that you can use with your own employees.\n3:00 P.M.: Evaluation Techniques\nLearn about methods to determine whether team-building activities are having the intended effect. Get tips on how to use common office software to track progress at your company.",
+                                       "questions":  [
+                                                         {
+                                                             "number":  "151",
+                                                             "prompt":  "For whom is the workshop most likely intended?",
+                                                             "promptHtml":  "\n                                    \u003cp\u003e\u003cspan\u003eFor whom is the workshop most likely intended?\u003c/span\u003e\u003c/p\u003e\n                                ",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A. Business journalists"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B. Human resource experts"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C. Owners of small businesses"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "D",
+                                                                                 "text":  "D. New employees at small companies"
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "C",
+                                                             "transcript":  "",
+                                                             "explanation":  "Đáp án đúng: C\nBuổi hội thảo này hướng đến ai nhiều nhất?\nA. Nhà báo kinh doanh\nB. Chuyên gia nguồn nhân lực\nC. Chủ doanh nghiệp nhỏ =\u003e trong bài có nhắc tới \"Focus on important issues that small businesses face.\" nghĩa là “Tập trung vào những vấn đề quan trọng mà doanh nghiệp nhỏ đối mặt.”, vậy nên hội thảo này dành cho các chủ doanh nghiệp nhỏ, chọn.\nD. Nhân viên mới tại các công ty nhỏ.",
+                                                             "translation":  "Hội thảo: Xây dựng nhóm\nNgày 17 tháng 4\n9:15 A.M. đến 4:30 P.M.\n£40 một người\n9:15 A.M.: Bước đầu tiên\nTập trung vào những vấn đề quan trọng mà doanh nghiệp nhỏ đối mặt. Xác định được mục tiêu dài hạn và ngắn hạn cũng như những lĩnh vực cần cải thiện.\n10:45 A.M.: Nuôi dưỡng tình đồng đội\nHọc cách làm thế nào để tạo ra môi trường hợp tác hơn là cạnh tranh giữa nhân viên ở tất cả cấp.\n12:15 P.M.: Ăn trưa\nNgười tham dự có thể chọn giữa hai món được cung cấp: sandwich gà nướng với salad hoặc pasta với rau củ.\n1:30 P.M.: Hoạt động nhóm\nThực hành bài tập xây dựng đội ngũ với cả nhóm nhỏ và lớn. Làm việc với những người tham gia khác để tiếp thu ý kiến của họ mà bạn có thể áp dụng với chính nhân viên của mình.\n3:00 P.M.: Kỹ thuật đánh giá\nHọc các phương pháp nhận biết những hoạt động xây dựng đội ngũ có mang lại những hiệu quả như mong muốn hay không. Tiếp thu những mẹo để sử dụng những kỹ năng mềm thúc đẩy sự phát triển cho công ty."
+                                                         }
+                                                     ]
+                                   },
+                          "audioUrls":  [
+
+                                        ],
+                          "imageUrls":  [
+
+                                        ]
+                      },
+                      {
+                          "id":  "405080",
+                          "data":  {
+                                       "contextHtml":  "\n                            \u003cp\u003e\u003cspan\u003e*E-Mail Message*\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003eTo: [email\u0026#160;protected]\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003eFrom: [email\u0026#160;protected]\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003eDate: 5 March\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003eSubject: Order #45368\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003eDear Ms. Babin,\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003eI’m writing to inform you of several problems regarding my recent order. I have been buying items from your company for years, and my previous orders have never had an error. Therefore, I was very surprised when my latest order arrived. First, the shipment contained only two packs of T-shirts, which is not the amount listed on the invoice. I saw the note about the long-sleeved shirts, but there was no note about the T-shirts.\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003eAdditionally, the price for item number 61 is listed in your catalog and on your Web site as $50 per pack, but that was not what I was charged. Can you please look into this matter and give me a call? You can reach me at +64 04 455 5212.\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003eThanks in advance,\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003eFai Zhong\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003e—------------------\u003c/span\u003e\u003c/p\u003e\u003ctable\u003e\u003ctr\u003e\u003ctd colspan=\"1\" rowspan=\"1\"\u003e\u003cp\u003e\u003cspan\u003eFrom:\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003eBabin and Associates\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003e25 Caledonia Street, Strathmore\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003eWellington 6022\u003c/span\u003e\u003c/p\u003e\u003c/td\u003e\u003ctd colspan=\"1\" rowspan=\"1\"\u003e\u003cp\u003e\u003cspan\u003eTo:\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003eFai Zhong\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003eZhong Restaurant and Catering\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003e76 Romeo Street, Thorndon\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003eWellington 6011\u003c/span\u003e\u003c/p\u003e\u003c/td\u003e\u003c/tr\u003e\u003c/table\u003e\u003cp\u003e\u003cspan\u003e\u003c/span\u003e\u003c/p\u003e\u003ctable\u003e\u003ctr\u003e\u003ctd colspan=\"6\" rowspan=\"1\"\u003e\u003cp\u003e\u003cspan\u003ePAYMENT IS DUE UPON RECEIPT OF INVOICE\u003c/span\u003e\u003c/p\u003e\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd colspan=\"6\" rowspan=\"1\"\u003e\u003cp\u003e\u003cspan\u003eOrder \u003c/span\u003e\u003cspan\u003e#45368\u003c/span\u003e\u003c/p\u003e\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd colspan=\"1\" rowspan=\"1\"\u003e\u003cp\u003e\u003cspan\u003eItem Number\u003c/span\u003e\u003c/p\u003e\u003c/td\u003e\u003ctd colspan=\"2\" rowspan=\"1\"\u003e\u003cp\u003e\u003cspan\u003eItem Description\u003c/span\u003e\u003c/p\u003e\u003c/td\u003e\u003ctd colspan=\"1\" rowspan=\"1\"\u003e\u003cp\u003e\u003cspan\u003eAmount Ordered\u003c/span\u003e\u003c/p\u003e\u003c/td\u003e\u003ctd colspan=\"1\" rowspan=\"1\"\u003e\u003cp\u003e\u003cspan\u003ePrice per Pack\u003c/span\u003e\u003c/p\u003e\u003c/td\u003e\u003ctd colspan=\"1\" rowspan=\"1\"\u003e\u003cp\u003e\u003cspan\u003eTotal Price\u003c/span\u003e\u003c/p\u003e\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd colspan=\"1\" rowspan=\"1\"\u003e\u003cp\u003e\u003cspan\u003e32A\u003c/span\u003e\u003c/p\u003e\u003c/td\u003e\u003ctd colspan=\"2\" rowspan=\"1\"\u003e\u003cp\u003e\u003cspan\u003eT-shirts, white with logo, assorted sizes\u003c/span\u003e\u003c/p\u003e\u003c/td\u003e\u003ctd colspan=\"1\" rowspan=\"1\"\u003e\u003cp\u003e\u003cspan\u003e3 packs\u003c/span\u003e\u003c/p\u003e\u003c/td\u003e\u003ctd colspan=\"1\" rowspan=\"1\"\u003e\u003cp\u003e\u003cspan\u003e$125.00\u003c/span\u003e\u003c/p\u003e\u003c/td\u003e\u003ctd colspan=\"1\" rowspan=\"1\"\u003e\u003cp\u003e\u003cspan\u003e$375.00\u003c/span\u003e\u003c/p\u003e\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd colspan=\"1\" rowspan=\"1\"\u003e\u003cp\u003e\u003cspan\u003e32B\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003eSee note below\u003c/span\u003e\u003c/p\u003e\u003c/td\u003e\u003ctd colspan=\"2\" rowspan=\"1\"\u003e\u003cp\u003e\u003cspan\u003eLong-sleeved shirts, white with logo, assorted sizes\u003c/span\u003e\u003c/p\u003e\u003c/td\u003e\u003ctd colspan=\"1\" rowspan=\"1\"\u003e\u003cp\u003e\u003cspan\u003e3 packs\u003c/span\u003e\u003c/p\u003e\u003c/td\u003e\u003ctd colspan=\"1\" rowspan=\"1\"\u003e\u003cp\u003e\u003cspan\u003e$175.00\u003c/span\u003e\u003c/p\u003e\u003c/td\u003e\u003ctd colspan=\"1\" rowspan=\"1\"\u003e\u003cp\u003e\u003cspan\u003e$525.00\u003c/span\u003e\u003c/p\u003e\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd colspan=\"1\" rowspan=\"1\"\u003e\u003cp\u003e\u003cspan\u003e61\u003c/span\u003e\u003c/p\u003e\u003c/td\u003e\u003ctd colspan=\"2\" rowspan=\"1\"\u003e\u003cp\u003e\u003cspan\u003eBlack aprons, limited edition, knee-length\u003c/span\u003e\u003c/p\u003e\u003c/td\u003e\u003ctd colspan=\"1\" rowspan=\"1\"\u003e\u003cp\u003e\u003cspan\u003e5 packs\u003c/span\u003e\u003c/p\u003e\u003c/td\u003e\u003ctd colspan=\"1\" rowspan=\"1\"\u003e\u003cp\u003e\u003cspan\u003e$60.00\u003c/span\u003e\u003c/p\u003e\u003c/td\u003e\u003ctd colspan=\"1\" rowspan=\"1\"\u003e\u003cp\u003e\u003cspan\u003e$300.00\u003c/span\u003e\u003c/p\u003e\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd colspan=\"1\" rowspan=\"1\"\u003e\u003cp\u003e\u003cspan\u003e118\u003c/span\u003e\u003c/p\u003e\u003c/td\u003e\u003ctd colspan=\"2\" rowspan=\"1\"\u003e\u003cp\u003e\u003cspan\u003eBlack trousers, assorted sizes\u003c/span\u003e\u003c/p\u003e\u003c/td\u003e\u003ctd colspan=\"1\" rowspan=\"1\"\u003e\u003cp\u003e\u003cspan\u003e2 packs\u003c/span\u003e\u003c/p\u003e\u003c/td\u003e\u003ctd colspan=\"1\" rowspan=\"1\"\u003e\u003cp\u003e\u003cspan\u003e$200.00\u003c/span\u003e\u003c/p\u003e\u003c/td\u003e\u003ctd colspan=\"1\" rowspan=\"1\"\u003e\u003cp\u003e\u003cspan\u003e$400.00\u003c/span\u003e\u003c/p\u003e\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd colspan=\"1\" rowspan=\"1\"\u003e\u003cp\u003e\u003cspan\u003e\u003c/span\u003e\u003c/p\u003e\u003c/td\u003e\u003ctd colspan=\"2\" rowspan=\"1\"\u003e\u003cp\u003e\u003cspan\u003e\u003c/span\u003e\u003c/p\u003e\u003c/td\u003e\u003ctd colspan=\"1\" rowspan=\"1\"\u003e\u003cp\u003e\u003cspan\u003eTOTAL\u003c/span\u003e\u003c/p\u003e\u003c/td\u003e\u003ctd colspan=\"1\" rowspan=\"1\"\u003e\u003cp\u003e\u003cspan\u003eGST Inclusive\u003c/span\u003e\u003c/p\u003e\u003c/td\u003e\u003ctd colspan=\"1\" rowspan=\"1\"\u003e\u003cp\u003e\u003cspan\u003e$1,600.00\u003c/span\u003e\u003c/p\u003e\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd colspan=\"6\" rowspan=\"1\"\u003e\u003cp\u003e\u003cspan\u003e* We had only one pack of long—sleeved shirts in stock. We included it with this shipment and will send the others in 7-10 business days. There will be no additional shipping charge for these items.\u003c/span\u003e\u003c/p\u003e\u003c/td\u003e\u003c/tr\u003e\u003c/table\u003e\n                        ",
+                                       "translation":  "*Thư điện tử*\nTới: [email protected]\nTừ: [email protected]\nNgày: 5 tháng 3\nChủ đề: Đơn hàng số 45368\nKính gửi cô Babin,\nTôi viết thư để thông báo cho bạn về một số vấn đề liên quan đến đơn hàng gần đây của tôi. Tôi đã mua các mặt hàng từ công ty của bạn trong nhiều năm và các đơn đặt hàng trước đây của tôi chưa bao giờ có lỗi. Do đó, tôi đã rất bất ngờ khi đơn hàng mới nhất của tôi đến. Đầu tiên, lô hàng chỉ chứa hai gói áo phông, không phải là số lượng được liệt kê trên hóa đơn. Tôi đã thấy ghi chú về những chiếc áo sơ mi dài tay, nhưng không có ghi chú nào về áo phông.\nNgoài ra, giá cho mặt hàng số 61 được liệt kê trong danh mục của bạn và trên trang web của bạn là $50 mỗi gói, nhưng đó không phải là giá tôi đã được tính tiền. Bạn có thể vui lòng xem xét vấn đề này và gọi lại cho tôi không? Bạn có thể liên hệ với tôi theo số +64 04 455 5212.\nCảm ơn trước,\nFai Zhong\n—------------------\nTừ:\nBabin and Associates\n25 phố Caledonia, Strathmore\nWellington 6022\nTới:\nFai Zhong\nNhà hàng và Dịch vụ ăn uống Zhong\n76 phố Romeo, Thorndon\nWellington 6011\nTHANH TOÁN THEO BIÊN LAI CỦA HÓA ĐƠN\nĐơn hàng #45368\nMã hàng\nMô tả hàng hóa\nSố lượng đặt\nĐơn giá\nTổng tiền\n32A\nÁo phông, trắng kèm logo, đủ loại size\n3 cái\n$125.00\n$375.00\n32B\nXem ghi chú bên dưới\nÁo sơ mi dài tay, trắng kèm logo, đủ loại size\n3 cái\n$175.00\n$525.00\n61\nTạp dề đen, bản giới hạn, dài đến đầu gối\n5 cái\n$60.00\n$300.00\n118\nQuần đen, đủ loại size\n2 cái\n$200.00\n$400.00\nTổng\nĐã gồm thuế\n$1,600.00\n* Chúng tôi chỉ có một gói áo sơ mi dài tay trong kho. Chúng tôi đã gửi nó cùng với lô hàng này và sẽ gửi những cái khác trong vòng 7-10 ngày làm việc. Sẽ không có phí vận chuyển bổ sung cho các mặt hàng này.",
+                                       "transcript":  "",
+                                       "type":  "mcq",
+                                       "context":  "*E-Mail Message*\nTo: [email protected]\nFrom: [email protected]\nDate: 5 March\nSubject: Order #45368\nDear Ms. Babin,\nI’m writing to inform you of several problems regarding my recent order. I have been buying items from your company for years, and my previous orders have never had an error. Therefore, I was very surprised when my latest order arrived. First, the shipment contained only two packs of T-shirts, which is not the amount listed on the invoice. I saw the note about the long-sleeved shirts, but there was no note about the T-shirts.\nAdditionally, the price for item number 61 is listed in your catalog and on your Web site as $50 per pack, but that was not what I was charged. Can you please look into this matter and give me a call? You can reach me at +64 04 455 5212.\nThanks in advance,\nFai Zhong\n—------------------\nFrom:\nBabin and Associates\n25 Caledonia Street, Strathmore\nWellington 6022\nTo:\nFai Zhong\nZhong Restaurant and Catering\n76 Romeo Street, Thorndon\nWellington 6011\nPAYMENT IS DUE UPON RECEIPT OF INVOICE\nOrder #45368\nItem Number\nItem Description\nAmount Ordered\nPrice per Pack\nTotal Price\n32A\nT-shirts, white with logo, assorted sizes\n3 packs\n$125.00\n$375.00\n32B\nSee note below\nLong-sleeved shirts, white with logo, assorted sizes\n3 packs\n$175.00\n$525.00\n61\nBlack aprons, limited edition, knee-length\n5 packs\n$60.00\n$300.00\n118\nBlack trousers, assorted sizes\n2 packs\n$200.00\n$400.00\nTOTAL\nGST Inclusive\n$1,600.00\n* We had only one pack of long—sleeved shirts in stock. We included it with this shipment and will send the others in 7-10 business days. There will be no additional shipping charge for these items.",
+                                       "questions":  [
+                                                         {
+                                                             "number":  "184",
+                                                             "prompt":  "According to the invoice, what is true about the long—sleeved shirts?",
+                                                             "promptHtml":  "\n                                    \u003cp\u003e\u003cspan\u003eAccording to the invoice, what is true about the long—sleeved shirts?\u003c/span\u003e\u003c/p\u003e\n                                ",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A. They are being billed at a discount."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B. They are available in many colors."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C. Some of them were damaged in the warehouse."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "D",
+                                                                                 "text":  "D. Some of them will be shipped at a later date."
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "D",
+                                                             "transcript":  "",
+                                                             "explanation":  "Đáp án đúng: D\nTheo hóa đơn, điều gì đúng về những chiếc áo sơ mi dài tay?\nA. Chúng đang được giảm giá.\nB. Chúng có nhiều màu sắc.\nC. Một số trong số chúng đã bị hư hỏng trong nhà kho.\nD. Một số trong số chúng sẽ được vận chuyển vào ngày muộn hơn. =\u003e trong phần ghi chú của hóa đơn có nhắc rằng “We had only one pack of long—sleeved shirts in stock. We included it with this shipment and will send the others in 7-10 business days” nghĩa là “Chúng tôi chỉ có một gói áo sơ mi dài tay trong kho. Chúng tôi đã gửi nó cùng với lô hàng này và sẽ gửi cho những cái khác trong vòng 7-10 ngày làm việc.”, chọn.",
+                                                             "translation":  "*Thư điện tử*\nTới: [email protected]\nTừ: [email protected]\nNgày: 5 tháng 3\nChủ đề: Đơn hàng số 45368\nKính gửi cô Babin,\nTôi viết thư để thông báo cho bạn về một số vấn đề liên quan đến đơn hàng gần đây của tôi. Tôi đã mua các mặt hàng từ công ty của bạn trong nhiều năm và các đơn đặt hàng trước đây của tôi chưa bao giờ có lỗi. Do đó, tôi đã rất bất ngờ khi đơn hàng mới nhất của tôi đến. Đầu tiên, lô hàng chỉ chứa hai gói áo phông, không phải là số lượng được liệt kê trên hóa đơn. Tôi đã thấy ghi chú về những chiếc áo sơ mi dài tay, nhưng không có ghi chú nào về áo phông.\nNgoài ra, giá cho mặt hàng số 61 được liệt kê trong danh mục của bạn và trên trang web của bạn là $50 mỗi gói, nhưng đó không phải là giá tôi đã được tính tiền. Bạn có thể vui lòng xem xét vấn đề này và gọi lại cho tôi không? Bạn có thể liên hệ với tôi theo số +64 04 455 5212.\nCảm ơn trước,\nFai Zhong\n—------------------\nTừ:\nBabin and Associates\n25 phố Caledonia, Strathmore\nWellington 6022\nTới:\nFai Zhong\nNhà hàng và Dịch vụ ăn uống Zhong\n76 phố Romeo, Thorndon\nWellington 6011\nTHANH TOÁN THEO BIÊN LAI CỦA HÓA ĐƠN\nĐơn hàng #45368\nMã hàng\nMô tả hàng hóa\nSố lượng đặt\nĐơn giá\nTổng tiền\n32A\nÁo phông, trắng kèm logo, đủ loại size\n3 cái\n$125.00\n$375.00\n32B\nXem ghi chú bên dưới\nÁo sơ mi dài tay, trắng kèm logo, đủ loại size\n3 cái\n$175.00\n$525.00\n61\nTạp dề đen, bản giới hạn, dài đến đầu gối\n5 cái\n$60.00\n$300.00\n118\nQuần đen, đủ loại size\n2 cái\n$200.00\n$400.00\nTổng\nĐã gồm thuế\n$1,600.00\n* Chúng tôi chỉ có một gói áo sơ mi dài tay trong kho. Chúng tôi đã gửi nó cùng với lô hàng này và sẽ gửi những cái khác trong vòng 7-10 ngày làm việc. Sẽ không có phí vận chuyển bổ sung cho các mặt hàng này."
+                                                         }
+                                                     ]
+                                   },
+                          "audioUrls":  [
+
+                                        ],
+                          "imageUrls":  [
+
+                                        ]
+                      },
+                      {
+                          "id":  "405081",
+                          "data":  {
+                                       "contextHtml":  "\n                            \u003cp\u003e\u003cspan\u003eCommunity Project to Showcase Pottersville Artists\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003eBy Laurence du Bois\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003ePOTTERSVILLE (May 21) - At the opening of this year’s Small Business Fair in Pottersville Central Park yesterday, the Pottersville Chamber of Commerce announced Images of Success, a community initiative that seeks to promote Pottersville businesses by way of public art. Through the project, local artists will work with area business owners to create original murals on storefronts throughout the city.\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003eTo apply, business owners must submit a description of their business’s role in the community and document that their business has been in its current location for at least two years. Artists interested in participating must complete an application in which they describe their connection to Pottersville and submit samples of their own original artwork.\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003eBoth business owners and artists should submit applications to Timothy Freel at [email\u0026#160;protected] by June 15. The city will reimburse artists for approved supplies up to a limit of $150.\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003e—------------------\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003eTo: Timothy Freel\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003eFrom: Haruka Goto\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003eDate: June 24\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003eSubject: Images of Success inquiry\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003eAttachment: Draft #2\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003eDear Mr. Freel,\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003eIt was a pleasure meeting with you earlier this week at Jam Café to talk about the design for the Images of Success mural project. I hadn’t been to Jam Cafe since it reopened, and it was great to see the ﬁnished renovations. In fact, the owner of the café recently bought one of my paintings to display in the cafe.\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003eAs you suggested, I have adjusted the color scheme to include only the colors from Jam Café’s interior. Please let me know as soon as possible whether you would like me to make additional changes.\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003eBest,\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003eHaruka Goto\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003e—------------------\u003c/span\u003e\u003c/p\u003e\u003ctable\u003e\u003ctr\u003e\u003ctd colspan=\"5\" rowspan=\"1\"\u003e\u003cp\u003e\u003cspan\u003ePottersville Chamber of Commerce Reimbursement Form\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003eComplete the entire form and attach a record of the purchase. Allow two weeks for processing.\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003eName: \u003c/span\u003e\u003cspan\u003eHaruka Goto\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003eDate: \u003c/span\u003e\u003cspan\u003eJune 25\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003eEvent: \u003c/span\u003e\u003cspan\u003eImages of Success\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003eDescription:\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003eSupplies purchased at Pottersville Art Supply for Images of Success mural project. Copy of receipt dated June 24 attached.\u003c/span\u003e\u003c/p\u003e\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd colspan=\"2\" rowspan=\"1\"\u003e\u003cp\u003e\u003cspan\u003eProduct\u003c/span\u003e\u003c/p\u003e\u003c/td\u003e\u003ctd colspan=\"1\" rowspan=\"1\"\u003e\u003cp\u003e\u003cspan\u003eUnit Price\u003c/span\u003e\u003c/p\u003e\u003c/td\u003e\u003ctd colspan=\"1\" rowspan=\"1\"\u003e\u003cp\u003e\u003cspan\u003eQuantity\u003c/span\u003e\u003c/p\u003e\u003c/td\u003e\u003ctd colspan=\"1\" rowspan=\"1\"\u003e\u003cp\u003e\u003cspan\u003eTotal Price\u003c/span\u003e\u003c/p\u003e\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd colspan=\"2\" rowspan=\"1\"\u003e\u003cp\u003e\u003cspan\u003eSoft green spray paint, 18 oz. can\u003c/span\u003e\u003c/p\u003e\u003c/td\u003e\u003ctd colspan=\"1\" rowspan=\"1\"\u003e\u003cp\u003e\u003cspan\u003e$11.99\u003c/span\u003e\u003c/p\u003e\u003c/td\u003e\u003ctd colspan=\"1\" rowspan=\"1\"\u003e\u003cp\u003e\u003cspan\u003e2\u003c/span\u003e\u003c/p\u003e\u003c/td\u003e\u003ctd colspan=\"1\" rowspan=\"1\"\u003e\u003cp\u003e\u003cspan\u003e$23.98\u003c/span\u003e\u003c/p\u003e\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd colspan=\"2\" rowspan=\"1\"\u003e\u003cp\u003e\u003cspan\u003eEmerald green paint, 1/2 gallon\u003c/span\u003e\u003c/p\u003e\u003c/td\u003e\u003ctd colspan=\"1\" rowspan=\"1\"\u003e\u003cp\u003e\u003cspan\u003e$15.99\u003c/span\u003e\u003c/p\u003e\u003c/td\u003e\u003ctd colspan=\"1\" rowspan=\"1\"\u003e\u003cp\u003e\u003cspan\u003e1\u003c/span\u003e\u003c/p\u003e\u003c/td\u003e\u003ctd colspan=\"1\" rowspan=\"1\"\u003e\u003cp\u003e\u003cspan\u003e$15.99\u003c/span\u003e\u003c/p\u003e\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd colspan=\"2\" rowspan=\"1\"\u003e\u003cp\u003e\u003cspan\u003eForest green paint, 1 gallon\u003c/span\u003e\u003c/p\u003e\u003c/td\u003e\u003ctd colspan=\"1\" rowspan=\"1\"\u003e\u003cp\u003e\u003cspan\u003e$54.99\u003c/span\u003e\u003c/p\u003e\u003c/td\u003e\u003ctd colspan=\"1\" rowspan=\"1\"\u003e\u003cp\u003e\u003cspan\u003e1\u003c/span\u003e\u003c/p\u003e\u003c/td\u003e\u003ctd colspan=\"1\" rowspan=\"1\"\u003e\u003cp\u003e\u003cspan\u003e$54.99\u003c/span\u003e\u003c/p\u003e\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd colspan=\"2\" rowspan=\"1\"\u003e\u003cp\u003e\u003cspan\u003eSet of paintbrushes\u003c/span\u003e\u003c/p\u003e\u003c/td\u003e\u003ctd colspan=\"1\" rowspan=\"1\"\u003e\u003cp\u003e\u003cspan\u003e$24.99\u003c/span\u003e\u003c/p\u003e\u003c/td\u003e\u003ctd colspan=\"1\" rowspan=\"1\"\u003e\u003cp\u003e\u003cspan\u003e1\u003c/span\u003e\u003c/p\u003e\u003c/td\u003e\u003ctd colspan=\"1\" rowspan=\"1\"\u003e\u003cp\u003e\u003cspan\u003e$24.99\u003c/span\u003e\u003c/p\u003e\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd colspan=\"2\" rowspan=\"1\"\u003e\u003cp\u003e\u003cspan\u003e\u003c/span\u003e\u003c/p\u003e\u003c/td\u003e\u003ctd colspan=\"2\" rowspan=\"1\"\u003e\u003cp\u003e\u003cspan\u003eTotal (including tax)\u003c/span\u003e\u003c/p\u003e\u003c/td\u003e\u003ctd colspan=\"1\" rowspan=\"1\"\u003e\u003cp\u003e\u003cspan\u003e$111.14\u003c/span\u003e\u003c/p\u003e\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd colspan=\"5\" rowspan=\"1\"\u003e\u003cp\u003e\u003cspan\u003eApproved by:  \u003c/span\u003e\u003cspan\u003eT. Freel \u003c/span\u003e\u003cspan\u003e                       Approval Date: \u003c/span\u003e\u003cspan\u003eJuly 5\u003c/span\u003e\u003c/p\u003e\u003c/td\u003e\u003c/tr\u003e\u003c/table\u003e\n                        ",
+                                       "translation":  "Dự án cộng đồng để giới thiệu các nghệ sĩ thuộc Pottersville\nBởi Laurence du Bois\nPOTTERSVILLE (ngày 21 tháng 5) - Tại lễ khai mạc Hội chợ cho Doanh nghiệp nhỏ năm nay tại Pottersville Central Park, Phòng Thương mại Pottersville đã công bố Images of Success, một sáng kiến ​​cộng đồng nhằm quảng bá các doanh nghiệp Pottersville bằng nghệ thuật công cộng. Thông qua dự án, các nghệ sĩ địa phương sẽ có cơ hội làm việc với các chủ doanh nghiệp trong khu vực để tạo ra những bức tranh tường mới trên các mặt tiền cửa hàng trên toàn thành phố.\nĐể đăng ký, các chủ doanh nghiệp phải gửi mô tả về vai trò của doanh nghiệp của họ đối với cộng đồng và giấy tờ chứng minh doanh nghiệp của họ đã ở đây trong ít nhất hai năm. Các nghệ sĩ muốn tham gia phải hoàn thành một đơn đăng ký trong đó họ mô tả kết nối của họ với Pottersville và gửi các mẫu của tác phẩm nghệ thuật gốc của chính họ.\nCả chủ doanh nghiệp và nghệ sĩ nên nộp đơn cho Timothy Freel tại địa chỉ email [email protected] trước ngày 15 tháng 6. Thành phố sẽ thanh toán hoàn trả tiền cho các nghệ sĩ đối với những vật phẩm được phê duyệt tối đa là $150.\n—------------------\nTới: Timothy Freel\nTừ: Haruka Goto\nNgày: 24 tháng 6\nChủ đề: Hỏi về Images of Success\nTài liệu đính kèm: Dự thảo số 2\nAnh Freel thân mến,\nThật vui khi gặp bạn vào đầu tuần này tại Jam Café để thảo luận về thiết kế cho dự án tranh tường Images of Success. Tôi chưa từng đến Jam Cafe kể từ khi nó mở cửa trở lại, và thật tuyệt khi thấy những thay đổi mới đã được hoàn thiện. Thực tế, gần đây chủ quán cà phê đã mua một trong những bức tranh của tôi để trưng bày trong quán cà phê.\nNhư bạn đã gợi ý, tôi đã điều chỉnh bảng màu để chỉ lấy các màu từ nội thất của Jam Café. Xin vui lòng cho tôi biết càng sớm càng tốt nếu bạn muốn tôi thực hiện các thay đổi bổ sung.\nChúc mọi điều tốt nhất,\nHaruka Goto\n—------------------\nMẫu hoàn trả của Phòng thương mại Pottersville\nHoàn thành toàn bộ biểu mẫu và đính kèm biên lai mua hàng. Cần hai tuần để xử lý.\nTên: Haruka Goto\nNgày: June 25\nSự kiện: Images of Success\nMô tả:\nVật tư mua tại Pottersville Art Supply cho dự án Images of Success. Bản sao hóa đơn ngày 24 tháng 6 đính kèm\nSản phẩm\nĐơn giá\nSố lượng\nTổng tiền\nSơn phun màu xanh lá nhạt, 18 oz. 1 lon\n$11.99\n2\n$23.98\nSơn xanh ngọc lục bảo, 1/2 gallon\n$15.99\n1\n$15.99\nSơn màu xanh lá cây rừng, 1 gallon\n$54.99\n1\n$54.99\nBộ cọ sơn\n$24.99\n1\n$24.99\nTổng (đã gồm thuế)\n$111.14\nXác nhận bởi: T. Freel Ngày xác nhận: July 5",
+                                       "transcript":  "",
+                                       "type":  "mcq",
+                                       "context":  "Community Project to Showcase Pottersville Artists\nBy Laurence du Bois\nPOTTERSVILLE (May 21) - At the opening of this year’s Small Business Fair in Pottersville Central Park yesterday, the Pottersville Chamber of Commerce announced Images of Success, a community initiative that seeks to promote Pottersville businesses by way of public art. Through the project, local artists will work with area business owners to create original murals on storefronts throughout the city.\nTo apply, business owners must submit a description of their business’s role in the community and document that their business has been in its current location for at least two years. Artists interested in participating must complete an application in which they describe their connection to Pottersville and submit samples of their own original artwork.\nBoth business owners and artists should submit applications to Timothy Freel at [email protected] by June 15. The city will reimburse artists for approved supplies up to a limit of $150.\n—------------------\nTo: Timothy Freel\nFrom: Haruka Goto\nDate: June 24\nSubject: Images of Success inquiry\nAttachment: Draft #2\nDear Mr. Freel,\nIt was a pleasure meeting with you earlier this week at Jam Café to talk about the design for the Images of Success mural project. I hadn’t been to Jam Cafe since it reopened, and it was great to see the ﬁnished renovations. In fact, the owner of the café recently bought one of my paintings to display in the cafe.\nAs you suggested, I have adjusted the color scheme to include only the colors from Jam Café’s interior. Please let me know as soon as possible whether you would like me to make additional changes.\nBest,\nHaruka Goto\n—------------------\nPottersville Chamber of Commerce Reimbursement Form\nComplete the entire form and attach a record of the purchase. Allow two weeks for processing.\nName: Haruka Goto\nDate: June 25\nEvent: Images of Success\nDescription:\nSupplies purchased at Pottersville Art Supply for Images of Success mural project. Copy of receipt dated June 24 attached.\nProduct\nUnit Price\nQuantity\nTotal Price\nSoft green spray paint, 18 oz. can\n$11.99\n2\n$23.98\nEmerald green paint, 1/2 gallon\n$15.99\n1\n$15.99\nForest green paint, 1 gallon\n$54.99\n1\n$54.99\nSet of paintbrushes\n$24.99\n1\n$24.99\nTotal (including tax)\n$111.14\nApproved by: T. Freel Approval Date: July 5",
+                                       "questions":  [
+                                                         {
+                                                             "number":  "195",
+                                                             "prompt":  "What is most likely true about Jam Cafe?",
+                                                             "promptHtml":  "\n                                    \u003cp\u003e\u003cspan\u003eWhat is most likely true about Jam Cafe?\u003c/span\u003e\u003c/p\u003e\n                                ",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A. It sells meal artwork"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B. Its logo was designed by Ms. Goto."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C. It is closed for remodeling."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "D",
+                                                                                 "text":  "D. It has a green interior."
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "D",
+                                                             "transcript":  "",
+                                                             "explanation":  "Đáp án đúng: D\nĐiều gì rất có thể đúng về Jam Cafe? =\u003e cần tìm đáp án chứa thông tin đúng nhất có thể suy luận ra về Jam Cafe.\nA. Nó bán tác phẩm nghệ thuật về bữa ăn\nB. Logo của nó được thiết kế bởi cô Goto.\nC. Nó được đóng cửa để tu sửa.\nD. Nó có nội thất màu xanh lá cây. =\u003e Thiết kế của Haruka Goto được điều chỉnh lại theo màu nội thất của Jam cafe; mà theo bảng kê thì Haruka Goto mua các vật liệu đều có màu xanh lá cây. Từ đó có thể kết luận, nội thất của Jam Cafe có màu xanh lá cây, chọn.",
+                                                             "translation":  "Dự án cộng đồng để giới thiệu các nghệ sĩ thuộc Pottersville\nBởi Laurence du Bois\nPOTTERSVILLE (ngày 21 tháng 5) - Tại lễ khai mạc Hội chợ cho Doanh nghiệp nhỏ năm nay tại Pottersville Central Park, Phòng Thương mại Pottersville đã công bố Images of Success, một sáng kiến ​​cộng đồng nhằm quảng bá các doanh nghiệp Pottersville bằng nghệ thuật công cộng. Thông qua dự án, các nghệ sĩ địa phương sẽ có cơ hội làm việc với các chủ doanh nghiệp trong khu vực để tạo ra những bức tranh tường mới trên các mặt tiền cửa hàng trên toàn thành phố.\nĐể đăng ký, các chủ doanh nghiệp phải gửi mô tả về vai trò của doanh nghiệp của họ đối với cộng đồng và giấy tờ chứng minh doanh nghiệp của họ đã ở đây trong ít nhất hai năm. Các nghệ sĩ muốn tham gia phải hoàn thành một đơn đăng ký trong đó họ mô tả kết nối của họ với Pottersville và gửi các mẫu của tác phẩm nghệ thuật gốc của chính họ.\nCả chủ doanh nghiệp và nghệ sĩ nên nộp đơn cho Timothy Freel tại địa chỉ email [email protected] trước ngày 15 tháng 6. Thành phố sẽ thanh toán hoàn trả tiền cho các nghệ sĩ đối với những vật phẩm được phê duyệt tối đa là $150.\n—------------------\nTới: Timothy Freel\nTừ: Haruka Goto\nNgày: 24 tháng 6\nChủ đề: Hỏi về Images of Success\nTài liệu đính kèm: Dự thảo số 2\nAnh Freel thân mến,\nThật vui khi gặp bạn vào đầu tuần này tại Jam Café để thảo luận về thiết kế cho dự án tranh tường Images of Success. Tôi chưa từng đến Jam Cafe kể từ khi nó mở cửa trở lại, và thật tuyệt khi thấy những thay đổi mới đã được hoàn thiện. Thực tế, gần đây chủ quán cà phê đã mua một trong những bức tranh của tôi để trưng bày trong quán cà phê.\nNhư bạn đã gợi ý, tôi đã điều chỉnh bảng màu để chỉ lấy các màu từ nội thất của Jam Café. Xin vui lòng cho tôi biết càng sớm càng tốt nếu bạn muốn tôi thực hiện các thay đổi bổ sung.\nChúc mọi điều tốt nhất,\nHaruka Goto\n—------------------\nMẫu hoàn trả của Phòng thương mại Pottersville\nHoàn thành toàn bộ biểu mẫu và đính kèm biên lai mua hàng. Cần hai tuần để xử lý.\nTên: Haruka Goto\nNgày: June 25\nSự kiện: Images of Success\nMô tả:\nVật tư mua tại Pottersville Art Supply cho dự án Images of Success. Bản sao hóa đơn ngày 24 tháng 6 đính kèm\nSản phẩm\nĐơn giá\nSố lượng\nTổng tiền\nSơn phun màu xanh lá nhạt, 18 oz. 1 lon\n$11.99\n2\n$23.98\nSơn xanh ngọc lục bảo, 1/2 gallon\n$15.99\n1\n$15.99\nSơn màu xanh lá cây rừng, 1 gallon\n$54.99\n1\n$54.99\nBộ cọ sơn\n$24.99\n1\n$24.99\nTổng (đã gồm thuế)\n$111.14\nXác nhận bởi: T. Freel Ngày xác nhận: July 5"
+                                                         }
+                                                     ]
+                                   },
+                          "audioUrls":  [
+
+                                        ],
+                          "imageUrls":  [
+
+                                        ]
+                      },
+                      {
+                          "id":  "405082",
+                          "data":  {
+                                       "contextHtml":  "\n                            \u003cp\u003e\u003cspan\u003eFrom: He-Ran Kim, Wheeling Travel Associates\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003eTo: Mihir Sukbara\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003eSubject: Travel Plans for Sports Trade Show\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003eSent: 3 July\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003eAttachment: Sydney—Perth Itinerary\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003eDear Mr. Sukbara,\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003ePer your request. I have reserved your round—trip ticket to Perth. Departure from Sydney is 20 July, and return from Perth is 24 July, which should perfectly accommodate your 21-23 July Trade Show. The itinerary is attached.\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003eIn reply to your question whether your samples can be brought along, the skis and snowboards can be checked as luggage. My contact at Canberra Airways tells me there is a $75 AUD fee for each piece of oversized luggage. If this fee is paid in advance, oversized items can be dropped at the express drop—off kiosk when you check in. Make sure that your items do not exceed the airline’s maximum allowable weight and size requirements. Please let me know how many items you wish to check so that I can make the prepayment for you.\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003eBest,\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003eHe-Ran Kim\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003eWheeling Travel Associates\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003e—------------------\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003eCanberra Airways\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003eExpress Luggage Drop-Off Service—Instructions\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003eUpon arrival at the airport, please follow these simple steps:\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003e1. Print out your boarding pass at any of our check—in kiosks as you enter the terminal.\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003e2. Follow directions to the express drop—off kiosk and place your items on the scales. Show your photo ID and boarding pass to one of our agents, who will ask how many bags you are checking.\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003e3. Our agent will tag your bags and return your papers so you can proceed to Security without delay.\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003eNOTE\u003c/span\u003e\u003cspan\u003e: Express drop-off service is currently available only in Sydney, Melbourne, and Brisbane.\u003c/span\u003e\u003c/p\u003e\n                        ",
+                                       "translation":  "Từ: He-Ran Kim, Wheeling Travel Associates\nKính gửi: Mihir Sukbara\nChủ đề: Kế hoạch du lịch cho triển lãm thương mại thể thao\nĐã gửi: 3 tháng 7\nTài liệu đính kèm: Sydney hành trình Perth Perth\nKính gửi ông Sukbara,\nTheo yêu cầu của bạn, tôi đã đặt vé khứ hồi của bạn tới Perth. Khởi hành từ Sydney là ngày 20 tháng 7 và trở về từ Perth là ngày 24 tháng 7, nó sẽ rất phù hợp với Triển lãm thương mại vào 21-23 tháng 7 của bạn. Hành trình đã được đính kèm.\nĐối với câu hỏi của bạn về việc các mẫu của bạn có thể được mang theo hay không, ván trượt và ván trượt tuyết có thể được mang theo như hành lý. Đầu mối liên lạc của tôi tại Canberra cho biết sẽ có một khoản phí 75 đô la Úc cho mỗi kiện hành lý quá khổ. Nếu khoản phí này được thanh toán trước, các mặt hàng quá khổ có thể được gửi tại ki-ốt chuyển nhanh khi bạn đi qua cửa kiểm soát . Hãy chắc chắn rằng các mặt hàng của bạn không vượt quá yêu cầu về trọng lượng và kích thước tối đa cho phép của hãng hàng không. Xin vui lòng cho tôi biết có bao nhiêu mặt hàng bạn muốn mang theo để tôi có thể thực hiện trả trước cho bạn.\nChân thành,\nAnh-Ran Kim\nTrợ lý Wheeling Travel\n—------------------\nHãng hàng không Canberra\nHướng dẫn Dịch vụ gửi hành lý nhanh\nKhi đến sân bay, vui lòng làm theo các bước đơn giản sau:\n1. In vé lên máy bay của bạn tại bất kỳ điểm kiểm tra nào của chúng tôi trong kiốt khi bạn vào nhà ga.\n2. Thực hiện theo các hướng dẫn đến kiosk gửi hành lý nhanh và đặt hành lý của bạn lên bàn cân. Đưa giấy tờ tùy thân của bạn và thẻ lên máy bay cho một trong những đại lý của chúng tôi, họ sẽ hỏi bạn mang bao nhiêu túi.\n3. Đại lý của chúng tôi sẽ gắn thẻ túi của bạn và trả lại giấy tờ của bạn để bạn có thể tiến hành kiểm tra an ninh mà không bị chậm trễ.\nLƯU Ý: Dịch vụ chuyển phát nhanh hiện chỉ có ở Sydney, Melbourne và Brisbane.",
+                                       "transcript":  "",
+                                       "type":  "mcq",
+                                       "context":  "From: He-Ran Kim, Wheeling Travel Associates\nTo: Mihir Sukbara\nSubject: Travel Plans for Sports Trade Show\nSent: 3 July\nAttachment: Sydney—Perth Itinerary\nDear Mr. Sukbara,\nPer your request. I have reserved your round—trip ticket to Perth. Departure from Sydney is 20 July, and return from Perth is 24 July, which should perfectly accommodate your 21-23 July Trade Show. The itinerary is attached.\nIn reply to your question whether your samples can be brought along, the skis and snowboards can be checked as luggage. My contact at Canberra Airways tells me there is a $75 AUD fee for each piece of oversized luggage. If this fee is paid in advance, oversized items can be dropped at the express drop—off kiosk when you check in. Make sure that your items do not exceed the airline’s maximum allowable weight and size requirements. Please let me know how many items you wish to check so that I can make the prepayment for you.\nBest,\nHe-Ran Kim\nWheeling Travel Associates\n—------------------\nCanberra Airways\nExpress Luggage Drop-Off Service—Instructions\nUpon arrival at the airport, please follow these simple steps:\n1. Print out your boarding pass at any of our check—in kiosks as you enter the terminal.\n2. Follow directions to the express drop—off kiosk and place your items on the scales. Show your photo ID and boarding pass to one of our agents, who will ask how many bags you are checking.\n3. Our agent will tag your bags and return your papers so you can proceed to Security without delay.\nNOTE: Express drop-off service is currently available only in Sydney, Melbourne, and Brisbane.",
+                                       "questions":  [
+                                                         {
+                                                             "number":  "182",
+                                                             "prompt":  "What is true about Mr. Sukbara’s oversized luggage?",
+                                                             "promptHtml":  "\n                                    \u003cp\u003e\u003cspan\u003eWhat is true about Mr. Sukbara’s oversized luggage?\u003c/span\u003e\u003c/p\u003e\n                                ",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A. It consists of sports equipment."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B. It exceeds the weight limit."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C. It will be packed by Ms. Kim."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "D",
+                                                                                 "text":  "D. It was purchased at a trade show."
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "A",
+                                                             "transcript":  "",
+                                                             "explanation":  "Đáp án đúng: A\nĐiều gì đúng về hành lý quá khổ của ông Sukbara?\nA. Nó bao gồm các thiết bị thể thao. =\u003e trong bài có đề cập rằng “the skis and snowboards can be checked as luggage” tức là “ván trượt và ván trượt tuyết có thể được mang theo như hành lý”, vậy hành lý quá khổ của ông Sukbara đều là dụng cụ thể thao, chọn.\nB. Nó vượt quá giới hạn trọng lượng. =\u003e trong email chỉ nói rằng hãy chắc chắn rằng các mặt hàng của bạn không vượt quá yêu cầu về trọng lượng chứ chưa nói hành lý đã quá trọng lượng, loại.\nC. Nó sẽ được đóng gói bởi cô Kim. =\u003e cô Kim là người gửi email cho ông Sukbara về lịch trình chứ không phải là người đóng gói, loại\nD. Nó đã được mua tại một triển lãm thương mại. =\u003e triển lãm thương mại là nơi ông Sukbara sẽ đến chứ không phải nơi mua các món đồ hành lý, loại.",
+                                                             "translation":  "Từ: He-Ran Kim, Wheeling Travel Associates\nKính gửi: Mihir Sukbara\nChủ đề: Kế hoạch du lịch cho triển lãm thương mại thể thao\nĐã gửi: 3 tháng 7\nTài liệu đính kèm: Sydney hành trình Perth Perth\nKính gửi ông Sukbara,\nTheo yêu cầu của bạn, tôi đã đặt vé khứ hồi của bạn tới Perth. Khởi hành từ Sydney là ngày 20 tháng 7 và trở về từ Perth là ngày 24 tháng 7, nó sẽ rất phù hợp với Triển lãm thương mại vào 21-23 tháng 7 của bạn. Hành trình đã được đính kèm.\nĐối với câu hỏi của bạn về việc các mẫu của bạn có thể được mang theo hay không, ván trượt và ván trượt tuyết có thể được mang theo như hành lý. Đầu mối liên lạc của tôi tại Canberra cho biết sẽ có một khoản phí 75 đô la Úc cho mỗi kiện hành lý quá khổ. Nếu khoản phí này được thanh toán trước, các mặt hàng quá khổ có thể được gửi tại ki-ốt chuyển nhanh khi bạn đi qua cửa kiểm soát . Hãy chắc chắn rằng các mặt hàng của bạn không vượt quá yêu cầu về trọng lượng và kích thước tối đa cho phép của hãng hàng không. Xin vui lòng cho tôi biết có bao nhiêu mặt hàng bạn muốn mang theo để tôi có thể thực hiện trả trước cho bạn.\nChân thành,\nAnh-Ran Kim\nTrợ lý Wheeling Travel\n—------------------\nHãng hàng không Canberra\nHướng dẫn Dịch vụ gửi hành lý nhanh\nKhi đến sân bay, vui lòng làm theo các bước đơn giản sau:\n1. In vé lên máy bay của bạn tại bất kỳ điểm kiểm tra nào của chúng tôi trong kiốt khi bạn vào nhà ga.\n2. Thực hiện theo các hướng dẫn đến kiosk gửi hành lý nhanh và đặt hành lý của bạn lên bàn cân. Đưa giấy tờ tùy thân của bạn và thẻ lên máy bay cho một trong những đại lý của chúng tôi, họ sẽ hỏi bạn mang bao nhiêu túi.\n3. Đại lý của chúng tôi sẽ gắn thẻ túi của bạn và trả lại giấy tờ của bạn để bạn có thể tiến hành kiểm tra an ninh mà không bị chậm trễ.\nLƯU Ý: Dịch vụ chuyển phát nhanh hiện chỉ có ở Sydney, Melbourne và Brisbane."
+                                                         }
+                                                     ]
+                                   },
+                          "audioUrls":  [
+
+                                        ],
+                          "imageUrls":  [
+
+                                        ]
+                      },
+                      {
+                          "id":  "406236",
+                          "data":  {
+                                       "contextHtml":  "\n                            \u003cp\u003e\u003c/p\u003e\n                        ",
+                                       "translation":  "DAN COOPER Bạn đã họp xong chưa?\nHEATHER BERRY Chưa.\nDAN COOPER Okay, nhắn tin cho tôi khi bạn xong việc.\nHEATHER BERRY Tôi rảnh rồi. Họ nghỉ giải lao để ăn vặt và đi vệ sinh.\nDAN COOPER Tuyệt. Tôi đang tự hỏi liệu bạn có đưa thực tập sinh đi ăn trưa hôm nay không.\nHEATHER BERRY Bạn có định bỏ cuộc không?\nDAN COOPER Tôi phải vậy. Tôi cần phải có mặt ở North Point lúc 2 giờ.\nHEATHER BERRY Không sao đâu. Tôi sẽ đưa họ đi.\nDAN COOPER Cảm ơn. Tôi ghét việc phải hủy với họ.",
+                                       "transcript":  "",
+                                       "type":  "mcq",
+                                       "context":  "",
+                                       "questions":  [
+                                                         {
+                                                             "number":  "149",
+                                                             "prompt":  "What is suggested about Ms. Berry?",
+                                                             "promptHtml":  "\n                                    \u003cp\u003e\u003cspan\u003eWhat is suggested about Ms. Berry?\u003c/span\u003e\u003c/p\u003e\n                                ",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A. She is eating a snack."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B. She will be promoted."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C. She is in the middle of meetings."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "D",
+                                                                                 "text":  "D. She plans on cancelling a lunch appointment."
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "C",
+                                                             "transcript":  "",
+                                                             "explanation":  "Đáp án đúng: C\nDịch: Có thể suy luận gì về cô Berry?\nA. Cô ấy đang ăn nhẹ.\nB. Cô ấy sẽ được thăng chức.\nC. Cô ấy đang họp.\nD. Cô ấy định hủy hẹn ăn trưa.\nCooper hỏi Berry “Did you finish your meeting?” (Chị họp xong chưa?), Berry trả lời “Not yet.” (Vẫn chưa) =\u003e Berry đang họp dở =\u003e Chọn C\nChú ý: Tin nhắn của Berry có nhắc đến snack, nhưng cả câu là “They took a break for snacks and the bathroom” (Họ nghỉ giải lao để ăn nhẹ và đi vệ sinh) =\u003e Loại A\nTin nhắn không nhắc đến việc thăng chức =\u003e Loại B\nNgười hủy hẹn ăn trưa không phải Berry =\u003e Loại D",
+                                                             "translation":  "DAN COOPER Bạn đã họp xong chưa?\nHEATHER BERRY Chưa.\nDAN COOPER Okay, nhắn tin cho tôi khi bạn xong việc.\nHEATHER BERRY Tôi rảnh rồi. Họ nghỉ giải lao để ăn vặt và đi vệ sinh.\nDAN COOPER Tuyệt. Tôi đang tự hỏi liệu bạn có đưa thực tập sinh đi ăn trưa hôm nay không.\nHEATHER BERRY Bạn có định bỏ cuộc không?\nDAN COOPER Tôi phải vậy. Tôi cần phải có mặt ở North Point lúc 2 giờ.\nHEATHER BERRY Không sao đâu. Tôi sẽ đưa họ đi.\nDAN COOPER Cảm ơn. Tôi ghét việc phải hủy với họ."
+                                                         }
+                                                     ]
+                                   },
+                          "audioUrls":  [
+
+                                        ],
+                          "imageUrls":  [
+                                            "/media/toeic_course_problems/extra1/image97.png"
+                                        ]
+                      },
+                      {
+                          "id":  "406237",
+                          "data":  {
+                                       "contextHtml":  "\n                            \u003cp\u003e\u003c/p\u003e\n                        ",
+                                       "translation":  "Kính gửi ông Sandler,\nCuộc họp đánh giá kinh doanh trong tháng này được lên lịch vào Thứ Năm, ngày 15 tháng 11. Như ông biết, cuộc họp này là cơ hội tuyệt vời để chúng ta đánh giá kế hoạch hoạt động của mình và tiến hành bất kỳ điều chỉnh nào có thể giúp chúng ta theo kịp với những thay đổi liên tục trên thị trường. Với tư cách là một công ty quảng cáo, việc cập nhật thông tin về xu hướng thị trường mới nhất là rất quan trọng. Vì vậy, tôi rất phấn khích khi nghe tin rằng ông Tsuyoshi Ito, quản lý chi nhánh Nhật Bản của chúng tôi, sẽ đến thăm vào Thứ Sáu này. Để tận dụng tri thức và kiến thức của ông ấy, tôi muốn đổi ngày họp để ông Ito có thể tham dự.\nĐây sẽ là lần đầu tiên ông Ito đến nước này, vì vậy tôi muốn ông đón ông ấy từ sân bay. Một chiếc xe của công ty sẽ được cung cấp cho ông cho mục đích này. Tôi sẽ gửi email lại một khi có thêm thông tin chi tiết về thời gian đến của ông Ito.\nTrân trọng,\nSam Miller\nChủ tịch Miller Advertising",
+                                       "transcript":  "",
+                                       "type":  "mcq",
+                                       "context":  "",
+                                       "questions":  [
+                                                         {
+                                                             "number":  "154",
+                                                             "prompt":  "What does the e-mail indicate about Mr. Ito?",
+                                                             "promptHtml":  "\n                                    \u003cp\u003e\u003cspan\u003eWhat does the e-mail indicate about Mr. Ito?\u003c/span\u003e\u003c/p\u003e\n                                ",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A. He is changing positions."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B. He often travels for business."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C. He works in advertising."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "D",
+                                                                                 "text":  "D. He is a client of Mr. Miller\u0027s."
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "C",
+                                                             "transcript":  "",
+                                                             "explanation":  "Đáp án đúng: C\nDịch: Email cho biết điều gì về ông Ito?\nA. Ông ấy đang thay đổi chức vụ.\nB. Ông ấy thường đi công tác.\nC. Ông ấy làm việc trong lĩnh vực quảng cáo.\nD. Ông ấy là khách hàng của anh Miller.\nTừ khóa: Ito. Đọc ngay từ câu Ito xuất hiện: Therefore, I was excited when I heard that Tsuyoshi Ito, manager of our Japanese branch, would be visiting this Friday.\n=\u003e Ito là manager tại chi nhánh Nhật Bản. Muốn biết công ty này là công ty gì, ta đọc câu trước: As an advertising agency, it’s crucial we…\n=\u003e Đây là công ty quảng cáo\n=\u003e Ito làm trong ngành quảng cáo\n=\u003e Chọn C",
+                                                             "translation":  "Kính gửi ông Sandler,\nCuộc họp đánh giá kinh doanh trong tháng này được lên lịch vào Thứ Năm, ngày 15 tháng 11. Như ông biết, cuộc họp này là cơ hội tuyệt vời để chúng ta đánh giá kế hoạch hoạt động của mình và tiến hành bất kỳ điều chỉnh nào có thể giúp chúng ta theo kịp với những thay đổi liên tục trên thị trường. Với tư cách là một công ty quảng cáo, việc cập nhật thông tin về xu hướng thị trường mới nhất là rất quan trọng. Vì vậy, tôi rất phấn khích khi nghe tin rằng ông Tsuyoshi Ito, quản lý chi nhánh Nhật Bản của chúng tôi, sẽ đến thăm vào Thứ Sáu này. Để tận dụng tri thức và kiến thức của ông ấy, tôi muốn đổi ngày họp để ông Ito có thể tham dự.\nĐây sẽ là lần đầu tiên ông Ito đến nước này, vì vậy tôi muốn ông đón ông ấy từ sân bay. Một chiếc xe của công ty sẽ được cung cấp cho ông cho mục đích này. Tôi sẽ gửi email lại một khi có thêm thông tin chi tiết về thời gian đến của ông Ito.\nTrân trọng,\nSam Miller\nChủ tịch Miller Advertising"
+                                                         }
+                                                     ]
+                                   },
+                          "audioUrls":  [
+
+                                        ],
+                          "imageUrls":  [
+                                            "/media/toeic_course_problems/extra1/image98.png"
+                                        ]
+                      },
+                      {
+                          "id":  "406238",
+                          "data":  {
+                                       "contextHtml":  "\n                            \u003cp\u003e\u003c/p\u003e\n                        ",
+                                       "translation":  "Tiệm Bánh Marigold\n451 Clark Street, Ellis Town\n253-555-1298\nTiệm Bánh Marigold là một doanh nghiệp gia đình đã làm ra những món ngọt ngon và hấp dẫn suốt hơn 30 năm. Cửa hàng của chúng tôi tọa lạc tại trung tâm lịch sử của Ellis Town và có một không gian ấm cúng và mời gọi.\nChúng tôi cung cấp: • Bánh ngọt đặt hàng cho các bữa tiệc, đám cưới và sự kiện công ty • Đồ ăn nhẹ và bánh mì không gluten hoặc không đường • Thiết kế bánh kem theo yêu cầu\nGiờ làm việc: Thứ Hai đến Thứ Bảy, từ 9:00 sáng đến 5:00 chiều. Chúng tôi sẽ đóng cửa vào tháng Chín này để mở rộng quy mô cửa hàng.\nLớp học nấu ăn Chủ Nhật: Tiệm Bánh Marigold coi trọng sự tương tác tích cực với cộng đồng. Vì vậy, chúng tôi hiện đang tổ chức lớp học nấu ăn cho thanh thiếu niên trong cộng đồng. Nấu ăn giáo dục về giá trị của sự kiên nhẫn và sự chăm chỉ!",
+                                       "transcript":  "",
+                                       "type":  "mcq",
+                                       "context":  "",
+                                       "questions":  [
+                                                         {
+                                                             "number":  "160",
+                                                             "prompt":  "What is indicated about the cooking class?",
+                                                             "promptHtml":  "\n                                    \u003cp\u003e\u003cspan\u003eWhat is indicated about the cooking class?\u003c/span\u003e\u003c/p\u003e\n                                ",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A. It will be held at a community center this year."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B. It has been going on for over 30 years."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C. It is taught by an experienced baker."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "D",
+                                                                                 "text":  "D. It is designed for local teenagers."
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "D",
+                                                             "transcript":  "",
+                                                             "explanation":  "Đáp án đúng: D\nDịch: Có thể suy luận gì về lớp nấu ăn?\nA. Nó sẽ được tổ chức tại một trung tâm cộng đồng trong năm nay.\nB. Nó đã được tổ chức suốt hơn 30 năm nay.\nC. Nó được dạy bởi một thợ làm bánh có kinh nghiệm.\nD. Nó được thiết kế cho thanh thiếu niên địa phương.\nCâu hỏi cuối cùng trong nhóm câu hỏi =\u003e tìm thông tin ở đoạn cuối:\n- Marigold Bakery values positive interactions with the community (Marigold Bakery coi trọng những tương tác tích cực với cộng đồng)=\u003e Nhắc đến community =\u003e có thể là A hoặc D.\n- Therefore, we\u0027re currently holding a cooking class for teenagers in the community (Vì vậy, chúng tôi hiện đang tổ chức lớp học nấu ăn cho thanh thiếu niên trong cộng đồng) =\u003e chọn D.",
+                                                             "translation":  "Tiệm Bánh Marigold\n451 Clark Street, Ellis Town\n253-555-1298\nTiệm Bánh Marigold là một doanh nghiệp gia đình đã làm ra những món ngọt ngon và hấp dẫn suốt hơn 30 năm. Cửa hàng của chúng tôi tọa lạc tại trung tâm lịch sử của Ellis Town và có một không gian ấm cúng và mời gọi.\nChúng tôi cung cấp: • Bánh ngọt đặt hàng cho các bữa tiệc, đám cưới và sự kiện công ty • Đồ ăn nhẹ và bánh mì không gluten hoặc không đường • Thiết kế bánh kem theo yêu cầu\nGiờ làm việc: Thứ Hai đến Thứ Bảy, từ 9:00 sáng đến 5:00 chiều. Chúng tôi sẽ đóng cửa vào tháng Chín này để mở rộng quy mô cửa hàng.\nLớp học nấu ăn Chủ Nhật: Tiệm Bánh Marigold coi trọng sự tương tác tích cực với cộng đồng. Vì vậy, chúng tôi hiện đang tổ chức lớp học nấu ăn cho thanh thiếu niên trong cộng đồng. Nấu ăn giáo dục về giá trị của sự kiên nhẫn và sự chăm chỉ!"
+                                                         }
+                                                     ]
+                                   },
+                          "audioUrls":  [
+
+                                        ],
+                          "imageUrls":  [
+                                            "/media/toeic_course_problems/extra1/image12.png"
+                                        ]
+                      },
+                      {
+                          "id":  "406239",
+                          "data":  {
+                                       "contextHtml":  "\n                            \u003cp\u003e\u003c/p\u003e\n                        ",
+                                       "translation":  "Sanchez Motors\nGiới thiệu về Sanchez Motors\nCarlos Sanchez luôn mơ ước sở hữu một đại lý ô tô của riêng mình kể từ khi anh bắt đầu làm việc như một trợ lý tại một tiệm sửa xe. Sau khi dành dụm tiền trong suốt mười năm, cuối cùng anh đã mở Sanchez Motors và đã phục vụ cộng đồng với lòng tự hào và trách nhiệm từ đó. Sanchez Motors cung cấp đủ loại xe, từ xe thể thao và van đến SUV và xe tải. Không chắc xe nào phù hợp với nhu cầu của bạn? Hãy đến và thử lái đa dạng các loại xe để tìm ra cái phù hợp với bạn.\nCho đến cuối năm, Sanchez Motors đang cung cấp một ưu đãi tuyệt vời cho dòng xe bán tải Spitfire phổ biến và SUV Stark. Nếu bạn đặt cọc chỉ từ 3,000 đô la, bạn sẽ được hưởng lãi suất thấp cực kỳ cho các khoản trả góp hàng tháng của mình.\nSanchez Motors tọa lạc ngay ngoại ô đường cao tốc số 5, ngay bên ngoài thị trấn Stockton. Chúng tôi mở cửa 7 ngày một tuần, từ 9 giờ sáng đến 9 giờ tối. Đừng ngần ngại, hãy ghé thăm chúng tôi!",
+                                       "transcript":  "",
+                                       "type":  "mcq",
+                                       "context":  "",
+                                       "questions":  [
+                                                         {
+                                                             "number":  "168",
+                                                             "prompt":  "What is indicated about Mr. Sanchez?",
+                                                             "promptHtml":  "\n                                    \u003cp\u003e\u003cspan\u003eWhat is indicated about Mr. Sanchez?\u003c/span\u003e\u003c/p\u003e\n                                ",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A. He works at an auto repair shop."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B. He started his own business."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C. He is a race car driver."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "D",
+                                                                                 "text":  "D. He designs a variety of vehicles."
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "B",
+                                                             "transcript":  "",
+                                                             "explanation":  "Đáp án đúng: B\nDịch: Có thể suy luận gì về ông Sanchez?\nA. Ông ấy làm việc tại một cửa hàng sửa chữa ô tô.\nB. Ông ấy tự mở doanh nghiệp của riêng mình.\nC. Ông ấy là một tay đua xe hơi.\nD. Ông ấy thiết kế nhiều loại phương tiện.\nCâu hỏi đầu tiên trong nhóm câu hỏi =\u003e tìm thông tin ở đoạn đầu. Câu chứa đáp án: After saving his money for ten years, he finally opened Sanchez Motors… (Sau khi tiết kiệm tiền suốt mười năm, cuối cùng ông cũng thành lập được Sanchez Motors) =\u003e ông ta lập ra Sanchez Motors =\u003e chọn B",
+                                                             "translation":  "Sanchez Motors\nGiới thiệu về Sanchez Motors\nCarlos Sanchez luôn mơ ước sở hữu một đại lý ô tô của riêng mình kể từ khi anh bắt đầu làm việc như một trợ lý tại một tiệm sửa xe. Sau khi dành dụm tiền trong suốt mười năm, cuối cùng anh đã mở Sanchez Motors và đã phục vụ cộng đồng với lòng tự hào và trách nhiệm từ đó. Sanchez Motors cung cấp đủ loại xe, từ xe thể thao và van đến SUV và xe tải. Không chắc xe nào phù hợp với nhu cầu của bạn? Hãy đến và thử lái đa dạng các loại xe để tìm ra cái phù hợp với bạn.\nCho đến cuối năm, Sanchez Motors đang cung cấp một ưu đãi tuyệt vời cho dòng xe bán tải Spitfire phổ biến và SUV Stark. Nếu bạn đặt cọc chỉ từ 3,000 đô la, bạn sẽ được hưởng lãi suất thấp cực kỳ cho các khoản trả góp hàng tháng của mình.\nSanchez Motors tọa lạc ngay ngoại ô đường cao tốc số 5, ngay bên ngoài thị trấn Stockton. Chúng tôi mở cửa 7 ngày một tuần, từ 9 giờ sáng đến 9 giờ tối. Đừng ngần ngại, hãy ghé thăm chúng tôi!"
+                                                         }
+                                                     ]
+                                   },
+                          "audioUrls":  [
+
+                                        ],
+                          "imageUrls":  [
+                                            "/media/toeic_course_problems/extra1/image15.png"
+                                        ]
+                      },
+                      {
+                          "id":  "406240",
+                          "data":  {
+                                       "contextHtml":  "\n                            \u003cp\u003e\u003c/p\u003e\n                        ",
+                                       "translation":  "Gửi: Sam Brown [email protected]\nTừ: Kevin Draper [email protected]\nChủ đề: Khoản vay mua nhà\nNgày: 22 Tháng Tư\nKính gửi ông Brown,\nCảm ơn ông đã chọn Ngân hàng Tài chính Five Star là nhà cung cấp khoản vay mua nhà của ông. Chúng tôi nỗ lực cung cấp các kế hoạch trả nợ cạnh tranh nhất cùng với sự hỗ trợ khách hàng xuất sắc. Dưới đây là tóm tắt khoản vay mà ông đã vay từ chúng tôi.\nLoại Khoản vay: Khoản vay Cơ hội Mua nhà Số Tiền: $70,000.00 Thời Hạn Trả Nợ: 15 năm\nTrong suốt thời gian của khoản vay, ngân hàng viên cao cấp Martha King sẽ chịu trách nhiệm về kế hoạch trả nợ của ông. Việc hiểu rõ các điều khoản của khoản vay là rất quan trọng để trả nợ thành công và tránh phạt. Chúng tôi khuyến nghị ông sắp xếp một cuộc hẹn để gặp bà King để bà có thể giúp ông hiểu rõ hơn về khoản vay mua nhà của mình.\nNếu ông đăng ký dịch vụ ngân hàng trực tuyến của chúng tôi, ông sẽ có thể nhanh chóng và thuận tiện kiểm tra tiến độ trả nợ.\nMột lần nữa cảm ơn ông đã tin tưởng Ngân hàng Tài chính Five Star với khoản vay mua nhà của ông.\nTrân trọng,\nKevin Draper\nChuyên viên Khoản vay\nNgân hàng Tài chính Five Star\n----------------\nCác loại khoản vay mua nhà khác nhau dành cho thành viên của Ngân hàng Tài chính Five Star được liệt kê dưới đây. Việc học về các loại khoản vay khác nhau sẽ giúp bạn đưa ra quyết định thông tin. Xem xét các lựa chọn khoản vay dưới đây và quyết định xem khoản vay nào phù hợp với tình hình của bạn.\nKhoản vay Thế chấp Lãi suất Cố định - Khoản vay này đảm bảo rằng lãi suất và số tiền gốc hàng tháng của bạn sẽ không thay đổi trong suốt thời gian của khoản vay. Khoản vay này bảo vệ bạn khỏi tình trạng lãi suất tăng và có thể là một lựa chọn tốt nếu bạn dự định sống trong ngôi nhà của mình trong một thời gian dài.\nKhoản vay Thế chấp Lãi suất Thay đổi - Lãi suất của bạn sẽ cố định trong 5 năm đầu, và sau đó được điều chỉnh hàng năm. Thông thường, khoản vay này có lãi suất ban đầu thấp hơn so với khoản vay lãi suất cố định.\nKhoản vay Thế chấp Chỉ trả Lãi - Trong 5 năm đầu của khoản vay, bạn chỉ cần thanh toán lãi. Phương án này phù hợp cho những người có thu nhập không ổn định. Khi tình hình tài chính của bạn chật vật, bạn có thể thanh toán chỉ tiền lãi. Và khi thu nhập của bạn tăng, bạn có thể thanh toán cả gốc.\nKhoản vay Cơ hội Mua nhà - Khoản vay đặc biệt này là dành cho người mua nhà lần đầu. Bạn không cần phải có khoản thanh toán ban đầu lớn và có thể là lựa chọn hoàn hảo cho những người có điểm tín dụng không hoàn hảo để đủ điều kiện cho khoản vay này.",
+                                       "transcript":  "",
+                                       "type":  "mcq",
+                                       "context":  "",
+                                       "questions":  [
+                                                         {
+                                                             "number":  "180",
+                                                             "prompt":  "What is indicated about Mr. Brown?",
+                                                             "promptHtml":  "\n                                    \u003cp\u003e\u003cspan\u003eWhat is indicated about Mr. Brown?\u003c/span\u003e\u003c/p\u003e\n                                ",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A. He made a large down payment."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B. He earns a steady salary."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C. He recently bought his first home."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "D",
+                                                                                 "text":  "D. He will retire in the near future."
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "C",
+                                                             "transcript":  "",
+                                                             "explanation":  "Đáp án đúng: C\nDịch: Có thể suy luận gì về ông Brown?\nA. Ông ấy đã trả trước một khoản lớn.\nB. Ông ấy có mức lương ổn định.\nC. Gần đây ông ấy đã mua căn nhà đầu tiên của mình.\nD. Ông ấy sẽ nghỉ hưu trong thời gian tới.\nTheo email, ông Brown chọn khoản vay Home Opportunity Loan =\u003e đọc về khoản vay này để xác định đáp án: This special loan is designed for first-time home buyers =\u003e khoản vay dành cho người mua nhà lần đầu =\u003e chọn C",
+                                                             "translation":  "Gửi: Sam Brown [email protected]\nTừ: Kevin Draper [email protected]\nChủ đề: Khoản vay mua nhà\nNgày: 22 Tháng Tư\nKính gửi ông Brown,\nCảm ơn ông đã chọn Ngân hàng Tài chính Five Star là nhà cung cấp khoản vay mua nhà của ông. Chúng tôi nỗ lực cung cấp các kế hoạch trả nợ cạnh tranh nhất cùng với sự hỗ trợ khách hàng xuất sắc. Dưới đây là tóm tắt khoản vay mà ông đã vay từ chúng tôi.\nLoại Khoản vay: Khoản vay Cơ hội Mua nhà Số Tiền: $70,000.00 Thời Hạn Trả Nợ: 15 năm\nTrong suốt thời gian của khoản vay, ngân hàng viên cao cấp Martha King sẽ chịu trách nhiệm về kế hoạch trả nợ của ông. Việc hiểu rõ các điều khoản của khoản vay là rất quan trọng để trả nợ thành công và tránh phạt. Chúng tôi khuyến nghị ông sắp xếp một cuộc hẹn để gặp bà King để bà có thể giúp ông hiểu rõ hơn về khoản vay mua nhà của mình.\nNếu ông đăng ký dịch vụ ngân hàng trực tuyến của chúng tôi, ông sẽ có thể nhanh chóng và thuận tiện kiểm tra tiến độ trả nợ.\nMột lần nữa cảm ơn ông đã tin tưởng Ngân hàng Tài chính Five Star với khoản vay mua nhà của ông.\nTrân trọng,\nKevin Draper\nChuyên viên Khoản vay\nNgân hàng Tài chính Five Star\n----------------\nCác loại khoản vay mua nhà khác nhau dành cho thành viên của Ngân hàng Tài chính Five Star được liệt kê dưới đây. Việc học về các loại khoản vay khác nhau sẽ giúp bạn đưa ra quyết định thông tin. Xem xét các lựa chọn khoản vay dưới đây và quyết định xem khoản vay nào phù hợp với tình hình của bạn.\nKhoản vay Thế chấp Lãi suất Cố định - Khoản vay này đảm bảo rằng lãi suất và số tiền gốc hàng tháng của bạn sẽ không thay đổi trong suốt thời gian của khoản vay. Khoản vay này bảo vệ bạn khỏi tình trạng lãi suất tăng và có thể là một lựa chọn tốt nếu bạn dự định sống trong ngôi nhà của mình trong một thời gian dài.\nKhoản vay Thế chấp Lãi suất Thay đổi - Lãi suất của bạn sẽ cố định trong 5 năm đầu, và sau đó được điều chỉnh hàng năm. Thông thường, khoản vay này có lãi suất ban đầu thấp hơn so với khoản vay lãi suất cố định.\nKhoản vay Thế chấp Chỉ trả Lãi - Trong 5 năm đầu của khoản vay, bạn chỉ cần thanh toán lãi. Phương án này phù hợp cho những người có thu nhập không ổn định. Khi tình hình tài chính của bạn chật vật, bạn có thể thanh toán chỉ tiền lãi. Và khi thu nhập của bạn tăng, bạn có thể thanh toán cả gốc.\nKhoản vay Cơ hội Mua nhà - Khoản vay đặc biệt này là dành cho người mua nhà lần đầu. Bạn không cần phải có khoản thanh toán ban đầu lớn và có thể là lựa chọn hoàn hảo cho những người có điểm tín dụng không hoàn hảo để đủ điều kiện cho khoản vay này."
+                                                         }
+                                                     ]
+                                   },
+                          "audioUrls":  [
+
+                                        ],
+                          "imageUrls":  [
+                                            "/media/toeic_course_problems/extra1/image5.png",
+                                            "/media/toeic_course_problems/extra1/image6.png"
+                                        ]
+                      },
+                      {
+                          "id":  "406241",
+                          "data":  {
+                                       "contextHtml":  "\n                            \u003cp\u003e\u003c/p\u003e\n                        ",
+                                       "translation":  "Từ: Henry Choi [email protected]\nGửi đến: Jenny Davis [email protected]\nNgày: 8 Tháng Tám\nChủ đề: Câu lạc bộ Golf Endless Acres\nĐính kèm: draft\nKính gửi bà Davis,\nĐính kèm là bản phác thảo mới nhất của quảng cáo cho Câu lạc bộ Golf Endless Acres. Tôi đã kết hợp khẩu hiệu quảng cáo mà bà gửi cho tôi vào thiết kế của mình. Tôi sử dụng sự kết hợp của đồ họa nổi bật để thu hút sự chú ý của độc giả báo chí. Tôi cũng đã thêm một số thông tin hữu ích vào cuối quảng cáo. Xin bà cho biết nếu thiết kế và những bổ sung mới đáp ứng được mong đợi của bà. Kèm theo quảng cáo trên truyền hình đồng thời, tôi nghĩ rằng quảng cáo này sẽ giúp thu hút nhiều khách hàng mới đến với Câu lạc bộ Golf Endless Acres.\nTrân trọng, Henry Choi\n-----------------------\nEndless Acres Golf Club\n1232 Hilly Meadows Drive, Mapleview, CO\nHãy rời khỏi mọi căng thẳng của cuộc sống và chơi một vòng golf thư giãn tại Câu lạc bộ Golf Endless Acres. Sau một trận golf, hãy thưởng thức bữa ăn tại nhà hàng của chúng tôi trong một môi trường thanh lịch và mời gọi.\nHiện tại chúng tôi đang cung cấp khuyến mãi sau: Đặt giờ chơi cho một nhóm từ bảy golfer trở lên và nhận 20% giảm giá. Ngoài ra, mỗi thành viên trong nhóm của bạn sẽ nhận được phiếu giảm giá 5 đô la cho mọi mua hàng từ cửa hàng golf của chúng tôi.\nGần đây chúng tôi được The Rolling Meadows Daily khen ngợi về việc bảo trì sân golf và khuôn viên tuyệt vời. Hãy đến và thưởng thức sân golf tốt nhất tại bang Colorado. Chúng tôi nằm ở lối ra số 21 trên Đường cao tốc 5. Hãy tìm biển quảng cáo của chúng tôi. Bạn không thể bỏ lỡ!\nBạn có thể đặt chỗ trực tuyến tại trang web của chúng tôi tại www.endlessacresgolf.com hoặc gọi đến số 555-4834.\n------------------------\nGửi: [email protected]\nNgày: 6 Tháng Bảy\nChủ đề: Re: Tee time (đặt chỗ sân golf) và bữa tối cho 10 người\nXin chào,\nTôi đã thấy quảng cáo của bạn trong báo và tôi có một vài câu hỏi nhanh về ưu đãi của bạn. Đầu tiên, chúng tôi có một nhóm gồm mười người chơi golf. Bây giờ tôi biết hầu hết các sân golf thường giới hạn một nhóm chỉ được bốn người để giữ nhịp độ chơi, nhưng tôi thực sự hy vọng bạn có thể tạo ngoại lệ cho chúng tôi và cho phép hai nhóm của năm. Chúng tôi sẽ cả thuê xe golf để đảm bảo rằng chúng tôi không gây ra sự chậm trễ. Về phiếu giảm giá 5 đô la cho cửa hàng pro, tôi tự hỏi liệu chúng có thể được tích lũy lại để mua chung một món hàng lớn không. Đây là sinh nhật của con trai tôi và tôi muốn mua cho cậu ấy một cây gậy putter mới vì chúng rất đắt đỏ ngày nay. 50 đô la có thể giúp tôi tặng cho cậu ấy một món quà tuyệt vời!\nChúng tôi muốn bắt đầu chơi vào khoảng 11:30 sáng Thứ Bảy ngày 20 tháng 7, sau đó ăn tối vào khoảng 6 giờ tối. Xin hãy viết lại để xác nhận giờ chơi golf của chúng tôi và trả lời những thắc mắc của tôi. Cảm ơn bạn vì thời gian của bạn!\nChúc bạn một ngày tốt lành,\nLogan Mankins",
+                                       "transcript":  "",
+                                       "type":  "mcq",
+                                       "context":  "",
+                                       "questions":  [
+                                                         {
+                                                             "number":  "187",
+                                                             "prompt":  "Where would the advertisement most likely appear?",
+                                                             "promptHtml":  "\n                                    \u003cp\u003e\u003cspan\u003eWhere would the advertisement most likely appear?\u003c/span\u003e\u003c/p\u003e\n                                ",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A. On television"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B. In a magazine"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C. In a newspaper"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "D",
+                                                                                 "text":  "D. On a billboard"
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "C",
+                                                             "transcript":  "",
+                                                             "explanation":  "Đáp án đúng: C\nDịch: Quảng cáo này rất có thể xuất hiện ở đâu?\nA. Trên TV\nB. Trên tạp chí\nC. Trên báo\nD. Trên biển quảng cáo\nCâu chứa đáp án: I saw your ad in the newspaper…(câu đầu tiên của email thứ hai). Ngoài ra ở email thứ nhất cũng đề cập gián tiếp: Attached is the newest draft of the advertisement for Endless Acres Golf Club... I used a combination of eye-catching graphics to grab the attention of newspaper readers. (Đính kèm email này là bản thảo mới nhất của tin quảng cáo cho Endless Acres Golf Club… Tôi kết hợp đồ họa bắt mắt để thu hút sự chú ý của người đọc báo.)\n=\u003e Chọn C",
+                                                             "translation":  "Từ: Henry Choi [email protected]\nGửi đến: Jenny Davis [email protected]\nNgày: 8 Tháng Tám\nChủ đề: Câu lạc bộ Golf Endless Acres\nĐính kèm: draft\nKính gửi bà Davis,\nĐính kèm là bản phác thảo mới nhất của quảng cáo cho Câu lạc bộ Golf Endless Acres. Tôi đã kết hợp khẩu hiệu quảng cáo mà bà gửi cho tôi vào thiết kế của mình. Tôi sử dụng sự kết hợp của đồ họa nổi bật để thu hút sự chú ý của độc giả báo chí. Tôi cũng đã thêm một số thông tin hữu ích vào cuối quảng cáo. Xin bà cho biết nếu thiết kế và những bổ sung mới đáp ứng được mong đợi của bà. Kèm theo quảng cáo trên truyền hình đồng thời, tôi nghĩ rằng quảng cáo này sẽ giúp thu hút nhiều khách hàng mới đến với Câu lạc bộ Golf Endless Acres.\nTrân trọng, Henry Choi\n-----------------------\nEndless Acres Golf Club\n1232 Hilly Meadows Drive, Mapleview, CO\nHãy rời khỏi mọi căng thẳng của cuộc sống và chơi một vòng golf thư giãn tại Câu lạc bộ Golf Endless Acres. Sau một trận golf, hãy thưởng thức bữa ăn tại nhà hàng của chúng tôi trong một môi trường thanh lịch và mời gọi.\nHiện tại chúng tôi đang cung cấp khuyến mãi sau: Đặt giờ chơi cho một nhóm từ bảy golfer trở lên và nhận 20% giảm giá. Ngoài ra, mỗi thành viên trong nhóm của bạn sẽ nhận được phiếu giảm giá 5 đô la cho mọi mua hàng từ cửa hàng golf của chúng tôi.\nGần đây chúng tôi được The Rolling Meadows Daily khen ngợi về việc bảo trì sân golf và khuôn viên tuyệt vời. Hãy đến và thưởng thức sân golf tốt nhất tại bang Colorado. Chúng tôi nằm ở lối ra số 21 trên Đường cao tốc 5. Hãy tìm biển quảng cáo của chúng tôi. Bạn không thể bỏ lỡ!\nBạn có thể đặt chỗ trực tuyến tại trang web của chúng tôi tại www.endlessacresgolf.com hoặc gọi đến số 555-4834.\n------------------------\nGửi: [email protected]\nNgày: 6 Tháng Bảy\nChủ đề: Re: Tee time (đặt chỗ sân golf) và bữa tối cho 10 người\nXin chào,\nTôi đã thấy quảng cáo của bạn trong báo và tôi có một vài câu hỏi nhanh về ưu đãi của bạn. Đầu tiên, chúng tôi có một nhóm gồm mười người chơi golf. Bây giờ tôi biết hầu hết các sân golf thường giới hạn một nhóm chỉ được bốn người để giữ nhịp độ chơi, nhưng tôi thực sự hy vọng bạn có thể tạo ngoại lệ cho chúng tôi và cho phép hai nhóm của năm. Chúng tôi sẽ cả thuê xe golf để đảm bảo rằng chúng tôi không gây ra sự chậm trễ. Về phiếu giảm giá 5 đô la cho cửa hàng pro, tôi tự hỏi liệu chúng có thể được tích lũy lại để mua chung một món hàng lớn không. Đây là sinh nhật của con trai tôi và tôi muốn mua cho cậu ấy một cây gậy putter mới vì chúng rất đắt đỏ ngày nay. 50 đô la có thể giúp tôi tặng cho cậu ấy một món quà tuyệt vời!\nChúng tôi muốn bắt đầu chơi vào khoảng 11:30 sáng Thứ Bảy ngày 20 tháng 7, sau đó ăn tối vào khoảng 6 giờ tối. Xin hãy viết lại để xác nhận giờ chơi golf của chúng tôi và trả lời những thắc mắc của tôi. Cảm ơn bạn vì thời gian của bạn!\nChúc bạn một ngày tốt lành,\nLogan Mankins"
+                                                         }
+                                                     ]
+                                   },
+                          "audioUrls":  [
+
+                                        ],
+                          "imageUrls":  [
+                                            "/media/toeic_course_problems/extra1/image9.png",
+                                            "/media/toeic_course_problems/extra1/image10.png",
+                                            "/media/toeic_course_problems/extra1/image26.png"
+                                        ]
+                      },
+                      {
+                          "id":  "406242",
+                          "data":  {
+                                       "contextHtml":  "\n                            \u003cp\u003e\u003cspan\u003eWANDA KNIGHT (9:04): \u003c/span\u003e\u003cspan\u003eI just sent you the itinerary for your trip to Chicago on Friday.\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003eTED GALEZNIC (9:05): \u003c/span\u003e\u003cspan\u003ePerfect. Thanks!\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003eWANDA KNIGHT (9:05): \u003c/span\u003e\u003cspan\u003eMike Ross wants you to add a meeting with Diamond Publishing while you’re up there.\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003eTED GALEZNIC (9:10): \u003c/span\u003e\u003cspan\u003eNo problem.\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003eWANDA KNIGHT (9:11): \u003c/span\u003e\u003cspan\u003eOkay. I can reach out to them. If you\u0027re too busy, that is.\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003eTED GALEZNIC (9:13): \u003c/span\u003e\u003cspan\u003eIt won\u0027t be a problem. I\u0027m supposed to have a drink with Javier Sanchez from Diamond Sat. night.\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003eWANDA KNIGHT (9:13): \u003c/span\u003e\u003cspan\u003eNice.\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003eTED GALEZNIC (9:20): \u003c/span\u003e\u003cspan\u003eWhen the guy is married to your sister, you\u0027re bound to see him.\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003eWANDA KNIGHT (9:21): \u003c/span\u003e\u003cspan\u003eAh, that\u0027s right.\u003c/span\u003e\u003c/p\u003e\n                        ",
+                                       "translation":  "WANDA KNIGHT (9:04): Tôi đã vừa gửi cho bạn sách hướng dẫn du lịch cho chuyến đi của bạn đến Chicago vào thứ Sáu.\nTED GALEZNIC (9:05): Thật hoàn hảo. Cảm ơn!\nWANDA KNIGHT (9:05): Mike Ross muốn bạn thêm một buổi họp với Xuất bản Diamond trong khi bạn ở đó.\nTED GALEZNIC (9:10): Không vấn đề gì.\nWANDA KNIGHT (9:11): OK. Tôi có thể liên lạc với họ. Nếu bạn quá bận.\nTED GALEZNIC (9:13): Không thành vấn đề. Tôi sẽ phải đi uống nước với Javier Sanchez từ Diamond tối thứ Bảy.\nWANDA KNIGHT (9:13): Tuyệt.\nTED GALEZNIC (9:20): Khi anh ta được cưới với chị gái của bạn, bạn chắc chắn sẽ gặp anh ấy.\nWANDA KNIGHT (9:21): À, đúng rồi.",
+                                       "transcript":  "WANDA KNIGHT (9:04): Tôi vừa gửi cho bạn sách hướng dẫn du lịch cho chuyến đi của bạn đến Chicago vào thứ Sáu.\nTED GALEZNIC (9:05): Thật hoàn hảo. Cảm ơn!\nWANDA KNIGHT (9:05): Mike Ross muốn bạn thêm một buổi họp với Xuất bản Diamond trong khi bạn ở đó.\nTED GALEZNIC (9:10): Không vấn đề gì.\nWANDA KNIGHT (9:11): OK. Tôi có thể liên lạc với họ. Nếu bạn quá bận.\nTED GALEZNIC (9:13): Không thành vấn đề. Tôi sẽ phải đi uống nước với Javier Sanchez từ Diamond tối thứ Bảy.\nWANDA KNIGHT (9:13): Tuyệt.\nTED GALEZNIC (9:20): Khi anh ta cưới chị gái bạn, bạn chắc chắn sẽ gặp anh ấy.\nWANDA KNIGHT (9:21): À, đúng rồi.",
+                                       "type":  "mcq",
+                                       "context":  "WANDA KNIGHT (9:04): I just sent you the itinerary for your trip to Chicago on Friday.\nTED GALEZNIC (9:05): Perfect. Thanks!\nWANDA KNIGHT (9:05): Mike Ross wants you to add a meeting with Diamond Publishing while you’re up there.\nTED GALEZNIC (9:10): No problem.\nWANDA KNIGHT (9:11): Okay. I can reach out to them. If you\u0027re too busy, that is.\nTED GALEZNIC (9:13): It won\u0027t be a problem. I\u0027m supposed to have a drink with Javier Sanchez from Diamond Sat. night.\nWANDA KNIGHT (9:13): Nice.\nTED GALEZNIC (9:20): When the guy is married to your sister, you\u0027re bound to see him.\nWANDA KNIGHT (9:21): Ah, that\u0027s right.",
+                                       "questions":  [
+                                                         {
+                                                             "number":  "149",
+                                                             "prompt":  "What is suggested about Mr. Sanchez?",
+                                                             "promptHtml":  "\n                                    \u003cp\u003e\u003cspan\u003eWhat is suggested about Mr. Sanchez?\u003c/span\u003e\u003c/p\u003e\n                                ",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A. He works for an accounting company."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B. He is related to Ted Galeznic."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C. He was recently married."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "D",
+                                                                                 "text":  "D. He will visit Chicago on Friday."
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "B",
+                                                             "transcript":  "WANDA KNIGHT (9:04): Tôi vừa gửi cho bạn sách hướng dẫn du lịch cho chuyến đi của bạn đến Chicago vào thứ Sáu.\nTED GALEZNIC (9:05): Thật hoàn hảo. Cảm ơn!\nWANDA KNIGHT (9:05): Mike Ross muốn bạn thêm một buổi họp với Xuất bản Diamond trong khi bạn ở đó.\nTED GALEZNIC (9:10): Không vấn đề gì.\nWANDA KNIGHT (9:11): OK. Tôi có thể liên lạc với họ. Nếu bạn quá bận.\nTED GALEZNIC (9:13): Không thành vấn đề. Tôi sẽ phải đi uống nước với Javier Sanchez từ Diamond tối thứ Bảy.\nWANDA KNIGHT (9:13): Tuyệt.\nTED GALEZNIC (9:20): Khi anh ta cưới chị gái bạn, bạn chắc chắn sẽ gặp anh ấy.\nWANDA KNIGHT (9:21): À, đúng rồi.",
+                                                             "explanation":  "Đáp án đúng: B\nĐiều nào về ông Sanchez đã được nhắc đến?\nA. Ông ấy làm việc cho một công ty kế toán.\nB. Ông ấy có quan hệ họ hàng với Ted Galeznic.\nC. Ông ấy vừa mới kết hôn.\nD. Ông ấy sẽ đến thăm Chicago vào thứ Sáu.\nTừ khóa “Sanchez” =\u003e tìm được câu \"I\u0027m supposed to have a drink with Javier Sanchez from Diamond Sat. night.\" (Tôi sẽ phải đi uống nước với Javier Sanchez từ Diamond tối thứ Bảy).\n=\u003e Dự đoán đáp án B\nTiếp sau đó có câu \"When the guy is married to your sister, you\u0027re bound to see him\", tức là Javier Sanchez là anh rể của Ted Galeznic. Chú ý “your” ở đây không phải là “của bạn” hay “của Wanda Knight, mà để ám chỉ đó là anh rể của chính Ted Galeznic.\n=\u003e Chọn B.",
+                                                             "translation":  "WANDA KNIGHT (9:04): Tôi đã vừa gửi cho bạn sách hướng dẫn du lịch cho chuyến đi của bạn đến Chicago vào thứ Sáu.\nTED GALEZNIC (9:05): Thật hoàn hảo. Cảm ơn!\nWANDA KNIGHT (9:05): Mike Ross muốn bạn thêm một buổi họp với Xuất bản Diamond trong khi bạn ở đó.\nTED GALEZNIC (9:10): Không vấn đề gì.\nWANDA KNIGHT (9:11): OK. Tôi có thể liên lạc với họ. Nếu bạn quá bận.\nTED GALEZNIC (9:13): Không thành vấn đề. Tôi sẽ phải đi uống nước với Javier Sanchez từ Diamond tối thứ Bảy.\nWANDA KNIGHT (9:13): Tuyệt.\nTED GALEZNIC (9:20): Khi anh ta được cưới với chị gái của bạn, bạn chắc chắn sẽ gặp anh ấy.\nWANDA KNIGHT (9:21): À, đúng rồi."
+                                                         }
+                                                     ]
+                                   },
+                          "audioUrls":  [
+
+                                        ],
+                          "imageUrls":  [
+
+                                        ]
+                      },
+                      {
+                          "id":  "406243",
+                          "data":  {
+                                       "contextHtml":  "\n                            \u003cp\u003e\u003cspan\u003eTo:\u003c/span\u003e\u003cspan\u003e Accounting Department ([email\u0026#160;protected])\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003eFrom:\u003c/span\u003e\u003cspan\u003e Robert Brown ([email\u0026#160;protected])\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003eDate:\u003c/span\u003e\u003cspan\u003e Monday, March 29\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003eSubject: \u003c/span\u003e\u003cspan\u003eUpcoming Meeting\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003eHello everyone,\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003eOur client from Japan, Mr. Sato, will be arriving the day after tomorrow to discuss an upcoming merger of our two companies. I ask that our accounting department work together to produce a financial statement for the first quarter in preparation for this meeting. Anyone who needs further data in order to complete this document should e-mail me without hesitation. Please finish this task by Tuesday afternoon. This document needs to detail all of our company\u0027s financial activities, including all of our assets and investments.\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003eThanks,\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003eRobert Brown, CEO\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003ePTC Design\u003c/span\u003e\u003c/p\u003e\n                        ",
+                                       "translation":  "Đến: Bộ phận Kế toán ([email protected])\nTừ: Robert Brown ([email protected])\nNgày: Thứ Hai, 29 tháng 3\nChủ đề: Buổi họp Sắp tới\nChào mọi người,\nKhách hàng của chúng ta từ Nhật Bản, Ông Sato, sẽ đến vào ngày kia để bàn bạc một sự sáp nhập sắp tới của 2 công ty chúng ta. Tôi yêu cầu rằng bộ phận kế toán làm việc cùng nhau để tạo ra một báo cáo tài chính cho quý đầu tiên để chuẩn bị cho buổi họp này. Bất kì ai cần dữ liệu thêm để hoàn thành tài liệu này nên e-mail tôi không ngần ngại. Xin hãy hoàn thành công việc này trước chiều thứ Ba. Tài liệu này cần ghi chi tiết tất cả các hoạt động tài chính của công ty chúng ta, bao gồm mọi tài sản và đầu tư của ta.\nCảm ơn\nRobert Brown, Tổng Giám đốc Điều hành\nThiết kế PTC",
+                                       "transcript":  "Đến: Bộ phận Kế toán ([email protected])\nTừ: Robert Brown ([email protected])\nNgày: Thứ Hai, 29 tháng 3\nChủ đề: Buổi họp Sắp tới\nChào mọi người,\nKhách hàng của chúng ta từ Nhật Bản, Ông Sato, sẽ đến vào ngày kia để bàn bạc một sự sáp nhập sắp tới của 2 công ty chúng ta. Tôi yêu cầu rằng bộ phận kế toán làm việc cùng nhau để tạo ra một báo cáo tài chính cho quý đầu tiên để chuẩn bị cho buổi họp này. Bất kì ai cần dữ liệu thêm để hoàn thành tài liệu này hãy thoải mái gửi e-mail cho tôi. Xin hãy hoàn thành công việc này trước chiều thứ Ba. Tài liệu này cần ghi chi tiết tất cả các hoạt động tài chính của công ty chúng ta, bao gồm mọi tài sản và đầu tư của ta.\nCảm ơn\nRobert Brown, Tổng Giám đốc Điều hành\nThiết kế PTC",
+                                       "type":  "mcq",
+                                       "context":  "To: Accounting Department ([email protected])\nFrom: Robert Brown ([email protected])\nDate: Monday, March 29\nSubject: Upcoming Meeting\nHello everyone,\nOur client from Japan, Mr. Sato, will be arriving the day after tomorrow to discuss an upcoming merger of our two companies. I ask that our accounting department work together to produce a financial statement for the first quarter in preparation for this meeting. Anyone who needs further data in order to complete this document should e-mail me without hesitation. Please finish this task by Tuesday afternoon. This document needs to detail all of our company\u0027s financial activities, including all of our assets and investments.\nThanks,\nRobert Brown, CEO\nPTC Design",
+                                       "questions":  [
+                                                         {
+                                                             "number":  "152",
+                                                             "prompt":  "Who most likely will contact Mr. Brown?",
+                                                             "promptHtml":  "\n                                    \u003cp\u003e\u003cspan\u003eWho most likely will contact Mr. Brown?\u003c/span\u003e\u003c/p\u003e\n                                ",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A. Employees who want to transfer to the accounting department"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B. Employees who need additional information"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C. Employees who need a deadline extension"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "D",
+                                                                                 "text":  "D. Employees who disagree about a merger"
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "B",
+                                                             "transcript":  "Đến: Bộ phận Kế toán ([email protected])\nTừ: Robert Brown ([email protected])\nNgày: Thứ Hai, 29 tháng 3\nChủ đề: Buổi họp Sắp tới\nChào mọi người,\nKhách hàng của chúng ta từ Nhật Bản, Ông Sato, sẽ đến vào ngày kia để bàn bạc một sự sáp nhập sắp tới của 2 công ty chúng ta. Tôi yêu cầu rằng bộ phận kế toán làm việc cùng nhau để tạo ra một báo cáo tài chính cho quý đầu tiên để chuẩn bị cho buổi họp này. Bất kì ai cần dữ liệu thêm để hoàn thành tài liệu này hãy thoải mái gửi e-mail cho tôi. Xin hãy hoàn thành công việc này trước chiều thứ Ba. Tài liệu này cần ghi chi tiết tất cả các hoạt động tài chính của công ty chúng ta, bao gồm mọi tài sản và đầu tư của ta.\nCảm ơn\nRobert Brown, Tổng Giám đốc Điều hành\nThiết kế PTC",
+                                                             "explanation":  "Đáp án đúng: B\nAi rất có thể sẽ liên hệ ông Brown?\nA. Nhân viên muốn chuyển sang bộ phận kế toán\nB. Nhân viên cần thêm thông tin\nC. Nhân viên cần gia hạn thời gian\nD. Nhân viên không đồng ý về việc sáp nhập\nBrown chính là người đã viết email này. Câu chứa đáp án: Anyone who needs further data in order to complete this document should e-mail me without hesitation. (Bất kì ai cần dữ liệu thêm để hoàn thành tài liệu này hãy thoải mái gửi e-mail cho tôi.)\n=\u003e Chọn B.",
+                                                             "translation":  "Đến: Bộ phận Kế toán ([email protected])\nTừ: Robert Brown ([email protected])\nNgày: Thứ Hai, 29 tháng 3\nChủ đề: Buổi họp Sắp tới\nChào mọi người,\nKhách hàng của chúng ta từ Nhật Bản, Ông Sato, sẽ đến vào ngày kia để bàn bạc một sự sáp nhập sắp tới của 2 công ty chúng ta. Tôi yêu cầu rằng bộ phận kế toán làm việc cùng nhau để tạo ra một báo cáo tài chính cho quý đầu tiên để chuẩn bị cho buổi họp này. Bất kì ai cần dữ liệu thêm để hoàn thành tài liệu này nên e-mail tôi không ngần ngại. Xin hãy hoàn thành công việc này trước chiều thứ Ba. Tài liệu này cần ghi chi tiết tất cả các hoạt động tài chính của công ty chúng ta, bao gồm mọi tài sản và đầu tư của ta.\nCảm ơn\nRobert Brown, Tổng Giám đốc Điều hành\nThiết kế PTC"
+                                                         }
+                                                     ]
+                                   },
+                          "audioUrls":  [
+
+                                        ],
+                          "imageUrls":  [
+
+                                        ]
+                      },
+                      {
+                          "id":  "406244",
+                          "data":  {
+                                       "contextHtml":  "\n                            \u003cp\u003e\u003cspan\u003eNorthshore Financial News\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003eJune 29-A local mainstay at Northshore City may soon go national. -[1]- The Northshore Creamery first opened its doors in 1951 by owner Bill Bradley and has become an iconic landmark of the city with its huge rotating ice cream cone on the roof of the shop. Over the years it has remained a local favorite hangout for the residents of the city and soon captured the eyes of tourists driving through. -[2]- Bill Jr. took over the business and expanded the shop to keep up with the demand of locals and tourists. Northshore Creamery was even selected as a top-ten shop to visit by Travel \u0026amp; Tour Magazine.\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003eIn 1988, Northshore Creamery was featured in the hit Hollywood movie Future Then and Now, which made it the top ice cream shop to visit by out-of-towners and tourists. -[3]- Efforts were made by various corporations to buy the business from the Bradley family, but Bill Jr. and his son William insisted on keeping the business within the family, which pleased the residents of Northshore. -[4]- \"We\u0027re keeping things small in scale and we\u0027re slowly expanding,\" explained William. \"In order to keep the quality of our ice cream fresh and just the way my grandfather created his recipes, we don\u0027t want to take any \u003c/span\u003e\u003cspan\u003eshort cuts\u003c/span\u003e\u003cspan\u003e, which is why we need time.\"\u003c/span\u003e\u003c/p\u003e\n                        ",
+                                       "translation":  "Tin tức Tài chính Northshore\n29 tháng 6-Một cơ sở chính ở Thành phố Northshore có thể sớm mở khắp quốc gia. -[1]- Cửa hàng bán kem Northshore đã lần đầu mở cửa vào 1951 bởi nhà sở hữu Bill Bradley và đã trở thành một địa điểm mang tính biểu tượng của thành phố với cây kem khổng lồ đang xoay trên mái của cửa hàng. Qua nhiều năm nó đã tiếp tục là một nơi tụ họp yêu thích ở địa phương cho các cư dân của thành phố và sớm đã thu hút sự chú ý của các du khách lái xe qua. -[2]- Bill Jr. đã đảm nhiệm doanh nghiệp và đã mở rộng cửa hàng để theo kịp nhu cầu của các cư dân địa phương và du khách. Cửa hàng bán kem Northshore còn đã được chọn là một trong 10 cửa hàng hàng đầu để đến thăm bởi Tạp chí Du lịch và Tham quan.\nVào 1988, Cửa hàng bán kem Northshore đã được có mặt trong bộ phim Hollywood thành công Quá khứ Trước kia và Bây giờ, đã làm cho nó thành cửa hàng bán kem đứng đầu để ghé thăm bởi những người ngoài thị trấn và du khách. -[3]- Nhiều tập đoàn nổ lực để mua doanh nghiệp từ gia đình Bradley, nhưng Bradley Jr. và con trai của ông ấy William đã nhất định giữ doanh nghiệp trong gia đình, việc này đã làm hài lòng các cư dân Northshore. -[4]- \"Chúng tôi đang giữ mọi thứ trong quy mô nhỏ và chúng tôi đang mở rộng từ từ,\" William đã giải thích. \"Để giữ chất lượng của kem của chúng tôi tươi và y như cách ông ngoại tôi đã tạo các công thức, chúng tôi không muốn đi bất cứ con đường tắt nào, đó là lí do chúng tôi cần thời gian.\"",
+                                       "transcript":  "Tin tức Tài chính Northshore\n29 tháng 6-Một cơ sở chính ở Thành phố Northshore có thể sớm mở khắp quốc gia. -[1]- Cửa hàng bán kem Northshore đã lần đầu mở cửa vào 1951 bởi nhà sở hữu Bill Bradley và đã trở thành một địa điểm mang tính biểu tượng của thành phố với cây kem khổng lồ đang xoay trên mái của cửa hàng. Qua nhiều năm nó đã tiếp tục là một nơi tụ họp yêu thích ở địa phương cho các cư dân của thành phố và sớm đã thu hút sự chú ý của các du khách lái xe qua. -[2]- Bill Jr. đã đảm nhiệm doanh nghiệp và đã mở rộng cửa hàng để theo kịp nhu cầu của các cư dân địa phương và du khách. Cửa hàng bán kem Northshore còn đã được chọn là một trong 10 cửa hàng hàng đầu để đến thăm bởi Tạp chí Du lịch và Tham quan.\nVào 1988, Cửa hàng bán kem Northshore đã được có mặt trong bộ phim Hollywood thành công Future Then and Now, đã làm cho nó thành cửa hàng bán kem đứng đầu để ghé thăm bởi những người ngoài thị trấn và du khách. -[3]- Nhiều tập đoàn nỗ lực để mua doanh nghiệp từ gia đình Bradley, nhưng Bradley Jr. và con trai của ông ấy William đã nhất định giữ việc kinh doanh trong phạm vi gia đình, việc này đã làm hài lòng các cư dân Northshore. -[4]- \"Chúng tôi đang giữ mọi thứ trong quy mô nhỏ và chúng tôi đang mở rộng từ từ,\" William đã giải thích. \"Để giữ chất lượng của kem của chúng tôi tươi và y như cách ông ngoại tôi đã tạo các công thức, chúng tôi không muốn đi bất cứ con đường tắt nào, đó là lí do chúng tôi cần thời gian.\"",
+                                       "type":  "mcq",
+                                       "context":  "Northshore Financial News\nJune 29-A local mainstay at Northshore City may soon go national. -[1]- The Northshore Creamery first opened its doors in 1951 by owner Bill Bradley and has become an iconic landmark of the city with its huge rotating ice cream cone on the roof of the shop. Over the years it has remained a local favorite hangout for the residents of the city and soon captured the eyes of tourists driving through. -[2]- Bill Jr. took over the business and expanded the shop to keep up with the demand of locals and tourists. Northshore Creamery was even selected as a top-ten shop to visit by Travel \u0026 Tour Magazine.\nIn 1988, Northshore Creamery was featured in the hit Hollywood movie Future Then and Now, which made it the top ice cream shop to visit by out-of-towners and tourists. -[3]- Efforts were made by various corporations to buy the business from the Bradley family, but Bill Jr. and his son William insisted on keeping the business within the family, which pleased the residents of Northshore. -[4]- \"We\u0027re keeping things small in scale and we\u0027re slowly expanding,\" explained William. \"In order to keep the quality of our ice cream fresh and just the way my grandfather created his recipes, we don\u0027t want to take any short cuts, which is why we need time.\"",
+                                       "questions":  [
+                                                         {
+                                                             "number":  "156",
+                                                             "prompt":  "What is indicated about Northshore Creamery?",
+                                                             "promptHtml":  "\n                                    \u003cp\u003e\u003cspan\u003eWhat is indicated about Northshore Creamery?\u003c/span\u003e\u003c/p\u003e\n                                ",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A. It was purchased by a large corporation."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B. It became famous in town because of a movie."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C. It is the pride and joy of the locals."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "D",
+                                                                                 "text":  "D. It doesn\u0027t have enough money to expand."
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "C",
+                                                             "transcript":  "Tin tức Tài chính Northshore\n29 tháng 6-Một cơ sở chính ở Thành phố Northshore có thể sớm mở khắp quốc gia. -[1]- Cửa hàng bán kem Northshore đã lần đầu mở cửa vào 1951 bởi nhà sở hữu Bill Bradley và đã trở thành một địa điểm mang tính biểu tượng của thành phố với cây kem khổng lồ đang xoay trên mái của cửa hàng. Qua nhiều năm nó đã tiếp tục là một nơi tụ họp yêu thích ở địa phương cho các cư dân của thành phố và sớm đã thu hút sự chú ý của các du khách lái xe qua. -[2]- Bill Jr. đã đảm nhiệm doanh nghiệp và đã mở rộng cửa hàng để theo kịp nhu cầu của các cư dân địa phương và du khách. Cửa hàng bán kem Northshore còn đã được chọn là một trong 10 cửa hàng hàng đầu để đến thăm bởi Tạp chí Du lịch và Tham quan.\nVào 1988, Cửa hàng bán kem Northshore đã được có mặt trong bộ phim Hollywood thành công Future Then and Now, đã làm cho nó thành cửa hàng bán kem đứng đầu để ghé thăm bởi những người ngoài thị trấn và du khách. -[3]- Nhiều tập đoàn nỗ lực để mua doanh nghiệp từ gia đình Bradley, nhưng Bradley Jr. và con trai của ông ấy William đã nhất định giữ việc kinh doanh trong phạm vi gia đình, việc này đã làm hài lòng các cư dân Northshore. -[4]- \"Chúng tôi đang giữ mọi thứ trong quy mô nhỏ và chúng tôi đang mở rộng từ từ,\" William đã giải thích. \"Để giữ chất lượng của kem của chúng tôi tươi và y như cách ông ngoại tôi đã tạo các công thức, chúng tôi không muốn đi bất cứ con đường tắt nào, đó là lí do chúng tôi cần thời gian.\"",
+                                                             "explanation":  "Đáp án đúng: C\nĐâu là điều được ngụ ý về Cửa hàng bán kem Northshore?\nA. Nó được mua lại bởi một tập đoàn lớn.\nB. Nó trở nên nổi tiếng trong thị trấn nhờ một bộ phim.\nC. Nó là niềm tự hào và niềm vui của người dân địa phương.\nD. Nó không có đủ tiền để mở rộng.\nĐoạn chứa đáp án: The Northshore Creamery first opened its doors in 1951 by owner Bill Bradley and has become an iconic landmark of the city with its huge rotating ice cream cone on the roof of the shop. Over the years it has remained a local favorite hangout for the residents of the city and soon captured the eyes of tourists driving through.” (Cửa hàng bán kem Northshore đã lần đầu mở cửa vào 1951 bởi nhà sở hữu Bill Bradley và đã trở thành một địa điểm mang tính biểu tượng của thành phố với cây kem khổng lồ đang xoay trên mái của cửa hàng. Qua nhiều năm nó đã tiếp tục là một nơi tụ họp yêu thích ở địa phương cho các cư dân của thành phố và sớm đã thu hút sự chú ý của các du khách lái xe qua.)\n=\u003e Đây là niềm tự hào (địa điểm mang tính biểu tượng) và là niềm vui (nơi tụ họp yêu thích) của người dân địa phương.\n=\u003e Chọn C.",
+                                                             "translation":  "Tin tức Tài chính Northshore\n29 tháng 6-Một cơ sở chính ở Thành phố Northshore có thể sớm mở khắp quốc gia. -[1]- Cửa hàng bán kem Northshore đã lần đầu mở cửa vào 1951 bởi nhà sở hữu Bill Bradley và đã trở thành một địa điểm mang tính biểu tượng của thành phố với cây kem khổng lồ đang xoay trên mái của cửa hàng. Qua nhiều năm nó đã tiếp tục là một nơi tụ họp yêu thích ở địa phương cho các cư dân của thành phố và sớm đã thu hút sự chú ý của các du khách lái xe qua. -[2]- Bill Jr. đã đảm nhiệm doanh nghiệp và đã mở rộng cửa hàng để theo kịp nhu cầu của các cư dân địa phương và du khách. Cửa hàng bán kem Northshore còn đã được chọn là một trong 10 cửa hàng hàng đầu để đến thăm bởi Tạp chí Du lịch và Tham quan.\nVào 1988, Cửa hàng bán kem Northshore đã được có mặt trong bộ phim Hollywood thành công Quá khứ Trước kia và Bây giờ, đã làm cho nó thành cửa hàng bán kem đứng đầu để ghé thăm bởi những người ngoài thị trấn và du khách. -[3]- Nhiều tập đoàn nổ lực để mua doanh nghiệp từ gia đình Bradley, nhưng Bradley Jr. và con trai của ông ấy William đã nhất định giữ doanh nghiệp trong gia đình, việc này đã làm hài lòng các cư dân Northshore. -[4]- \"Chúng tôi đang giữ mọi thứ trong quy mô nhỏ và chúng tôi đang mở rộng từ từ,\" William đã giải thích. \"Để giữ chất lượng của kem của chúng tôi tươi và y như cách ông ngoại tôi đã tạo các công thức, chúng tôi không muốn đi bất cứ con đường tắt nào, đó là lí do chúng tôi cần thời gian.\""
+                                                         }
+                                                     ]
+                                   },
+                          "audioUrls":  [
+
+                                        ],
+                          "imageUrls":  [
+
+                                        ]
+                      },
+                      {
+                          "id":  "406245",
+                          "data":  {
+                                       "contextHtml":  "\n                            \u003cp\u003e\u003cspan\u003eJanet Logan [2:15]\u003c/span\u003e\u003cspan\u003e I just got off the phone and Mr. King informed me that he wanted his order a couple of weeks earlier than originally planned. Do you think this may be possible?\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003eMargaret Lee [2:16]\u003c/span\u003e\u003cspan\u003e There\u0027s no problem on our end. We have all the fabrics ready and cut into their appropriate shapes and sizes. They are ready for the sewing machines.\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003eJason Brown [2:17]\u003c/span\u003e\u003cspan\u003e My team is currently working on the orders from Mr. Bartelli. We have over 1000 units to sew and another order from Carla Bean after that.\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003eJanet Logan [2:18]\u003c/span\u003e\u003cspan\u003e Mr. Bartelli doesn\u0027t need his order until the end of the month and Ms. Bean\u0027s orders can wait until next week. I can authorize your team to begin this order first.\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003eJason Brown [2:19]\u003c/span\u003e\u003cspan\u003e What is being made and how many units are needed?\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003eJanet Logan [2:20] \u003c/span\u003e\u003cspan\u003eLong-sleeved men\u0027s dress shirts. We need 100 units in small, 300 in medium, 300 in large, and 100 in extra-large.\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003eJason Brown [2:21]\u003c/span\u003e\u003cspan\u003e OK then, I think we can finish those in two days.\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003ePeter William [2:22] \u003c/span\u003e\u003cspan\u003eWe can get buttons on all 800 units within 2-4 hours.\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003eJanet Logan [2:23]\u003c/span\u003e\u003cspan\u003e Thank you so much. I appreciate your help. I\u0027m glad that we can accommodate one of our best clients this way.\u003c/span\u003e\u003c/p\u003e\n                        ",
+                                       "translation":  "Janet Logan [2:15] Tôi vừa nói chuyện điện thoại và Ông King đã báo tôi rằng ông ấy muốn đơn hàng của mình sớm vài tuần hơn dự định ban đầu. Bạn có nghĩ việc này có thể không?\nMargaret Lee [2:16] Không có vấn đề gì ở bên chúng tôi. Chúng tôi đã có tất cả các miếng vải sẵn sàng và đã cắt chúng thành các hình dạng và kích cỡ thích hợp của chúng. Chúng sẵn sàng cho các máy khâu.\nJason Brown [2:17] Đội của tôi hiện đang làm các đơn hàng từ Ông Bartelli. Chúng tôi có hơn 1000 đơn vị để khâu và một đơn hàng khác từ Carla Bean sau đó.\nJanet Logan [2:18] Ông Bartelli chưa cần đơn hàng của mình cho đến cuối tháng này và các đơn hàng của Cô Bean có thể đợi đến tuần sau. Tôi có thể cho phép đội của bạn làm đơn hàng này trước.\nJason Brown [2:19] Cái gì đang được làm và cần bao nhiêu đơn vị?\nJanet Logan [2:20] Những chiếc áo sơ mi đàn ông tay dài. Chúng ta cần 100 đơn vị ở kích cỡ nhỏ, 300 ở kích cỡ vừa, 300 ở kích cỡ lớn, và 100 ở kích cỡ siêu lớn.\nJason Brown [2:21] Vậy OK, tôi nghĩ chúng tôi có thể hoàn thiện chúng trong 2 ngày.\nChúng tôi có thể có các chiếc khuy áo cho tất cả 800 đơn vị trong vòng 2-4 giờ.\nJanet Logan [2:23] Cảm ơn rất nhiều. Tôi cảm kích sự giúp đỡ của các bạn. Tôi vui mừng vì chúng ta có thể phục vụ một trong các khách hàng tốt nhất của mình theo cách này.",
+                                       "transcript":  "Janet Logan [2:15] Tôi vừa nói chuyện điện thoại và ông King đã báo tôi rằng ông ấy muốn đơn hàng của mình sớm vài tuần hơn dự định ban đầu. Bạn có nghĩ việc này có thể không?\nMargaret Lee [2:16] Không có vấn đề gì về phía chúng tôi. Chúng tôi đã có tất cả các miếng vải sẵn sàng và đã cắt chúng thành các hình dạng và kích cỡ thích hợp của chúng. Chúng sẵn sàng cho các máy khâu.\nJason Brown [2:17] Đội của tôi hiện đang làm các đơn hàng từ ông Bartelli. Chúng tôi có hơn 1000 đơn vị để khâu và một đơn hàng khác từ Carla Bean sau đó.\nJanet Logan [2:18] Ông Bartelli chưa cần đơn hàng của mình cho đến cuối tháng này và các đơn hàng của Cô Bean có thể đợi đến tuần sau. Tôi có thể cho phép đội của bạn làm đơn hàng này trước.\nJason Brown [2:19] Cái gì đang được làm và cần bao nhiêu đơn vị?\nJanet Logan [2:20] Những chiếc áo sơ mi đàn ông tay dài. Chúng ta cần 100 đơn vị ở kích cỡ nhỏ, 300 ở kích cỡ vừa, 300 ở kích cỡ lớn, và 100 ở kích cỡ siêu lớn.\nJason Brown [2:21] Vậy OK, tôi nghĩ chúng tôi có thể hoàn thiện chúng trong 2 ngày.\nChúng tôi có thể có các chiếc khuy áo cho tất cả 800 đơn vị trong vòng 2-4 giờ.\nJanet Logan [2:23] Cảm ơn rất nhiều. Tôi cảm kích sự giúp đỡ của các bạn. Tôi vui mừng vì chúng ta có thể phục vụ một trong các khách hàng tốt nhất của mình theo cách này.",
+                                       "type":  "mcq",
+                                       "context":  "Janet Logan [2:15] I just got off the phone and Mr. King informed me that he wanted his order a couple of weeks earlier than originally planned. Do you think this may be possible?\nMargaret Lee [2:16] There\u0027s no problem on our end. We have all the fabrics ready and cut into their appropriate shapes and sizes. They are ready for the sewing machines.\nJason Brown [2:17] My team is currently working on the orders from Mr. Bartelli. We have over 1000 units to sew and another order from Carla Bean after that.\nJanet Logan [2:18] Mr. Bartelli doesn\u0027t need his order until the end of the month and Ms. Bean\u0027s orders can wait until next week. I can authorize your team to begin this order first.\nJason Brown [2:19] What is being made and how many units are needed?\nJanet Logan [2:20] Long-sleeved men\u0027s dress shirts. We need 100 units in small, 300 in medium, 300 in large, and 100 in extra-large.\nJason Brown [2:21] OK then, I think we can finish those in two days.\nPeter William [2:22] We can get buttons on all 800 units within 2-4 hours.\nJanet Logan [2:23] Thank you so much. I appreciate your help. I\u0027m glad that we can accommodate one of our best clients this way.",
+                                       "questions":  [
+                                                         {
+                                                             "number":  "164",
+                                                             "prompt":  "What will Janet Logan most likely tell Mr. King?",
+                                                             "promptHtml":  "\n                                    \u003cp\u003e\u003cspan\u003eWhat will Janet Logan most likely tell Mr. King?\u003c/span\u003e\u003c/p\u003e\n                                ",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A. That his order will be delayed for a month"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B. That his order can be completed within two weeks"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C. That his request will be difficult to achieve"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "D",
+                                                                                 "text":  "D. That his order can be completed early"
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "D",
+                                                             "transcript":  "Janet Logan [2:15] Tôi vừa nói chuyện điện thoại và ông King đã báo tôi rằng ông ấy muốn đơn hàng của mình sớm vài tuần hơn dự định ban đầu. Bạn có nghĩ việc này có thể không?\nMargaret Lee [2:16] Không có vấn đề gì về phía chúng tôi. Chúng tôi đã có tất cả các miếng vải sẵn sàng và đã cắt chúng thành các hình dạng và kích cỡ thích hợp của chúng. Chúng sẵn sàng cho các máy khâu.\nJason Brown [2:17] Đội của tôi hiện đang làm các đơn hàng từ ông Bartelli. Chúng tôi có hơn 1000 đơn vị để khâu và một đơn hàng khác từ Carla Bean sau đó.\nJanet Logan [2:18] Ông Bartelli chưa cần đơn hàng của mình cho đến cuối tháng này và các đơn hàng của Cô Bean có thể đợi đến tuần sau. Tôi có thể cho phép đội của bạn làm đơn hàng này trước.\nJason Brown [2:19] Cái gì đang được làm và cần bao nhiêu đơn vị?\nJanet Logan [2:20] Những chiếc áo sơ mi đàn ông tay dài. Chúng ta cần 100 đơn vị ở kích cỡ nhỏ, 300 ở kích cỡ vừa, 300 ở kích cỡ lớn, và 100 ở kích cỡ siêu lớn.\nJason Brown [2:21] Vậy OK, tôi nghĩ chúng tôi có thể hoàn thiện chúng trong 2 ngày.\nChúng tôi có thể có các chiếc khuy áo cho tất cả 800 đơn vị trong vòng 2-4 giờ.\nJanet Logan [2:23] Cảm ơn rất nhiều. Tôi cảm kích sự giúp đỡ của các bạn. Tôi vui mừng vì chúng ta có thể phục vụ một trong các khách hàng tốt nhất của mình theo cách này.",
+                                                             "explanation":  "Đáp án đúng: D\nJanet Logan rất có thể sẽ nói gì với ông King?\nA. Đơn hàng của ông ấy sẽ bị trì hoãn trong một tháng\nB. Đơn hàng của ông ấy có thể được hoàn thành trong vòng hai tuần\nC. Yêu cầu của ông ấy sẽ khó đạt được\nD. Đơn hàng của ông ấy có thể được hoàn thành sớm\nTừ khóa: Mr. King.\n=\u003e Ngay câu đầu của Janet đã nhắc đến: \"I just got off the phone and Mr. King informed me that he wanted his order a couple of weeks earlier than originally planned\" (Tôi vừa nói chuyện điện thoại và ông King đã báo tôi rằng ông ấy muốn đơn hàng của mình sớm vài tuần hơn dự định ban đầu.)\nSau khi bàn bạc, mọi người cho biết công việc có thể được hoàn thành chỉ trong vài ngày, nên đơn hàng của ông King sẽ được hoàn thành sớm.\n=\u003e Chọn D.",
+                                                             "translation":  "Janet Logan [2:15] Tôi vừa nói chuyện điện thoại và Ông King đã báo tôi rằng ông ấy muốn đơn hàng của mình sớm vài tuần hơn dự định ban đầu. Bạn có nghĩ việc này có thể không?\nMargaret Lee [2:16] Không có vấn đề gì ở bên chúng tôi. Chúng tôi đã có tất cả các miếng vải sẵn sàng và đã cắt chúng thành các hình dạng và kích cỡ thích hợp của chúng. Chúng sẵn sàng cho các máy khâu.\nJason Brown [2:17] Đội của tôi hiện đang làm các đơn hàng từ Ông Bartelli. Chúng tôi có hơn 1000 đơn vị để khâu và một đơn hàng khác từ Carla Bean sau đó.\nJanet Logan [2:18] Ông Bartelli chưa cần đơn hàng của mình cho đến cuối tháng này và các đơn hàng của Cô Bean có thể đợi đến tuần sau. Tôi có thể cho phép đội của bạn làm đơn hàng này trước.\nJason Brown [2:19] Cái gì đang được làm và cần bao nhiêu đơn vị?\nJanet Logan [2:20] Những chiếc áo sơ mi đàn ông tay dài. Chúng ta cần 100 đơn vị ở kích cỡ nhỏ, 300 ở kích cỡ vừa, 300 ở kích cỡ lớn, và 100 ở kích cỡ siêu lớn.\nJason Brown [2:21] Vậy OK, tôi nghĩ chúng tôi có thể hoàn thiện chúng trong 2 ngày.\nChúng tôi có thể có các chiếc khuy áo cho tất cả 800 đơn vị trong vòng 2-4 giờ.\nJanet Logan [2:23] Cảm ơn rất nhiều. Tôi cảm kích sự giúp đỡ của các bạn. Tôi vui mừng vì chúng ta có thể phục vụ một trong các khách hàng tốt nhất của mình theo cách này."
+                                                         }
+                                                     ]
+                                   },
+                          "audioUrls":  [
+
+                                        ],
+                          "imageUrls":  [
+
+                                        ]
+                      }
+                  ],
+    "title":  "Luyện tập: Trắc nghiệm format TOEIC",
+    "lessonTitle":  "Câu hỏi suy luận",
+    "imageUrls":  [
+                      "/media/toeic_course_problems/reading/image1.png",
+                      "/media/toeic_course_problems/extra1/image97.png",
+                      "/media/toeic_course_problems/extra1/image98.png",
+                      "/media/toeic_course_problems/extra1/image12.png",
+                      "/media/toeic_course_problems/extra1/image15.png",
+                      "/media/toeic_course_problems/extra1/image5.png",
+                      "/media/toeic_course_problems/extra1/image6.png",
+                      "/media/toeic_course_problems/extra1/image9.png",
+                      "/media/toeic_course_problems/extra1/image10.png",
+                      "/media/toeic_course_problems/extra1/image26.png"
+                  ]
+}
