@@ -1,0 +1,71 @@
+{
+    "expectedQuestions":  1,
+    "activityId":  "9836",
+    "text":  "",
+    "audioUrls":  [
+
+                  ],
+    "videos":  [
+
+               ],
+    "html":  "",
+    "complete":  false,
+    "questions":  [
+                      {
+                          "id":  "450813",
+                          "data":  {
+                                       "questionBankComplete":  false,
+                                       "sample":  {
+                                                      "id":  "8914",
+                                                      "answerAvailable":  false,
+                                                      "prompt":  "A wildlife expert is scheduled to give a talk on the _____ that the factory has had on the surrounding forest.\nA. components\nB. degree\nC. requirements\nD. impact",
+                                                      "imageUrls":  [
+
+                                                                    ],
+                                                      "audioUrls":  [
+
+                                                                    ],
+                                                      "correctAnswer":  null,
+                                                      "options":  [
+                                                                      {
+                                                                          "key":  "A",
+                                                                          "text":  "A. components"
+                                                                      },
+                                                                      {
+                                                                          "key":  "B",
+                                                                          "text":  "B. degree"
+                                                                      },
+                                                                      {
+                                                                          "key":  "C",
+                                                                          "text":  "C. requirements"
+                                                                      },
+                                                                      {
+                                                                          "key":  "D",
+                                                                          "text":  "D. impact"
+                                                                      }
+                                                                  ]
+                                                  },
+                                       "sourceUrl":  "https://study4.com/practice/problem/?format_exam=1\u0026format_section=1\u0026format_part=6\u0026title=(%3F%3APractice%20Set%7CSample%20TOEIC%20Test%20(10%7C%5B1-9%5D))%5Cy\u0026view=embed",
+                                       "type":  "practice-pool",
+                                       "filters":  {
+                                                       "format_exam":  "1",
+                                                       "format_section":  "1",
+                                                       "format_part":  "6",
+                                                       "title":  "(?:Practice Set|Sample TOEIC Test (10|[1-9]))\\y"
+                                                   }
+                                   },
+                          "audioUrls":  [
+
+                                        ],
+                          "imageUrls":  [
+
+                                        ]
+                      }
+                  ],
+    "collectionStatus":  "dynamic-pool",
+    "title":  "Luyện tập: Trắc nghiệm format TOEIC",
+    "lessonTitle":  "PRACTICE ZONE",
+    "imageUrls":  [
+
+                  ]
+}

@@ -1,0 +1,216 @@
+{
+    "expectedQuestions":  4,
+    "activityId":  "7628",
+    "text":  "",
+    "audioUrls":  [
+
+                  ],
+    "videos":  [
+
+               ],
+    "html":  "",
+    "complete":  true,
+    "questions":  [
+                      {
+                          "id":  "405458",
+                          "data":  {
+                                       "questions":  [
+                                                         {
+                                                             "number":  "113",
+                                                             "prompt":  "After _____ the neighborhood, Mr. Park decided not to move his café to Thomasville.",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A. evaluation"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B. evaluate"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C. evaluating"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "D",
+                                                                                 "text":  "D. evaluated"
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "C",
+                                                             "transcript":  "",
+                                                             "explanation":  "Đáp án đúng: C\nGiải thích: Ta cần điền dạng đúng của từ evaluate đứng sau liên từ “after”\nVì đứng sau từ cần điền là một danh từ có mạo từ =\u003e loại A vì 2 danh từ evaluation và the neighborhood không thể đứng liền nhau mà không có từ nối\nSau khi loại trừ đáp án A, ta cần tìm dạng đúng của động từ evaluate đứng sau liên từ “after”\nChủ ngữ của câu này là Mr.Park và chủ ngữ này đã được lược bỏ ở mệnh đề phụ =\u003e mệnh đề phụ là một cấu trúc phân từ, với liên từ chỉ thời gian ‘after’ được giữ lại (ghi nhớ 7 bài lý thuyết về cấu trúc phân từ)\nLoại đáp án B vì phân từ chỉ được dùng dưới 2 dạng: chủ động (Ving) hoặc bị động (VpII)\nXét ở mệnh đề phụ, Mr. Park là người hiện hành động ‘evaluate’ =\u003e loại các cấu trúc bị động =\u003e loại đáp án D\n=\u003e đáp án đúng là C\nĐây là cấu trúc phân từ có chức năng diễn tả thời gian:\nCâu đầy đủ:\nAfter Mr. Park evaluated the neighborhood, Mr. Park decided not to move his café to Thomasville\n= After evaluating the neighborhood, Mr. Park decided not to move his café to Thomasville\".\nDịch: Sau khi đánh giá khu vực lân cận, ông Park quyết định không chuyển quán cà phê của mình đến Thomasville.\nTừ vựng:\nEvaluation (n): sự đánh giá\nNeighborhood (n): khu vực lân cận",
+                                                             "translation":  ""
+                                                         }
+                                                     ],
+                                       "context":  "",
+                                       "transcript":  "",
+                                       "translation":  "",
+                                       "type":  "mcq"
+                                   },
+                          "audioUrls":  [
+
+                                        ],
+                          "imageUrls":  [
+
+                                        ]
+                      },
+                      {
+                          "id":  "405459",
+                          "data":  {
+                                       "questions":  [
+                                                         {
+                                                             "number":  "122",
+                                                             "prompt":  "Any letter _____ sensitive information should be sent using a courier service.",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A. contains"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B. containing"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C. will contain"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "D",
+                                                                                 "text":  "D. has contained"
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "B",
+                                                             "transcript":  "",
+                                                             "explanation":  "Đáp án đúng: B\nGiải thích: Trong câu đã có động từ chính “should be sent” → Loại A, C, D\n→ Chọn B\nNgoài ra, trong câu này có sử dụng cấu trúc rút gọn mệnh đề quan hệ. Rút gọn: \"which contains\" → \"containing\"\nDịch: Bất kỳ thư nào chứa thông tin nhạy cảm phải được gửi bằng dịch vụ chuyển phát nhanh.\nTừ vựng:\n- sensitive (adj): nhạy cảm, thuộc về cảm giác, có cảm giác.\n- courier (n): chuyển phát nhanh",
+                                                             "translation":  ""
+                                                         }
+                                                     ],
+                                       "context":  "",
+                                       "transcript":  "",
+                                       "translation":  "",
+                                       "type":  "mcq"
+                                   },
+                          "audioUrls":  [
+
+                                        ],
+                          "imageUrls":  [
+
+                                        ]
+                      },
+                      {
+                          "id":  "406107",
+                          "data":  {
+                                       "questions":  [
+                                                         {
+                                                             "number":  "128",
+                                                             "prompt":  "Researchers must sign in at the visitor registration table upon ___ the Briston Literary Archive",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A. entered"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B. entering"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C. entry"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "D",
+                                                                                 "text":  "D. enter"
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "B",
+                                                             "transcript":  "",
+                                                             "explanation":  "Đáp án đúng: B\nGiải thích: Đây là câu hỏi cần tìm dạng phù hợp của động từ ‘entry’, sau giới từ upon là một Ving/N, cấu trúc này có nghĩa là ‘khi…’, do vậy cần điền B vào chỗ trống.\nDịch: Các nhà nghiên cứu phải đăng ký tại bàn đăng ký du khách khi bước vào viện lưu trữ văn học Briston.",
+                                                             "translation":  ""
+                                                         }
+                                                     ],
+                                       "context":  "",
+                                       "transcript":  "",
+                                       "translation":  "",
+                                       "type":  "mcq"
+                                   },
+                          "audioUrls":  [
+
+                                        ],
+                          "imageUrls":  [
+
+                                        ]
+                      },
+                      {
+                          "id":  "406109",
+                          "data":  {
+                                       "questions":  [
+                                                         {
+                                                             "number":  "113",
+                                                             "prompt":  "Because of _____ weather conditions, tonight\u0027s concert in Harbin Park has been canceled.",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A. worsening"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B. worsens"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C. worsen"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "D",
+                                                                                 "text":  "D. worst"
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "A",
+                                                             "transcript":  "",
+                                                             "explanation":  "Đáp án đúng: A\nPhân tích: Sau giới từ \"because of\" là cụm danh từ \"weather conditions\". Trong cụm danh từ này, danh từ chính của cụm là \"conditions\", vì vậy ta cần điền một tính từ có thể bổ nghĩa cho danh từ --\u003e chọn \"worsening\" vì V-ing có thể đóng vai trò như một tính từ. Sau \"because of\" luôn là cụm danh từ, chứ không phải là một mệnh đề. Chọn A.\nDịch câu: Bởi vì điều kiện thời tiết xấu đi, buổi hòa nhạc tối nay tại Công Viên Harbin đã bị huỷ.",
+                                                             "translation":  ""
+                                                         }
+                                                     ],
+                                       "context":  "",
+                                       "transcript":  "",
+                                       "translation":  "",
+                                       "type":  "mcq"
+                                   },
+                          "audioUrls":  [
+
+                                        ],
+                          "imageUrls":  [
+
+                                        ]
+                      }
+                  ],
+    "title":  "Luyện tập: Trắc nghiệm format TOEIC",
+    "lessonTitle":  "[Câu hỏi ngữ pháp] Dạng của động từ - Danh động từ (Ving)",
+    "imageUrls":  [
+
+                  ]
+}

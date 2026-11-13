@@ -1,0 +1,657 @@
+{
+    "expectedQuestions":  13,
+    "activityId":  "9690",
+    "text":  "",
+    "audioUrls":  [
+
+                  ],
+    "videos":  [
+
+               ],
+    "html":  "",
+    "complete":  true,
+    "questions":  [
+                      {
+                          "id":  "405986",
+                          "data":  {
+                                       "questions":  [
+                                                         {
+                                                             "number":  "101",
+                                                             "prompt":  "When filling out the order form, please _____ your address clearly to prevent delays.",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A. fix"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B. write"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C. send"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "D",
+                                                                                 "text":  "D. direct"
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "B",
+                                                             "transcript":  "",
+                                                             "explanation":  "Đáp án đúng: B\nPhân tích: Câu này thuộc dạng phải chọn từ/cụm từ vựng có nghĩa phù hợp. Các phương án ở đây đều là động từ. Để chọn đúng, cần biết nghĩa của các phương án: A sửa; B viết; C gửi; D chỉ. Đáp án phù hợp ngữ cảnh là B \"write\".\nDịch câu: \"Khi điền vào mẫu đơn đặt hàng, vui lòng ghi địa chỉ của bạn rõ ràng để phòng tránh chậm trễ\".",
+                                                             "translation":  ""
+                                                         }
+                                                     ],
+                                       "context":  "",
+                                       "transcript":  "",
+                                       "translation":  "",
+                                       "type":  "mcq"
+                                   },
+                          "audioUrls":  [
+
+                                        ],
+                          "imageUrls":  [
+
+                                        ]
+                      },
+                      {
+                          "id":  "405987",
+                          "data":  {
+                                       "questions":  [
+                                                         {
+                                                             "number":  "120",
+                                                             "prompt":  "The library staff posted signs to _____ patrons of the upcoming closure for renovations.",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A. notify"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B. agree"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C. generate"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "D",
+                                                                                 "text":  "D. perform"
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "A",
+                                                             "transcript":  "",
+                                                             "explanation":  "Đáp án đúng: A\nPhân tích: Câu này thuộc dạng phải chọn từ/cụm từ vựng có nghĩa phù hợp. Để chọn đúng, cần biết nghĩa của các phương án: A thông báo; B tạo ra; C tạo ra; D biểu diễn. Đáp án đúng là A \"notify\".\nDịch câu: \"Nhân viên thư viện đã đăng biển để thông báo cho khách về việc đóng cửa sắp tới để cải tạo\".",
+                                                             "translation":  ""
+                                                         }
+                                                     ],
+                                       "context":  "",
+                                       "transcript":  "",
+                                       "translation":  "",
+                                       "type":  "mcq"
+                                   },
+                          "audioUrls":  [
+
+                                        ],
+                          "imageUrls":  [
+
+                                        ]
+                      },
+                      {
+                          "id":  "405988",
+                          "data":  {
+                                       "questions":  [
+                                                         {
+                                                             "number":  "112",
+                                                             "prompt":  "The Master Gardeners Club had to _____ its monthly meeting because the community center\u0027s conference room was double-booked.",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A. prepare"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B. oppose"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C. postpone"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "D",
+                                                                                 "text":  "D. extend"
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "C",
+                                                             "transcript":  "",
+                                                             "explanation":  "Đáp án đúng: C\nPhân tích: Câu này thuộc dạng phải chọn từ vựng có nghĩa phù hợp. Dịch cả câu ta sẽ thấy lựa chọn đúng là \"postpone\".\nprepare: chuẩn bị\noppose: chống đối\npostpone: hoãn\nextend: kéo dài\nDịch câu: Câu lạc bộ Những người làm vườn bậc thầy đã phải hoãn cuộc họp hằng tháng bởi vì phòng họp của trung tâm cộng đồng đã bị đặt lịch trùng.\n=\u003e Chọn C",
+                                                             "translation":  ""
+                                                         }
+                                                     ],
+                                       "context":  "",
+                                       "transcript":  "",
+                                       "translation":  "",
+                                       "type":  "mcq"
+                                   },
+                          "audioUrls":  [
+
+                                        ],
+                          "imageUrls":  [
+
+                                        ]
+                      },
+                      {
+                          "id":  "405989",
+                          "data":  {
+                                       "questions":  [
+                                                         {
+                                                             "number":  "116",
+                                                             "prompt":  "Mr. Hicks _____ seating near the stage in the concert hall for important clients.",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A. cooperated"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B. entertained"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C. loosened"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "D",
+                                                                                 "text":  "D. reserved"
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "D",
+                                                             "transcript":  "",
+                                                             "explanation":  "Đáp án đúng: D\nPhân tích: Dựa vào nghĩa của câu, ta chọn \"reserved\".\ncooperate: hợp tác\nentertain: giải trí\nloosen: nới lỏng\nreserve: đặt trước\nDịch nghĩa: Ông Hicks đã đặt trước chỗ ngồi gần sân khấu trong khán phòng cho những khách hàng quan trọng.\n=\u003e Chọn D",
+                                                             "translation":  ""
+                                                         }
+                                                     ],
+                                       "context":  "",
+                                       "transcript":  "",
+                                       "translation":  "",
+                                       "type":  "mcq"
+                                   },
+                          "audioUrls":  [
+
+                                        ],
+                          "imageUrls":  [
+
+                                        ]
+                      },
+                      {
+                          "id":  "405990",
+                          "data":  {
+                                       "questions":  [
+                                                         {
+                                                             "number":  "119",
+                                                             "prompt":  "Landlords are required to _____ with the regulations set by the Regional Department of Safe Housing.",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A. reinforce"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B. comply"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C. fulfill"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "D",
+                                                                                 "text":  "D. interfere"
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "B",
+                                                             "transcript":  "",
+                                                             "explanation":  "Đáp án đúng: B\nPhân tích: Ta có cấu trúc từ \"comply with something\" là tuân thủ cái gì đó.\nreinforce: củng cố\ncomply: tuân thủ\nfulfill: hoàn thành\ninterfere: can thiệp\nDịch nghĩa: Chủ cho thuê nhà được yêu cầu phải tuân thủ các quy định được lập ra bởi Bộ Nhà ở An toàn của Vùng.\n=\u003e Chọn B",
+                                                             "translation":  ""
+                                                         }
+                                                     ],
+                                       "context":  "",
+                                       "transcript":  "",
+                                       "translation":  "",
+                                       "type":  "mcq"
+                                   },
+                          "audioUrls":  [
+
+                                        ],
+                          "imageUrls":  [
+
+                                        ]
+                      },
+                      {
+                          "id":  "405991",
+                          "data":  {
+                                       "questions":  [
+                                                         {
+                                                             "number":  "114",
+                                                             "prompt":  "During the holiday season, Schwartz Department Store will _____ special make-up gift sets.",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A. solve"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B. carry"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C. impress"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "D",
+                                                                                 "text":  "D. occupy"
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "B",
+                                                             "transcript":  "",
+                                                             "explanation":  "Đáp án đúng: B\nPhân tích: Đây là dạng câu từ vựng, ta dịch nghĩa để chọn từ thích hợp với nội dung câu gốc:\nsolve: giải quyết\ncarry: bày bán (nghĩa phổ biến nhất là \"mang, vác\", tuy nhiên còn nghĩa khác là \"bày bán”)\nimpress: gây ấn tượng\noccupy: chiếm giữ\n=\u003e \"carry\" là phù hợp nhất\nDịch câu: Trong mùa nghỉ lễ, Trung tâm thương mại Schwartz sẽ bày bán các bộ quà tặng đồ trang điểm đặc biệt.\n=\u003e Chọn B",
+                                                             "translation":  ""
+                                                         }
+                                                     ],
+                                       "context":  "",
+                                       "transcript":  "",
+                                       "translation":  "",
+                                       "type":  "mcq"
+                                   },
+                          "audioUrls":  [
+
+                                        ],
+                          "imageUrls":  [
+
+                                        ]
+                      },
+                      {
+                          "id":  "405992",
+                          "data":  {
+                                       "questions":  [
+                                                         {
+                                                             "number":  "117",
+                                                             "prompt":  "The semi-finalists for the community art contest will be _____ by a panel of judges tomorrow.",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A. selected"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B. ignored"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C. prevented"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "D",
+                                                                                 "text":  "D. complemented"
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "A",
+                                                             "transcript":  "",
+                                                             "explanation":  "Đáp án đúng: A\nPhân tích: Đây là dạng câu từ vựng, ta dịch nghĩa để chọn từ thích hợp với nội dung câu gốc:\nselected: được chọn\nignored: bị lờ đi\nprevented: được phòng tránh\ncomplemented: được bổ sung\n=\u003e \"selected\" là phù hợp nhất.\nDịch câu: Những người tham dự vòng bán kết của cuộc thi nghệ thuật cộng đồng sẽ được chọn bởi một hội đồng ban giám khảo vào ngày mai.\n=\u003e Chọn A",
+                                                             "translation":  ""
+                                                         }
+                                                     ],
+                                       "context":  "",
+                                       "transcript":  "",
+                                       "translation":  "",
+                                       "type":  "mcq"
+                                   },
+                          "audioUrls":  [
+
+                                        ],
+                          "imageUrls":  [
+
+                                        ]
+                      },
+                      {
+                          "id":  "405993",
+                          "data":  {
+                                       "questions":  [
+                                                         {
+                                                             "number":  "102",
+                                                             "prompt":  "For Friday\u0027s dinner reservation, please _____ the number of seats from eight to ten guests.",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A. increase"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B. reflect"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C. merge"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "D",
+                                                                                 "text":  "D. invite"
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "A",
+                                                             "transcript":  "",
+                                                             "explanation":  "Đáp án đúng: A\nPhân tích: Dựa vào nghĩa của câu, ta chọn \"increase\".\nincrease: tăng\nreflect: phản chiếu, suy ngẫm\nmerge: kết hợp\ninvite: mời\nDịch câu: Về việc đặt bàn ăn vào tối thứ Sáu, vui lòng tăng số lượng chỗ ngồi từ 8 lên 10 khách.\n=\u003e Chọn A",
+                                                             "translation":  ""
+                                                         }
+                                                     ],
+                                       "context":  "",
+                                       "transcript":  "",
+                                       "translation":  "",
+                                       "type":  "mcq"
+                                   },
+                          "audioUrls":  [
+
+                                        ],
+                          "imageUrls":  [
+
+                                        ]
+                      },
+                      {
+                          "id":  "405994",
+                          "data":  {
+                                       "questions":  [
+                                                         {
+                                                             "number":  "114",
+                                                             "prompt":  "As we expect to receive hundreds of applications for the position, please _____ your resume to two pages.",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A. limit"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B. follow"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C. refrain"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "D",
+                                                                                 "text":  "D. unfold"
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "A",
+                                                             "transcript":  "",
+                                                             "explanation":  "Đáp án đúng: A\nPhân tích: Dựa vào nghĩa của câu, ta chọn \"limit\".\nlimit: giới hạn\nfollow: theo dõi, làm theo\nrefrain: tự kiềm chế\nunfold: mở ra, bày tỏ\nDịch câu: Do chúng tôi sẽ nhận được hàng trăm đơn ứng tuyển cho vị trí này, vui lòng giới hạn sơ yếu lý lịch của bạn trong hai trang giấy.\n=\u003e Chọn A",
+                                                             "translation":  ""
+                                                         }
+                                                     ],
+                                       "context":  "",
+                                       "transcript":  "",
+                                       "translation":  "",
+                                       "type":  "mcq"
+                                   },
+                          "audioUrls":  [
+
+                                        ],
+                          "imageUrls":  [
+
+                                        ]
+                      },
+                      {
+                          "id":  "405995",
+                          "data":  {
+                                       "questions":  [
+                                                         {
+                                                             "number":  "120",
+                                                             "prompt":  "Because of her hearing disability, Ms. Frasier will be _____ by a sign language expert so she can participate in the meeting.",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A. convinced"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B. anticipated"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C. accompanied"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "D",
+                                                                                 "text":  "D. cautioned"
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "C",
+                                                             "transcript":  "",
+                                                             "explanation":  "Đáp án đúng: C\nPhân tích: Dựa vào nghĩa của câu, ta chọn \"accompanied\".\nconvinced: thuyết phục\nanticipated: mong chờ, dự đoán\naccompanied: hộ tống, đi cùng\ncautioned: cảnh cáo\nDịch câu: Do khiếm thính, cô Frasier sẽ được hộ tống bởi một chuyên gia ngôn ngữ kí hiệu để cô ấy có thể tham gia cuộc họp.\n=\u003e Chọn C",
+                                                             "translation":  ""
+                                                         }
+                                                     ],
+                                       "context":  "",
+                                       "transcript":  "",
+                                       "translation":  "",
+                                       "type":  "mcq"
+                                   },
+                          "audioUrls":  [
+
+                                        ],
+                          "imageUrls":  [
+
+                                        ]
+                      },
+                      {
+                          "id":  "405996",
+                          "data":  {
+                                       "questions":  [
+                                                         {
+                                                             "number":  "102",
+                                                             "prompt":  "A private reception for gallery donors will be _____ on March 5, prior to the grand opening of the exhibit.",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A. held"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B. faced"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C. claimed"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "D",
+                                                                                 "text":  "D. made"
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "A",
+                                                             "transcript":  "",
+                                                             "explanation":  "Đáp án đúng: A\nPhân tích: Câu này thuộc dạng phải chọn động từ ở thể bị động có nghĩa phù hợp. Dịch cả câu ta sẽ thấy lựa chọn đúng là \"held\".\nhold: tổ chức\nface: đối mặt\nclaim: đòi hỏi, nhận\nmake: làm, chế tạo, khiến cho\nDịch câu: Một buổi đón tiếp riêng tư dành cho những nhà quyên góp của phòng tranh sẽ được tổ chức vào ngày 5 tháng 3, trước khi khai trương buổi triển lãm.\n=\u003e Chọn A",
+                                                             "translation":  ""
+                                                         }
+                                                     ],
+                                       "context":  "",
+                                       "transcript":  "",
+                                       "translation":  "",
+                                       "type":  "mcq"
+                                   },
+                          "audioUrls":  [
+
+                                        ],
+                          "imageUrls":  [
+
+                                        ]
+                      },
+                      {
+                          "id":  "406047",
+                          "data":  {
+                                       "questions":  [
+                                                         {
+                                                             "number":  "121",
+                                                             "prompt":  "Eco Unite is a non-profit organization _____ to educating the public about environmental issues.",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A. proposed"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B. deferred"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C. dedicated"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "D",
+                                                                                 "text":  "D. observed"
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "C",
+                                                             "transcript":  "",
+                                                             "explanation":  "Đáp án đúng: C\nPhân tích: Ta có cấu trúc “to be dedicated to V-ing”: dành riêng, để (làm gì), cống hiến, tận tâm (với điều gì).\nproposed: đề xuất\ndeferred: trì hoãn\ndedicated: cống hiến, dành cho\nobserved: quan sát\nDịch nghĩa: Eco Unite là một tổ chức phi lợi nhuận dành để giáo dục công chúng về các vấn đề môi trường.\n=\u003e Chọn C",
+                                                             "translation":  ""
+                                                         }
+                                                     ],
+                                       "context":  "",
+                                       "transcript":  "",
+                                       "translation":  "",
+                                       "type":  "mcq"
+                                   },
+                          "audioUrls":  [
+
+                                        ],
+                          "imageUrls":  [
+
+                                        ]
+                      },
+                      {
+                          "id":  "406105",
+                          "data":  {
+                                       "questions":  [
+                                                         {
+                                                             "number":  "126",
+                                                             "prompt":  "The Green Society is dedicated to ------- public parks and other natural areas for future generations.",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A. preserving"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B. consulting"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C. escorting"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "D",
+                                                                                 "text":  "D. inquiring"
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "A",
+                                                             "transcript":  "",
+                                                             "explanation":  "Đáp án đúng: A\nA. gìn giữ\nB. hỏi ý kiến, tham khảo\nC. hộ tống\nD. hỏi\n=\u003e Chọn A\nDịch: The Green Society hoạt động nhằm gìn giữ các công viên công cộng và khu vực tự nhiên khác cho thế hệ tương lai.",
+                                                             "translation":  ""
+                                                         }
+                                                     ],
+                                       "context":  "",
+                                       "transcript":  "",
+                                       "translation":  "",
+                                       "type":  "mcq"
+                                   },
+                          "audioUrls":  [
+
+                                        ],
+                          "imageUrls":  [
+
+                                        ]
+                      }
+                  ],
+    "title":  "Luyện tập: Trắc nghiệm format TOEIC",
+    "lessonTitle":  "[Câu hỏi từ vựng] Động từ",
+    "imageUrls":  [
+
+                  ]
+}

@@ -1,0 +1,853 @@
+{
+    "expectedQuestions":  17,
+    "activityId":  "7369",
+    "text":  "",
+    "audioUrls":  [
+
+                  ],
+    "videos":  [
+
+               ],
+    "html":  "",
+    "complete":  true,
+    "questions":  [
+                      {
+                          "id":  "405145",
+                          "data":  {
+                                       "questions":  [
+                                                         {
+                                                             "number":  "115",
+                                                             "prompt":  "The recently _____ mayor said she plans to address the town\u0027s traffic problems soon.",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A. electing"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B. election"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C. elected"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "D",
+                                                                                 "text":  "D. elects"
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "C",
+                                                             "transcript":  "",
+                                                             "explanation":  "Đáp án đúng: C\nGiải thích: Chỗ trống đứng trước danh từ \"mayor\" nên có thể điền một tính từ để bổ nghĩa cho danh từ này. Trạng từ \"recently\" lại bổ nghĩa cho tính từ điền vào.\n→ Loại B, D.\nDựa vào nghĩa để chọn đáp án đúng\n→ Chọn đáp án C.\nDịch: Thị trưởng được bầu gần đây cho biết bà có kế hoạch sớm giải quyết các vấn đề giao thông của thị trấn.\nTừ vựng:\n- mayor: (n) thị trưởng\n- address: (v) xác định, giải quyết",
+                                                             "translation":  ""
+                                                         }
+                                                     ],
+                                       "context":  "",
+                                       "transcript":  "",
+                                       "translation":  "",
+                                       "type":  "mcq"
+                                   },
+                          "audioUrls":  [
+
+                                        ],
+                          "imageUrls":  [
+
+                                        ]
+                      },
+                      {
+                          "id":  "405146",
+                          "data":  {
+                                       "questions":  [
+                                                         {
+                                                             "number":  "103",
+                                                             "prompt":  "For a _____ time, Marco Bank is offering first-time customers a $100 bonus when a they open an account.",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A. limits"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B. limiting"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C. limit"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "D",
+                                                                                 "text":  "D. limited"
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "D",
+                                                             "transcript":  "",
+                                                             "explanation":  "Đáp án đúng: D\nGiải thích: Cần chọn tính từ bổ nghĩa cho danh từ “time” đi liền sau. → Loại A, C\nChọn tính từ limited có nghĩa là có giới hạn, bị giới hạn.\n→ Chọn D\nTạm dịch:\nTrong thời gian bị giới hạn, Ngân hàng Marco sẽ tặng cho khách hàng mới khoản tiền thưởng 100 đô la khi họ mở tài khoản.\nTừ vựng:\n- limited (adj): bị giới hạn\n- offer (v): tặng\n- first-time (adj): mới, lần đầu",
+                                                             "translation":  ""
+                                                         }
+                                                     ],
+                                       "context":  "",
+                                       "transcript":  "",
+                                       "translation":  "",
+                                       "type":  "mcq"
+                                   },
+                          "audioUrls":  [
+
+                                        ],
+                          "imageUrls":  [
+
+                                        ]
+                      },
+                      {
+                          "id":  "405147",
+                          "data":  {
+                                       "questions":  [
+                                                         {
+                                                             "number":  "107",
+                                                             "prompt":  "The department\u0027s most _____ production unit will receive a bonus at the end of the quarter.",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A. effective"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B. effect"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C. effectively"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "D",
+                                                                                 "text":  "D. effecting"
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "A",
+                                                             "transcript":  "",
+                                                             "explanation":  "Đáp án đúng: A\nGiải thích: Chỗ trống cần điền đứng sau so sánh nhất “most” và đứng trước danh từ ghép “production unit” → Cần tìm một tính từ (Loại B: danh từ, C: trạng từ, D: không tồn tại dạng)\n→ Chọn A\nDịch: Đơn vị sản xuất hiệu quả nhất của bộ phận sản xuất sẽ nhận được một phần thưởng vào cuối quý.\nTừ vựng:\n- unit (n): đơn vị, bộ phận\n- department (n): bộ phận, phòng, khoa\n- effective (adj): hiệu quả\n- effect (n): tác động",
+                                                             "translation":  ""
+                                                         }
+                                                     ],
+                                       "context":  "",
+                                       "transcript":  "",
+                                       "translation":  "",
+                                       "type":  "mcq"
+                                   },
+                          "audioUrls":  [
+
+                                        ],
+                          "imageUrls":  [
+
+                                        ]
+                      },
+                      {
+                          "id":  "405148",
+                          "data":  {
+                                       "questions":  [
+                                                         {
+                                                             "number":  "103",
+                                                             "prompt":  "Hillsdale Fabrics\u0027 _____ collection of leathers was imported from Italy.",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A. diversity"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B. diversely"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C. diversify"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "D",
+                                                                                 "text":  "D. diverse"
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "D",
+                                                             "transcript":  "",
+                                                             "explanation":  "Đáp án đúng: D\nGiải thích: Chỗ trống cần điền đứng sau danh từ “collection” → cần tìm một tính từ\nLoại A (danh từ đuôi -ity), B (trạng từ đuôi -ly) và C (động từ đuôi -ify)\n→ Chọn D\nDịch: Bộ sưu tập da đa dạng của Hillsdale Fabrics được nhập khẩu từ Ý.\nTừ vựng:\n- diversify: (v) đa dạng hóa\n- import: (v) nhập khẩu\n- collection: (n) bộ sưu tập\n- leather (n): da",
+                                                             "translation":  ""
+                                                         }
+                                                     ],
+                                       "context":  "",
+                                       "transcript":  "",
+                                       "translation":  "",
+                                       "type":  "mcq"
+                                   },
+                          "audioUrls":  [
+
+                                        ],
+                          "imageUrls":  [
+
+                                        ]
+                      },
+                      {
+                          "id":  "405151",
+                          "data":  {
+                                       "questions":  [
+                                                         {
+                                                             "number":  "101",
+                                                             "prompt":  "Should the customer believe that the proposed color scheme is not _____, the interior designer can make adjustments.",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A. attract"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B. attractive"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C. attracted"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "D",
+                                                                                 "text":  "D. attractively"
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "B",
+                                                             "transcript":  "",
+                                                             "explanation":  "Đáp án đúng: B\nGiải thích: Chỗ trống nằm sau động từ \"to be\" (is not) → chỉ có thể điền tính từ hoặc danh từ → Loại A (động từ), C(động từ đuôi -ed) và D (trạng từ)\nDịch: Nếu khách hàng đều tin tưởng rằng sự phối màu được đề xuất không thu hút, người thiết kế nội thất có thể điều chỉnh.\nTừ vựng:\n- proposed (adj): được đề xuất\n- interior design: thiết kế nội thất\n- adjustment (n): sự điều chỉnh",
+                                                             "translation":  ""
+                                                         }
+                                                     ],
+                                       "context":  "",
+                                       "transcript":  "",
+                                       "translation":  "",
+                                       "type":  "mcq"
+                                   },
+                          "audioUrls":  [
+
+                                        ],
+                          "imageUrls":  [
+
+                                        ]
+                      },
+                      {
+                          "id":  "405158",
+                          "data":  {
+                                       "questions":  [
+                                                         {
+                                                             "number":  "128",
+                                                             "prompt":  "Call Gislason Insurance today to speak to a _____ agent for a free quote.",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A. licensed"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B. maximum"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C. required"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "D",
+                                                                                 "text":  "D. former"
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "A",
+                                                             "transcript":  "",
+                                                             "explanation":  "Đáp án đúng: A\nGiải thích: Chỗ trống cần điền đứng trước mạo từ “a” và sau danh từ “agent” → Cần tìm một tính từ. Ở đây ta thấy cả 4 đáp án đều là tính từ → Dựa vào nghĩa để chọn. A: được cấp phép, B: tối đa, C: được yêu cầu; D: cựu\n→ Chọn A.\nDịch: Hãy gọi cho Bảo hiểm Gislason ngay hôm nay để nói chuyện với một đại lý được cấp phép để có được một báo giá miễn phí.\nTừ vựng:\n- license (n,v): giấy phép, cấp giấy phép\n- agent (n): đại lý\n- maximum (a): tối đa\n- former (a): cựu",
+                                                             "translation":  ""
+                                                         }
+                                                     ],
+                                       "context":  "",
+                                       "transcript":  "",
+                                       "translation":  "",
+                                       "type":  "mcq"
+                                   },
+                          "audioUrls":  [
+
+                                        ],
+                          "imageUrls":  [
+
+                                        ]
+                      },
+                      {
+                          "id":  "405159",
+                          "data":  {
+                                       "questions":  [
+                                                         {
+                                                             "number":  "112",
+                                                             "prompt":  "Departments should not spend an _____ amount of their budgets on office supplies.",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A. equal"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B. exciting"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C. excessive"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "D",
+                                                                                 "text":  "D. unknown"
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "C",
+                                                             "transcript":  "",
+                                                             "explanation":  "Đáp án đúng: C\nGiải thích: Chỗ trống cần điền đứng trước danh từ “amount” → cần tìm một tính từ có nghĩa phù hợp. A: bình đẳng, B: thú vị, C: quá mức, D: không rõ\n→ Chọn C\nDịch: Các phòng ban không nên chi một lượng quá mức số tiền ngân sách của họ cho các vật dụng văn phòng.\nTừ vựng:\n- office supplies: (n) văn phòng phẩm\n- excessive: (adj) vô độ, vượt quá\n- equal (adj): bình đẳng",
+                                                             "translation":  ""
+                                                         }
+                                                     ],
+                                       "context":  "",
+                                       "transcript":  "",
+                                       "translation":  "",
+                                       "type":  "mcq"
+                                   },
+                          "audioUrls":  [
+
+                                        ],
+                          "imageUrls":  [
+
+                                        ]
+                      },
+                      {
+                          "id":  "406035",
+                          "data":  {
+                                       "questions":  [
+                                                         {
+                                                             "number":  "107",
+                                                             "prompt":  "The figures that accompany the financial statement should be _____ to the spending category.",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A. relevance"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B. relevantly"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C. more relevantly"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "D",
+                                                                                 "text":  "D. relevant"
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "D",
+                                                             "transcript":  "",
+                                                             "explanation":  "Đáp án đúng: D\nPhân tích: Câu này cần tìm từ loại thích hợp. Sau động từ \"be\" và trước \"to + nhóm danh từ\" cần điền 1 tính từ. Đáp án đúng là D \"relevant\".\nDịch câu: \"Những số liệu đi kèm với bản báo cáo tài chính cần phải có liên quan với khoản mục chi tiêu\".",
+                                                             "translation":  ""
+                                                         }
+                                                     ],
+                                       "context":  "",
+                                       "transcript":  "",
+                                       "translation":  "",
+                                       "type":  "mcq"
+                                   },
+                          "audioUrls":  [
+
+                                        ],
+                          "imageUrls":  [
+
+                                        ]
+                      },
+                      {
+                          "id":  "406036",
+                          "data":  {
+                                       "questions":  [
+                                                         {
+                                                             "number":  "111",
+                                                             "prompt":  "During the peak season, it is _____ to hire additional workers for the weekend shifts.",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A. necessitate"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B. necessarily"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C. necessary"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "D",
+                                                                                 "text":  "D. necessity"
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "C",
+                                                             "transcript":  "",
+                                                             "explanation":  "Đáp án đúng: C\nPhân tích: Câu này cần tìm từ loại thích hợp. Ở đây có cấu trúc \"it is + tính từ + to verb\" có nghĩa là \"việc làm gì đó thì có tính chất gì đó\" nên tính từ sẽ được chọn. Đáp án đúng là C \"necessary\".\nDịch câu: \"Trong mùa cao điểm, việc cần thiết là thuê thêm nhân công cho các ca cuối tuần\".",
+                                                             "translation":  ""
+                                                         }
+                                                     ],
+                                       "context":  "",
+                                       "transcript":  "",
+                                       "translation":  "",
+                                       "type":  "mcq"
+                                   },
+                          "audioUrls":  [
+
+                                        ],
+                          "imageUrls":  [
+
+                                        ]
+                      },
+                      {
+                          "id":  "406037",
+                          "data":  {
+                                       "questions":  [
+                                                         {
+                                                             "number":  "124",
+                                                             "prompt":  "The governmental department used to provide financial aid, but now it offers _____ services only.",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A. legal"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B. legalize"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C. legally"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "D",
+                                                                                 "text":  "D. legalizes"
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "A",
+                                                             "transcript":  "",
+                                                             "explanation":  "Đáp án đúng: A\nPhân tích: Câu này cần tìm từ loại thích hợp. Với câu này, mệnh đề \"now it offers _____ services only\" thì \"offers\" là động từ chính, và \"_____ services\" là cụm danh từ đóng vai trò làm tân ngữ của động từ chính này. Trong cụm danh từ này, \"services\" là danh từ chính, nên cần điền từ nào bổ nghĩa được cho danh từ. Vậy phải chọn tính từ \"legal\". Đáp án A.\nDịch câu: \"Cơ quan chính phủ này đã từng cung cấp trợ giúp tài chính, nhưng bây giờ nó chỉ cung cấp các dịch vụ pháp lý\".",
+                                                             "translation":  ""
+                                                         }
+                                                     ],
+                                       "context":  "",
+                                       "transcript":  "",
+                                       "translation":  "",
+                                       "type":  "mcq"
+                                   },
+                          "audioUrls":  [
+
+                                        ],
+                          "imageUrls":  [
+
+                                        ]
+                      },
+                      {
+                          "id":  "406038",
+                          "data":  {
+                                       "questions":  [
+                                                         {
+                                                             "number":  "105",
+                                                             "prompt":  "We will make a final decision about changing the landscaping of the property after reviewing the _____ costs.",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A. estimation"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B. estimate"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C. estimated"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "D",
+                                                                                 "text":  "D. estimating"
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "C",
+                                                             "transcript":  "",
+                                                             "explanation":  "Đáp án đúng: C\nPhân tích: Sau mạo từ \"the\" phải là một (cụm) danh từ. Trong cụm danh từ \"the _____ costs\", danh từ chính của cụm là \"costs\" =\u003e cần điền từ bổ nghĩa cho danh từ chính =\u003e ta có thể điền tính từ hoặc danh từ nên loại B (động từ). Giữa \"estimation\" (danh từ), \"estimated\" (đóng vai trò tính từ) và \"estimating\" (đóng vai trò tính từ), \"estimated\" hợp nghĩa nhất: những chi phí \"được ước tính\".\nDịch câu: Chúng tôi sẽ đưa ra quyết định cuối cùng về chuyện thay đổi việc xây dựng vườn hoa của khu nhà sau khi xem xét chi phí được ước tính.\n=\u003e Chọn C",
+                                                             "translation":  ""
+                                                         }
+                                                     ],
+                                       "context":  "",
+                                       "transcript":  "",
+                                       "translation":  "",
+                                       "type":  "mcq"
+                                   },
+                          "audioUrls":  [
+
+                                        ],
+                          "imageUrls":  [
+
+                                        ]
+                      },
+                      {
+                          "id":  "406039",
+                          "data":  {
+                                       "questions":  [
+                                                         {
+                                                             "number":  "117",
+                                                             "prompt":  "Despite having some problems with the sound system during the performance, the concert was an _____ experience for everyone.",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A. enjoyable"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B. enjoyment"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C. enjoys"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "D",
+                                                                                 "text":  "D. enjoyably"
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "A",
+                                                             "transcript":  "",
+                                                             "explanation":  "Đáp án đúng: A\nPhân tích: Sau mạo từ \"an\" sẽ là một (cụm) danh từ. Trong cụm danh từ \"an _____ experience for everyone\", danh từ chính của cụm là \"experience\" nên cần điền đáp án có thể bổ nghĩa cho danh từ =\u003e chọn tính từ \"enjoyable\".\nDịch câu: Mặc dù có vài vấn đề với hệ thống âm thanh trong màn trình diễn, buổi hoà nhạc là một trải nghiệm thú vị cho mọi người.\n=\u003e Chọn A",
+                                                             "translation":  ""
+                                                         }
+                                                     ],
+                                       "context":  "",
+                                       "transcript":  "",
+                                       "translation":  "",
+                                       "type":  "mcq"
+                                   },
+                          "audioUrls":  [
+
+                                        ],
+                          "imageUrls":  [
+
+                                        ]
+                      },
+                      {
+                          "id":  "406040",
+                          "data":  {
+                                       "questions":  [
+                                                         {
+                                                             "number":  "120",
+                                                             "prompt":  "A sturdy support beam was added to the first story of the building for _____ reasons.",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A. structures"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B. structurally"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C. structure"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "D",
+                                                                                 "text":  "D. structural"
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "D",
+                                                             "transcript":  "",
+                                                             "explanation":  "Đáp án đúng: D\nPhân tích: Ta thấy trước chỗ trống có giới từ \"for\" --\u003e sau giới từ là một cụm danh từ --\u003e \"_____ reasons\" là một cụm danh từ. Cụm danh từ này đã có danh từ chính (reasons), vì vậy đứng trước phải là tính từ bổ nghĩa cho danh từ chính này --\u003e \"structural\".\nDịch nghĩa: Một chiếc dầm vững chắc đã được lắp thêm vào tầng một của toà nhà vì lý do liên quan đến cấu trúc.\n=\u003e Chọn D",
+                                                             "translation":  ""
+                                                         }
+                                                     ],
+                                       "context":  "",
+                                       "transcript":  "",
+                                       "translation":  "",
+                                       "type":  "mcq"
+                                   },
+                          "audioUrls":  [
+
+                                        ],
+                          "imageUrls":  [
+
+                                        ]
+                      },
+                      {
+                          "id":  "406041",
+                          "data":  {
+                                       "questions":  [
+                                                         {
+                                                             "number":  "124",
+                                                             "prompt":  "Mr. Burrows was praised for creating _____ user manuals which can be easily understood.",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A. inform"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B. informant"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C. informs"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "D",
+                                                                                 "text":  "D. informative"
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "D",
+                                                             "transcript":  "",
+                                                             "explanation":  "Đáp án đúng: D\nPhân tích: Cụm \"_____ user manuals which can be easily understood\" là cụm danh từ đóng vai trò tân ngữ của động từ \"creating\". Trong cụm danh từ này, danh từ chính của cụm là \"user manuals\" =\u003e cần tính từ để bổ nghĩa cho danh từ chính này =\u003e chọn \"informative\".\ninform: cho biết\ninformant: người cung cấp tin tức\ninformative: cung cấp nhiều thông tin\nDịch nghĩa: Ông Burrows đã được khen ngợi vì đã tạo ra những quyển hướng dẫn người dùng cung cấp nhiều thông tin và dễ hiểu.\n=\u003e Chọn D",
+                                                             "translation":  ""
+                                                         }
+                                                     ],
+                                       "context":  "",
+                                       "transcript":  "",
+                                       "translation":  "",
+                                       "type":  "mcq"
+                                   },
+                          "audioUrls":  [
+
+                                        ],
+                          "imageUrls":  [
+
+                                        ]
+                      },
+                      {
+                          "id":  "406043",
+                          "data":  {
+                                       "questions":  [
+                                                         {
+                                                             "number":  "122",
+                                                             "prompt":  "Prior to a viewing by potential buyers, the real estate agent makes sure the home is _____.",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A. presentation"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B. presenting"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C. presentable"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "D",
+                                                                                 "text":  "D. present"
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "C",
+                                                             "transcript":  "",
+                                                             "explanation":  "Đáp án đúng: C\nPhân tích: Chỗ trống nằm sau động từ \"to be\" =\u003e cần chọn tính từ hoặc danh từ.\nVì trước chỗ trống không có mạo từ hay từ hạn định, nên ta không thể điền danh từ số ít vào được =\u003e chọn tính từ \"presentable\".\nDịch câu: Trước buổi xem nhà của người mua tiềm năng, người môi giới bất động sản đảm bảo rằng ngôi nhà đẹp mắt.\n=\u003e Chọn C",
+                                                             "translation":  ""
+                                                         }
+                                                     ],
+                                       "context":  "",
+                                       "transcript":  "",
+                                       "translation":  "",
+                                       "type":  "mcq"
+                                   },
+                          "audioUrls":  [
+
+                                        ],
+                          "imageUrls":  [
+
+                                        ]
+                      },
+                      {
+                          "id":  "406044",
+                          "data":  {
+                                       "questions":  [
+                                                         {
+                                                             "number":  "113",
+                                                             "prompt":  "The train delays on the Trenton line were caused by a _____ error at one of the stations.",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A. proceed"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B. proceeded"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C. procedural"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "D",
+                                                                                 "text":  "D. procedurally"
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "C",
+                                                             "transcript":  "",
+                                                             "explanation":  "Đáp án đúng: C\nPhân tích: Chỗ trống nằm giữa một mạo từ (a) và một danh từ (error) nên chắc chắn phải là một từ có thể bổ nghĩa cho danh từ đó --\u003e trong các lựa chọn, chỉ có thể chọn tính từ \"procedural\".\nDịch câu: Sự chậm trễ tàu trên tuyến Trenton bị gây ra bởi một lỗi về thủ tục tại một trong số các nhà ga.\n=\u003e Chọn C",
+                                                             "translation":  ""
+                                                         }
+                                                     ],
+                                       "context":  "",
+                                       "transcript":  "",
+                                       "translation":  "",
+                                       "type":  "mcq"
+                                   },
+                          "audioUrls":  [
+
+                                        ],
+                          "imageUrls":  [
+
+                                        ]
+                      },
+                      {
+                          "id":  "406045",
+                          "data":  {
+                                       "questions":  [
+                                                         {
+                                                             "number":  "125",
+                                                             "prompt":  "As long as there are no further delays, the factory will be fully _____ by June 18.",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A. operational"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B. operate"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C. operates"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "D",
+                                                                                 "text":  "D. operation"
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "A",
+                                                             "transcript":  "",
+                                                             "explanation":  "Đáp án đúng: A\nPhân tích: Ta thấy có “will be” và trạng từ \"fully\" đứng trước chỗ trống nên phải điền tính từ =\u003e chọn \"operational\".\nDịch câu: Miễn là không có trì hoãn nào nữa, nhà máy sẽ hoạt động hết công suất trước ngày 18 tháng Sáu.\n=\u003e Chọn A",
+                                                             "translation":  ""
+                                                         }
+                                                     ],
+                                       "context":  "",
+                                       "transcript":  "",
+                                       "translation":  "",
+                                       "type":  "mcq"
+                                   },
+                          "audioUrls":  [
+
+                                        ],
+                          "imageUrls":  [
+
+                                        ]
+                      }
+                  ],
+    "title":  "Luyện tập: Trắc nghiệm format TOEIC",
+    "lessonTitle":  "[Câu hỏi từ loại] Tính từ",
+    "imageUrls":  [
+
+                  ]
+}

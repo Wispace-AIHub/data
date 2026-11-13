@@ -1,0 +1,314 @@
+{
+    "expectedQuestions":  6,
+    "activityId":  "7375",
+    "text":  "",
+    "audioUrls":  [
+
+                  ],
+    "videos":  [
+
+               ],
+    "html":  "",
+    "complete":  true,
+    "questions":  [
+                      {
+                          "id":  "405168",
+                          "data":  {
+                                       "questions":  [
+                                                         {
+                                                             "number":  "105",
+                                                             "prompt":  "Mr. Kim would like _____ a meeting about the Jasper account as soon as possible.",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A. to arrange"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B. arranging"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C. having arranged"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "D",
+                                                                                 "text":  "D. arrangement"
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "A",
+                                                             "transcript":  "",
+                                                             "explanation":  "Đáp án đúng: A\nGiải thích: Ta có cấu trúc \"would like to do something\" nghĩa là \"muốn làm điều gì đó\" → Chọn đáp án A.\nDịch: Ông Kim muốn sắp xếp một cuộc họp về khách hàng Jasper càng sớm càng tốt.\nTừ vựng:\narrangement (n): sự sắp xếp\naccount (n): khách hàng",
+                                                             "translation":  ""
+                                                         }
+                                                     ],
+                                       "context":  "",
+                                       "transcript":  "",
+                                       "translation":  "",
+                                       "type":  "mcq"
+                                   },
+                          "audioUrls":  [
+
+                                        ],
+                          "imageUrls":  [
+
+                                        ]
+                      },
+                      {
+                          "id":  "405171",
+                          "data":  {
+                                       "questions":  [
+                                                         {
+                                                             "number":  "121",
+                                                             "prompt":  "On Thursday, the technician will be on Sratus Road ------ two gas stoves.",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A. serviced"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B. service"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C. to service"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "D",
+                                                                                 "text":  "D. is servicing"
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "C",
+                                                             "transcript":  "",
+                                                             "explanation":  "Đáp án đúng: C\nGiải thích: Chỗ trống cần điền đứng trước cụm danh từ “two gas stoves”, trước đó đã có động từ chính “will be” → Loại B (động từ thường) và D (động từ chia thì hiện tại tiếp diễn)\nXét theo nghĩa, chọn đáp án C\nLưu ý: Cấu trúc “to do something” ~ để làm gì đó được dùng chỉ mục đích.\nTạm dịch: Vào thứ Năm, kỹ thuật viên sẽ có mặt trên đường Sratus để bảo dưỡng hai bếp gas.\nTừ vựng:\n- technician (n): kỹ thuật viên\n- service (v): bảo dưỡng",
+                                                             "translation":  ""
+                                                         }
+                                                     ],
+                                       "context":  "",
+                                       "transcript":  "",
+                                       "translation":  "",
+                                       "type":  "mcq"
+                                   },
+                          "audioUrls":  [
+
+                                        ],
+                          "imageUrls":  [
+
+                                        ]
+                      },
+                      {
+                          "id":  "405189",
+                          "data":  {
+                                       "questions":  [
+                                                         {
+                                                             "number":  "107",
+                                                             "prompt":  "Join us for dinner on Friday _____ Mr. Yi\u0027s promotion to Vice President of Marketing.",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A. to celebrate"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B. celebrates"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C. will celebrate"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "D",
+                                                                                 "text":  "D. celebrated"
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "A",
+                                                             "transcript":  "",
+                                                             "explanation":  "Đáp án đúng: A\nGiải thích: Trong câu đã có động từ chính (câu cầu khiến) → Chọn A (động từ nguyên mẫu có to đóng vai trò làm tân ngữ)\nLưu ý: \"to do something\" nghĩa là \"để làm gì đó\", được dùng để chỉ hành động mục đích.\nDịch: Hãy tham gia bữa tối với chúng tôi vào thứ Sáu để ăn mừng việc ông Yi được đề bạt làm Phó Giám đốc Tiếp thị.\nTừ vựng:\n- promotion (n): sự đề bạt, thăng chức\n- celebrate (v): ăn mừng\n- Vice President: phó giám đốc",
+                                                             "translation":  ""
+                                                         }
+                                                     ],
+                                       "context":  "",
+                                       "transcript":  "",
+                                       "translation":  "",
+                                       "type":  "mcq"
+                                   },
+                          "audioUrls":  [
+
+                                        ],
+                          "imageUrls":  [
+
+                                        ]
+                      },
+                      {
+                          "id":  "406113",
+                          "data":  {
+                                       "questions":  [
+                                                         {
+                                                             "number":  "106",
+                                                             "prompt":  "City officials are still debating Irving Enterprises\u0027 request ------- the outdated building.",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A. demolishes"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B. have demolished"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C. to demolish"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "D",
+                                                                                 "text":  "D. demolished"
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "C",
+                                                             "transcript":  "",
+                                                             "explanation":  "Đáp án đúng: C\nA request to do something = yêu cầu làm gì đó\n=\u003e Chọn C\nDịch: Các quan chức thành phố vẫn đang tranh luận về yêu cầu của Irving Enterprises về việc phá bỏ tòa nhà lỗi thời.",
+                                                             "translation":  ""
+                                                         }
+                                                     ],
+                                       "context":  "",
+                                       "transcript":  "",
+                                       "translation":  "",
+                                       "type":  "mcq"
+                                   },
+                          "audioUrls":  [
+
+                                        ],
+                          "imageUrls":  [
+
+                                        ]
+                      },
+                      {
+                          "id":  "406114",
+                          "data":  {
+                                       "questions":  [
+                                                         {
+                                                             "number":  "103",
+                                                             "prompt":  "When customers have a complaint, employees have been instructed ------- the supervisor on duty.",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A. to inform"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B. to have informed"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C. to informing"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "D",
+                                                                                 "text":  "D. to be informed"
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "A",
+                                                             "transcript":  "",
+                                                             "explanation":  "Đáp án đúng: A\nTrong câu này, động từ nguyên mẫu có ‘to’ dạng chủ động để thể hiện mục đích của động từ cho trước.\nDịch câu: Khi khách hàng có khiếu nại, nhân viên đã được hướng dẫn để thông báo cho người giám sát đang trực.",
+                                                             "translation":  ""
+                                                         }
+                                                     ],
+                                       "context":  "",
+                                       "transcript":  "",
+                                       "translation":  "",
+                                       "type":  "mcq"
+                                   },
+                          "audioUrls":  [
+
+                                        ],
+                          "imageUrls":  [
+
+                                        ]
+                      },
+                      {
+                          "id":  "406115",
+                          "data":  {
+                                       "questions":  [
+                                                         {
+                                                             "number":  "129",
+                                                             "prompt":  "Please be patient as the IT department works _____ service to your business application",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A. to restore"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B. restoration"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C. restored"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "D",
+                                                                                 "text":  "D. had restored"
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "A",
+                                                             "transcript":  "",
+                                                             "explanation":  "Đáp án đúng: A\nGiải thích: Đây là câu hỏi về dạng của động từ. Do câu đã có động từ chính \"work\" nên câu sẽ không cần chia động từ chính nữa (nguyên tắc 1 câu chỉ có một động từ chính) --\u003e Loại C,D. Câu đã có danh từ nên không cần danh từ nữa --\u003e Loại B (trường hợp này đây hai danh từ không thể đi cùng với nhau để tạo thành danh từ ghép được). --\u003e Chọn A, To V để chỉ mục đích (để làm gì).\nDịch: Vui lòng kiên nhẫn vì phòng công nghệ thông tin đang làm việc để khôi phục dịch vụ cho ứng dụng của bạn.",
+                                                             "translation":  ""
+                                                         }
+                                                     ],
+                                       "context":  "",
+                                       "transcript":  "",
+                                       "translation":  "",
+                                       "type":  "mcq"
+                                   },
+                          "audioUrls":  [
+
+                                        ],
+                          "imageUrls":  [
+
+                                        ]
+                      }
+                  ],
+    "title":  "Luyện tập: Trắc nghiệm format TOEIC",
+    "lessonTitle":  "[Câu hỏi ngữ pháp] Dạng của động từ - Động từ nguyên mẫu có \"to\" (to V)",
+    "imageUrls":  [
+
+                  ]
+}

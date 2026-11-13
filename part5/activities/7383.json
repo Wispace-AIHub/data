@@ -1,0 +1,167 @@
+{
+    "expectedQuestions":  3,
+    "activityId":  "7383",
+    "text":  "",
+    "audioUrls":  [
+
+                  ],
+    "videos":  [
+
+               ],
+    "html":  "",
+    "complete":  true,
+    "questions":  [
+                      {
+                          "id":  "405460",
+                          "data":  {
+                                       "questions":  [
+                                                         {
+                                                             "number":  "127",
+                                                             "prompt":  "Saul\u0027s Pizzeria changed its menu options after receiving _____ negative customer feedback.",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A. increase"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B. increases"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C. to increase"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "D",
+                                                                                 "text":  "D. increasingly"
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "D",
+                                                             "transcript":  "",
+                                                             "explanation":  "Đáp án đúng: D\nGiải thích: chỗ trống cần có 1 trạng từ để bổ nghĩa cho tính từ \"negative\". Chọn đáp án D.\nDịch: Saul\u0027s Pizzeria đã thay đổi các lựa chọn thực đơn sau việc nhận được phản hồi ngày càng tiêu cực của khách hàng.\nTừ vựng:\n- negative (adj): tiêu cực\n- feedback (n) phản hồi\n- option (n): sự lựa chọn",
+                                                             "translation":  ""
+                                                         }
+                                                     ],
+                                       "context":  "",
+                                       "transcript":  "",
+                                       "translation":  "",
+                                       "type":  "mcq"
+                                   },
+                          "audioUrls":  [
+
+                                        ],
+                          "imageUrls":  [
+
+                                        ]
+                      },
+                      {
+                          "id":  "405461",
+                          "data":  {
+                                       "questions":  [
+                                                         {
+                                                             "number":  "101",
+                                                             "prompt":  "Mr. Ashburton has been _____ recommended by all three of his references.",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A. high"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B. higher"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C. highly"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "D",
+                                                                                 "text":  "D. highest"
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "C",
+                                                             "transcript":  "",
+                                                             "explanation":  "Đáp án đúng: C\nGiải thích: Câu này cần tìm từ loại thích hợp. Ở đây cần 1 trạng từ bổ sung ý nghĩa cho động từ \"recommend\" nên đáp án đúng là C \"highly\".\nDịch: Mr. Ashburton đã được tiến cử một cách nhiệt tình bởi cả ba người giới thiệu của anh ấy.\nTừ vựng:\n- recommend (v): giới thiệu, tiến cử\n- reference (n): người giới thiệu, người chứng nhận (lý lịch, tư cách, công tác...)",
+                                                             "translation":  ""
+                                                         }
+                                                     ],
+                                       "context":  "",
+                                       "transcript":  "",
+                                       "translation":  "",
+                                       "type":  "mcq"
+                                   },
+                          "audioUrls":  [
+
+                                        ],
+                          "imageUrls":  [
+
+                                        ]
+                      },
+                      {
+                          "id":  "406046",
+                          "data":  {
+                                       "questions":  [
+                                                         {
+                                                             "number":  "105",
+                                                             "prompt":  "Please submit each reimbursement request _____ according to its category, as outlined in last month\u0027s memo.",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A. separately"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B. separateness"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C. separates"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "D",
+                                                                                 "text":  "D. separate"
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "A",
+                                                             "transcript":  "",
+                                                             "explanation":  "Đáp án đúng: A\nPhân tích: Câu này đã đầy đủ các thành phần ngữ pháp của câu (chủ ngữ, động từ chính, tân ngữ cho động từ), nên chỉ cần điền trạng từ để bổ sung ý nghĩa cho động từ chính mà thôi --\u003e chọn \"separately\".\nDịch: Vui lòng nộp mỗi yêu cầu hoàn tiền một cách riêng rẽ theo phân loại, như đã được liệt kê ra trong ghi chú của tháng trước.",
+                                                             "translation":  ""
+                                                         }
+                                                     ],
+                                       "context":  "",
+                                       "transcript":  "",
+                                       "translation":  "",
+                                       "type":  "mcq"
+                                   },
+                          "audioUrls":  [
+
+                                        ],
+                          "imageUrls":  [
+
+                                        ]
+                      }
+                  ],
+    "title":  "Luyện tập: Trắc nghiệm format TOEIC",
+    "lessonTitle":  "[Câu hỏi từ loại] Trạng từ",
+    "imageUrls":  [
+
+                  ]
+}
