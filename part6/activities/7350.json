@@ -1,0 +1,320 @@
+{
+    "expectedQuestions":  2,
+    "activityId":  "7350",
+    "text":  "",
+    "audioUrls":  [
+
+                  ],
+    "videos":  [
+
+               ],
+    "html":  "",
+    "complete":  true,
+    "questions":  [
+                      {
+                          "id":  "405066",
+                          "data":  {
+                                       "contextHtml":  "\n                            \u003cp\u003e\u003cspan\u003eFrom: \u003c/span\u003e\u003cspan\u003eNoora Simola, Vice President of Operations\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003eTo: \u003c/span\u003e\u003cspan\u003eAll Employees\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003eDate: \u003c/span\u003e\u003cspan\u003eFebruary 8\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003eRe:\u003c/span\u003e\u003cspan\u003e Payroll changes\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003eBeginning on March 15, we will be using a new payroll service that will affect a number of our current payroll processes. First, weekly payroll checks will be mailed on Thursday instead of Friday. Direct-deposit payroll payments will also be processed a day _____(139). Second, pay stubs for direct-deposit payments will no longer be e-mailed. Instead, employees will be able to _____(140) this information by accessing their payroll accounts online.\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003eOther processes will remain the same. All time cards will continue to be due to the payroll department by Monday at 6:00 P.M. _____(141). A complete, updated list of instructions for payroll procedures _____(142) to all employees on or before March 1. If you have any questions before then, please contact Leonti Belousov at ext. 5810.\u003c/span\u003e\u003c/p\u003e\n                        ",
+                                       "translation":  "Từ: Noora Simola, Phó Chủ tịch Vận hành\nĐến: Tất cả nhân viên\nNgày: 8 tháng Hai\nTrả lời: Những thay đổi về lương\nBắt đầu từ ngày 15 tháng Ba, chúng ta sẽ sử dụng một dịch vụ trả lương mới, cái mà sẽ tác động đến một số quy trình trả lương hiện tại của chúng ta. Đầu tiên, séc trả lương hằng tuần sẽ được gửi qua mail vào thứ Năm thay vì thứ Sáu. Thanh toán lương trực tiếp sẽ được xử lý sớm hơn một ngày. Thứ hai, bảng tính lương cho các trường hợp trả lương qua tài khoản ngân hàng sẽ không được gửi e-mail nữa. Thay vào đó, nhân viên sẽ có thể xem thông tin này bằng cách truy cập tài khoản bảng lương của mình trực tuyến.\nCác quy trình khác sẽ vẫn giữ nguyên. Tất cả thẻ chấm công sẽ tiếp tục phải nộp cho phòng tính lương trước 6 giờ chiều thứ Hai. Các biểu mẫu chấm công cũ cũng vẫn sẽ có hiệu lực. Một danh sách được cập nhật đầy đủ về hướng dẫn các thủ tục trả lương sẽ được phát cho tất cả nhân viên vào hoặc trước ngày 1 tháng Ba. Nếu các bạn có bất kỳ câu hỏi nào trước thời điểm đó, xin vui lòng liên hệ Leonti Belousov tại số máy lẻ 5810.",
+                                       "transcript":  "",
+                                       "type":  "mcq",
+                                       "context":  "From: Noora Simola, Vice President of Operations\nTo: All Employees\nDate: February 8\nRe: Payroll changes\nBeginning on March 15, we will be using a new payroll service that will affect a number of our current payroll processes. First, weekly payroll checks will be mailed on Thursday instead of Friday. Direct-deposit payroll payments will also be processed a day _____(139). Second, pay stubs for direct-deposit payments will no longer be e-mailed. Instead, employees will be able to _____(140) this information by accessing their payroll accounts online.\nOther processes will remain the same. All time cards will continue to be due to the payroll department by Monday at 6:00 P.M. _____(141). A complete, updated list of instructions for payroll procedures _____(142) to all employees on or before March 1. If you have any questions before then, please contact Leonti Belousov at ext. 5810.",
+                                       "questions":  [
+                                                         {
+                                                             "number":  "139",
+                                                             "prompt":  "",
+                                                             "promptHtml":  "",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A. twice"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B. following"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C. earlier"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "D",
+                                                                                 "text":  "D. previously"
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "C",
+                                                             "transcript":  "",
+                                                             "explanation":  "Đáp án đúng: C\nA. hai lần\nB. tiếp theo\nC. sớm hơn =\u003e Câu trước nói đến việc trả lương qua séc được xử lý sớm một ngày (từ thứ sáu chuyển sang thứ năm). Câu này nói việc trả lương qua tài khoản ngân hàng cũng (also) được xử lý sớm một ngày, chọn.\nLưu ý: chúng ta có cấu trúc \"THỜI GIAN + earlier\" có nghĩa là \"sớm hơn + THỜI GIAN\".\nD. trước đó",
+                                                             "translation":  "Từ: Noora Simola, Phó Chủ tịch Vận hành\nĐến: Tất cả nhân viên\nNgày: 8 tháng Hai\nTrả lời: Những thay đổi về lương\nBắt đầu từ ngày 15 tháng Ba, chúng ta sẽ sử dụng một dịch vụ trả lương mới, cái mà sẽ tác động đến một số quy trình trả lương hiện tại của chúng ta. Đầu tiên, séc trả lương hằng tuần sẽ được gửi qua mail vào thứ Năm thay vì thứ Sáu. Thanh toán lương trực tiếp sẽ được xử lý sớm hơn một ngày. Thứ hai, bảng tính lương cho các trường hợp trả lương qua tài khoản ngân hàng sẽ không được gửi e-mail nữa. Thay vào đó, nhân viên sẽ có thể xem thông tin này bằng cách truy cập tài khoản bảng lương của mình trực tuyến.\nCác quy trình khác sẽ vẫn giữ nguyên. Tất cả thẻ chấm công sẽ tiếp tục phải nộp cho phòng tính lương trước 6 giờ chiều thứ Hai. Các biểu mẫu chấm công cũ cũng vẫn sẽ có hiệu lực. Một danh sách được cập nhật đầy đủ về hướng dẫn các thủ tục trả lương sẽ được phát cho tất cả nhân viên vào hoặc trước ngày 1 tháng Ba. Nếu các bạn có bất kỳ câu hỏi nào trước thời điểm đó, xin vui lòng liên hệ Leonti Belousov tại số máy lẻ 5810."
+                                                         },
+                                                         {
+                                                             "number":  "140",
+                                                             "prompt":  "",
+                                                             "promptHtml":  "",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A. view"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B. correct"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C. reject"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "D",
+                                                                                 "text":  "D. enter"
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "A",
+                                                             "transcript":  "",
+                                                             "explanation":  "Đáp án đúng: A\nA. xem\nB. sửa\nC. từ chối\nD. vào\nDựa vào nghĩa, ta chọn \"view\".",
+                                                             "translation":  "Từ: Noora Simola, Phó Chủ tịch Vận hành\nĐến: Tất cả nhân viên\nNgày: 8 tháng Hai\nTrả lời: Những thay đổi về lương\nBắt đầu từ ngày 15 tháng Ba, chúng ta sẽ sử dụng một dịch vụ trả lương mới, cái mà sẽ tác động đến một số quy trình trả lương hiện tại của chúng ta. Đầu tiên, séc trả lương hằng tuần sẽ được gửi qua mail vào thứ Năm thay vì thứ Sáu. Thanh toán lương trực tiếp sẽ được xử lý sớm hơn một ngày. Thứ hai, bảng tính lương cho các trường hợp trả lương qua tài khoản ngân hàng sẽ không được gửi e-mail nữa. Thay vào đó, nhân viên sẽ có thể xem thông tin này bằng cách truy cập tài khoản bảng lương của mình trực tuyến.\nCác quy trình khác sẽ vẫn giữ nguyên. Tất cả thẻ chấm công sẽ tiếp tục phải nộp cho phòng tính lương trước 6 giờ chiều thứ Hai. Các biểu mẫu chấm công cũ cũng vẫn sẽ có hiệu lực. Một danh sách được cập nhật đầy đủ về hướng dẫn các thủ tục trả lương sẽ được phát cho tất cả nhân viên vào hoặc trước ngày 1 tháng Ba. Nếu các bạn có bất kỳ câu hỏi nào trước thời điểm đó, xin vui lòng liên hệ Leonti Belousov tại số máy lẻ 5810."
+                                                         },
+                                                         {
+                                                             "number":  "141",
+                                                             "prompt":  "",
+                                                             "promptHtml":  "",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A. Please note the change of day and time."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B. Most employees begin work at 8:00 A.M."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C. The payroll department is not operational."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "D",
+                                                                                 "text":  "D. Old time card forms will also still be valid."
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "D",
+                                                             "transcript":  "",
+                                                             "explanation":  "Đáp án đúng: D\nA. Hãy lưu ý sự thay đổi của ngày và giờ.\nB. Hầu hết nhân viên bắt đầu làm việc lúc 8:00 sáng.\nC. Bộ phận tính lương không hoạt động.\nD. Các mẫu thẻ cũ cũng sẽ vẫn có giá trị. =\u003e Đoạn này đang nói về những quy trình nào vẫn giữ như cũ, nên chọn câu này nói về việc các mẫu thẻ cũ vẫn có giá trị dùng.",
+                                                             "translation":  "Từ: Noora Simola, Phó Chủ tịch Vận hành\nĐến: Tất cả nhân viên\nNgày: 8 tháng Hai\nTrả lời: Những thay đổi về lương\nBắt đầu từ ngày 15 tháng Ba, chúng ta sẽ sử dụng một dịch vụ trả lương mới, cái mà sẽ tác động đến một số quy trình trả lương hiện tại của chúng ta. Đầu tiên, séc trả lương hằng tuần sẽ được gửi qua mail vào thứ Năm thay vì thứ Sáu. Thanh toán lương trực tiếp sẽ được xử lý sớm hơn một ngày. Thứ hai, bảng tính lương cho các trường hợp trả lương qua tài khoản ngân hàng sẽ không được gửi e-mail nữa. Thay vào đó, nhân viên sẽ có thể xem thông tin này bằng cách truy cập tài khoản bảng lương của mình trực tuyến.\nCác quy trình khác sẽ vẫn giữ nguyên. Tất cả thẻ chấm công sẽ tiếp tục phải nộp cho phòng tính lương trước 6 giờ chiều thứ Hai. Các biểu mẫu chấm công cũ cũng vẫn sẽ có hiệu lực. Một danh sách được cập nhật đầy đủ về hướng dẫn các thủ tục trả lương sẽ được phát cho tất cả nhân viên vào hoặc trước ngày 1 tháng Ba. Nếu các bạn có bất kỳ câu hỏi nào trước thời điểm đó, xin vui lòng liên hệ Leonti Belousov tại số máy lẻ 5810."
+                                                         },
+                                                         {
+                                                             "number":  "142",
+                                                             "prompt":  "",
+                                                             "promptHtml":  "",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A. will distribute"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B. will be distributed"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C. was distributed"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "D",
+                                                                                 "text":  "D. distributing"
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "B",
+                                                             "transcript":  "",
+                                                             "explanation":  "Đáp án đúng: B\nNgày 1 tháng 3 là một thời điểm trong tương lai so với ngày gửi e-mail này (ngày 8 tháng 2), nên phải dùng động từ ở thì tương lai --\u003e loại C.\"was distributed\" và D.\"distributing\". Giữa 2 lựa chọn còn lại thì phải xét nghĩa: danh sách thì phải \"được phân phát\", chứ không thể \"phân phát\", vì vậy chọn bị động \"will be distributed\".",
+                                                             "translation":  "Từ: Noora Simola, Phó Chủ tịch Vận hành\nĐến: Tất cả nhân viên\nNgày: 8 tháng Hai\nTrả lời: Những thay đổi về lương\nBắt đầu từ ngày 15 tháng Ba, chúng ta sẽ sử dụng một dịch vụ trả lương mới, cái mà sẽ tác động đến một số quy trình trả lương hiện tại của chúng ta. Đầu tiên, séc trả lương hằng tuần sẽ được gửi qua mail vào thứ Năm thay vì thứ Sáu. Thanh toán lương trực tiếp sẽ được xử lý sớm hơn một ngày. Thứ hai, bảng tính lương cho các trường hợp trả lương qua tài khoản ngân hàng sẽ không được gửi e-mail nữa. Thay vào đó, nhân viên sẽ có thể xem thông tin này bằng cách truy cập tài khoản bảng lương của mình trực tuyến.\nCác quy trình khác sẽ vẫn giữ nguyên. Tất cả thẻ chấm công sẽ tiếp tục phải nộp cho phòng tính lương trước 6 giờ chiều thứ Hai. Các biểu mẫu chấm công cũ cũng vẫn sẽ có hiệu lực. Một danh sách được cập nhật đầy đủ về hướng dẫn các thủ tục trả lương sẽ được phát cho tất cả nhân viên vào hoặc trước ngày 1 tháng Ba. Nếu các bạn có bất kỳ câu hỏi nào trước thời điểm đó, xin vui lòng liên hệ Leonti Belousov tại số máy lẻ 5810."
+                                                         }
+                                                     ]
+                                   },
+                          "audioUrls":  [
+
+                                        ],
+                          "imageUrls":  [
+
+                                        ]
+                      },
+                      {
+                          "id":  "405067",
+                          "data":  {
+                                       "contextHtml":  "\n                            \u003cp\u003e\u003cspan\u003eFrom\u003c/span\u003e\u003cspan\u003e: Janine Farber\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003eTo\u003c/span\u003e\u003cspan\u003e: Barker Marketing Group employees\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003eDate\u003c/span\u003e\u003cspan\u003e: September 25\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003eSubject\u003c/span\u003e\u003cspan\u003e:Entryway improvements\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003eAs many of you have noticed, the main entrance of our building is in —131— condition. It is in desperate need of attention. Therefore, beginning at 6 P.M. on Friday, the main entrance -132— for approximately one month as it is renovated. The changes will give the entryway a more streamlined and contemporary appearance.\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan\u003e-133- the main entrance is closed, employees and visitors may use the side entrances to gain access to the building. -134-.\u003c/span\u003e\u003c/p\u003e\n                        ",
+                                       "translation":  "Từ: Janine Farber\nTới: Nhân viên của Tập đoàn tiếp thị Barker\nNgày: 25 tháng 9\nChủ đề: Cải tiến cửa ra vào\nNhư nhiều bạn đã nhận thấy, lối vào chính của tòa nhà của chúng tôi là trong điều kiện xuống cấp (131). Nó đang rất cần sự quan tâm sửa chữa. Do đó, bắt đầu từ 6 giờ chiều vào thứ sáu, lối vào chính sẽ bị đóng cửa (132) trong khoảng một tháng khi nó được cải tạo. Những thay đổi sẽ làm cho cho lối vào hiện đại và hợp lý hơn.\nTrong khi (133) lối vào chính bị đóng, nhân viên và khách có thể sử dụng lối vào phụ để vào tòa nhà. Tất cả các văn phòng ở tầng hầm sẽ vẫn có thể vào. (134).",
+                                       "transcript":  "",
+                                       "type":  "mcq",
+                                       "context":  "From: Janine Farber\nTo: Barker Marketing Group employees\nDate: September 25\nSubject:Entryway improvements\nAs many of you have noticed, the main entrance of our building is in —131— condition. It is in desperate need of attention. Therefore, beginning at 6 P.M. on Friday, the main entrance -132— for approximately one month as it is renovated. The changes will give the entryway a more streamlined and contemporary appearance.\n-133- the main entrance is closed, employees and visitors may use the side entrances to gain access to the building. -134-.",
+                                       "questions":  [
+                                                         {
+                                                             "number":  "131",
+                                                             "prompt":  "",
+                                                             "promptHtml":  "",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A. poor"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B. stable accessible."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C. physical"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "D",
+                                                                                 "text":  "D. excellent awards."
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "A",
+                                                             "transcript":  "",
+                                                             "explanation":  "Đáp án đúng: A\nDựa vào nghĩa điền từ phù hợp dựa vào câu ngay sau: “It is in desperate need of attention” nghĩa là nó đang rất cần sự lưu tâm.\nA. xuống cấp =\u003e lối ra vào ở điều kiện xuống cấp (poor condition) nên mới cần được quan tâm sửa chữa, chọn\nB. ra vào ổn định\nC. vật lý\nD. giải thưởng xuất sắc.",
+                                                             "translation":  "Từ: Janine Farber\nTới: Nhân viên của Tập đoàn tiếp thị Barker\nNgày: 25 tháng 9\nChủ đề: Cải tiến cửa ra vào\nNhư nhiều bạn đã nhận thấy, lối vào chính của tòa nhà của chúng tôi là trong điều kiện xuống cấp (131). Nó đang rất cần sự quan tâm sửa chữa. Do đó, bắt đầu từ 6 giờ chiều vào thứ sáu, lối vào chính sẽ bị đóng cửa (132) trong khoảng một tháng khi nó được cải tạo. Những thay đổi sẽ làm cho cho lối vào hiện đại và hợp lý hơn.\nTrong khi (133) lối vào chính bị đóng, nhân viên và khách có thể sử dụng lối vào phụ để vào tòa nhà. Tất cả các văn phòng ở tầng hầm sẽ vẫn có thể vào. (134)."
+                                                         },
+                                                         {
+                                                             "number":  "132",
+                                                             "prompt":  "",
+                                                             "promptHtml":  "",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A. close"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B. was closing project."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C. will be closed"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "D",
+                                                                                 "text":  "D. had been closed"
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "C",
+                                                             "transcript":  "",
+                                                             "explanation":  "Đáp án đúng: C\nChia động từ phù hợp\n=\u003e không thể sử dụng thì quá khứ trong đáp án B và D\n=\u003e không thể dùng chủ động (cổng không thể tự đóng)\n→ chọn đáp án C",
+                                                             "translation":  "Từ: Janine Farber\nTới: Nhân viên của Tập đoàn tiếp thị Barker\nNgày: 25 tháng 9\nChủ đề: Cải tiến cửa ra vào\nNhư nhiều bạn đã nhận thấy, lối vào chính của tòa nhà của chúng tôi là trong điều kiện xuống cấp (131). Nó đang rất cần sự quan tâm sửa chữa. Do đó, bắt đầu từ 6 giờ chiều vào thứ sáu, lối vào chính sẽ bị đóng cửa (132) trong khoảng một tháng khi nó được cải tạo. Những thay đổi sẽ làm cho cho lối vào hiện đại và hợp lý hơn.\nTrong khi (133) lối vào chính bị đóng, nhân viên và khách có thể sử dụng lối vào phụ để vào tòa nhà. Tất cả các văn phòng ở tầng hầm sẽ vẫn có thể vào. (134)."
+                                                         },
+                                                         {
+                                                             "number":  "133",
+                                                             "prompt":  "",
+                                                             "promptHtml":  "",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A. While"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B. During"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C. Sometimes"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "D",
+                                                                                 "text":  "D. In the meantime"
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "A",
+                                                             "transcript":  "",
+                                                             "explanation":  "Đáp án đúng: A\nChọn liên từ phù hợp để chỉ trong khoảng thời gian lối chính bị đóng.\nA. trong khi =\u003e chọn\nB. trong lúc. =\u003e during + khoảng thời gian, loại\nC. thi thoảng =\u003e là trạng từ chỉ tần suất, loại\nD. trong lúc đó =\u003e sau “in the meantime” phải có dấu phẩy, loại",
+                                                             "translation":  "Từ: Janine Farber\nTới: Nhân viên của Tập đoàn tiếp thị Barker\nNgày: 25 tháng 9\nChủ đề: Cải tiến cửa ra vào\nNhư nhiều bạn đã nhận thấy, lối vào chính của tòa nhà của chúng tôi là trong điều kiện xuống cấp (131). Nó đang rất cần sự quan tâm sửa chữa. Do đó, bắt đầu từ 6 giờ chiều vào thứ sáu, lối vào chính sẽ bị đóng cửa (132) trong khoảng một tháng khi nó được cải tạo. Những thay đổi sẽ làm cho cho lối vào hiện đại và hợp lý hơn.\nTrong khi (133) lối vào chính bị đóng, nhân viên và khách có thể sử dụng lối vào phụ để vào tòa nhà. Tất cả các văn phòng ở tầng hầm sẽ vẫn có thể vào. (134)."
+                                                         },
+                                                         {
+                                                             "number":  "134",
+                                                             "prompt":  "",
+                                                             "promptHtml":  "",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A. All ground floor offices will remain"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B. The construction firm has won several…"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C. The building is more than 50 years old."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "D",
+                                                                                 "text":  "D. The board of directors is discussing the"
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "A",
+                                                             "transcript":  "",
+                                                             "explanation":  "Đáp án đúng: A\nDựa vào nghĩa câu ngay trước chọn đáp án đúng, “While the main entrance is closed, employees and visitors may use the side entrances to gain access to the building” nghĩa là “Trong khi lối vào chính bị đóng, nhân viên và khách có thể sử dụng lối vào phụ để vào tòa nhà\nA. Tất cả các văn phòng ở tầng trệt sẽ vẫn có thể vào =\u003e câu trước nói về địa điểm vẫn có thể dùng để vào tòa nhà là lối phụ, nên câu sau phải nối tiếp vấn đề về địa điểm nào khác vẫn có thể được đi vào, chọn\nB. Công ty xây dựng đã thắng một số giải.\nC. Tòa nhà đã hơn 50 tuổi\nD. Ban giám đốc đang bàn bạc về dự án",
+                                                             "translation":  "Từ: Janine Farber\nTới: Nhân viên của Tập đoàn tiếp thị Barker\nNgày: 25 tháng 9\nChủ đề: Cải tiến cửa ra vào\nNhư nhiều bạn đã nhận thấy, lối vào chính của tòa nhà của chúng tôi là trong điều kiện xuống cấp (131). Nó đang rất cần sự quan tâm sửa chữa. Do đó, bắt đầu từ 6 giờ chiều vào thứ sáu, lối vào chính sẽ bị đóng cửa (132) trong khoảng một tháng khi nó được cải tạo. Những thay đổi sẽ làm cho cho lối vào hiện đại và hợp lý hơn.\nTrong khi (133) lối vào chính bị đóng, nhân viên và khách có thể sử dụng lối vào phụ để vào tòa nhà. Tất cả các văn phòng ở tầng hầm sẽ vẫn có thể vào. (134)."
+                                                         }
+                                                     ]
+                                   },
+                          "audioUrls":  [
+
+                                        ],
+                          "imageUrls":  [
+
+                                        ]
+                      }
+                  ],
+    "title":  "Luyện tập: Thông báo nội bộ (Memo)",
+    "lessonTitle":  "Luyện tập theo hình thức văn bản",
+    "imageUrls":  [
+
+                  ]
+}
