@@ -1,0 +1,74 @@
+{
+    "expectedQuestions":  1,
+    "activityId":  "9835",
+    "text":  "",
+    "audioUrls":  [
+                      "/media/tez_media/sound/ets_toeic_2018_test_5_92_94.mp3",
+                      "https://s4-media1.study4.com/media/tez_media/sound/ets_toeic_2018_test_5_92_94.mp3"
+                  ],
+    "videos":  [
+
+               ],
+    "html":  "",
+    "complete":  false,
+    "questions":  [
+                      {
+                          "id":  "450812",
+                          "data":  {
+                                       "questionBankComplete":  false,
+                                       "sample":  {
+                                                      "id":  "15283",
+                                                      "answerAvailable":  false,
+                                                      "prompt":  "Who most likely is the speaker?\nA. An architect\nB. A contractor\nC. A real estate agent\nD. A financial consultant",
+                                                      "imageUrls":  [
+
+                                                                    ],
+                                                      "audioUrls":  [
+                                                                        "/media/tez_media/sound/ets_toeic_2018_test_5_92_94.mp3",
+                                                                        "https://s4-media1.study4.com/media/tez_media/sound/ets_toeic_2018_test_5_92_94.mp3"
+                                                                    ],
+                                                      "correctAnswer":  null,
+                                                      "options":  [
+                                                                      {
+                                                                          "key":  "A",
+                                                                          "text":  "A. An architect"
+                                                                      },
+                                                                      {
+                                                                          "key":  "B",
+                                                                          "text":  "B. A contractor"
+                                                                      },
+                                                                      {
+                                                                          "key":  "C",
+                                                                          "text":  "C. A real estate agent"
+                                                                      },
+                                                                      {
+                                                                          "key":  "D",
+                                                                          "text":  "D. A financial consultant"
+                                                                      }
+                                                                  ]
+                                                  },
+                                       "sourceUrl":  "https://study4.com/practice/problem/?format_exam=1\u0026format_section=2\u0026format_part=5\u0026title=(%3F%3APractice%20Set%7CSample%20TOEIC%20Test%20(10%7C%5B1-9%5D))%5Cy\u0026view=embed",
+                                       "type":  "practice-pool",
+                                       "filters":  {
+                                                       "format_exam":  "1",
+                                                       "format_section":  "2",
+                                                       "format_part":  "5",
+                                                       "title":  "(?:Practice Set|Sample TOEIC Test (10|[1-9]))\\y"
+                                                   }
+                                   },
+                          "audioUrls":  [
+                                            "/media/tez_media/sound/ets_toeic_2018_test_5_92_94.mp3",
+                                            "https://s4-media1.study4.com/media/tez_media/sound/ets_toeic_2018_test_5_92_94.mp3"
+                                        ],
+                          "imageUrls":  [
+
+                                        ]
+                      }
+                  ],
+    "collectionStatus":  "dynamic-pool",
+    "title":  "Luyện tập: Trắc nghiệm format TOEIC",
+    "lessonTitle":  "PRACTICE ZONE",
+    "imageUrls":  [
+
+                  ]
+}

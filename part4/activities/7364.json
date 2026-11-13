@@ -1,0 +1,1503 @@
+{
+    "expectedQuestions":  13,
+    "activityId":  "7364",
+    "text":  "",
+    "audioUrls":  [
+                      "/media/toeic_course_problems/audio/sound_ets_toeic_2022_test_3_71_73.mp3",
+                      "/media/toeic_course_problems/audio/sound_ets_toeic_2022_test_2_83_85.mp3",
+                      "/media/toeic_course_problems/audio/sound_ets_toeic_2022_test_1_83_85.mp3",
+                      "/media/toeic_course_problems/audio/sound_ets_toeic_2022_test_1_77_79.mp3",
+                      "/media/toeic_course_problems/audio/sound_ets_toeic_2022_test_4_71_73.mp3",
+                      "/media/toeic_course_problems/audio/sound_ets_toeic_2022_test_4_74_76.mp3",
+                      "/media/toeic_course_problems/audio/sound_ets_toeic_2022_test_4_95_97.mp3",
+                      "/media/toeic_course_problems/audio/sound_ets_toeic_2022_test_5_95_97.mp3",
+                      "/media/toeic_course_problems/audio/sound_eco_toeic_1000_test_2_77_79.mp3",
+                      "/media/toeic_course_problems/audio/sound_eco_toeic_1000_test_2_83_85.mp3",
+                      "/media/toeic_course_problems/audio/sound_ets_toeic_2022_test_8_95_97.mp3",
+                      "/media/toeic_course_problems/audio/sound_ets_toeic_2022_test_10_74_76.mp3",
+                      "/media/toeic_course_problems/audio/sound_1619508285_1619575624.mp3"
+                  ],
+    "videos":  [
+
+               ],
+    "html":  "",
+    "complete":  true,
+    "questions":  [
+                      {
+                          "id":  "405134",
+                          "data":  {
+                                       "questions":  [
+                                                         {
+                                                             "number":  "71",
+                                                             "prompt":  "Where is the announcement most likely being made?",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A. At a train station"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B. At a bus station"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C. At an airport"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "D",
+                                                                                 "text":  "D. At a ferry terminal"
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "B",
+                                                             "transcript":  "(71) Attention, passengers. On Monday, some of our major bus routes will begin departing from another part of the station. All buses to Freeport, Johnstown, and Grant City will be leaving from gates 300 through 305 on the west side of the building. (72) This change will help us to improve traffic flow. (73) Since the new gates are a ten-minute walk from the ticket counter, we recommend allowing yourself extra time to walk there.",
+                                                             "explanation":  "Đáp án đúng: B\nThông báo có nhiều khả năng được thực hiện nhất ở đâu?\nDạng bài Announcement - Thông báo. Câu hỏi về địa điểm diễn ra thông báo. Dựa vào mạch nói, thường là câu đầu tiên, thông tin nằm ở phần chào hỏi, giới thiệu, thông báo vấn đề. Nghe được Attention, passengers. On Monday, some of our major bus routes will begin departing from another part of the station. → Hành khách chú ý. Vào thứ Hai, một số tuyến xe buýt chính của chúng tôi sẽ bắt đầu khởi hành từ một phần khác của nhà ga. Keyword: passengers (hành khách), bus routes (tuyến xe buýt), departing (khởi hành), station (nhà ga)\n→ Đáp án: B",
+                                                             "translation":  "(71) Hành khách chú ý. Vào thứ Hai, một số tuyến xe buýt chính của chúng tôi sẽ bắt đầu khởi hành từ một phần khác của nhà ga. Tất cả các chuyến xe buýt đến Freeport, Johnstown và Grant City sẽ khởi hành từ cổng 300 đến 305 ở phía tây của tòa nhà. (72) Thay đổi này sẽ giúp chúng ta cải thiện lưu lượng giao thông. (73) Vì các cổng mới cách quầy vé mười phút đi bộ, chúng tôi khuyên bạn nên cho phép mình có thêm thời gian để đi bộ đến đó."
+                                                         },
+                                                         {
+                                                             "number":  "72",
+                                                             "prompt":  "Why is a change being made?",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A. It will improve traffic flow."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B. It will keep prices low."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C. It will increase energy efficiency."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "D",
+                                                                                 "text":  "D. It will save staff time."
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "A",
+                                                             "transcript":  "(71) Attention, passengers. On Monday, some of our major bus routes will begin departing from another part of the station. All buses to Freeport, Johnstown, and Grant City will be leaving from gates 300 through 305 on the west side of the building. (72) This change will help us to improve traffic flow. (73) Since the new gates are a ten-minute walk from the ticket counter, we recommend allowing yourself extra time to walk there.",
+                                                             "explanation":  "Đáp án đúng: A\nTại sao một thay đổi được thực hiện?\nCâu hỏi về thông tin chi tiết. Nghe được This change will help us to improve traffic flow. → Thay đổi này sẽ giúp chúng ta cải thiện lưu lượng giao thông. Keyword: help (giúp), improve (cải thiện)\n→ Đáp án: A",
+                                                             "translation":  "(71) Hành khách chú ý. Vào thứ Hai, một số tuyến xe buýt chính của chúng tôi sẽ bắt đầu khởi hành từ một phần khác của nhà ga. Tất cả các chuyến xe buýt đến Freeport, Johnstown và Grant City sẽ khởi hành từ cổng 300 đến 305 ở phía tây của tòa nhà. (72) Thay đổi này sẽ giúp chúng ta cải thiện lưu lượng giao thông. (73) Vì các cổng mới cách quầy vé mười phút đi bộ, chúng tôi khuyên bạn nên cho phép mình có thêm thời gian để đi bộ đến đó."
+                                                         },
+                                                         {
+                                                             "number":  "73",
+                                                             "prompt":  "What does the speaker recommend?",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A. Filling out a survey"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B. Printing some tickets"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C. Checking online for updates"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "D",
+                                                                                 "text":  "D. Allowing extra time"
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "D",
+                                                             "transcript":  "(71) Attention, passengers. On Monday, some of our major bus routes will begin departing from another part of the station. All buses to Freeport, Johnstown, and Grant City will be leaving from gates 300 through 305 on the west side of the building. (72) This change will help us to improve traffic flow. (73) Since the new gates are a ten-minute walk from the ticket counter, we recommend allowing yourself extra time to walk there.",
+                                                             "explanation":  "Đáp án đúng: D\nNgười nói đề nghị điều gì?\nCâu hỏi đề nghị, gợi ý. Nghe được Since the new gates are a ten-minute walk from the ticket counter, we recommend allowing yourself extra time to walk there. → Vì các cổng mới cách quầy vé mười phút đi bộ, chúng tôi khuyên bạn nên cho phép mình có thêm thời gian để đi bộ đến đó. Keyword: allowing extra time (dành thêm thời gian)\n→ Đáp án: D",
+                                                             "translation":  "(71) Hành khách chú ý. Vào thứ Hai, một số tuyến xe buýt chính của chúng tôi sẽ bắt đầu khởi hành từ một phần khác của nhà ga. Tất cả các chuyến xe buýt đến Freeport, Johnstown và Grant City sẽ khởi hành từ cổng 300 đến 305 ở phía tây của tòa nhà. (72) Thay đổi này sẽ giúp chúng ta cải thiện lưu lượng giao thông. (73) Vì các cổng mới cách quầy vé mười phút đi bộ, chúng tôi khuyên bạn nên cho phép mình có thêm thời gian để đi bộ đến đó."
+                                                         }
+                                                     ],
+                                       "context":  "",
+                                       "transcript":  "(71) Attention, passengers. On Monday, some of our major bus routes will begin departing from another part of the station. All buses to Freeport, Johnstown, and Grant City will be leaving from gates 300 through 305 on the west side of the building. (72) This change will help us to improve traffic flow. (73) Since the new gates are a ten-minute walk from the ticket counter, we recommend allowing yourself extra time to walk there.",
+                                       "translation":  "(71) Hành khách chú ý. Vào thứ Hai, một số tuyến xe buýt chính của chúng tôi sẽ bắt đầu khởi hành từ một phần khác của nhà ga. Tất cả các chuyến xe buýt đến Freeport, Johnstown và Grant City sẽ khởi hành từ cổng 300 đến 305 ở phía tây của tòa nhà. (72) Thay đổi này sẽ giúp chúng ta cải thiện lưu lượng giao thông. (73) Vì các cổng mới cách quầy vé mười phút đi bộ, chúng tôi khuyên bạn nên cho phép mình có thêm thời gian để đi bộ đến đó.",
+                                       "type":  "mcq"
+                                   },
+                          "audioUrls":  [
+                                            "/media/toeic_course_problems/audio/sound_ets_toeic_2022_test_3_71_73.mp3"
+                                        ],
+                          "imageUrls":  [
+
+                                        ]
+                      },
+                      {
+                          "id":  "405135",
+                          "data":  {
+                                       "questions":  [
+                                                         {
+                                                             "number":  "83",
+                                                             "prompt":  "Where is the announcement being made?",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A. At a technology firm"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B. At a repair shop"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C. At a factory"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "D",
+                                                                                 "text":  "D. At a law office"
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "C",
+                                                             "transcript":  "(83) Attention, Home Furniture factory employees. The software program we use for clocking in and out isn\u0027t working. This means you cannot enter your hours electronically. Instead, (84) when your shift\u0027s over, please write your start and end time on the form that\u0027s on the receptionist\u0027s desk. The form already includes your name and the machine you operate. I know this is a hassle, but it\u0027s only temporary - (85) the time reporting software will be working when you get to the factory tomorrow morning.",
+                                                             "explanation":  "Đáp án đúng: C\nThông báo được thực hiện ở đâu?\nDạng bài Announcement - Thông báo. Câu hỏi về địa điểm thông báo → Thông tin thường nằm ở phần đầu tiên. Nghe được Attention, Home Furniture factory employees. → Tất cả công nhân của nhà máy Home Furniture chú ý. → Thông báo tại nhà máy Home Furniture. Keyword: factory (nhà máy)\n→ Chọn C",
+                                                             "translation":  "(83) Chú ý, nhân viên nhà máy Home Furniture. Chương trình phần mềm chúng ta sử dụng để theo dõi thời gian ra vào không hoạt động. Điều này có nghĩa là các bạn không thể nhập giờ của mình theo cách điện tử. Thay vào đó, (84) khi ca làm việc của các bạn kết thúc, vui lòng viết thời gian bắt đầu và kết thúc của bạn vào biểu mẫu trên bàn tiếp tân. Biểu mẫu đã bao gồm tên của bạn và máy bạn vận hành. Tôi biết đây là một rắc rối, nhưng đó chỉ là tạm thời - (85) phần mềm báo cáo thời gian sẽ hoạt động khi các bạn đến nhà máy vào sáng mai."
+                                                         },
+                                                         {
+                                                             "number":  "84",
+                                                             "prompt":  "Where should the listeners go at the end of their shifts?",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A. To the company cafeteria"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B. To the receptionist\u0027s desk"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C. To the locker room"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "D",
+                                                                                 "text":  "D. To the parking area"
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "B",
+                                                             "transcript":  "(83) Attention, Home Furniture factory employees. The software program we use for clocking in and out isn\u0027t working. This means you cannot enter your hours electronically. Instead, (84) when your shift\u0027s over, please write your start and end time on the form that\u0027s on the receptionist\u0027s desk. The form already includes your name and the machine you operate. I know this is a hassle, but it\u0027s only temporary - (85) the time reporting software will be working when you get to the factory tomorrow morning.",
+                                                             "explanation":  "Đáp án đúng: B\nNgười nghe nên tới đâu vào cuối ca làm việc của họ?\nCâu hỏi gợi ý, yêu cầu. Nghe được Instead, when your shift\u0027s over, please write your start and end time on the form that\u0027s on the receptionist\u0027s desk. → Sau khi ca làm của bạn kết thúc, đến bàn lễ tân để viết thời gian bắt đầu và kết thúc. Keyword: over (kết thúc), on the receptionist’s desk (tại bàn lễ tân)\n→ Đáp án: B",
+                                                             "translation":  "(83) Chú ý, nhân viên nhà máy Home Furniture. Chương trình phần mềm chúng ta sử dụng để theo dõi thời gian ra vào không hoạt động. Điều này có nghĩa là các bạn không thể nhập giờ của mình theo cách điện tử. Thay vào đó, (84) khi ca làm việc của các bạn kết thúc, vui lòng viết thời gian bắt đầu và kết thúc của bạn vào biểu mẫu trên bàn tiếp tân. Biểu mẫu đã bao gồm tên của bạn và máy bạn vận hành. Tôi biết đây là một rắc rối, nhưng đó chỉ là tạm thời - (85) phần mềm báo cáo thời gian sẽ hoạt động khi các bạn đến nhà máy vào sáng mai."
+                                                         },
+                                                         {
+                                                             "number":  "85",
+                                                             "prompt":  "What will happen tomorrow?",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A. Some office furniture will be delivered."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B. New board members will be elected."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C. A city official will conduct an inspection."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "D",
+                                                                                 "text":  "D. Some time-reporting software will be fixed."
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "D",
+                                                             "transcript":  "(83) Attention, Home Furniture factory employees. The software program we use for clocking in and out isn\u0027t working. This means you cannot enter your hours electronically. Instead, (84) when your shift\u0027s over, please write your start and end time on the form that\u0027s on the receptionist\u0027s desk. The form already includes your name and the machine you operate. I know this is a hassle, but it\u0027s only temporary - (85) the time reporting software will be working when you get to the factory tomorrow morning.",
+                                                             "explanation":  "Đáp án đúng: D\nĐiều gì sẽ xảy ra vào ngày mai?\nCâu hỏi về hành động tiếp theo. Nghe được the time reporting software will be working when you get to the factory tomorrow morning. → Ngày mai phần mềm theo dõi thời gian sẽ hoạt động lại. Keyword: time-reporting software (phần mềm theo dõi thời gian), will be working (sẽ hoạt động)\n→ Đáp án: D",
+                                                             "translation":  "(83) Chú ý, nhân viên nhà máy Home Furniture. Chương trình phần mềm chúng ta sử dụng để theo dõi thời gian ra vào không hoạt động. Điều này có nghĩa là các bạn không thể nhập giờ của mình theo cách điện tử. Thay vào đó, (84) khi ca làm việc của các bạn kết thúc, vui lòng viết thời gian bắt đầu và kết thúc của bạn vào biểu mẫu trên bàn tiếp tân. Biểu mẫu đã bao gồm tên của bạn và máy bạn vận hành. Tôi biết đây là một rắc rối, nhưng đó chỉ là tạm thời - (85) phần mềm báo cáo thời gian sẽ hoạt động khi các bạn đến nhà máy vào sáng mai."
+                                                         }
+                                                     ],
+                                       "context":  "",
+                                       "transcript":  "(83) Attention, Home Furniture factory employees. The software program we use for clocking in and out isn\u0027t working. This means you cannot enter your hours electronically. Instead, (84) when your shift\u0027s over, please write your start and end time on the form that\u0027s on the receptionist\u0027s desk. The form already includes your name and the machine you operate. I know this is a hassle, but it\u0027s only temporary - (85) the time reporting software will be working when you get to the factory tomorrow morning.",
+                                       "translation":  "(83) Chú ý, nhân viên nhà máy Home Furniture. Chương trình phần mềm chúng ta sử dụng để theo dõi thời gian ra vào không hoạt động. Điều này có nghĩa là các bạn không thể nhập giờ của mình theo cách điện tử. Thay vào đó, (84) khi ca làm việc của các bạn kết thúc, vui lòng viết thời gian bắt đầu và kết thúc của bạn vào biểu mẫu trên bàn tiếp tân. Biểu mẫu đã bao gồm tên của bạn và máy bạn vận hành. Tôi biết đây là một rắc rối, nhưng đó chỉ là tạm thời - (85) phần mềm báo cáo thời gian sẽ hoạt động khi các bạn đến nhà máy vào sáng mai.",
+                                       "type":  "mcq"
+                                   },
+                          "audioUrls":  [
+                                            "/media/toeic_course_problems/audio/sound_ets_toeic_2022_test_2_83_85.mp3"
+                                        ],
+                          "imageUrls":  [
+
+                                        ]
+                      },
+                      {
+                          "id":  "405136",
+                          "data":  {
+                                       "questions":  [
+                                                         {
+                                                             "number":  "83",
+                                                             "prompt":  "What is the purpose of the plan?",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A. To support local businesses"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B. To promote tourism"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C. To decrease traffic"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "D",
+                                                                                 "text":  "D. To reduce government spending"
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "C",
+                                                             "transcript":  "Welcome, everyone. (83) On behalf of the Department of Transportation, I\u0027d like to announce a new experimental program to reduce traffic in Greenville. Beginning in January, there will be a ten-dollar fee for each car that enters the city. (84) There will, however, be a lower fee for people who commute to Greenville for work. They will be asked to pay five dollars rather than ten dollars. These charges are aimed at deterring drivers from coming into this very crowded area. (85) The program will be in effect for three months. After that, we will determine if the program has decreased traffic congestion enough to continue it permanently.",
+                                                             "explanation":  "Đáp án đúng: C\nMục đích của kế hoạch là gì?\nDạng bài: Announcement (thông báo). Câu hỏi về mục đích của thông báo. Dựa trên mạch nói của bài thông báo, thông tin sẽ nằm ở câu thứ hai sau phần chào hỏi/ giới thiệu người nói. Nghe được I\u0027d like to announce a new experimental program to reduce traffic in Greenville. → tôi muốn thông báo một chương trình thử nghiệm mới để giảm lưu lượng giao thông ở Greenville → Thông báo này nhằm mục đích nói về chương trình thử nghiệm mới. Keyword: reduce (giảm)\n→ Đáp án: C",
+                                                             "translation":  "Chào mừng tất cả mọi người. (83) Thay mặt Sở Giao thông vận tải, tôi muốn thông báo một chương trình thử nghiệm mới để giảm lưu lượng giao thông ở Greenville. Bắt đầu từ tháng Giêng, sẽ có một khoản phí 10 đô la cho mỗi chiếc xe hơi vào thành phố. (84) Tuy nhiên, sẽ có mức phí thấp hơn cho những người đến Greenville để làm việc. Họ sẽ được yêu cầu trả năm đô la thay vì mười đô la. Những khoản phí này nhằm mục đích răn đe các tài xế đi vào khu vực rất đông đúc này. (85) Chương trình sẽ có hiệu lực trong ba tháng. Sau đó, chúng tôi sẽ xác định xem chương trình đã giảm tắc nghẽn giao thông đủ để tiếp tục nó vĩnh viễn hay chưa."
+                                                         },
+                                                         {
+                                                             "number":  "84",
+                                                             "prompt":  "Who does the speaker say will receive a discount?",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A. Commuters"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B. Senior citizens"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C. Students"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "D",
+                                                                                 "text":  "D. City officials"
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "A",
+                                                             "transcript":  "Welcome, everyone. (83) On behalf of the Department of Transportation, I\u0027d like to announce a new experimental program to reduce traffic in Greenville. Beginning in January, there will be a ten-dollar fee for each car that enters the city. (84) There will, however, be a lower fee for people who commute to Greenville for work. They will be asked to pay five dollars rather than ten dollars. These charges are aimed at deterring drivers from coming into this very crowded area. (85) The program will be in effect for three months. After that, we will determine if the program has decreased traffic congestion enough to continue it permanently.",
+                                                             "explanation":  "Đáp án đúng: A\nNgười nói nói ai sẽ được giảm giá?\nĐây là câu hỏi về thông tin chi tiết. Thông tin sẽ nằm sau phần mục đích. Nghe được There will, however, be a lower fee for people who commute to Greenville for work. → Những người di chuyển đến Greenville để làm việc sẽ phải trả ít tiền hơn. Keyword: lower fee (mức phí thấp hơn), commute (di chuyển)\n→ Đáp án: A",
+                                                             "translation":  "Chào mừng tất cả mọi người. (83) Thay mặt Sở Giao thông vận tải, tôi muốn thông báo một chương trình thử nghiệm mới để giảm lưu lượng giao thông ở Greenville. Bắt đầu từ tháng Giêng, sẽ có một khoản phí 10 đô la cho mỗi chiếc xe hơi vào thành phố. (84) Tuy nhiên, sẽ có mức phí thấp hơn cho những người đến Greenville để làm việc. Họ sẽ được yêu cầu trả năm đô la thay vì mười đô la. Những khoản phí này nhằm mục đích răn đe các tài xế đi vào khu vực rất đông đúc này. (85) Chương trình sẽ có hiệu lực trong ba tháng. Sau đó, chúng tôi sẽ xác định xem chương trình đã giảm tắc nghẽn giao thông đủ để tiếp tục nó vĩnh viễn hay chưa."
+                                                         },
+                                                         {
+                                                             "number":  "85",
+                                                             "prompt":  "What will happen after three months?",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A. A survey will be distributed."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B. A new director will take over."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C. A bus line will be added."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "D",
+                                                                                 "text":  "D. A program evaluation will take place."
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "D",
+                                                             "transcript":  "Welcome, everyone. (83) On behalf of the Department of Transportation, I\u0027d like to announce a new experimental program to reduce traffic in Greenville. Beginning in January, there will be a ten-dollar fee for each car that enters the city. (84) There will, however, be a lower fee for people who commute to Greenville for work. They will be asked to pay five dollars rather than ten dollars. These charges are aimed at deterring drivers from coming into this very crowded area. (85) The program will be in effect for three months. After that, we will determine if the program has decreased traffic congestion enough to continue it permanently.",
+                                                             "explanation":  "Đáp án đúng: D\nĐiều gì sẽ xảy ra sau ba tháng?\nĐây là câu hỏi về thông tin chi tiết. Nghe được After that, we will determine if the program has decreased traffic congestion enough to continue it permanently. → Chương trình này sẽ có hiệu lực trong vòng 3 tháng và sau đó họ sẽ xác định xem chương trình này có thật sự có hiệu quả không. Keyword: determine (xác định)\n→ Đáp án: D",
+                                                             "translation":  "Chào mừng tất cả mọi người. (83) Thay mặt Sở Giao thông vận tải, tôi muốn thông báo một chương trình thử nghiệm mới để giảm lưu lượng giao thông ở Greenville. Bắt đầu từ tháng Giêng, sẽ có một khoản phí 10 đô la cho mỗi chiếc xe hơi vào thành phố. (84) Tuy nhiên, sẽ có mức phí thấp hơn cho những người đến Greenville để làm việc. Họ sẽ được yêu cầu trả năm đô la thay vì mười đô la. Những khoản phí này nhằm mục đích răn đe các tài xế đi vào khu vực rất đông đúc này. (85) Chương trình sẽ có hiệu lực trong ba tháng. Sau đó, chúng tôi sẽ xác định xem chương trình đã giảm tắc nghẽn giao thông đủ để tiếp tục nó vĩnh viễn hay chưa."
+                                                         }
+                                                     ],
+                                       "context":  "",
+                                       "transcript":  "Welcome, everyone. (83) On behalf of the Department of Transportation, I\u0027d like to announce a new experimental program to reduce traffic in Greenville. Beginning in January, there will be a ten-dollar fee for each car that enters the city. (84) There will, however, be a lower fee for people who commute to Greenville for work. They will be asked to pay five dollars rather than ten dollars. These charges are aimed at deterring drivers from coming into this very crowded area. (85) The program will be in effect for three months. After that, we will determine if the program has decreased traffic congestion enough to continue it permanently.",
+                                       "translation":  "Chào mừng tất cả mọi người. (83) Thay mặt Sở Giao thông vận tải, tôi muốn thông báo một chương trình thử nghiệm mới để giảm lưu lượng giao thông ở Greenville. Bắt đầu từ tháng Giêng, sẽ có một khoản phí 10 đô la cho mỗi chiếc xe hơi vào thành phố. (84) Tuy nhiên, sẽ có mức phí thấp hơn cho những người đến Greenville để làm việc. Họ sẽ được yêu cầu trả năm đô la thay vì mười đô la. Những khoản phí này nhằm mục đích răn đe các tài xế đi vào khu vực rất đông đúc này. (85) Chương trình sẽ có hiệu lực trong ba tháng. Sau đó, chúng tôi sẽ xác định xem chương trình đã giảm tắc nghẽn giao thông đủ để tiếp tục nó vĩnh viễn hay chưa.",
+                                       "type":  "mcq"
+                                   },
+                          "audioUrls":  [
+                                            "/media/toeic_course_problems/audio/sound_ets_toeic_2022_test_1_83_85.mp3"
+                                        ],
+                          "imageUrls":  [
+
+                                        ]
+                      },
+                      {
+                          "id":  "405931",
+                          "data":  {
+                                       "questions":  [
+                                                         {
+                                                             "number":  "77",
+                                                             "prompt":  "Where does the announcement take place?",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A. At a sports arena"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B. At a concert hall"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C. At an art museum"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "D",
+                                                                                 "text":  "D. At a movie theater"
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "D",
+                                                             "transcript":  "W-Br Attention, everyone. (77) Unfortunately, we\u0027ve had to stop the movie. As you\u0027ve probably noticed, (78) we\u0027re having technical difficulties with the audio. I\u0027m very sorry about this-we take our sound quality seriously and want you to know we\u0027ll have technicians here as soon as possible to resolve this issue. As you exit, (79) please stop by the customer service desk in the lobby to pick up two free tickets for your next movie. Again, my apologies for the inconvenience.",
+                                                             "explanation":  "Đáp án đúng: D\nThông báo diễn ra ở đâu?\nA. Tại một đấu trường thể thao\nB. Tại phòng hòa nhạc\nC. Tại một bảo tàng nghệ thuật\nD. Tại rạp chiếu phim\nĐây là một câu hỏi về địa điểm hội thoại, cần nghe toàn bộ bài và chú ý vào các từ khóa liên quan. Trong đoạn có những từ khoá ‘movie’, ‘audio’, ‘tickets’, tất cả đều dẫn đến đáp án D.",
+                                                             "translation":  "W-Br Xin hãy chú ý, mọi người. (77) Thật không may, chúng tôi đã phải dừng bộ phim. Như các bạn có thể đã nhận thấy, (78) chúng tôi đang gặp sự cố kỹ thuật với âm thanh. Tôi rất tiếc về điều này - chúng tôi rất coi trọng chất lượng âm thanh của mình và muốn các bạn biết rằng chúng tôi sẽ có kỹ thuật viên ở đây sớm nhất có thể để giải quyết vấn đề này. Khi bạn ra về, (79) vui lòng ghé lại quầy dịch vụ khách hàng ở sảnh đợi để nhận hai vé miễn phí cho bộ phim tiếp theo của các bạn. Một lần nữa, tôi xin lỗi vì sự bất tiện này."
+                                                         },
+                                                         {
+                                                             "number":  "78",
+                                                             "prompt":  "Why does the speaker apologize?",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A. A presenter has been delayed."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B. Some lights have gone out."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C. A sound system is broken."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "D",
+                                                                                 "text":  "D. A construction project is noisy."
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "C",
+                                                             "transcript":  "W-Br Attention, everyone. (77) Unfortunately, we\u0027ve had to stop the movie. As you\u0027ve probably noticed, (78) we\u0027re having technical difficulties with the audio. I\u0027m very sorry about this-we take our sound quality seriously and want you to know we\u0027ll have technicians here as soon as possible to resolve this issue. As you exit, (79) please stop by the customer service desk in the lobby to pick up two free tickets for your next movie. Again, my apologies for the inconvenience.",
+                                                             "explanation":  "Đáp án đúng: C\nTại sao người nói xin lỗi?\nA. Một người trình bày đã bị trì hoãn.\nB. Một số đèn đã tắt.\nC. Một hệ thống âm thanh bị hỏng.\nD. Một dự án xây dựng ồn ào.\nCâu hỏi này yêu cầu tìm thông tin trong bài viết. Câu chứa đáp án là ‘we\u0027re having technical difficulties with the audio. I\u0027m very sorry about this-we take our sound quality seriously’; các từ ‘audio’ và ‘sound quality’ liên quan đến đáp án B nhất, do đó chọn B.",
+                                                             "translation":  "W-Br Xin hãy chú ý, mọi người. (77) Thật không may, chúng tôi đã phải dừng bộ phim. Như các bạn có thể đã nhận thấy, (78) chúng tôi đang gặp sự cố kỹ thuật với âm thanh. Tôi rất tiếc về điều này - chúng tôi rất coi trọng chất lượng âm thanh của mình và muốn các bạn biết rằng chúng tôi sẽ có kỹ thuật viên ở đây sớm nhất có thể để giải quyết vấn đề này. Khi bạn ra về, (79) vui lòng ghé lại quầy dịch vụ khách hàng ở sảnh đợi để nhận hai vé miễn phí cho bộ phim tiếp theo của các bạn. Một lần nữa, tôi xin lỗi vì sự bất tiện này."
+                                                         },
+                                                         {
+                                                             "number":  "79",
+                                                             "prompt":  "What does the speaker offer the listeners?",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A. A promotional item"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B. A parking voucher"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C. Discounted snacks"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "D",
+                                                                                 "text":  "D. Free tickets"
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "D",
+                                                             "transcript":  "W-Br Attention, everyone. (77) Unfortunately, we\u0027ve had to stop the movie. As you\u0027ve probably noticed, (78) we\u0027re having technical difficulties with the audio. I\u0027m very sorry about this-we take our sound quality seriously and want you to know we\u0027ll have technicians here as soon as possible to resolve this issue. As you exit, (79) please stop by the customer service desk in the lobby to pick up two free tickets for your next movie. Again, my apologies for the inconvenience.",
+                                                             "explanation":  "Đáp án đúng: D\nNgười nói cung cấp gì cho người nghe?\nA. Một mặt hàng khuyến mãi\nB. Phiếu gửi xe\nC. Quà vặt giảm giá\nD. Vé miễn phí\nĐây là câu hỏi tìm thông tin, vị trí của câu hỏi ở cuối nên cần nghe kĩ ở phần cuối hội thoại. Sau khi giải thích về sự cố, nhân viên đã đưa ra giải pháp để đền bù sự cố, đáp án ở câu ‘please stop by the customer service desk in the lobby to pick up two free tickets’, từ ‘free tickets’ có tại đáp án D.",
+                                                             "translation":  "W-Br Xin hãy chú ý, mọi người. (77) Thật không may, chúng tôi đã phải dừng bộ phim. Như các bạn có thể đã nhận thấy, (78) chúng tôi đang gặp sự cố kỹ thuật với âm thanh. Tôi rất tiếc về điều này - chúng tôi rất coi trọng chất lượng âm thanh của mình và muốn các bạn biết rằng chúng tôi sẽ có kỹ thuật viên ở đây sớm nhất có thể để giải quyết vấn đề này. Khi bạn ra về, (79) vui lòng ghé lại quầy dịch vụ khách hàng ở sảnh đợi để nhận hai vé miễn phí cho bộ phim tiếp theo của các bạn. Một lần nữa, tôi xin lỗi vì sự bất tiện này."
+                                                         }
+                                                     ],
+                                       "context":  "",
+                                       "transcript":  "W-Br Attention, everyone. (77) Unfortunately, we\u0027ve had to stop the movie. As you\u0027ve probably noticed, (78) we\u0027re having technical difficulties with the audio. I\u0027m very sorry about this-we take our sound quality seriously and want you to know we\u0027ll have technicians here as soon as possible to resolve this issue. As you exit, (79) please stop by the customer service desk in the lobby to pick up two free tickets for your next movie. Again, my apologies for the inconvenience.",
+                                       "translation":  "W-Br Xin hãy chú ý, mọi người. (77) Thật không may, chúng tôi đã phải dừng bộ phim. Như các bạn có thể đã nhận thấy, (78) chúng tôi đang gặp sự cố kỹ thuật với âm thanh. Tôi rất tiếc về điều này - chúng tôi rất coi trọng chất lượng âm thanh của mình và muốn các bạn biết rằng chúng tôi sẽ có kỹ thuật viên ở đây sớm nhất có thể để giải quyết vấn đề này. Khi bạn ra về, (79) vui lòng ghé lại quầy dịch vụ khách hàng ở sảnh đợi để nhận hai vé miễn phí cho bộ phim tiếp theo của các bạn. Một lần nữa, tôi xin lỗi vì sự bất tiện này.",
+                                       "type":  "mcq"
+                                   },
+                          "audioUrls":  [
+                                            "/media/toeic_course_problems/audio/sound_ets_toeic_2022_test_1_77_79.mp3"
+                                        ],
+                          "imageUrls":  [
+
+                                        ]
+                      },
+                      {
+                          "id":  "405932",
+                          "data":  {
+                                       "questions":  [
+                                                         {
+                                                             "number":  "71",
+                                                             "prompt":  "Who are the listeners?",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A. Residents in an apartment building"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B. Employees in an office building"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C. Visitors to a historical site"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "D",
+                                                                                 "text":  "D. Guests in a hotel"
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "A",
+                                                             "transcript":  "W-Am (71) Hello, Fairview Apartment residents. This is your property manager. (72) Due to repairs to the main water line along Chasman Boulevard, water service to all units at Fairview will be temporarily shut off on July fifteenth. I estimate that regular service will resume fully by five o\u0027clock, though (73) I recommend checking the building\u0027s social media page periodically. There\u0027ll be updates posted about possible delays. Thank you in advance for your patience and understanding.",
+                                                             "explanation":  "Đáp án đúng: A\nNhững người nghe là ai?\nA. Cư dân trong tòa nhà chung cư\nB. Nhân viên trong tòa nhà văn phòng\nC. Khách tham quan di tích lịch sử\nD. Khách trong khách sạn\nĐây là câu hỏi danh tính người nghe. Câu chứa đáp án là ‘Hello, Fairview Apartment residents.’, từ khoá nghe được là apartment và residents, do đó chọn A.",
+                                                             "translation":  "W-Am (71) Xin chào, cư dân Fairview Apartment. Đây là người quản lý khu nhà của bạn. (72) Do việc sửa chữa đường nước chính dọc theo Đại lộ Chasman, dịch vụ cấp nước cho tất cả các dãy nhà tại Fairview sẽ tạm thời ngừng hoạt động vào ngày 15 tháng 7. Tôi ước tính rằng dịch vụ bình thường sẽ hoạt động trở lại hoàn toàn trước 5 giờ, tuy nhiên (73) tôi khuyên các bạn nên kiểm tra trang mạng xã hội của tòa nhà theo định kỳ. Sẽ có thông tin cập nhật được đăng về sự chậm trễ có thể xảy ra. Cảm ơn các bạn trước vì sự kiên nhẫn và sự hiểu biết của các bạn."
+                                                         },
+                                                         {
+                                                             "number":  "72",
+                                                             "prompt":  "What service does the speaker say will be unavailable?",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A. Telephone"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B. Electric"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C. Water"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "D",
+                                                                                 "text":  "D. Natural gas"
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "C",
+                                                             "transcript":  "W-Am (71) Hello, Fairview Apartment residents. This is your property manager. (72) Due to repairs to the main water line along Chasman Boulevard, water service to all units at Fairview will be temporarily shut off on July fifteenth. I estimate that regular service will resume fully by five o\u0027clock, though (73) I recommend checking the building\u0027s social media page periodically. There\u0027ll be updates posted about possible delays. Thank you in advance for your patience and understanding.",
+                                                             "explanation":  "Đáp án đúng: C\nDịch vụ gì mà người nói nói sẽ không khả dụng?\nA. Điện thoại\nB. Điện\nC. Nước\nD. Khí tự nhiên\nĐây là câu hỏi về chi tiết, từ khoá ở câu hỏi là ‘service’ và ‘unavailable’, trong bài nói, dấu hiệu nhận biết thông tin bổ sung sắp đến là ‘This is your property manager.’, từ khoá nghe được sau đó là ‘repairs’, ‘main water line’, ‘water service’, các thông tin này đều liên quan đến đáp án C, từ khoá unavailable được paraphrase thành ‘temporarily shut off’.",
+                                                             "translation":  "W-Am (71) Xin chào, cư dân Fairview Apartment. Đây là người quản lý khu nhà của bạn. (72) Do việc sửa chữa đường nước chính dọc theo Đại lộ Chasman, dịch vụ cấp nước cho tất cả các dãy nhà tại Fairview sẽ tạm thời ngừng hoạt động vào ngày 15 tháng 7. Tôi ước tính rằng dịch vụ bình thường sẽ hoạt động trở lại hoàn toàn trước 5 giờ, tuy nhiên (73) tôi khuyên các bạn nên kiểm tra trang mạng xã hội của tòa nhà theo định kỳ. Sẽ có thông tin cập nhật được đăng về sự chậm trễ có thể xảy ra. Cảm ơn các bạn trước vì sự kiên nhẫn và sự hiểu biết của các bạn."
+                                                         },
+                                                         {
+                                                             "number":  "73",
+                                                             "prompt":  "According to the speaker, why should the listeners go online?",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A. To download software"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B. To check for status updates"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C. To register a complaint"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "D",
+                                                                                 "text":  "D. To view a price list"
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "B",
+                                                             "transcript":  "W-Am (71) Hello, Fairview Apartment residents. This is your property manager. (72) Due to repairs to the main water line along Chasman Boulevard, water service to all units at Fairview will be temporarily shut off on July fifteenth. I estimate that regular service will resume fully by five o\u0027clock, though (73) I recommend checking the building\u0027s social media page periodically. There\u0027ll be updates posted about possible delays. Thank you in advance for your patience and understanding.",
+                                                             "explanation":  "Đáp án đúng: B\nTheo người nói, tại sao người nghe phải vào mạng?\nA. Để tải phần mềm\nB. Để kiểm tra cập nhật trạng thái\nC. Đăng ký khiếu nại\nD. Để xem bảng giá\nĐây là câu hỏi về chi tiết, keyword trong câu hỏi là ‘go online’ và ‘should’, từ should trong câu hỏi được paraphrase thành ‘recommend’ và ‘go online’ thành ‘checking the building\u0027s social media page’ trong câu báo hiệu đáp án. Câu chứa lí do là ‘There\u0027ll be updates posted about possible delays’, tương ứng đáp án B.",
+                                                             "translation":  "W-Am (71) Xin chào, cư dân Fairview Apartment. Đây là người quản lý khu nhà của bạn. (72) Do việc sửa chữa đường nước chính dọc theo Đại lộ Chasman, dịch vụ cấp nước cho tất cả các dãy nhà tại Fairview sẽ tạm thời ngừng hoạt động vào ngày 15 tháng 7. Tôi ước tính rằng dịch vụ bình thường sẽ hoạt động trở lại hoàn toàn trước 5 giờ, tuy nhiên (73) tôi khuyên các bạn nên kiểm tra trang mạng xã hội của tòa nhà theo định kỳ. Sẽ có thông tin cập nhật được đăng về sự chậm trễ có thể xảy ra. Cảm ơn các bạn trước vì sự kiên nhẫn và sự hiểu biết của các bạn."
+                                                         }
+                                                     ],
+                                       "context":  "",
+                                       "transcript":  "W-Am (71) Hello, Fairview Apartment residents. This is your property manager. (72) Due to repairs to the main water line along Chasman Boulevard, water service to all units at Fairview will be temporarily shut off on July fifteenth. I estimate that regular service will resume fully by five o\u0027clock, though (73) I recommend checking the building\u0027s social media page periodically. There\u0027ll be updates posted about possible delays. Thank you in advance for your patience and understanding.",
+                                       "translation":  "W-Am (71) Xin chào, cư dân Fairview Apartment. Đây là người quản lý khu nhà của bạn. (72) Do việc sửa chữa đường nước chính dọc theo Đại lộ Chasman, dịch vụ cấp nước cho tất cả các dãy nhà tại Fairview sẽ tạm thời ngừng hoạt động vào ngày 15 tháng 7. Tôi ước tính rằng dịch vụ bình thường sẽ hoạt động trở lại hoàn toàn trước 5 giờ, tuy nhiên (73) tôi khuyên các bạn nên kiểm tra trang mạng xã hội của tòa nhà theo định kỳ. Sẽ có thông tin cập nhật được đăng về sự chậm trễ có thể xảy ra. Cảm ơn các bạn trước vì sự kiên nhẫn và sự hiểu biết của các bạn.",
+                                       "type":  "mcq"
+                                   },
+                          "audioUrls":  [
+                                            "/media/toeic_course_problems/audio/sound_ets_toeic_2022_test_4_71_73.mp3"
+                                        ],
+                          "imageUrls":  [
+
+                                        ]
+                      },
+                      {
+                          "id":  "405933",
+                          "data":  {
+                                       "questions":  [
+                                                         {
+                                                             "number":  "74",
+                                                             "prompt":  "Where does the announcement most likely take place?",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A. At a train station"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B. At a convention center"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C. At a restaurant"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "D",
+                                                                                 "text":  "D. At an outdoor market"
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "C",
+                                                             "transcript":  "W-Br (74) Before we begin tonight\u0027s dinner shift, I have some announcements. (75) Our grilled tuna dish was so popular last night that we actually sold out of it for the rest of the weekend. Please let diners know that it\u0027s not available. Also, we\u0027ll be dividing up the servers this evening-half of you will be working in the main dining room, and the rest of you will be in the special-events room for a private party. (76) It\u0027s going to be a busy evening, so I encourage you to help each other provide great service for our customers.",
+                                                             "explanation":  "Đáp án đúng: C\nThông báo có nhiều khả năng diễn ra ở đâu?\nA. Tại một nhà ga xe lửa\nB. Tại một trung tâm hội nghị\nC. Tại một nhà hàng\nD. Tại một khu chợ ngoài trời\nĐây là câu hỏi về địa điểm, thông tin sẽ nằm ở đầu đoạn văn khi người nói nói về mục đích thông báo. Từ khoá nghe được là ‘tonight\u0027s dinner shift’, nên người nói làm việc ở nhà hàng. Chọn đáp án C.",
+                                                             "translation":  "W-Br (74) Trước khi chúng ta bắt đầu ca ăn tối tối nay, tôi có một số thông báo. (75) Món cá ngừ nướng của chúng ta tối qua nổi tiếng đến nỗi chúng ta thực sự đã bán hết sạch cho những ngày cuối tuần còn lại. Xin vui lòng cho thực khách biết rằng nó không còn có sẵn. Ngoài ra, chúng ta sẽ chia những người phục vụ vào buổi tối này, một nửa số các bạn sẽ làm việc trong phòng ăn chính và phần còn lại của các bạn sẽ ở trong phòng sự kiện đặc biệt cho một bữa tiệc riêng. (76) Sẽ là một buổi tối bận rộn, vì vậy tôi khuyến khích các bạn giúp đỡ lẫn nhau để cung cấp dịch vụ tuyệt vời cho khách hàng của chúng ta."
+                                                         },
+                                                         {
+                                                             "number":  "75",
+                                                             "prompt":  "According to the speaker, what should customers be told?",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A. The Wi-Fi is not working."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B. A room is closed for renovations."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C. A schedule has been changed."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "D",
+                                                                                 "text":  "D. An item is unavailable."
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "D",
+                                                             "transcript":  "W-Br (74) Before we begin tonight\u0027s dinner shift, I have some announcements. (75) Our grilled tuna dish was so popular last night that we actually sold out of it for the rest of the weekend. Please let diners know that it\u0027s not available. Also, we\u0027ll be dividing up the servers this evening-half of you will be working in the main dining room, and the rest of you will be in the special-events room for a private party. (76) It\u0027s going to be a busy evening, so I encourage you to help each other provide great service for our customers.",
+                                                             "explanation":  "Đáp án đúng: D\nTheo người nói, khách hàng nên được thông báo điều gì?\nA. Wi-Fi không hoạt động.\nB. Một căn phòng đóng cửa để cải tạo.\nC. Một lịch trình đã được thay đổi.\nD. Một mặt hàng không có sẵn.\nĐây là câu hỏi về chi tiết. Sau ‘I have some announcements’ có thể thấy thông tin sắp tới có thể là đáp án của câu hỏi trên. Các keyword nghe được là ‘grilled tuna dish’, ‘popular last night’, ‘sold out’, ‘let diners know’ ‘not available’, thông tin suy ra là có một món ăn đã hết hàng và cần cho khách hàng biết điều này. Đáp án đúng là D.",
+                                                             "translation":  "W-Br (74) Trước khi chúng ta bắt đầu ca ăn tối tối nay, tôi có một số thông báo. (75) Món cá ngừ nướng của chúng ta tối qua nổi tiếng đến nỗi chúng ta thực sự đã bán hết sạch cho những ngày cuối tuần còn lại. Xin vui lòng cho thực khách biết rằng nó không còn có sẵn. Ngoài ra, chúng ta sẽ chia những người phục vụ vào buổi tối này, một nửa số các bạn sẽ làm việc trong phòng ăn chính và phần còn lại của các bạn sẽ ở trong phòng sự kiện đặc biệt cho một bữa tiệc riêng. (76) Sẽ là một buổi tối bận rộn, vì vậy tôi khuyến khích các bạn giúp đỡ lẫn nhau để cung cấp dịch vụ tuyệt vời cho khách hàng của chúng ta."
+                                                         },
+                                                         {
+                                                             "number":  "76",
+                                                             "prompt":  "What does the speaker encourage the listeners to do?",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A. Work together"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B. Arrive early"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C. Take extra shifts"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "D",
+                                                                                 "text":  "D. Greet customers"
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "A",
+                                                             "transcript":  "W-Br (74) Before we begin tonight\u0027s dinner shift, I have some announcements. (75) Our grilled tuna dish was so popular last night that we actually sold out of it for the rest of the weekend. Please let diners know that it\u0027s not available. Also, we\u0027ll be dividing up the servers this evening-half of you will be working in the main dining room, and the rest of you will be in the special-events room for a private party. (76) It\u0027s going to be a busy evening, so I encourage you to help each other provide great service for our customers.",
+                                                             "explanation":  "Đáp án đúng: A\nNgười nói khuyến khích người nghe làm gì?\nA. Làm việc cùng nhau\nB. Đến sớm\nC. Làm thêm ca\nD. Chào hỏi khách hàng\nĐây là câu hỏi yêu cầu, vị trí của câu hỏi ở cuối nên thông tin sẽ nằm ở cuối cuộc hội thoại. Dấu hiệu của đáp án là ‘It\u0027s going to be a busy evening’, do đây là một buổi tối bận rộn nên có thể sau đó người nói sẽ nói đề nghị của mình. Phần chứa đáp án là ‘so I encourage you to help each other’, từ khoá ‘help each other’ tương đương với đáp án A.",
+                                                             "translation":  "W-Br (74) Trước khi chúng ta bắt đầu ca ăn tối tối nay, tôi có một số thông báo. (75) Món cá ngừ nướng của chúng ta tối qua nổi tiếng đến nỗi chúng ta thực sự đã bán hết sạch cho những ngày cuối tuần còn lại. Xin vui lòng cho thực khách biết rằng nó không còn có sẵn. Ngoài ra, chúng ta sẽ chia những người phục vụ vào buổi tối này, một nửa số các bạn sẽ làm việc trong phòng ăn chính và phần còn lại của các bạn sẽ ở trong phòng sự kiện đặc biệt cho một bữa tiệc riêng. (76) Sẽ là một buổi tối bận rộn, vì vậy tôi khuyến khích các bạn giúp đỡ lẫn nhau để cung cấp dịch vụ tuyệt vời cho khách hàng của chúng ta."
+                                                         }
+                                                     ],
+                                       "context":  "",
+                                       "transcript":  "W-Br (74) Before we begin tonight\u0027s dinner shift, I have some announcements. (75) Our grilled tuna dish was so popular last night that we actually sold out of it for the rest of the weekend. Please let diners know that it\u0027s not available. Also, we\u0027ll be dividing up the servers this evening-half of you will be working in the main dining room, and the rest of you will be in the special-events room for a private party. (76) It\u0027s going to be a busy evening, so I encourage you to help each other provide great service for our customers.",
+                                       "translation":  "W-Br (74) Trước khi chúng ta bắt đầu ca ăn tối tối nay, tôi có một số thông báo. (75) Món cá ngừ nướng của chúng ta tối qua nổi tiếng đến nỗi chúng ta thực sự đã bán hết sạch cho những ngày cuối tuần còn lại. Xin vui lòng cho thực khách biết rằng nó không còn có sẵn. Ngoài ra, chúng ta sẽ chia những người phục vụ vào buổi tối này, một nửa số các bạn sẽ làm việc trong phòng ăn chính và phần còn lại của các bạn sẽ ở trong phòng sự kiện đặc biệt cho một bữa tiệc riêng. (76) Sẽ là một buổi tối bận rộn, vì vậy tôi khuyến khích các bạn giúp đỡ lẫn nhau để cung cấp dịch vụ tuyệt vời cho khách hàng của chúng ta.",
+                                       "type":  "mcq"
+                                   },
+                          "audioUrls":  [
+                                            "/media/toeic_course_problems/audio/sound_ets_toeic_2022_test_4_74_76.mp3"
+                                        ],
+                          "imageUrls":  [
+
+                                        ]
+                      },
+                      {
+                          "id":  "405934",
+                          "data":  {
+                                       "questions":  [
+                                                         {
+                                                             "number":  "95",
+                                                             "prompt":  "Where is the announcement being made?",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A. At a supermarket"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B. At a clothing store"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C. At an office supply store"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "D",
+                                                                                 "text":  "D. At a home garden center"
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "C",
+                                                             "transcript":  "W-Br Attention shoppers! (95) Thanks for coming to Link Office Superstore\u0027s annual sale. We offer the best prices in town on office supplies, desks, and chairs. There are a lot of people here for our special deals today, so lines for the cashiers are rather long. (96) To help speed up the checkout process, please use the express lane located near the exit if you\u0027re buying five items or fewer. Also, (97) if you\u0027re purchasing a large item and need help moving it, just let one of the employees know and they\u0027ll help you bring the item to your vehicle.",
+                                                             "explanation":  "Đáp án đúng: C\nThông báo được thực hiện ở đâu?\nA. Ở siêu thị\nB. Tại một cửa hàng quần áo\nC. Tại cửa hàng văn phòng phẩm\nD. Tại một trung tâm vườn nhà\nĐây là câu hỏi về địa điểm. Câu chứa đáp án là ‘Thanks for coming to Link Office Superstore\u0027s annual sale. We offer the best prices in town on office supplies, desks, and chairs.’, các keyword nghe được là ‘Office Superstore\u0027s’, ‘office supplies, desks, and chairs’. Đáp án C.",
+                                                             "translation":  "W-Br Người mua sắm chú ý! (95) Cảm ơn các bạn đã đến tham gia chương trình giảm giá hàng năm của Link Office Superstore. Chúng tôi cung cấp giá tốt nhất trong thị trấn về đồ dùng văn phòng, bàn và ghế. Có rất nhiều người ở đây cho các deal đặc biệt của chúng tôi ngày hôm nay, vì vậy hàng cho nhân viên thu ngân khá dài. (96) Để giúp đẩy nhanh quá trình thanh toán, vui lòng sử dụng làn nhanh gần lối ra nếu bạn đang mua năm mặt hàng trở xuống. Ngoài ra, (97) nếu bạn đang mua một món hàng lớn và cần hỗ trợ di chuyển, chỉ cần cho một trong các nhân viên biết và họ sẽ giúp bạn mang món hàng đó lên xe của bạn."
+                                                         },
+                                                         {
+                                                             "number":  "96",
+                                                             "prompt":  "Look at the graphic. Which lane is the express lane?",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A. Lane 1"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B. Lane 2"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C. Lane 3"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "D",
+                                                                                 "text":  "D. Lane 4"
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "D",
+                                                             "transcript":  "W-Br Attention shoppers! (95) Thanks for coming to Link Office Superstore\u0027s annual sale. We offer the best prices in town on office supplies, desks, and chairs. There are a lot of people here for our special deals today, so lines for the cashiers are rather long. (96) To help speed up the checkout process, please use the express lane located near the exit if you\u0027re buying five items or fewer. Also, (97) if you\u0027re purchasing a large item and need help moving it, just let one of the employees know and they\u0027ll help you bring the item to your vehicle.",
+                                                             "explanation":  "Đáp án đúng: D\nNhìn vào đồ họa. Làn nào là làn nhanh?\nA. Làn 1\nB. Làn 2\nC. Làn 3\nD. Làn 4\nĐây là câu hỏi kết hợp hình ảnh. Từ câu hỏi cần nghe từ khoá ‘express lane’ và quan sát vị trí của các làn để chọn đáp án phù hợp. Sau khi thông báo rằng do nhiều khách nên các làn thanh toán đều đông, nên người nói đưa giải pháp ‘To help speed up the checkout process, please…’, thông tin chứa đáp án là ‘the express lane located near the exit’, so với sơ đồ vị trí làn gần lối ra là làn số 4, chọn D.",
+                                                             "translation":  "W-Br Người mua sắm chú ý! (95) Cảm ơn các bạn đã đến tham gia chương trình giảm giá hàng năm của Link Office Superstore. Chúng tôi cung cấp giá tốt nhất trong thị trấn về đồ dùng văn phòng, bàn và ghế. Có rất nhiều người ở đây cho các deal đặc biệt của chúng tôi ngày hôm nay, vì vậy hàng cho nhân viên thu ngân khá dài. (96) Để giúp đẩy nhanh quá trình thanh toán, vui lòng sử dụng làn nhanh gần lối ra nếu bạn đang mua năm mặt hàng trở xuống. Ngoài ra, (97) nếu bạn đang mua một món hàng lớn và cần hỗ trợ di chuyển, chỉ cần cho một trong các nhân viên biết và họ sẽ giúp bạn mang món hàng đó lên xe của bạn."
+                                                         },
+                                                         {
+                                                             "number":  "97",
+                                                             "prompt":  "According to the speaker, what can the listeners receive assistance with?",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A. Checking a price"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B. Moving large items"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C. Getting a refund"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "D",
+                                                                                 "text":  "D. Locating some merchandise"
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "B",
+                                                             "transcript":  "W-Br Attention shoppers! (95) Thanks for coming to Link Office Superstore\u0027s annual sale. We offer the best prices in town on office supplies, desks, and chairs. There are a lot of people here for our special deals today, so lines for the cashiers are rather long. (96) To help speed up the checkout process, please use the express lane located near the exit if you\u0027re buying five items or fewer. Also, (97) if you\u0027re purchasing a large item and need help moving it, just let one of the employees know and they\u0027ll help you bring the item to your vehicle.",
+                                                             "explanation":  "Đáp án đúng: B\nTheo người nói, người nghe có thể nhận được sự trợ giúp về điều gì?\nA. Kiểm tra giá\nB. Di chuyển các mặt hàng lớn\nC. Nhận tiền hoàn lại\nD. định vị một số hàng hóa\nĐây là câu hỏi về chi tiết bài nói. Do vị trí nên thông tin cần tìm ở cuối thông báo, từ khoá là ‘receive assistance with’. Dấu hiệu thông tin bổ sung là ‘Also’, keyword nghe được là ‘purchasing a large item’, ‘need help moving it’, ‘help’, ‘bring the item’, đáp án đúng là B..",
+                                                             "translation":  "W-Br Người mua sắm chú ý! (95) Cảm ơn các bạn đã đến tham gia chương trình giảm giá hàng năm của Link Office Superstore. Chúng tôi cung cấp giá tốt nhất trong thị trấn về đồ dùng văn phòng, bàn và ghế. Có rất nhiều người ở đây cho các deal đặc biệt của chúng tôi ngày hôm nay, vì vậy hàng cho nhân viên thu ngân khá dài. (96) Để giúp đẩy nhanh quá trình thanh toán, vui lòng sử dụng làn nhanh gần lối ra nếu bạn đang mua năm mặt hàng trở xuống. Ngoài ra, (97) nếu bạn đang mua một món hàng lớn và cần hỗ trợ di chuyển, chỉ cần cho một trong các nhân viên biết và họ sẽ giúp bạn mang món hàng đó lên xe của bạn."
+                                                         }
+                                                     ],
+                                       "context":  "",
+                                       "transcript":  "W-Br Attention shoppers! (95) Thanks for coming to Link Office Superstore\u0027s annual sale. We offer the best prices in town on office supplies, desks, and chairs. There are a lot of people here for our special deals today, so lines for the cashiers are rather long. (96) To help speed up the checkout process, please use the express lane located near the exit if you\u0027re buying five items or fewer. Also, (97) if you\u0027re purchasing a large item and need help moving it, just let one of the employees know and they\u0027ll help you bring the item to your vehicle.",
+                                       "translation":  "W-Br Người mua sắm chú ý! (95) Cảm ơn các bạn đã đến tham gia chương trình giảm giá hàng năm của Link Office Superstore. Chúng tôi cung cấp giá tốt nhất trong thị trấn về đồ dùng văn phòng, bàn và ghế. Có rất nhiều người ở đây cho các deal đặc biệt của chúng tôi ngày hôm nay, vì vậy hàng cho nhân viên thu ngân khá dài. (96) Để giúp đẩy nhanh quá trình thanh toán, vui lòng sử dụng làn nhanh gần lối ra nếu bạn đang mua năm mặt hàng trở xuống. Ngoài ra, (97) nếu bạn đang mua một món hàng lớn và cần hỗ trợ di chuyển, chỉ cần cho một trong các nhân viên biết và họ sẽ giúp bạn mang món hàng đó lên xe của bạn.",
+                                       "type":  "mcq"
+                                   },
+                          "audioUrls":  [
+                                            "/media/toeic_course_problems/audio/sound_ets_toeic_2022_test_4_95_97.mp3"
+                                        ],
+                          "imageUrls":  [
+                                            "/media/toeic_course_problems/extra2/image33.png"
+                                        ]
+                      },
+                      {
+                          "id":  "405935",
+                          "data":  {
+                                       "questions":  [
+                                                         {
+                                                             "number":  "95",
+                                                             "prompt":  "According to the speaker, what will happen this Friday?",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A. A delivery will arrive."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B. A holiday sale will begin."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C. An employee will retire."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "D",
+                                                                                 "text":  "D. An author will visit."
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "D",
+                                                             "transcript":  "W-Br Attention, book lovers! The Regal Reader bookstore is excited to announce the beginning of its summer author series. (95) Join us this Friday when renowned author Karima Samir will visit the store to read from her books, sign copies, and chat with customers. (96) Stop by our history aisle to find her latest book about fascinating North Africa. And (97) make sure you enter our annual drawing while you\u0027re here to win a five-dollar gift card for our café! Use it to purchase any of our freshly brewed coffees or homemade pastries.",
+                                                             "explanation":  "Đáp án đúng: D\nTheo diễn giả, điều gì sẽ xảy ra vào thứ sáu tuần này?\nA. Một giao hàng sẽ đến.\nB. Một đợt giảm giá vào dịp lễ sẽ bắt đầu.\nC. Một nhân viên sẽ nghỉ hưu.\nD. Một tác giả sẽ đến thăm.\nĐây là câu hỏi về hành động trong tương lai. Từ khoá cần chú ý là ‘Friday’, dấu hiệu thông tin sắp đến là ‘announce the beginning of its summer author series’, thông tin sắp tới sẽ liên quan đến sự kiện của tác giả mùa hè. Câu chứa đáp án là ‘Join us this Friday when renowned author Karima Samir will visit the store’, các từ khoá nghe được là ‘this Friday’, ‘author’ và ‘visit the store’. Chọn đáp án D.",
+                                                             "translation":  "W-Br Chú ý, những người yêu sách! Hiệu sách Regal Reader vui mừng thông báo bắt đầu loạt tác giả mùa hè của mình. (95) Tham gia với chúng tôi vào thứ Sáu tuần này khi tác giả nổi tiếng Karima Samir sẽ ghé thăm cửa hàng để đọc sách của cô ấy, ký các bản sao và trò chuyện với khách hàng. (96) Dừng lại trên lối đi lịch sử của chúng tôi để tìm cuốn sách mới nhất của cô ấy về Bắc Phi hấp dẫn. Và (97) hãy đảm bảo rằng bạn tham gia chương trình rút thăm hàng năm của chúng tôi khi bạn ở đây để giành được thẻ quà tặng trị giá 5 đô la cho quán cà phê của chúng tôi! Sử dụng nó để mua bất kỳ loại cà phê mới pha hoặc bánh ngọt tự làm nào của chúng tôi."
+                                                         },
+                                                         {
+                                                             "number":  "96",
+                                                             "prompt":  "Look at the graphic. Which aisle does the speaker direct the listeners to?",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A. Aisle 1"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B. Aisle 2"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C. Aisle 3"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "D",
+                                                                                 "text":  "D. Aisle 4"
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "C",
+                                                             "transcript":  "W-Br Attention, book lovers! The Regal Reader bookstore is excited to announce the beginning of its summer author series. (95) Join us this Friday when renowned author Karima Samir will visit the store to read from her books, sign copies, and chat with customers. (96) Stop by our history aisle to find her latest book about fascinating North Africa. And (97) make sure you enter our annual drawing while you\u0027re here to win a five-dollar gift card for our café! Use it to purchase any of our freshly brewed coffees or homemade pastries.",
+                                                             "explanation":  "Đáp án đúng: C\nNhìn vào đồ họa. Người nói hướng người nghe đến lối đi nào?\nA. Lối đi 1\nB. Lối đi 2\nC. Lối đi 3\nD. Lối đi 4\nĐây là câu hỏi kết hợp hình ảnh. Cần đọc các đáp án và so sánh với bản đồ được cho, các đáp án là lối đi số 1, 2 nên rất có thể thông tin sẽ là tên loại sách của lối đi đó. Từ khoá cần nghe là ‘aisle’, thông tin chứa đáp án là ‘Stop by our history aisle’, từ khoá nghe được là ‘history aisle’, tương đương với đáp án C.",
+                                                             "translation":  "W-Br Chú ý, những người yêu sách! Hiệu sách Regal Reader vui mừng thông báo bắt đầu loạt tác giả mùa hè của mình. (95) Tham gia với chúng tôi vào thứ Sáu tuần này khi tác giả nổi tiếng Karima Samir sẽ ghé thăm cửa hàng để đọc sách của cô ấy, ký các bản sao và trò chuyện với khách hàng. (96) Dừng lại trên lối đi lịch sử của chúng tôi để tìm cuốn sách mới nhất của cô ấy về Bắc Phi hấp dẫn. Và (97) hãy đảm bảo rằng bạn tham gia chương trình rút thăm hàng năm của chúng tôi khi bạn ở đây để giành được thẻ quà tặng trị giá 5 đô la cho quán cà phê của chúng tôi! Sử dụng nó để mua bất kỳ loại cà phê mới pha hoặc bánh ngọt tự làm nào của chúng tôi."
+                                                         },
+                                                         {
+                                                             "number":  "97",
+                                                             "prompt":  "What can the listeners win?",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A. A gift card"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B. A book"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C. A free membership"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "D",
+                                                                                 "text":  "D. A calendar"
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "A",
+                                                             "transcript":  "W-Br Attention, book lovers! The Regal Reader bookstore is excited to announce the beginning of its summer author series. (95) Join us this Friday when renowned author Karima Samir will visit the store to read from her books, sign copies, and chat with customers. (96) Stop by our history aisle to find her latest book about fascinating North Africa. And (97) make sure you enter our annual drawing while you\u0027re here to win a five-dollar gift card for our café! Use it to purchase any of our freshly brewed coffees or homemade pastries.",
+                                                             "explanation":  "Đáp án đúng: A\nNgười nghe có thể thắng được điều gì?\nA. Thẻ quà tặng\nB. Một cuốn sách\nC. Tư cách thành viên miễn phí\nD. Một tờ lịch\nĐây là câu hỏi về thông tin bài nói. Do vị trí câu hỏi nên thông tin sẽ nằm ở cuối bài nói, từ khóa cần chú ý là ‘win’, dấu hiệu là ‘enter our annual drawing’ - tham gia bốc thăm thường niên, keyword ‘win’ và đáp án là ‘five-dollar gift card’, tương ứng với đáp án A.",
+                                                             "translation":  "W-Br Chú ý, những người yêu sách! Hiệu sách Regal Reader vui mừng thông báo bắt đầu loạt tác giả mùa hè của mình. (95) Tham gia với chúng tôi vào thứ Sáu tuần này khi tác giả nổi tiếng Karima Samir sẽ ghé thăm cửa hàng để đọc sách của cô ấy, ký các bản sao và trò chuyện với khách hàng. (96) Dừng lại trên lối đi lịch sử của chúng tôi để tìm cuốn sách mới nhất của cô ấy về Bắc Phi hấp dẫn. Và (97) hãy đảm bảo rằng bạn tham gia chương trình rút thăm hàng năm của chúng tôi khi bạn ở đây để giành được thẻ quà tặng trị giá 5 đô la cho quán cà phê của chúng tôi! Sử dụng nó để mua bất kỳ loại cà phê mới pha hoặc bánh ngọt tự làm nào của chúng tôi."
+                                                         }
+                                                     ],
+                                       "context":  "",
+                                       "transcript":  "W-Br Attention, book lovers! The Regal Reader bookstore is excited to announce the beginning of its summer author series. (95) Join us this Friday when renowned author Karima Samir will visit the store to read from her books, sign copies, and chat with customers. (96) Stop by our history aisle to find her latest book about fascinating North Africa. And (97) make sure you enter our annual drawing while you\u0027re here to win a five-dollar gift card for our café! Use it to purchase any of our freshly brewed coffees or homemade pastries.",
+                                       "translation":  "W-Br Chú ý, những người yêu sách! Hiệu sách Regal Reader vui mừng thông báo bắt đầu loạt tác giả mùa hè của mình. (95) Tham gia với chúng tôi vào thứ Sáu tuần này khi tác giả nổi tiếng Karima Samir sẽ ghé thăm cửa hàng để đọc sách của cô ấy, ký các bản sao và trò chuyện với khách hàng. (96) Dừng lại trên lối đi lịch sử của chúng tôi để tìm cuốn sách mới nhất của cô ấy về Bắc Phi hấp dẫn. Và (97) hãy đảm bảo rằng bạn tham gia chương trình rút thăm hàng năm của chúng tôi khi bạn ở đây để giành được thẻ quà tặng trị giá 5 đô la cho quán cà phê của chúng tôi! Sử dụng nó để mua bất kỳ loại cà phê mới pha hoặc bánh ngọt tự làm nào của chúng tôi.",
+                                       "type":  "mcq"
+                                   },
+                          "audioUrls":  [
+                                            "/media/toeic_course_problems/audio/sound_ets_toeic_2022_test_5_95_97.mp3"
+                                        ],
+                          "imageUrls":  [
+                                            "/media/toeic_course_problems/extra2/image36.png"
+                                        ]
+                      },
+                      {
+                          "id":  "405936",
+                          "data":  {
+                                       "questions":  [
+                                                         {
+                                                             "number":  "77",
+                                                             "prompt":  "What has caused the problem?",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A. A traffic accident."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B. A heavy workload."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C. Inclement weather."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "D",
+                                                                                 "text":  "D. A vehicle malfunction."
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "C",
+                                                             "transcript":  "Attention, passengers. Our arrival in Chicago is expected to be somewhat behind schedule. Due to the heavy snowfall, our bus driver must use appropriate caution and drive at a slower speed. Therefore, we will probably be arriving an hour later than our scheduled arrival time, which was 5:00 P.M. Although these circumstances are out of our control, we do apologize for any inconvenience it may cause you. We would like to remind passengers that this bus offers a free Wi-Fi connection. This is just one of the amenities that make riding with us more comfortable than with our competitors.",
+                                                             "explanation":  "Đáp án đúng: C\nĐiều gì đã gây ra vấn đề?\nA. Một vụ tai nạn giao thông.\nB. Khối lượng công việc nặng nề.\nC. Thời tiết khắc nghiệt.\nD. Phương tiện bị trục trặc.\nCâu hỏi đầu tiên =\u003e thông tin thường nằm ở những câu thoại đầu tiên.\nDấu hiệu thông tin sắp đến: Our arrival in Chicago is expected to be somewhat behind schedule. (Thời gian đến Chicago dự kiến sẽ trễ hơn so với lịch trình.)\n=\u003e Người nói thông báo về vấn đề: thời gian đến nơi sẽ trễ hơn dự kiến.\nCâu chứa đáp án: Due to the heavy snowfall, our bus driver must use appropriate caution and drive at a slower speed. (Do tuyết rơi dày, tài xế xe buýt của chúng ta phải có sự thận trọng cần thiết và lái xe với tốc độ chậm hơn.)\n=\u003e Chọn C",
+                                                             "translation":  "Chú ý, các hành khách. Thời gian đến Chicago dự kiến ​​sẽ trễ hơn so với lịch trình. Do tuyết rơi dày, tài xế xe buýt của chúng ta phải có sự thận trọng cần thiết và lái xe với tốc độ chậm hơn. Do đó, chúng ta có thể sẽ đến muộn hơn một tiếng so với thời gian đến dự kiến ​​của chúng ta là 5 giờ chiều. Mặc dù những trường hợp này nằm ngoài tầm kiểm soát của chúng tôi, chúng tôi xin lỗi vì bất kỳ sự bất tiện nào mà nó có thể gây ra cho bạn. Chúng tôi muốn nhắc các hành khách rằng xe buýt này cung cấp kết nối Wi-Fi miễn phí. Đây chỉ là một trong những tiện nghi giúp cho việc đi xe với chúng tôi thoải mái hơn so với các hãng cạnh tranh của chúng tôi."
+                                                         },
+                                                         {
+                                                             "number":  "78",
+                                                             "prompt":  "According to the speaker, when is the bus scheduled to arrive at the destination?",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A. 4:00 P.M."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B. 5:00 P.M."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C. 6:00 P.M."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "D",
+                                                                                 "text":  "D. 7:00 P.M."
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "C",
+                                                             "transcript":  "Attention, passengers. Our arrival in Chicago is expected to be somewhat behind schedule. Due to the heavy snowfall, our bus driver must use appropriate caution and drive at a slower speed. Therefore, we will probably be arriving an hour later than our scheduled arrival time, which was 5:00 P.M. Although these circumstances are out of our control, we do apologize for any inconvenience it may cause you. We would like to remind passengers that this bus offers a free Wi-Fi connection. This is just one of the amenities that make riding with us more comfortable than with our competitors.",
+                                                             "explanation":  "Đáp án đúng: C\nTheo người nói, xe buýt sẽ đến nơi vào lúc nào?\nA. 4 giờ chiều\nB. 5 giờ chiều\nC. 6 giờ tối.\nD. 7 giờ tối.\nCâu chứa đáp án: Therefore, we will probably be arriving an hour later than our scheduled arrival time, which was 5:00 P.M. (Do đó, chúng ta có thể sẽ đến muộn hơn một tiếng so với thời gian đến nơi dự kiến ​​là 5 giờ chiều.)\n=\u003e Xe sẽ đến nơi vào lúc 6 giờ tối\n=\u003e Chọn C",
+                                                             "translation":  "Chú ý, các hành khách. Thời gian đến Chicago dự kiến ​​sẽ trễ hơn so với lịch trình. Do tuyết rơi dày, tài xế xe buýt của chúng ta phải có sự thận trọng cần thiết và lái xe với tốc độ chậm hơn. Do đó, chúng ta có thể sẽ đến muộn hơn một tiếng so với thời gian đến dự kiến ​​của chúng ta là 5 giờ chiều. Mặc dù những trường hợp này nằm ngoài tầm kiểm soát của chúng tôi, chúng tôi xin lỗi vì bất kỳ sự bất tiện nào mà nó có thể gây ra cho bạn. Chúng tôi muốn nhắc các hành khách rằng xe buýt này cung cấp kết nối Wi-Fi miễn phí. Đây chỉ là một trong những tiện nghi giúp cho việc đi xe với chúng tôi thoải mái hơn so với các hãng cạnh tranh của chúng tôi."
+                                                         },
+                                                         {
+                                                             "number":  "79",
+                                                             "prompt":  "What does the bus provide to passengers?",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A. Free Internet access."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B. A discounted ticket."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C. A complimentary meal."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "D",
+                                                                                 "text":  "D. A comfortable connecting bus service."
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "A",
+                                                             "transcript":  "Attention, passengers. Our arrival in Chicago is expected to be somewhat behind schedule. Due to the heavy snowfall, our bus driver must use appropriate caution and drive at a slower speed. Therefore, we will probably be arriving an hour later than our scheduled arrival time, which was 5:00 P.M. Although these circumstances are out of our control, we do apologize for any inconvenience it may cause you. We would like to remind passengers that this bus offers a free Wi-Fi connection. This is just one of the amenities that make riding with us more comfortable than with our competitors.",
+                                                             "explanation":  "Đáp án đúng: A\nXe buýt cung cấp gì cho các hành khách?\nA. Truy cập Internet miễn phí.\nB. Vé giảm giá.\nC. Một bữa ăn miễn phí.\nD. Dịch vụ xe buýt kết nối tiện nghi.\nCâu hỏi cuối cùng =\u003e thông tin thường nằm ở những câu thoại cuối cùng.\nCâu chứa đáp án: We would like to remind passengers that this bus offers a free Wi-Fi connection. (Chúng tôi muốn nhắc các hành khách rằng xe buýt này cung cấp kết nối Wi-Fi miễn phí.)\n=\u003e Chọn A",
+                                                             "translation":  "Chú ý, các hành khách. Thời gian đến Chicago dự kiến ​​sẽ trễ hơn so với lịch trình. Do tuyết rơi dày, tài xế xe buýt của chúng ta phải có sự thận trọng cần thiết và lái xe với tốc độ chậm hơn. Do đó, chúng ta có thể sẽ đến muộn hơn một tiếng so với thời gian đến dự kiến ​​của chúng ta là 5 giờ chiều. Mặc dù những trường hợp này nằm ngoài tầm kiểm soát của chúng tôi, chúng tôi xin lỗi vì bất kỳ sự bất tiện nào mà nó có thể gây ra cho bạn. Chúng tôi muốn nhắc các hành khách rằng xe buýt này cung cấp kết nối Wi-Fi miễn phí. Đây chỉ là một trong những tiện nghi giúp cho việc đi xe với chúng tôi thoải mái hơn so với các hãng cạnh tranh của chúng tôi."
+                                                         }
+                                                     ],
+                                       "context":  "",
+                                       "transcript":  "Attention, passengers. Our arrival in Chicago is expected to be somewhat behind schedule. Due to the heavy snowfall, our bus driver must use appropriate caution and drive at a slower speed. Therefore, we will probably be arriving an hour later than our scheduled arrival time, which was 5:00 P.M. Although these circumstances are out of our control, we do apologize for any inconvenience it may cause you. We would like to remind passengers that this bus offers a free Wi-Fi connection. This is just one of the amenities that make riding with us more comfortable than with our competitors.",
+                                       "translation":  "Chú ý, các hành khách. Thời gian đến Chicago dự kiến ​​sẽ trễ hơn so với lịch trình. Do tuyết rơi dày, tài xế xe buýt của chúng ta phải có sự thận trọng cần thiết và lái xe với tốc độ chậm hơn. Do đó, chúng ta có thể sẽ đến muộn hơn một tiếng so với thời gian đến dự kiến ​​của chúng ta là 5 giờ chiều. Mặc dù những trường hợp này nằm ngoài tầm kiểm soát của chúng tôi, chúng tôi xin lỗi vì bất kỳ sự bất tiện nào mà nó có thể gây ra cho bạn. Chúng tôi muốn nhắc các hành khách rằng xe buýt này cung cấp kết nối Wi-Fi miễn phí. Đây chỉ là một trong những tiện nghi giúp cho việc đi xe với chúng tôi thoải mái hơn so với các hãng cạnh tranh của chúng tôi.",
+                                       "type":  "mcq"
+                                   },
+                          "audioUrls":  [
+                                            "/media/toeic_course_problems/audio/sound_eco_toeic_1000_test_2_77_79.mp3"
+                                        ],
+                          "imageUrls":  [
+
+                                        ]
+                      },
+                      {
+                          "id":  "405937",
+                          "data":  {
+                                       "questions":  [
+                                                         {
+                                                             "number":  "83",
+                                                             "prompt":  "What type of products are being discussed?",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A. Computer parts."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B. Hair products."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C. Beauty products."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "D",
+                                                                                 "text":  "D. Cell phones."
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "C",
+                                                             "transcript":  "Great news everybody! Quarterly profits are up 23%. The introduction of our new range of body washes has exceeded all of our expectations. Our other products have continued to sell well, particularly our facial creams and hand creams. Last month our products were featured in En Vogue magazine, and they had a three-page story on the quality of our manufacturing process. This must have helped with our sales increase. We are expecting more media exposure in the following months, and the release of several new products. How about that? I\u0027m proud of all the work you have put into this quarter. Let\u0027s keep it up!",
+                                                             "explanation":  "Đáp án đúng: C\nLoại sản phẩm nào đang được thảo luận?\nA. Các bộ phận của máy tính.\nB. Sản phẩm dành cho tóc.\nC. Sản phẩm làm đẹp.\nD. Điện thoại di động.\nCâu hỏi đầu tiên =\u003e thông tin thường nằm ở những câu đầu tiên.\nCâu chứa đáp án: The introduction of our new range of body washes has exceeded all of our expectations. Our other products have continued to sell well, particularly our facial creams and hand creams. (Việc giới thiệu một loạt các dòng sữa tắm toàn thân mới của chúng ta đã vượt qua mọi sự kì vọng của chúng ta. Các sản phẩm khác của chúng ta đã tiếp tục được bán tốt, đặc biệt là kem thoa mặt và kem thoa tay.)\n=\u003e Chọn C",
+                                                             "translation":  "Tin tốt đây mọi người! Lợi nhuận hằng quý tăng 23%. Việc giới thiệu một loạt các dòng sữa tắm toàn thân mới của chúng ta đã vượt qua mọi sự kì vọng của chúng ta. Các sản phẩm khác của chúng ta đã tiếp tục được bán tốt, đặc biệt là kem thoa mặt và kem thoa tay. Tháng trước các sản phẩm của chúng ta đã được đăng trên tạp chí En Vogue, và họ đã có một câu chuyện dài ba trang về chất lượng quy trình sản xuất của chúng ta. Điều này hẳn phải giúp tăng doanh số bán hàng của chúng ta. Dự kiến những tháng tiếp theo sẽ tăng mức độ tiếp xúc với truyền thông hơn, và ra mắt một số sản phẩm mới. Thật bất ngờ phải không? Tôi tự hào về tất cả công việc mà các bạn đã làm vào quý này. Hãy giữ vững thành tích này!"
+                                                         },
+                                                         {
+                                                             "number":  "84",
+                                                             "prompt":  "According to the speaker, what happened last month?",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A. Sales went down."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B. A product launch went better than expected."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C. Their products were featured in a magazine."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "D",
+                                                                                 "text":  "D. Another company took over their contract."
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "C",
+                                                             "transcript":  "Great news everybody! Quarterly profits are up 23%. The introduction of our new range of body washes has exceeded all of our expectations. Our other products have continued to sell well, particularly our facial creams and hand creams. Last month our products were featured in En Vogue magazine, and they had a three-page story on the quality of our manufacturing process. This must have helped with our sales increase. We are expecting more media exposure in the following months, and the release of several new products. How about that? I\u0027m proud of all the work you have put into this quarter. Let\u0027s keep it up!",
+                                                             "explanation":  "Đáp án đúng: C\nTheo người nói, tháng trước đã xảy ra chuyện gì?\nA. Doanh số bán hàng sụt giảm.\nB. Buổi ra mắt sản phẩm diễn ra tốt hơn mong đợi.\nC. Sản phẩm của họ đã được giới thiệu trên một tạp chí.\nD. Một công ty khác đã tiếp quản hợp đồng của họ.\nTừ khóa: last month.\nCâu chứa đáp án: Last month our products were featured in En Vogue magazine, and they had a three-page story on the quality of our manufacturing process. (Tháng trước các sản phẩm của chúng ta đã được đăng trên tạp chí En Vogue, và họ đã có một câu chuyện dài ba trang về chất lượng quy trình sản xuất của chúng ta.)\n=\u003e Chọn C",
+                                                             "translation":  "Tin tốt đây mọi người! Lợi nhuận hằng quý tăng 23%. Việc giới thiệu một loạt các dòng sữa tắm toàn thân mới của chúng ta đã vượt qua mọi sự kì vọng của chúng ta. Các sản phẩm khác của chúng ta đã tiếp tục được bán tốt, đặc biệt là kem thoa mặt và kem thoa tay. Tháng trước các sản phẩm của chúng ta đã được đăng trên tạp chí En Vogue, và họ đã có một câu chuyện dài ba trang về chất lượng quy trình sản xuất của chúng ta. Điều này hẳn phải giúp tăng doanh số bán hàng của chúng ta. Dự kiến những tháng tiếp theo sẽ tăng mức độ tiếp xúc với truyền thông hơn, và ra mắt một số sản phẩm mới. Thật bất ngờ phải không? Tôi tự hào về tất cả công việc mà các bạn đã làm vào quý này. Hãy giữ vững thành tích này!"
+                                                         },
+                                                         {
+                                                             "number":  "85",
+                                                             "prompt":  "What does the woman mean when she says \"How about that?\".",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A. She doesn\u0027t understand the situation."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B. She expected a customer return policy."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C. She wants to purchase some products."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "D",
+                                                                                 "text":  "D. She is happy with the company\u0027s progress."
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "D",
+                                                             "transcript":  "Great news everybody! Quarterly profits are up 23%. The introduction of our new range of body washes has exceeded all of our expectations. Our other products have continued to sell well, particularly our facial creams and hand creams. Last month our products were featured in En Vogue magazine, and they had a three-page story on the quality of our manufacturing process. This must have helped with our sales increase. We are expecting more media exposure in the following months, and the release of several new products. How about that? I\u0027m proud of all the work you have put into this quarter. Let\u0027s keep it up!",
+                                                             "explanation":  "Đáp án đúng: D\nNgười phụ nữ có ý gì khi cô ấy nói \"How about that?\".\nA. Cô ấy không hiểu tình hình.\nB. Cô ấy mong đợi một chính sách hoàn trả cho khách hàng.\nC. Cô ấy muốn mua một số sản phẩm.\nD. Cô ấy hài lòng với sự phát triển của công ty.\nHow about that = Thật bất ngờ phải không\nCả đoạn: We are expecting more media exposure in the following months, and the release of several new products. How about that? I\u0027m proud of all the work you have put into this quarter. (Dự kiến những tháng tiếp theo sẽ tăng mức độ tiếp xúc với truyền thông hơn, và ra mắt một số sản phẩm mới. Thật bất ngờ phải không? Tôi tự hào về tất cả công việc mà các bạn đã làm vào quý này.)\n=\u003e Công ty đang rất phát triển, và người phụ nữ cảm thấy hài lòng với điều đó\n=\u003e Chọn D",
+                                                             "translation":  "Tin tốt đây mọi người! Lợi nhuận hằng quý tăng 23%. Việc giới thiệu một loạt các dòng sữa tắm toàn thân mới của chúng ta đã vượt qua mọi sự kì vọng của chúng ta. Các sản phẩm khác của chúng ta đã tiếp tục được bán tốt, đặc biệt là kem thoa mặt và kem thoa tay. Tháng trước các sản phẩm của chúng ta đã được đăng trên tạp chí En Vogue, và họ đã có một câu chuyện dài ba trang về chất lượng quy trình sản xuất của chúng ta. Điều này hẳn phải giúp tăng doanh số bán hàng của chúng ta. Dự kiến những tháng tiếp theo sẽ tăng mức độ tiếp xúc với truyền thông hơn, và ra mắt một số sản phẩm mới. Thật bất ngờ phải không? Tôi tự hào về tất cả công việc mà các bạn đã làm vào quý này. Hãy giữ vững thành tích này!"
+                                                         }
+                                                     ],
+                                       "context":  "",
+                                       "transcript":  "Great news everybody! Quarterly profits are up 23%. The introduction of our new range of body washes has exceeded all of our expectations. Our other products have continued to sell well, particularly our facial creams and hand creams. Last month our products were featured in En Vogue magazine, and they had a three-page story on the quality of our manufacturing process. This must have helped with our sales increase. We are expecting more media exposure in the following months, and the release of several new products. How about that? I\u0027m proud of all the work you have put into this quarter. Let\u0027s keep it up!",
+                                       "translation":  "Tin tốt đây mọi người! Lợi nhuận hằng quý tăng 23%. Việc giới thiệu một loạt các dòng sữa tắm toàn thân mới của chúng ta đã vượt qua mọi sự kì vọng của chúng ta. Các sản phẩm khác của chúng ta đã tiếp tục được bán tốt, đặc biệt là kem thoa mặt và kem thoa tay. Tháng trước các sản phẩm của chúng ta đã được đăng trên tạp chí En Vogue, và họ đã có một câu chuyện dài ba trang về chất lượng quy trình sản xuất của chúng ta. Điều này hẳn phải giúp tăng doanh số bán hàng của chúng ta. Dự kiến những tháng tiếp theo sẽ tăng mức độ tiếp xúc với truyền thông hơn, và ra mắt một số sản phẩm mới. Thật bất ngờ phải không? Tôi tự hào về tất cả công việc mà các bạn đã làm vào quý này. Hãy giữ vững thành tích này!",
+                                       "type":  "mcq"
+                                   },
+                          "audioUrls":  [
+                                            "/media/toeic_course_problems/audio/sound_eco_toeic_1000_test_2_83_85.mp3"
+                                        ],
+                          "imageUrls":  [
+
+                                        ]
+                      },
+                      {
+                          "id":  "405938",
+                          "data":  {
+                                       "questions":  [
+                                                         {
+                                                             "number":  "95",
+                                                             "prompt":  "What is the speaker\u0027s company planning to purchase?",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A. A 3-D printer"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B. A large-screen television"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C. Some new laptops"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "D",
+                                                                                 "text":  "D. Some adjustable desks"
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "A",
+                                                             "transcript":  "W-Am I have an announcement for the team. (95) We\u0027ll be making a big purchase-a top-of the-line 3-D printer. (96) We\u0027ve been outsourcing the work to a printing company, but it recently doubled its prices. We think it\u0027s time to have our own in-house printer. The only issue is size-the only space big enough for the new machine is the office next to the reception area, so we\u0027ll be rearranging our work space. (97) Jerome, I\u0027m sorry, but you\u0027ll have to move. We hope you won\u0027t mind using the office in the corner across from the conference room.",
+                                                             "explanation":  "Đáp án đúng: A\nCông ty của người nói định mua gì?\nA. Máy in 3-D\nB. Một chiếc tivi màn hình lớn\nC. Một số laptop mới\nD. Một số bàn điều chỉnh được\nĐây là câu hỏi về chi tiết bài nói. Thông tin cần nghe là ‘company’ và ‘planning to purchase’, từ khoá nghe được là ‘making a big purchase’, ‘a top-of the-line 3-D printer’, do vậy chọn A.",
+                                                             "translation":  "W-Am Tôi có một thông báo cho nhóm. (95) Chúng ta sẽ thực hiện một vụ mua bán lớn - một máy in 3-D hàng đầu. (96) Chúng ta đã thuê gia công tác phẩm cho một công ty in, nhưng gần đây giá của nó đã tăng gấp đôi. Chúng tôi nghĩ rằng đã đến lúc có máy in của riêng chúng ta ngay ở đây. Vấn đề duy nhất là kích thước - không gian duy nhất đủ lớn cho chiếc máy mới là văn phòng bên cạnh khu vực lễ tân, vì vậy chúng ta sẽ sắp xếp lại không gian làm việc của mình. (97) Jerome, tôi xin lỗi, nhưng bạn sẽ phải dịch chuyển không gian làm việc. Chúng tôi hy vọng bạn sẽ không phiền khi sử dụng văn phòng ở góc đối diện với phòng họp."
+                                                         },
+                                                         {
+                                                             "number":  "96",
+                                                             "prompt":  "Why has the company decided to make the purchase?",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A. More employees were hired."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B. A vendor increased its prices."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C. A store went out of business."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "D",
+                                                                                 "text":  "D. Some software was out-of-date."
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "B",
+                                                             "transcript":  "W-Am I have an announcement for the team. (95) We\u0027ll be making a big purchase-a top-of the-line 3-D printer. (96) We\u0027ve been outsourcing the work to a printing company, but it recently doubled its prices. We think it\u0027s time to have our own in-house printer. The only issue is size-the only space big enough for the new machine is the office next to the reception area, so we\u0027ll be rearranging our work space. (97) Jerome, I\u0027m sorry, but you\u0027ll have to move. We hope you won\u0027t mind using the office in the corner across from the conference room.",
+                                                             "explanation":  "Đáp án đúng: B\nTại sao công ty quyết định mua hàng?\nA. Nhiều nhân viên được thuê hơn.\nB. Một nhà cung cấp tăng giá.\nC. Một cửa hàng đã phá sản.\nD. Một số phần mềm đã lỗi thời.\nĐây là câu hỏi về chi tiết bài nói. Thông tin về lí do sẽ có sau thông báo mua máy in ở câu đầu, các từ khoá nghe được là \u0027outsourcing’, ‘printing company’ ‘doubled its prices’ và ‘have our own in-house printer’, thông tin này suy ra đơn vị thuê ngoài của công ty đã tăng giá nên họ cần mua máy in. Chọn B.",
+                                                             "translation":  "W-Am Tôi có một thông báo cho nhóm. (95) Chúng ta sẽ thực hiện một vụ mua bán lớn - một máy in 3-D hàng đầu. (96) Chúng ta đã thuê gia công tác phẩm cho một công ty in, nhưng gần đây giá của nó đã tăng gấp đôi. Chúng tôi nghĩ rằng đã đến lúc có máy in của riêng chúng ta ngay ở đây. Vấn đề duy nhất là kích thước - không gian duy nhất đủ lớn cho chiếc máy mới là văn phòng bên cạnh khu vực lễ tân, vì vậy chúng ta sẽ sắp xếp lại không gian làm việc của mình. (97) Jerome, tôi xin lỗi, nhưng bạn sẽ phải dịch chuyển không gian làm việc. Chúng tôi hy vọng bạn sẽ không phiền khi sử dụng văn phòng ở góc đối diện với phòng họp."
+                                                         },
+                                                         {
+                                                             "number":  "97",
+                                                             "prompt":  "Look at the graphic. Where will Jerome move to?",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A. Office 1"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B. Office 2"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C. Office 3"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "D",
+                                                                                 "text":  "D. Office 4"
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "C",
+                                                             "transcript":  "W-Am I have an announcement for the team. (95) We\u0027ll be making a big purchase-a top-of the-line 3-D printer. (96) We\u0027ve been outsourcing the work to a printing company, but it recently doubled its prices. We think it\u0027s time to have our own in-house printer. The only issue is size-the only space big enough for the new machine is the office next to the reception area, so we\u0027ll be rearranging our work space. (97) Jerome, I\u0027m sorry, but you\u0027ll have to move. We hope you won\u0027t mind using the office in the corner across from the conference room.",
+                                                             "explanation":  "Đáp án đúng: C\nNhìn vào đồ họa. Jerome sẽ dịch chuyển đến đâu?\nA. Văn phòng 1\nB. Văn phòng 2\nC. Văn phòng 3\nD. Văn phòng 4\nĐây là câu hỏi kết hợp với bản đồ, cần đọc qua các vị trí của văn phòng để hiểu nội dung được nhắc đến nhanh chóng hơn. Dấu hiệu của thông tin là sau khi người nói nói về máy in khá lớn đã nhắc đến ‘we\u0027ll be rearranging our work space’, work space tương ứng với bản đồ trên hình và ‘Jerome, I\u0027m sorry, but you\u0027ll have to move’, ‘Jerome’ là người được nhắc đến trên câu hỏi. Phần chứa đáp án là ‘using the office in the corner’ và ‘across from the conference room’, chọn C.",
+                                                             "translation":  "W-Am Tôi có một thông báo cho nhóm. (95) Chúng ta sẽ thực hiện một vụ mua bán lớn - một máy in 3-D hàng đầu. (96) Chúng ta đã thuê gia công tác phẩm cho một công ty in, nhưng gần đây giá của nó đã tăng gấp đôi. Chúng tôi nghĩ rằng đã đến lúc có máy in của riêng chúng ta ngay ở đây. Vấn đề duy nhất là kích thước - không gian duy nhất đủ lớn cho chiếc máy mới là văn phòng bên cạnh khu vực lễ tân, vì vậy chúng ta sẽ sắp xếp lại không gian làm việc của mình. (97) Jerome, tôi xin lỗi, nhưng bạn sẽ phải dịch chuyển không gian làm việc. Chúng tôi hy vọng bạn sẽ không phiền khi sử dụng văn phòng ở góc đối diện với phòng họp."
+                                                         }
+                                                     ],
+                                       "context":  "",
+                                       "transcript":  "W-Am I have an announcement for the team. (95) We\u0027ll be making a big purchase-a top-of the-line 3-D printer. (96) We\u0027ve been outsourcing the work to a printing company, but it recently doubled its prices. We think it\u0027s time to have our own in-house printer. The only issue is size-the only space big enough for the new machine is the office next to the reception area, so we\u0027ll be rearranging our work space. (97) Jerome, I\u0027m sorry, but you\u0027ll have to move. We hope you won\u0027t mind using the office in the corner across from the conference room.",
+                                       "translation":  "W-Am Tôi có một thông báo cho nhóm. (95) Chúng ta sẽ thực hiện một vụ mua bán lớn - một máy in 3-D hàng đầu. (96) Chúng ta đã thuê gia công tác phẩm cho một công ty in, nhưng gần đây giá của nó đã tăng gấp đôi. Chúng tôi nghĩ rằng đã đến lúc có máy in của riêng chúng ta ngay ở đây. Vấn đề duy nhất là kích thước - không gian duy nhất đủ lớn cho chiếc máy mới là văn phòng bên cạnh khu vực lễ tân, vì vậy chúng ta sẽ sắp xếp lại không gian làm việc của mình. (97) Jerome, tôi xin lỗi, nhưng bạn sẽ phải dịch chuyển không gian làm việc. Chúng tôi hy vọng bạn sẽ không phiền khi sử dụng văn phòng ở góc đối diện với phòng họp.",
+                                       "type":  "mcq"
+                                   },
+                          "audioUrls":  [
+                                            "/media/toeic_course_problems/audio/sound_ets_toeic_2022_test_8_95_97.mp3"
+                                        ],
+                          "imageUrls":  [
+                                            "/media/toeic_course_problems/extra2/image22.png"
+                                        ]
+                      },
+                      {
+                          "id":  "405939",
+                          "data":  {
+                                       "questions":  [
+                                                         {
+                                                             "number":  "74",
+                                                             "prompt":  "What award is being announced?",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A. Best design"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B. Top salesperson"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C. Employee of the month"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "D",
+                                                                                 "text":  "D. Excellence in research"
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "C",
+                                                             "transcript":  "W-Am Good afternoon, everyone. As you know, (74) it\u0027s time to announce our newest employee of the month, and it goes to Haru Watanabe. Congratulations! Haru did outstanding work this month securing the Thompson Limited account. He also volunteers in the community. (75) As our winner, Haru will receive a preferred parking space right outside the building for the next 30 days. Haru, please come up here to have your picture taken. (76) Like all our employees of the month, your photo will be featured on the company Web site.",
+                                                             "explanation":  "Đáp án đúng: C\nGiải thưởng nào đang được công bố?\nA. Thiết kế tốt nhất\nB. Nhân viên bán hàng hàng đầu\nC. Nhân viên của tháng\nD. Sự xuất sắc trong nghiên cứu\nĐây là câu hỏi tìm thông tin, từ khóa cần nghe là ‘award’ và ‘announced’, dấu hiệu thông tin sắp đến là ‘t\u0027s time to announce’, từ khoá chứa đáp án là ‘employee of the month’, tương ứng với đáp án C.",
+                                                             "translation":  "W-Am Chào buổi chiều, tất cả mọi người. Như các bạn đã biết, (74) đã đến lúc công bố nhân viên của tháng mới nhất của chúng ta, và đó là Haru Watanabe. Xin chúc mừng! Haru đã làm việc xuất sắc trong tháng này để đảm bảo tài khoản Thompson Limited. Anh ấy cũng là tình nguyện viên trong cộng đồng. (75) Là người chiến thắng của chúng ta, Haru sẽ nhận được một chỗ đậu xe ưu tiên ngay bên ngoài tòa nhà trong 30 ngày tới. Haru, hãy lên đây để chụp ảnh. (76) Giống như tất cả nhân viên của chúng ta trong tháng, ảnh của bạn sẽ được đăng trên trang Web của công ty."
+                                                         },
+                                                         {
+                                                             "number":  "75",
+                                                             "prompt":  "According to the speaker, what will the winner receive?",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A. A commemorative plaque"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B. A parking space"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C. A gift certificate"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "D",
+                                                                                 "text":  "D. A recognition dinner"
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "B",
+                                                             "transcript":  "W-Am Good afternoon, everyone. As you know, (74) it\u0027s time to announce our newest employee of the month, and it goes to Haru Watanabe. Congratulations! Haru did outstanding work this month securing the Thompson Limited account. He also volunteers in the community. (75) As our winner, Haru will receive a preferred parking space right outside the building for the next 30 days. Haru, please come up here to have your picture taken. (76) Like all our employees of the month, your photo will be featured on the company Web site.",
+                                                             "explanation":  "Đáp án đúng: B\nTheo người nói, người chiến thắng sẽ nhận được gì?\nA. Một tấm bia kỷ niệm\nB. Chỗ đậu xe\nC. Phiếu quà tặng\nD. Bữa tối công nhận\nĐây là câu hỏi tìm thông tin, từ khoá là ‘received’ và ‘winner’, dấu hiệu thông tin sắp đến là ‘As our winner, Haru will receive’, keyword đáp án là ‘a preferred parking space’, chọn B.",
+                                                             "translation":  "W-Am Chào buổi chiều, tất cả mọi người. Như các bạn đã biết, (74) đã đến lúc công bố nhân viên của tháng mới nhất của chúng ta, và đó là Haru Watanabe. Xin chúc mừng! Haru đã làm việc xuất sắc trong tháng này để đảm bảo tài khoản Thompson Limited. Anh ấy cũng là tình nguyện viên trong cộng đồng. (75) Là người chiến thắng của chúng ta, Haru sẽ nhận được một chỗ đậu xe ưu tiên ngay bên ngoài tòa nhà trong 30 ngày tới. Haru, hãy lên đây để chụp ảnh. (76) Giống như tất cả nhân viên của chúng ta trong tháng, ảnh của bạn sẽ được đăng trên trang Web của công ty."
+                                                         },
+                                                         {
+                                                             "number":  "76",
+                                                             "prompt":  "What does the speaker say will be published on a Web site?",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A. A photograph"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B. A biography"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C. Professional accomplishments"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "D",
+                                                                                 "text":  "D. Company event details"
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "A",
+                                                             "transcript":  "W-Am Good afternoon, everyone. As you know, (74) it\u0027s time to announce our newest employee of the month, and it goes to Haru Watanabe. Congratulations! Haru did outstanding work this month securing the Thompson Limited account. He also volunteers in the community. (75) As our winner, Haru will receive a preferred parking space right outside the building for the next 30 days. Haru, please come up here to have your picture taken. (76) Like all our employees of the month, your photo will be featured on the company Web site.",
+                                                             "explanation":  "Đáp án đúng: A\nNgười nói nói điều gì sẽ được đăng tải trên một trang Web?\nA. Một bức ảnh\nB. Tiểu sử\nC. Thành tích chuyên môn\nD. Chi tiết sự kiện của công ty\nĐây là câu hỏi về thông tin, các keyword cần tìm là ‘published’ và ‘Web site’, thông tin sau đó nói đến việc chụp ảnh ‘Haru, please come up here to have your picture taken’ là dấu hiệu của thông tin sắp đến. Các từ khóa là ‘photo’, ‘featured’ và ‘company Web site’. Chọn A.",
+                                                             "translation":  "W-Am Chào buổi chiều, tất cả mọi người. Như các bạn đã biết, (74) đã đến lúc công bố nhân viên của tháng mới nhất của chúng ta, và đó là Haru Watanabe. Xin chúc mừng! Haru đã làm việc xuất sắc trong tháng này để đảm bảo tài khoản Thompson Limited. Anh ấy cũng là tình nguyện viên trong cộng đồng. (75) Là người chiến thắng của chúng ta, Haru sẽ nhận được một chỗ đậu xe ưu tiên ngay bên ngoài tòa nhà trong 30 ngày tới. Haru, hãy lên đây để chụp ảnh. (76) Giống như tất cả nhân viên của chúng ta trong tháng, ảnh của bạn sẽ được đăng trên trang Web của công ty."
+                                                         }
+                                                     ],
+                                       "context":  "",
+                                       "transcript":  "W-Am Good afternoon, everyone. As you know, (74) it\u0027s time to announce our newest employee of the month, and it goes to Haru Watanabe. Congratulations! Haru did outstanding work this month securing the Thompson Limited account. He also volunteers in the community. (75) As our winner, Haru will receive a preferred parking space right outside the building for the next 30 days. Haru, please come up here to have your picture taken. (76) Like all our employees of the month, your photo will be featured on the company Web site.",
+                                       "translation":  "W-Am Chào buổi chiều, tất cả mọi người. Như các bạn đã biết, (74) đã đến lúc công bố nhân viên của tháng mới nhất của chúng ta, và đó là Haru Watanabe. Xin chúc mừng! Haru đã làm việc xuất sắc trong tháng này để đảm bảo tài khoản Thompson Limited. Anh ấy cũng là tình nguyện viên trong cộng đồng. (75) Là người chiến thắng của chúng ta, Haru sẽ nhận được một chỗ đậu xe ưu tiên ngay bên ngoài tòa nhà trong 30 ngày tới. Haru, hãy lên đây để chụp ảnh. (76) Giống như tất cả nhân viên của chúng ta trong tháng, ảnh của bạn sẽ được đăng trên trang Web của công ty.",
+                                       "type":  "mcq"
+                                   },
+                          "audioUrls":  [
+                                            "/media/toeic_course_problems/audio/sound_ets_toeic_2022_test_10_74_76.mp3"
+                                        ],
+                          "imageUrls":  [
+
+                                        ]
+                      },
+                      {
+                          "id":  "405940",
+                          "data":  {
+                                       "questions":  [
+                                                         {
+                                                             "number":  "77",
+                                                             "prompt":  "Where is the announcement being made?",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A. At a public park"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B. At a fitness center"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C. At a pool-cleaning company"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "D",
+                                                                                 "text":  "D. At a hotel"
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "B",
+                                                             "transcript":  "M: (77) Attention, Bly Street Fitness Center members. We apologize for interrupting your workout, but we thought you might like to know that our indoor pool complex is now complete! This means that you, as a fitness center member, can enjoy all the benefits of (78) our new Olympic Size pool, including enough lanes to accommodate a large number of swimmers. (79) The pool hours will be slightly different than the rest of the center\u0027s, so please check our Web site for details about that.",
+                                                             "explanation":  "Đáp án đúng: B\nThông báo được thực hiện ở đâu?\nA. Tại công viên công cộng\nB. Tại trung tâm thể hình\nC. Tại một công ty vệ sinh hồ bơi\nD. Tại một khách sạn\nĐây là câu hỏi về địa điểm bài nói, thông tin về địa điểm có ở phần đầu khi người nói giới thiệu ‘Bly Street Fitness Center’, nghe được từ khoá ‘Fitness Center’, chọn B.",
+                                                             "translation":  "M: Xin chú ý, các thành viên của Trung tâm thể dục phố Bly. Chúng tôi xin lỗi vì đã làm gián đoạn buổi tập của bạn, nhưng chúng tôi nghĩ rằng bạn có thể muốn biết rằng khu phức hợp hồ bơi trong nhà của chúng tôi hiện đã hoàn thành! Điều này có nghĩa là bạn, với tư cách là thành viên của trung tâm thể dục, có thể tận hưởng tất cả các lợi ích của hồ bơi mới với kích thước Olympic của chúng tôi, bao gồm đủ làn bơi để đáp ứng một số lượng lớn người bơi. Giờ hoạt động hồ bơi sẽ hơi khác so với các hoạt động khác của trung tâm, vì vậy vui lòng kiểm tra trang Web của chúng tôi để biết thêm chi tiết."
+                                                         },
+                                                         {
+                                                             "number":  "78",
+                                                             "prompt":  "What does the speaker emphasize about the new pool?",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A. The size"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B. The shape"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C. The water temperature"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "D",
+                                                                                 "text":  "D. The technological featurescal"
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "A",
+                                                             "transcript":  "M: (77) Attention, Bly Street Fitness Center members. We apologize for interrupting your workout, but we thought you might like to know that our indoor pool complex is now complete! This means that you, as a fitness center member, can enjoy all the benefits of (78) our new Olympic Size pool, including enough lanes to accommodate a large number of swimmers. (79) The pool hours will be slightly different than the rest of the center\u0027s, so please check our Web site for details about that.",
+                                                             "explanation":  "Đáp án đúng: A\nNgười nói nhấn mạnh điều gì về bể bơi mới?\nA. Kích thước\nB. Hình dạng\nC. Nhiệt độ nước\nD. Đặc điểm công nghệ\nĐây là câu hỏi về chi tiết bài nói, đây là quảng cáo về bể bơi, các từ khoá nghe được là ‘Olympic Size pool’, ‘enough lanes’ và ‘large number of swimmers’, thông tin này nhấn mạnh về kích cỡ bể bơi. Chọn A.",
+                                                             "translation":  "M: Xin chú ý, các thành viên của Trung tâm thể dục phố Bly. Chúng tôi xin lỗi vì đã làm gián đoạn buổi tập của bạn, nhưng chúng tôi nghĩ rằng bạn có thể muốn biết rằng khu phức hợp hồ bơi trong nhà của chúng tôi hiện đã hoàn thành! Điều này có nghĩa là bạn, với tư cách là thành viên của trung tâm thể dục, có thể tận hưởng tất cả các lợi ích của hồ bơi mới với kích thước Olympic của chúng tôi, bao gồm đủ làn bơi để đáp ứng một số lượng lớn người bơi. Giờ hoạt động hồ bơi sẽ hơi khác so với các hoạt động khác của trung tâm, vì vậy vui lòng kiểm tra trang Web của chúng tôi để biết thêm chi tiết."
+                                                         },
+                                                         {
+                                                             "number":  "79",
+                                                             "prompt":  "What are the listeners advised to check on a Web site?",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A. Hours of operation"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B. Health regulations"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C. Equipment fees"
+                                                                             },
+                                                                             {
+                                                                                 "key":  "D",
+                                                                                 "text":  "D. Facility maps"
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "A",
+                                                             "transcript":  "M: (77) Attention, Bly Street Fitness Center members. We apologize for interrupting your workout, but we thought you might like to know that our indoor pool complex is now complete! This means that you, as a fitness center member, can enjoy all the benefits of (78) our new Olympic Size pool, including enough lanes to accommodate a large number of swimmers. (79) The pool hours will be slightly different than the rest of the center\u0027s, so please check our Web site for details about that.",
+                                                             "explanation":  "Đáp án đúng: A\nNgười nghe được khuyên nên xem điều gì trên trang Web?\nA. Giờ hoạt động\nB. Quy định về sức khỏe\nC. Phí thiết bị\nD. Bản đồ cơ sở\nĐây là câu hỏi về gợi ý, thông tin cần nghe sẽ ở cuối và có từ ‘web site’ hoặc các cấu trúc chỉ đề xuất, trước đó nói về vấn đề ‘pool hours’, ‘slightly different’ và ‘rest of the center’s’, sau đó là từ khóa trên đáp án ‘please check our Web site’ và ‘details’. ‘details’ ở đây là giờ hoạt động của bể bơi có trên web, chọn A.",
+                                                             "translation":  "M: Xin chú ý, các thành viên của Trung tâm thể dục phố Bly. Chúng tôi xin lỗi vì đã làm gián đoạn buổi tập của bạn, nhưng chúng tôi nghĩ rằng bạn có thể muốn biết rằng khu phức hợp hồ bơi trong nhà của chúng tôi hiện đã hoàn thành! Điều này có nghĩa là bạn, với tư cách là thành viên của trung tâm thể dục, có thể tận hưởng tất cả các lợi ích của hồ bơi mới với kích thước Olympic của chúng tôi, bao gồm đủ làn bơi để đáp ứng một số lượng lớn người bơi. Giờ hoạt động hồ bơi sẽ hơi khác so với các hoạt động khác của trung tâm, vì vậy vui lòng kiểm tra trang Web của chúng tôi để biết thêm chi tiết."
+                                                         }
+                                                     ],
+                                       "context":  "Question 77 - 79 refer to following conversation:",
+                                       "transcript":  "M: (77) Attention, Bly Street Fitness Center members. We apologize for interrupting your workout, but we thought you might like to know that our indoor pool complex is now complete! This means that you, as a fitness center member, can enjoy all the benefits of (78) our new Olympic Size pool, including enough lanes to accommodate a large number of swimmers. (79) The pool hours will be slightly different than the rest of the center\u0027s, so please check our Web site for details about that.",
+                                       "translation":  "M: Xin chú ý, các thành viên của Trung tâm thể dục phố Bly. Chúng tôi xin lỗi vì đã làm gián đoạn buổi tập của bạn, nhưng chúng tôi nghĩ rằng bạn có thể muốn biết rằng khu phức hợp hồ bơi trong nhà của chúng tôi hiện đã hoàn thành! Điều này có nghĩa là bạn, với tư cách là thành viên của trung tâm thể dục, có thể tận hưởng tất cả các lợi ích của hồ bơi mới với kích thước Olympic của chúng tôi, bao gồm đủ làn bơi để đáp ứng một số lượng lớn người bơi. Giờ hoạt động hồ bơi sẽ hơi khác so với các hoạt động khác của trung tâm, vì vậy vui lòng kiểm tra trang Web của chúng tôi để biết thêm chi tiết.",
+                                       "type":  "mcq"
+                                   },
+                          "audioUrls":  [
+                                            "/media/toeic_course_problems/audio/sound_1619508285_1619575624.mp3"
+                                        ],
+                          "imageUrls":  [
+
+                                        ]
+                      }
+                  ],
+    "title":  "Luyện tập: Trắc nghiệm format TOEIC",
+    "lessonTitle":  "Dạng bài Announcement - Thông báo",
+    "imageUrls":  [
+                      "/media/toeic_course_problems/extra2/image33.png",
+                      "/media/toeic_course_problems/extra2/image36.png",
+                      "/media/toeic_course_problems/extra2/image22.png"
+                  ]
+}
