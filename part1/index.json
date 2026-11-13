@@ -1,0 +1,91 @@
+{
+  "lessons": [
+    {
+      "lessonNumber": 1,
+      "title": "Tổng quan",
+      "activities": [
+        {
+          "id": "6498",
+          "title": "Video bài giảng: Lý thuyết",
+          "sourceUrl": "https://study4.com/courses/28/complete-toeic/learn/activities/6498/",
+          "status": "complete",
+          "dataFile": "activities/6498.json"
+        }
+      ]
+    },
+    {
+      "lessonNumber": 2,
+      "title": "Tranh tả người",
+      "activities": [
+        {
+          "id": "6499",
+          "title": "Video bài giảng: Lý thuyết",
+          "sourceUrl": "https://study4.com/courses/28/complete-toeic/learn/activities/6499/",
+          "status": "complete",
+          "dataFile": "activities/6499.json"
+        },
+        {
+          "id": "7313",
+          "title": "Luyện tập: Trắc nghiệm format TOEIC",
+          "sourceUrl": "https://study4.com/courses/28/complete-toeic/learn/activities/7313/",
+          "status": "complete",
+          "dataFile": "activities/7313.json"
+        }
+      ]
+    },
+    {
+      "lessonNumber": 3,
+      "title": "Tranh tả vật",
+      "activities": [
+        {
+          "id": "6500",
+          "title": "Video bài giảng: Lý thuyết",
+          "sourceUrl": "https://study4.com/courses/28/complete-toeic/learn/activities/6500/",
+          "status": "complete",
+          "dataFile": "activities/6500.json"
+        },
+        {
+          "id": "7314",
+          "title": "Luyện tập: Trắc nghiệm format TOEIC",
+          "sourceUrl": "https://study4.com/courses/28/complete-toeic/learn/activities/7314/",
+          "status": "complete",
+          "dataFile": "activities/7314.json"
+        }
+      ]
+    },
+    {
+      "lessonNumber": 4,
+      "title": "Tranh tả cả người và vật",
+      "activities": [
+        {
+          "id": "6501",
+          "title": "Video bài giảng: Lý thuyết",
+          "sourceUrl": "https://study4.com/courses/28/complete-toeic/learn/activities/6501/",
+          "status": "complete",
+          "dataFile": "activities/6501.json"
+        },
+        {
+          "id": "7315",
+          "title": "Luyện tập: Trắc nghiệm format TOEIC",
+          "sourceUrl": "https://study4.com/courses/28/complete-toeic/learn/activities/7315/",
+          "status": "complete",
+          "dataFile": "activities/7315.json"
+        }
+      ]
+    },
+    {
+      "lessonNumber": 5,
+      "title": "PRACTICE ZONE",
+      "activities": [
+        {
+          "id": "9832",
+          "title": "Luyện tập: Trắc nghiệm format TOEIC",
+          "sourceUrl": "https://study4.com/courses/28/complete-toeic/learn/activities/9832/",
+          "status": "dynamic",
+          "dataFile": "activities/9832.json"
+        }
+      ]
+    }
+  ],
+  "unitId": 188
+}
