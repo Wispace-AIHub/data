@@ -1,0 +1,664 @@
+{
+    "expectedQuestions":  15,
+    "activityId":  "7321",
+    "text":  "",
+    "audioUrls":  [
+                      "/media/toeic_course_problems/audio/ets21_test1_16.mp3",
+                      "/media/toeic_course_problems/audio/ets21_test1_21.mp3",
+                      "/media/toeic_course_problems/audio/sound_1619508285_1619510993.mp3",
+                      "/media/toeic_course_problems/audio/sound_1619577808_1619578939.mp3",
+                      "/media/toeic_course_problems/audio/sound_1619592449_1619593473.mp3",
+                      "/media/toeic_course_problems/audio/sound_eco_toeic_1000_test_4_16.mp3",
+                      "/media/toeic_course_problems/audio/sound_eco_toeic_1000_test_4_30.mp3",
+                      "/media/toeic_course_problems/audio/sound_eco_toeic_1000_test_5_14.mp3",
+                      "/media/toeic_course_problems/audio/sound_eco_toeic_1000_test_5_20.mp3",
+                      "/media/toeic_course_problems/audio/test6_audios_q13.mp3",
+                      "/media/toeic_course_problems/audio/test6_audios_q27.mp3",
+                      "/media/toeic_course_problems/audio/test7_audios_q11.mp3",
+                      "/media/toeic_course_problems/audio/test7_audios_q19.mp3",
+                      "/media/toeic_course_problems/audio/test8_audios_q22.mp3",
+                      "/media/toeic_course_problems/audio/test9_audios_q10.mp3"
+                  ],
+    "videos":  [
+
+               ],
+    "html":  "",
+    "complete":  true,
+    "questions":  [
+                      {
+                          "id":  "404941",
+                          "data":  {
+                                       "questions":  [
+                                                         {
+                                                             "number":  "16",
+                                                             "prompt":  "",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C."
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "A",
+                                                             "transcript":  "Why is the parking garage closed?\n(A) Because it\u0027s being repaired.\n(B) To the south entrance.\n(C) Monday through Friday.",
+                                                             "explanation":  "Đáp án đúng: A\nTại sao nhà để xe lại bị đóng cửa?\n(A) Bởi vì nó đang được sửa chữa.\n(B) Đến lối vào phía nam.\n(C) Thứ Hai đến Thứ Sáu.\nVì câu hỏi có từ để hỏi ‘why’ - tại sao\n→ chọn đáp án A (vì bắt đầu bằng từ ‘because’ để giải thích lý do)"
+                                                         }
+                                                     ],
+                                       "context":  "",
+                                       "type":  "mcq"
+                                   },
+                          "audioUrls":  [
+                                            "/media/toeic_course_problems/audio/ets21_test1_16.mp3"
+                                        ],
+                          "imageUrls":  [
+
+                                        ]
+                      },
+                      {
+                          "id":  "404942",
+                          "data":  {
+                                       "questions":  [
+                                                         {
+                                                             "number":  "21",
+                                                             "prompt":  "",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C."
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "A",
+                                                             "transcript":  "Why did your company decide to advertise internationally?\n(A) To expand our customer base.\n(B) Yes, that sounds like a great idea.\n(C) Which side do you prefer?",
+                                                             "explanation":  "Đáp án đúng: A\nTại sao công ty của bạn quyết định quảng cáo trên quốc tế?\nĐể mở rộng nền tảng khách hàng của chúng tôi\nĐược, nó có vẻ là ý hay đấy\nBạn thích mặt bên nào hơn?\n→ Chọn A (câu hỏi why nên cần tìm câu trả lời nêu lý do)"
+                                                         }
+                                                     ],
+                                       "context":  "",
+                                       "type":  "mcq"
+                                   },
+                          "audioUrls":  [
+                                            "/media/toeic_course_problems/audio/ets21_test1_21.mp3"
+                                        ],
+                          "imageUrls":  [
+
+                                        ]
+                      },
+                      {
+                          "id":  "404943",
+                          "data":  {
+                                       "questions":  [
+                                                         {
+                                                             "number":  "24",
+                                                             "prompt":  "",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C."
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "A",
+                                                             "transcript":  "Why didn\u0027t we advertise on the local TV network?\n(A) We missed the submission deadline.\n(B) Let\u0027s watch the evening news.\n(C) An international flight.",
+                                                             "explanation":  "Đáp án đúng: A\nTại sao chúng ta không quảng cáo trên mạng truyền hình địa phương?\n(A) Chúng ta đã bỏ lỡ thời hạn nộp hồ sơ.\n(B) Hãy xem tin tức buổi tối.\n(C) Một chuyến bay quốc tế.\nDựa vào nghĩa của từng đáp án (lý do không quảng cáo trên truyền hình địa phương vì họ đã bỏ lỡ thời hạn nộp hồ sơ)\n→ chọn đáp án A"
+                                                         }
+                                                     ],
+                                       "context":  "",
+                                       "type":  "mcq"
+                                   },
+                          "audioUrls":  [
+                                            "/media/toeic_course_problems/audio/sound_1619508285_1619510993.mp3"
+                                        ],
+                          "imageUrls":  [
+
+                                        ]
+                      },
+                      {
+                          "id":  "404944",
+                          "data":  {
+                                       "questions":  [
+                                                         {
+                                                             "number":  "13",
+                                                             "prompt":  "",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C."
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "B",
+                                                             "transcript":  "Why do you want to work for this law firm?\n(A) A copyright attorney.\n(B) Because it\u0027s well-known.\n(C) Yes, it\u0027s very firm.",
+                                                             "explanation":  "Đáp án đúng: B\n(A) luật sư có chuyên môn về pháp luật sở hữu trí tuệ\n(B) Bởi vì nó nổi tiếng.\n(C) Có, nó rất chắc chắn.\nVì câu hỏi bắt đầu bằng từ để hỏi ‘why’ (tại sao)\n→ chọn đáp án B (‘because’ dùng để giải thích lý do)"
+                                                         }
+                                                     ],
+                                       "context":  "",
+                                       "type":  "mcq"
+                                   },
+                          "audioUrls":  [
+                                            "/media/toeic_course_problems/audio/sound_1619577808_1619578939.mp3"
+                                        ],
+                          "imageUrls":  [
+
+                                        ]
+                      },
+                      {
+                          "id":  "404945",
+                          "data":  {
+                                       "questions":  [
+                                                         {
+                                                             "number":  "11",
+                                                             "prompt":  "",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C."
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "B",
+                                                             "transcript":  "Why was the meeting postponed?\n(A) At two P.M.\n(B) Because the report hasn\u0027t been finalized.\n(C) Yes, I need to go to the post office.",
+                                                             "explanation":  "Đáp án đúng: B\nTại sao cuộc họp đã bị hoãn lại?\n(A) Lúc hai giờ chiều\n(B) Bởi vì báo cáo chưa được hoàn thiện.\n(C) Vâng, tôi cần đến bưu điện.\nVì câu hỏi bắt đầu bằng từ để hỏi ‘why’ (tại sao) → câu trả lời bắt đầu từ ‘because’ (bởi vì)\n→ chọn đáp án B"
+                                                         }
+                                                     ],
+                                       "context":  "",
+                                       "type":  "mcq"
+                                   },
+                          "audioUrls":  [
+                                            "/media/toeic_course_problems/audio/sound_1619592449_1619593473.mp3"
+                                        ],
+                          "imageUrls":  [
+
+                                        ]
+                      },
+                      {
+                          "id":  "405563",
+                          "data":  {
+                                       "questions":  [
+                                                         {
+                                                             "number":  "16",
+                                                             "prompt":  "",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C."
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "B",
+                                                             "transcript":  "Why was the quarterly training session canceled?\n(A) He\u0027s undergoing intensive training.\n(B) Actually, it was rescheduled.\n(C) Because the pencil was broken.",
+                                                             "explanation":  "Đáp án đúng: B\nVì sao buổi đào tạo theo quý lại bị hủy?\n(A) Anh ấy đang được đào tạo chuyên sâu. =\u003e cũng có từ \"training\" nhưng nội dung không hề liên quan =\u003e loại\n(B) Thực ra, nó đã được lên lịch lại. =\u003e chọn\n(C) Bởi vì bút chì đã bị hỏng. =\u003e có “Because” để trả lời cho câu hỏi “Why”, tuy nhiên nội dung không hề liên quan =\u003e loại"
+                                                         }
+                                                     ],
+                                       "context":  "",
+                                       "type":  "mcq"
+                                   },
+                          "audioUrls":  [
+                                            "/media/toeic_course_problems/audio/sound_eco_toeic_1000_test_4_16.mp3"
+                                        ],
+                          "imageUrls":  [
+
+                                        ]
+                      },
+                      {
+                          "id":  "405564",
+                          "data":  {
+                                       "questions":  [
+                                                         {
+                                                             "number":  "30",
+                                                             "prompt":  "",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C."
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "B",
+                                                             "transcript":  "Why was the manuscript I submitted rejected by the editor?\n(A) Submit the form online.\n(B) Actually, I\u0027m not in charge of editing.\n(C) It was written on the menu.",
+                                                             "explanation":  "Đáp án đúng: B\nVì sao bản thảo tôi nộp lại bị biên tập viên từ chối?\n(A) Hãy gửi biểu mẫu trực tuyến. =\u003e cũng có \"submit\" nhưng nội dung cả câu không hề liên quan =\u003e loại\n(B) Thực ra tôi không phụ trách biên tập. =\u003e ý là mảng biên tập tôi không phụ trách, hãy hỏi người khác =\u003e chọn\n(C) Nó được viết trên thực đơn. =\u003e có từ \"menu\" nghe gần giống \"manuscript\" để bẫy, ý nghĩa không hề liên quan =\u003e loại"
+                                                         }
+                                                     ],
+                                       "context":  "",
+                                       "type":  "mcq"
+                                   },
+                          "audioUrls":  [
+                                            "/media/toeic_course_problems/audio/sound_eco_toeic_1000_test_4_30.mp3"
+                                        ],
+                          "imageUrls":  [
+
+                                        ]
+                      },
+                      {
+                          "id":  "405565",
+                          "data":  {
+                                       "questions":  [
+                                                         {
+                                                             "number":  "14",
+                                                             "prompt":  "",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C."
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "C",
+                                                             "transcript":  "Why is the copy center closed today?\n(A) 300 copies, please.\n(B) In the storage closet.\n(C) It\u0027s Sunday.",
+                                                             "explanation":  "Đáp án đúng: C\nVì sao tiệm photocopy lại đóng cửa hôm nay?\n(A) 300 bản, làm ơn. =\u003e đây là câu hỏi Why nên câu trả lời kèm \"please\" cuối câu với ý nhờ vả là không hợp lý =\u003e loại\n(B) Trong tủ đựng đồ. =\u003e câu hỏi Why chứ không phải câu hỏi Where =\u003e loại\n(C) Hôm nay là Chủ nhật. =\u003e chọn"
+                                                         }
+                                                     ],
+                                       "context":  "",
+                                       "type":  "mcq"
+                                   },
+                          "audioUrls":  [
+                                            "/media/toeic_course_problems/audio/sound_eco_toeic_1000_test_5_14.mp3"
+                                        ],
+                          "imageUrls":  [
+
+                                        ]
+                      },
+                      {
+                          "id":  "405566",
+                          "data":  {
+                                       "questions":  [
+                                                         {
+                                                             "number":  "20",
+                                                             "prompt":  "",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C."
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "B",
+                                                             "transcript":  "Why are you still advertising this position?\n(A) The new advertising strategy.\n(B) We still haven\u0027t hired anyone.\n(C) Every other week.",
+                                                             "explanation":  "Đáp án đúng: B\nVì sao bạn vẫn còn quảng cáo vị trí này?\n(A) Chiến lược quảng cáo mới. =\u003e cũng có \"advertising\" nhưng nội dung cả câu không hề liên quan =\u003e loại\n(B) Chúng tôi vẫn chưa thuê được ai. =\u003e chọn\n(C) Mỗi hai tuần một lần. =\u003e đây là câu trả lời cho câu hỏi How often chứ không phải cho câu hỏi Why =\u003e loại"
+                                                         }
+                                                     ],
+                                       "context":  "",
+                                       "type":  "mcq"
+                                   },
+                          "audioUrls":  [
+                                            "/media/toeic_course_problems/audio/sound_eco_toeic_1000_test_5_20.mp3"
+                                        ],
+                          "imageUrls":  [
+
+                                        ]
+                      },
+                      {
+                          "id":  "405567",
+                          "data":  {
+                                       "questions":  [
+                                                         {
+                                                             "number":  "13",
+                                                             "prompt":  "",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C."
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "B",
+                                                             "transcript":  "Why won\u0027t the television turn on?\n(A) Because of a scheduling conflict.\n(B) Maybe it isn\u0027t plugged in.\n(C) It was yesterday.",
+                                                             "explanation":  "Đáp án đúng: B\nDịch: Tại sao TV không bật lên được?\nPhân tích các lựa chọn:\nA) Do xung đột lịch phát sóng =\u003e có Because of để trả lời cho câu hỏi Why nhưng nội dung cả câu không phù hợp =\u003e loại\nB) Chắc là chưa cắm điện =\u003e chọn\nC) Vào hôm qua =\u003e nội dung không liên quan =\u003e loại"
+                                                         }
+                                                     ],
+                                       "context":  "",
+                                       "type":  "mcq"
+                                   },
+                          "audioUrls":  [
+                                            "/media/toeic_course_problems/audio/test6_audios_q13.mp3"
+                                        ],
+                          "imageUrls":  [
+
+                                        ]
+                      },
+                      {
+                          "id":  "405568",
+                          "data":  {
+                                       "questions":  [
+                                                         {
+                                                             "number":  "27",
+                                                             "prompt":  "",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C."
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "A",
+                                                             "transcript":  "Why hasn\u0027t the delivery arrived yet?\n(A) Let me call Ms. Anderson.\n(B) I\u0027ve signed the document.\n(C) A cardboard box.",
+                                                             "explanation":  "Đáp án đúng: A\nDịch: Tại sao hàng vẫn chưa được giao tới?\nA) Để tôi gọi cho cô Anderson =\u003e câu trả lời gián tiếp đề cập đến người thứ ba, nội dung phù hợp =\u003e chọn\nB) Tôi đã kí tài liệu rồi =\u003e nội dung không liên quan =\u003e loại\nC) Một hộp carton =\u003e nội dung không liên quan =\u003e loại"
+                                                         }
+                                                     ],
+                                       "context":  "",
+                                       "type":  "mcq"
+                                   },
+                          "audioUrls":  [
+                                            "/media/toeic_course_problems/audio/test6_audios_q27.mp3"
+                                        ],
+                          "imageUrls":  [
+
+                                        ]
+                      },
+                      {
+                          "id":  "405569",
+                          "data":  {
+                                       "questions":  [
+                                                         {
+                                                             "number":  "11",
+                                                             "prompt":  "",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C."
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "C",
+                                                             "transcript":  "Why is there a moving truck parked outside?\n(A) We\u0027re removing coffee stains.\n(B) Into a bigger office.\n(C) Because new neighbors are moving in.",
+                                                             "explanation":  "Đáp án đúng: C\nDịch câu hỏi:\nTại sao có một chiếc xe tải chở hàng đậu bên ngoài?\n(A) Chúng tôi đang tẩy vết cà phê.\n(B) Vào một văn phòng lớn hơn.\n(C) Vì hàng xóm mới chuyển đến.\nĐây là câu hỏi why nên các đáp án A và B là không phù hợp, đáp án C trả lời trực tiếp với các từ chỉ nguyên nhân. Vì vậy chọn C."
+                                                         }
+                                                     ],
+                                       "context":  "",
+                                       "type":  "mcq"
+                                   },
+                          "audioUrls":  [
+                                            "/media/toeic_course_problems/audio/test7_audios_q11.mp3"
+                                        ],
+                          "imageUrls":  [
+
+                                        ]
+                      },
+                      {
+                          "id":  "405570",
+                          "data":  {
+                                       "questions":  [
+                                                         {
+                                                             "number":  "19",
+                                                             "prompt":  "",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C."
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "C",
+                                                             "transcript":  "Why hasn\u0027t the travel itinerary been sent out yet?\n(A) At Terminal 6.\n(B) He was a travel agent.\n(C) We haven\u0027t decided on the dates.",
+                                                             "explanation":  "Đáp án đúng: C\nDịch câu hỏi:\nTại sao hành trình du lịch vẫn chưa được gửi đi?\n(A) Tại Nhà ga số 6.\n(B) Anh ấy là một đại lý du lịch.\n(C) Chúng tôi vẫn chưa quyết định ngày.\nĐây là câu hỏi Why nhưng phần trả lời không có các đáp án trực tiếp, các đáp án A và B không liên quan đến nội dung được hỏi nên chọn đáp án C. Đáp án này giải thích lí do hành lí chưa gửi đi là do chưa quyết định được ngày đi."
+                                                         }
+                                                     ],
+                                       "context":  "",
+                                       "type":  "mcq"
+                                   },
+                          "audioUrls":  [
+                                            "/media/toeic_course_problems/audio/test7_audios_q19.mp3"
+                                        ],
+                          "imageUrls":  [
+
+                                        ]
+                      },
+                      {
+                          "id":  "405571",
+                          "data":  {
+                                       "questions":  [
+                                                         {
+                                                             "number":  "22",
+                                                             "prompt":  "",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C."
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "A",
+                                                             "transcript":  "Why didn’t the train arrive on time today?\n(A) It was delayed because of construction.\n(B) Yes, it\u0027s always punctual.\n(C) Actually, the tickets are non-refundable.",
+                                                             "explanation":  "Đáp án đúng: A\nDịch: Tại sao hôm nay tàu không đến đúng giờ?\n(A) Nó bị trì hoãn vì việc xây dựng. =\u003e delay = not arrive on time =\u003e chọn\n(B) Vâng, nó luôn luôn đúng giờ. =\u003e câu hỏi Why chứ không phải câu hỏi Yes/No =\u003e loại\n(C) Thực ra, vé không được hoàn lại. =\u003e nội dung không liên quan =\u003e loại"
+                                                         }
+                                                     ],
+                                       "context":  "",
+                                       "type":  "mcq"
+                                   },
+                          "audioUrls":  [
+                                            "/media/toeic_course_problems/audio/test8_audios_q22.mp3"
+                                        ],
+                          "imageUrls":  [
+
+                                        ]
+                      },
+                      {
+                          "id":  "405572",
+                          "data":  {
+                                       "questions":  [
+                                                         {
+                                                             "number":  "10",
+                                                             "prompt":  "",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C."
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "B",
+                                                             "transcript":  "Why are the lights off in the conference room?\n(A) I was sitting there.\n(B) They are watching a video.\n(C) Yes, she\u0027s off duty.",
+                                                             "explanation":  "Đáp án đúng: B\nDịch: Tại sao đèn trong phòng họp lại tắt?\n(A) Tôi đã ngồi ở đó. =\u003e hỏi sao đèn tắt (off) chứ không phải bật (on) nên câu trả lời không phù hợp =\u003e loại\n(B) Họ đang xem một đoạn video. =\u003e chọn\n(C) Vâng, cô ấy đang nghỉ làm. =\u003e câu hỏi Why chứ không phải Yes/No =\u003e loại"
+                                                         }
+                                                     ],
+                                       "context":  "",
+                                       "type":  "mcq"
+                                   },
+                          "audioUrls":  [
+                                            "/media/toeic_course_problems/audio/test9_audios_q10.mp3"
+                                        ],
+                          "imageUrls":  [
+
+                                        ]
+                      }
+                  ],
+    "title":  "Luyện tập: Trắc nghiệm format TOEIC",
+    "lessonTitle":  "Câu hỏi WHY",
+    "imageUrls":  [
+
+                  ]
+}

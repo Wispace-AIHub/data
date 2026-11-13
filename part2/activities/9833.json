@@ -1,0 +1,70 @@
+{
+    "expectedQuestions":  1,
+    "activityId":  "9833",
+    "text":  "",
+    "audioUrls":  [
+                      "/media/tez_media3/sound/ets_toeic_2022_test_9_23.mp3",
+                      "https://s4-media1.study4.com/media/tez_media3/sound/ets_toeic_2022_test_9_23.mp3"
+                  ],
+    "videos":  [
+
+               ],
+    "html":  "",
+    "complete":  false,
+    "questions":  [
+                      {
+                          "id":  "450810",
+                          "data":  {
+                                       "questionBankComplete":  false,
+                                       "sample":  {
+                                                      "id":  "39722",
+                                                      "answerAvailable":  false,
+                                                      "prompt":  "A.\nB.\nC.",
+                                                      "imageUrls":  [
+
+                                                                    ],
+                                                      "audioUrls":  [
+                                                                        "/media/tez_media3/sound/ets_toeic_2022_test_9_23.mp3",
+                                                                        "https://s4-media1.study4.com/media/tez_media3/sound/ets_toeic_2022_test_9_23.mp3"
+                                                                    ],
+                                                      "correctAnswer":  null,
+                                                      "options":  [
+                                                                      {
+                                                                          "key":  "A",
+                                                                          "text":  "A."
+                                                                      },
+                                                                      {
+                                                                          "key":  "B",
+                                                                          "text":  "B."
+                                                                      },
+                                                                      {
+                                                                          "key":  "C",
+                                                                          "text":  "C."
+                                                                      }
+                                                                  ]
+                                                  },
+                                       "sourceUrl":  "https://study4.com/practice/problem/?format_exam=1\u0026format_section=2\u0026format_part=2\u0026title=(%3F%3APractice%20Set%7CSample%20TOEIC%20Test%20(10%7C%5B1-9%5D))%5Cy\u0026view=embed",
+                                       "type":  "practice-pool",
+                                       "filters":  {
+                                                       "format_exam":  "1",
+                                                       "format_section":  "2",
+                                                       "format_part":  "2",
+                                                       "title":  "(?:Practice Set|Sample TOEIC Test (10|[1-9]))\\y"
+                                                   }
+                                   },
+                          "audioUrls":  [
+                                            "/media/tez_media3/sound/ets_toeic_2022_test_9_23.mp3",
+                                            "https://s4-media1.study4.com/media/tez_media3/sound/ets_toeic_2022_test_9_23.mp3"
+                                        ],
+                          "imageUrls":  [
+
+                                        ]
+                      }
+                  ],
+    "collectionStatus":  "dynamic-pool",
+    "title":  "Luyện tập: Trắc nghiệm format TOEIC (Luyện tập)",
+    "lessonTitle":  "PRACTICE ZONE",
+    "imageUrls":  [
+
+                  ]
+}

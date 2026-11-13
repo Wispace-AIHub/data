@@ -1,0 +1,664 @@
+{
+    "expectedQuestions":  15,
+    "activityId":  "7320",
+    "text":  "",
+    "audioUrls":  [
+                      "/media/toeic_course_problems/audio/ets21_test1_10.mp3",
+                      "/media/toeic_course_problems/audio/ets21_test1_24.mp3",
+                      "/media/toeic_course_problems/audio/sound_1619508285_1619511115.mp3",
+                      "/media/toeic_course_problems/audio/sound_1619508285_1619511488.mp3",
+                      "/media/toeic_course_problems/audio/sound_1619577808_1619578692.mp3",
+                      "/media/toeic_course_problems/audio/sound_eco_toeic_1000_test_4_10.mp3",
+                      "/media/toeic_course_problems/audio/sound_eco_toeic_1000_test_4_22.mp3",
+                      "/media/toeic_course_problems/audio/sound_eco_toeic_1000_test_5_9.mp3",
+                      "/media/toeic_course_problems/audio/test6_audios_q11.mp3",
+                      "/media/toeic_course_problems/audio/test6_audios_q16.mp3",
+                      "/media/toeic_course_problems/audio/test7_audios_q24.mp3",
+                      "/media/toeic_course_problems/audio/test8_audios_q7.mp3",
+                      "/media/toeic_course_problems/audio/test8_audios_q18.mp3",
+                      "/media/toeic_course_problems/audio/test8_audios_q24.mp3",
+                      "/media/toeic_course_problems/audio/test9_audios_q9.mp3"
+                  ],
+    "videos":  [
+
+               ],
+    "html":  "",
+    "complete":  true,
+    "questions":  [
+                      {
+                          "id":  "404936",
+                          "data":  {
+                                       "questions":  [
+                                                         {
+                                                             "number":  "10",
+                                                             "prompt":  "",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C."
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "B",
+                                                             "transcript":  "How do I get the drawer of the cash register to open?\n(A) A department store sale.\n(B) The key is right here.\n(C) Yes, I already signed up.",
+                                                             "explanation":  "Đáp án đúng: B\nLàm cách nào để tôi mở được ngăn kéo của máy tính tiền?\n(A) Một cửa hàng bách hóa.\n(B) Chìa khóa ở ngay đây.\n(C) Có, tôi đã đăng ký.\nLoại đáp án C vì câu hỏi có từ để hỏi là How → không thể trả lời Yes được\nLoại đáp án A vì xét về nghĩa, thông tin đưa ra ở đáp án A không liên quan đến câu hỏi\n→ chọn đáp án B"
+                                                         }
+                                                     ],
+                                       "context":  "",
+                                       "type":  "mcq"
+                                   },
+                          "audioUrls":  [
+                                            "/media/toeic_course_problems/audio/ets21_test1_10.mp3"
+                                        ],
+                          "imageUrls":  [
+
+                                        ]
+                      },
+                      {
+                          "id":  "404937",
+                          "data":  {
+                                       "questions":  [
+                                                         {
+                                                             "number":  "24",
+                                                             "prompt":  "",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C."
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "A",
+                                                             "transcript":  "How did the product demonstration go?\n(A) The audience seemed to like it.\n(B) Near the city convention center.\n(C) I think earlier would be better.",
+                                                             "explanation":  "Đáp án đúng: A\nBuổi giới thiệu sản phẩm đã diễn ra như thế nào?\n(A) Khán giả có vẻ thích nó.\n(B) Gần trung tâm hội nghị thành phố.\n(C) Tôi nghĩ sớm hơn sẽ ổn hơn.\n→ Chọn A (câu hỏi how cần nêu lên một việc liên quan đến buổi giới thiệu → khán giả có vẻ thích nó)"
+                                                         }
+                                                     ],
+                                       "context":  "",
+                                       "type":  "mcq"
+                                   },
+                          "audioUrls":  [
+                                            "/media/toeic_course_problems/audio/ets21_test1_24.mp3"
+                                        ],
+                          "imageUrls":  [
+
+                                        ]
+                      },
+                      {
+                          "id":  "404938",
+                          "data":  {
+                                       "questions":  [
+                                                         {
+                                                             "number":  "26",
+                                                             "prompt":  "",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C."
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "B",
+                                                             "transcript":  "How will the city pay for the new nature park?\n(A) Please park near those trees.\n(B) We received a generous donation.\n(C) Yes, at two o\u0027clock.",
+                                                             "explanation":  "Đáp án đúng: B\nThành phố sẽ chi trả như thế nào cho công viên tự nhiên mới?\n(A) Vui lòng đậu xe gần những cái cây đó.\n(B) Chúng tôi đã nhận được một khoản quyên góp lớn.\n(C) Đúng, vào lúc hai giờ.\nDựa vào nghĩa của từng đáp án (thành phố quyên góp một khoản lớn cho công viên tự nhiên)\n→ chọn đáp án B"
+                                                         }
+                                                     ],
+                                       "context":  "",
+                                       "type":  "mcq"
+                                   },
+                          "audioUrls":  [
+                                            "/media/toeic_course_problems/audio/sound_1619508285_1619511115.mp3"
+                                        ],
+                          "imageUrls":  [
+
+                                        ]
+                      },
+                      {
+                          "id":  "404939",
+                          "data":  {
+                                       "questions":  [
+                                                         {
+                                                             "number":  "31",
+                                                             "prompt":  "",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C."
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "B",
+                                                             "transcript":  "How do I replace the belt on this machine?\n(A) I\u0027d prefer a silver buckle.\n(B) There\u0027s a manual in the drawer.\n(C) Every six months or so, I think.",
+                                                             "explanation":  "Đáp án đúng: B\nLàm thế nào để thay thế dây cài trên cái máy này vậy?\n(A) Tôi thích một chiếc khóa bạc hơn.\n(B) Có một sách hướng dẫn trong ngăn kéo.\n(C) Cứ sáu tháng hoặc lâu hơn, tôi nghĩ.\nDựa vào nghĩa của từng đáp án (câu hỏi how - làm thế nào → có một quyển sách hướng dẫn về điều đó)\n– chọn đáp án B"
+                                                         }
+                                                     ],
+                                       "context":  "",
+                                       "type":  "mcq"
+                                   },
+                          "audioUrls":  [
+                                            "/media/toeic_course_problems/audio/sound_1619508285_1619511488.mp3"
+                                        ],
+                          "imageUrls":  [
+
+                                        ]
+                      },
+                      {
+                          "id":  "404940",
+                          "data":  {
+                                       "questions":  [
+                                                         {
+                                                             "number":  "10",
+                                                             "prompt":  "",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C."
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "C",
+                                                             "transcript":  "How many chairs do we need in the conference room?\n(A) This year\u0027s sales targets.\n(B) Next to the elevator.\n(C) Twenty-four.",
+                                                             "explanation":  "Đáp án đúng: C\nChúng ta cần bao nhiêu ghế trong phòng họp?\n(A) Mục tiêu doanh số của năm nay.\n(B) Cạnh thang máy.\n(C) 24\nVì câu hỏi hỏi về số lượng ‘how many’ → câu trả lời cần có một con số\n→ chọn đáp án C"
+                                                         }
+                                                     ],
+                                       "context":  "",
+                                       "type":  "mcq"
+                                   },
+                          "audioUrls":  [
+                                            "/media/toeic_course_problems/audio/sound_1619577808_1619578692.mp3"
+                                        ],
+                          "imageUrls":  [
+
+                                        ]
+                      },
+                      {
+                          "id":  "405553",
+                          "data":  {
+                                       "questions":  [
+                                                         {
+                                                             "number":  "10",
+                                                             "prompt":  "",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C."
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "A",
+                                                             "transcript":  "How many hotel rooms would you like to reserve?\n(A) I think at least five.\n(B) He stayed overnight.\n(C) At the beginning of March.",
+                                                             "explanation":  "Đáp án đúng: A\nBạn muốn đặt trước bao nhiêu phòng khách sạn?\n(A) Tôi nghĩ ít nhất là năm. =\u003e chọn\n(B) Anh ấy ở lại qua đêm. =\u003e có cụm \"stayed overnight\" liên quan đến \"hotel\", tuy nhiên ý nghĩa cả câu không liên quan =\u003e loại\n(C) Vào đầu tháng Ba. =\u003e câu hỏi How many chứ không phải When =\u003e loại"
+                                                         }
+                                                     ],
+                                       "context":  "",
+                                       "type":  "mcq"
+                                   },
+                          "audioUrls":  [
+                                            "/media/toeic_course_problems/audio/sound_eco_toeic_1000_test_4_10.mp3"
+                                        ],
+                          "imageUrls":  [
+
+                                        ]
+                      },
+                      {
+                          "id":  "405554",
+                          "data":  {
+                                       "questions":  [
+                                                         {
+                                                             "number":  "22",
+                                                             "prompt":  "",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C."
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "C",
+                                                             "transcript":  "How can I find a roster of all the volunteers?\n(A) He volunteered to attend the conference.\n(B) Please register your complaint.\n(C) Just access the company database.",
+                                                             "explanation":  "Đáp án đúng: C\nLàm sao để tìm được danh sách mọi tình nguyện viên?\n(A) Anh ấy tình nguyện tham dự hội nghị. =\u003e có từ \"volunteered\" nghe gần giống \"volunteers\" để bẫy, ý nghĩa không hề liên quan =\u003e loại\n(B) Vui lòng nhập khiếu nại của bạn. =\u003e có từ \"register\" nghe gần giống \"roster\" để bẫy, ý nghĩa không hề liên quan =\u003e loại\n(C) Chỉ cần truy cập cơ sở dữ liệu của công ty. =\u003e chọn"
+                                                         }
+                                                     ],
+                                       "context":  "",
+                                       "type":  "mcq"
+                                   },
+                          "audioUrls":  [
+                                            "/media/toeic_course_problems/audio/sound_eco_toeic_1000_test_4_22.mp3"
+                                        ],
+                          "imageUrls":  [
+
+                                        ]
+                      },
+                      {
+                          "id":  "405555",
+                          "data":  {
+                                       "questions":  [
+                                                         {
+                                                             "number":  "9",
+                                                             "prompt":  "",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C."
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "A",
+                                                             "transcript":  "How can you improve product quality?\n(A) By using better materials.\n(B) I can prove him wrong.\n(C) Production costs.",
+                                                             "explanation":  "Đáp án đúng: A\nBạn có thể cải thiện chất lượng sản phẩm bằng cách nào?\n(A) Bằng cách sử dụng vật liệu tốt hơn. =\u003e chọn\n(B) Tôi có thể chứng minh anh ta sai. =\u003e có từ \"prove\" nghe gần giống \"improve\" để bẫy, nội dung không hề liên quan =\u003e loại\n(C) Chi phí sản xuất. =\u003e có từ \"Production\" liên quan đến \"product\" để bẫy, tuy nhiên ý nghĩa cả câu không liên quan =\u003e loại"
+                                                         }
+                                                     ],
+                                       "context":  "",
+                                       "type":  "mcq"
+                                   },
+                          "audioUrls":  [
+                                            "/media/toeic_course_problems/audio/sound_eco_toeic_1000_test_5_9.mp3"
+                                        ],
+                          "imageUrls":  [
+
+                                        ]
+                      },
+                      {
+                          "id":  "405556",
+                          "data":  {
+                                       "questions":  [
+                                                         {
+                                                             "number":  "11",
+                                                             "prompt":  "",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C."
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "C",
+                                                             "transcript":  "How many tables should I set up?\n(A) It\u0027s a table for four.\n(B) There isn\u0027t enough time.\n(C) At least twenty.",
+                                                             "explanation":  "Đáp án đúng: C\nDịch: Tôi nên chuẩn bị bao nhiêu bàn?\n(A) Đó là bàn cho bốn người. =\u003e có từ “table” và con số (four) nhưng nội dung không liên quan =\u003e loại\n(B) Không có đủ thời gian. =\u003e nội dung không liên quan =\u003e loại\n(C) Ít nhất hai mươi (bàn). =\u003e chọn"
+                                                         }
+                                                     ],
+                                       "context":  "",
+                                       "type":  "mcq"
+                                   },
+                          "audioUrls":  [
+                                            "/media/toeic_course_problems/audio/test6_audios_q11.mp3"
+                                        ],
+                          "imageUrls":  [
+
+                                        ]
+                      },
+                      {
+                          "id":  "405557",
+                          "data":  {
+                                       "questions":  [
+                                                         {
+                                                             "number":  "16",
+                                                             "prompt":  "",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C."
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "B",
+                                                             "transcript":  "How often does this bus come?\n(A) I will come up with some ideas.\n(B) Every twenty minutes.\n(C) The train to Hemsville.",
+                                                             "explanation":  "Đáp án đúng: B\nDịch: Cách bao lâu xe bus này lại đến?\nA) Tôi sẽ nghĩ ra vài ý tưởng =\u003e cụm “come up with” (nghĩ ra, nảy ra) không liên quan gì đến “come” (đến, tới) trong câu hỏi =\u003e loại\nB) Mỗi 20 phút =\u003e chọn\nC) Tàu hỏa đến Hemsville =\u003e nội dung không liên quan =\u003e loại"
+                                                         }
+                                                     ],
+                                       "context":  "",
+                                       "type":  "mcq"
+                                   },
+                          "audioUrls":  [
+                                            "/media/toeic_course_problems/audio/test6_audios_q16.mp3"
+                                        ],
+                          "imageUrls":  [
+
+                                        ]
+                      },
+                      {
+                          "id":  "405558",
+                          "data":  {
+                                       "questions":  [
+                                                         {
+                                                             "number":  "24",
+                                                             "prompt":  "",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C."
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "C",
+                                                             "transcript":  "How can I find her contact information?\n(A) We negotiated a contract.\n(B) By Wednesday at the latest.\n(C) Check the client list.",
+                                                             "explanation":  "Đáp án đúng: C\nDịch câu hỏi\nLàm thế nào tôi có thể tìm thấy thông tin liên lạc của cô ấy?\n(A) Chúng tôi đã đàm phán một hợp đồng.\n(B) Chậm nhất là vào thứ Tư.\n(C) Kiểm tra danh sách khách hàng.\nĐây là câu hỏi ‘how can’ nên nó dùng để hỏi về cách thức, do vậy đáp án có thể là chỉ dẫn. Trong 3 đáp án, chỉ có đáp án C là hướng dẫn, vì vậy đáp án này đúng với câu hỏi nhất."
+                                                         }
+                                                     ],
+                                       "context":  "",
+                                       "type":  "mcq"
+                                   },
+                          "audioUrls":  [
+                                            "/media/toeic_course_problems/audio/test7_audios_q24.mp3"
+                                        ],
+                          "imageUrls":  [
+
+                                        ]
+                      },
+                      {
+                          "id":  "405559",
+                          "data":  {
+                                       "questions":  [
+                                                         {
+                                                             "number":  "7",
+                                                             "prompt":  "",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C."
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "B",
+                                                             "transcript":  "How often should I replace the battery in this device?\n(A) It is in place.\n(B) At least once a year.\n(C) He often goes on business trips.",
+                                                             "explanation":  "Đáp án đúng: B\nDịch: Tôi nên thay pin trong thiết bị này bao lâu một lần?\n(A) Nó ở đúng chỗ. =\u003e có từ “place” nghe gần giống “replace” nhưng nội dung không liên quan =\u003e loại\n(B) Ít nhất mỗi năm một lần. =\u003e chọn\n(C) Anh ấy thường xuyên đi công tác. =\u003e có “often” nhưng nội dung không liên quan =\u003e loại"
+                                                         }
+                                                     ],
+                                       "context":  "",
+                                       "type":  "mcq"
+                                   },
+                          "audioUrls":  [
+                                            "/media/toeic_course_problems/audio/test8_audios_q7.mp3"
+                                        ],
+                          "imageUrls":  [
+
+                                        ]
+                      },
+                      {
+                          "id":  "405560",
+                          "data":  {
+                                       "questions":  [
+                                                         {
+                                                             "number":  "18",
+                                                             "prompt":  "",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C."
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "B",
+                                                             "transcript":  "How do you get to work each day?\n(A) I have to leave home before 8:00.\n(B) I ride my bike or walk.\n(C) The office on the first floor.",
+                                                             "explanation":  "Đáp án đúng: B\nDịch: Hằng ngày bạn đi làm bằng cách nào?\n(A) Tôi phải rời nhà trước 8 giờ. =\u003e đang hỏi phương tiện đi lại chứ không hỏi về giờ giấc =\u003e loại\n(B) Tôi đi xe đạp hoặc đi bộ. =\u003e chọn\n(C) Văn phòng ở tầng một. =\u003e nội dung không liên quan =\u003e loại"
+                                                         }
+                                                     ],
+                                       "context":  "",
+                                       "type":  "mcq"
+                                   },
+                          "audioUrls":  [
+                                            "/media/toeic_course_problems/audio/test8_audios_q18.mp3"
+                                        ],
+                          "imageUrls":  [
+
+                                        ]
+                      },
+                      {
+                          "id":  "405561",
+                          "data":  {
+                                       "questions":  [
+                                                         {
+                                                             "number":  "24",
+                                                             "prompt":  "",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C."
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "B",
+                                                             "transcript":  "How did you access the company database?\n(A) He will accompany you.\n(B) You need Mr. Harrison\u0027s permission.\n(C) At the annual conference.",
+                                                             "explanation":  "Đáp án đúng: B\nDịch: Bạn làm thế nào để truy cập cơ sở dữ liệu công ty thế?\n(A) Anh ấy sẽ đi cùng bạn. =\u003e từ “accompany” nghe gần giống “company”, tuy nhiên nghĩa hoàn toàn khác, nội dung câu cũng không liên quan =\u003e loại\n(B) Bạn cần sự cho phép của ông Harrison. =\u003e chọn\n(C) Tại hội nghị thường niên. =\u003e Câu hỏi How chứ không phải Where =\u003e loại"
+                                                         }
+                                                     ],
+                                       "context":  "",
+                                       "type":  "mcq"
+                                   },
+                          "audioUrls":  [
+                                            "/media/toeic_course_problems/audio/test8_audios_q24.mp3"
+                                        ],
+                          "imageUrls":  [
+
+                                        ]
+                      },
+                      {
+                          "id":  "405562",
+                          "data":  {
+                                       "questions":  [
+                                                         {
+                                                             "number":  "9",
+                                                             "prompt":  "",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C."
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "A",
+                                                             "transcript":  "How did you get such great seats for the concert?\n(A) By winning tickets at a raffle.\n(B) At least once a week.\n(C) He\u0027s a world-renowned musician.",
+                                                             "explanation":  "Đáp án đúng: A\nDịch: Bạn làm cách nào mà có được chỗ ngồi tuyệt vời thế này trong buổi hòa nhạc thế?\n(A) Bằng cách trúng vé khi chơi xổ số. =\u003e chọn\n(B) Ít nhất một lần một tuần. =\u003e câu hỏi How chứ không phải How often =\u003e loại\n(C) Anh ấy là một nhạc sĩ nổi tiếng thế giới. =\u003e nội dung không liên quan đến câu hỏi =\u003e loại"
+                                                         }
+                                                     ],
+                                       "context":  "",
+                                       "type":  "mcq"
+                                   },
+                          "audioUrls":  [
+                                            "/media/toeic_course_problems/audio/test9_audios_q9.mp3"
+                                        ],
+                          "imageUrls":  [
+
+                                        ]
+                      }
+                  ],
+    "title":  "Luyện tập: Trắc nghiệm format TOEIC",
+    "lessonTitle":  "Câu hỏi HOW",
+    "imageUrls":  [
+
+                  ]
+}

@@ -1,0 +1,578 @@
+{
+    "expectedQuestions":  13,
+    "activityId":  "7323",
+    "text":  "",
+    "audioUrls":  [
+                      "/media/toeic_course_problems/audio/sound_1619407464_1619421170.mp3",
+                      "/media/toeic_course_problems/audio/ets21_test1_25.mp3",
+                      "/media/toeic_course_problems/audio/sound_1619508285_1619509508.mp3",
+                      "/media/toeic_course_problems/audio/test6_audios_q15.mp3",
+                      "/media/toeic_course_problems/audio/test6_audios_q24.mp3",
+                      "/media/toeic_course_problems/audio/test7_audios_q22.mp3",
+                      "/media/toeic_course_problems/audio/test7_audios_q28.mp3",
+                      "/media/toeic_course_problems/audio/test8_audios_q13.mp3",
+                      "/media/toeic_course_problems/audio/test8_audios_q30.mp3",
+                      "/media/toeic_course_problems/audio/test9_audios_q20.mp3",
+                      "/media/toeic_course_problems/audio/test9_audios_q25.mp3",
+                      "/media/toeic_course_problems/audio/test10_audios_q7.mp3",
+                      "/media/toeic_course_problems/audio/test10_audios_q15.mp3"
+                  ],
+    "videos":  [
+
+               ],
+    "html":  "",
+    "complete":  true,
+    "questions":  [
+                      {
+                          "id":  "404959",
+                          "data":  {
+                                       "questions":  [
+                                                         {
+                                                             "number":  "9",
+                                                             "prompt":  "",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C."
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "A",
+                                                             "transcript":  "The last train to Melbourne hasn\u0027t departed yet, has it?\n(A) Yes, it just left.\n(B) No, it shouldn\u0027t rain.\n(C) Only ten dollars.",
+                                                             "explanation":  "Đáp án đúng: A\nChuyến tàu cuối cùng đến Melbourne vẫn chưa khởi hành, phải không?\n(A) Vâng, nó vừa rời đi.\n(B) Không, trời sẽ không mưa.\n(C) Chỉ mười đô la\nVì dạng câu hỏi là câu hỏi đuôi nên khi nghe thấy đáp án A và B người nghe thường hay bị đánh lừa (câu trả lời cần ở dạng Yes/No). Vì vậy, cần nghe hết câu cho từng đáp án\n→ chọn đáp án A (không thể chọn đáp án B vì mặc dù đáp án B bắt đầu bằng từ phủ định ‘no’ nhưng sau đó nội dung vế câu không liên quan tới câu hỏi)"
+                                                         }
+                                                     ],
+                                       "context":  "",
+                                       "type":  "mcq"
+                                   },
+                          "audioUrls":  [
+                                            "/media/toeic_course_problems/audio/sound_1619407464_1619421170.mp3"
+                                        ],
+                          "imageUrls":  [
+
+                                        ]
+                      },
+                      {
+                          "id":  "404960",
+                          "data":  {
+                                       "questions":  [
+                                                         {
+                                                             "number":  "25",
+                                                             "prompt":  "",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C."
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "B",
+                                                             "transcript":  "The actors in this play are talented, aren\u0027t they?\n(A) Tickets for front-row seats.\n(B) Some are even quite famous.\n(C) The tractor needs repairs.",
+                                                             "explanation":  "Đáp án đúng: B\nCác diễn viên trong vở kịch này thật tài năng phải không?\n(A) Vé cho hàng ghế đầu.\n(B) Một số người thậm chí còn khá nổi tiếng.\n(C) Máy kéo cần sửa chữa.\n→ Chọn B (ngoài tài năng ra thì một số diễn viên còn nổi tiếng)"
+                                                         }
+                                                     ],
+                                       "context":  "",
+                                       "type":  "mcq"
+                                   },
+                          "audioUrls":  [
+                                            "/media/toeic_course_problems/audio/ets21_test1_25.mp3"
+                                        ],
+                          "imageUrls":  [
+
+                                        ]
+                      },
+                      {
+                          "id":  "404961",
+                          "data":  {
+                                       "questions":  [
+                                                         {
+                                                             "number":  "8",
+                                                             "prompt":  "",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C."
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "C",
+                                                             "transcript":  "You haven\u0027t heard from the insurance agent, have you?\n(A) I like hardwood floors.\n(B) An expired credit card.\n(C) No, he hasn\u0027t called yet.",
+                                                             "explanation":  "Đáp án đúng: C\nBạn chưa nghe tin từ đại lý bảo hiểm, phải không?\n(A) Tôi thích sàn gỗ cứng.\n(B) Thẻ tín dụng hết hạn.\n(C) Không, anh ấy vẫn chưa gọi.\nVì câu hỏi là một dạng câu hỏi đuôi → câu trả lời cần có từ yes/no\n→ chọn đáp án C"
+                                                         }
+                                                     ],
+                                       "context":  "",
+                                       "type":  "mcq"
+                                   },
+                          "audioUrls":  [
+                                            "/media/toeic_course_problems/audio/sound_1619508285_1619509508.mp3"
+                                        ],
+                          "imageUrls":  [
+
+                                        ]
+                      },
+                      {
+                          "id":  "405613",
+                          "data":  {
+                                       "questions":  [
+                                                         {
+                                                             "number":  "15",
+                                                             "prompt":  "",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C."
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "A",
+                                                             "transcript":  "Sam is a really great clerk, isn\u0027t he?\n(A) Yeah, he is very hard-working.\n(B) Well, the clock is a few minutes slow.\n(C) No, he just moved last week.",
+                                                             "explanation":  "Đáp án đúng: A\nDịch: Sam đúng là nhân viên tuyệt vời, nhỉ?\nA) Ừ, anh ấy rất chăm chỉ =\u003e chọn\nB) Chà, cái đồng hồ chậm vài phút =\u003e có từ “clock” nghe gần giống “clerk” để bẫy thí sinh, nội dung không hề liên quan =\u003e loại\nC) Không, anh ấy mới chuyển đến tuần trước =\u003e nội dung không liên quan =\u003e loại"
+                                                         }
+                                                     ],
+                                       "context":  "",
+                                       "type":  "mcq"
+                                   },
+                          "audioUrls":  [
+                                            "/media/toeic_course_problems/audio/test6_audios_q15.mp3"
+                                        ],
+                          "imageUrls":  [
+
+                                        ]
+                      },
+                      {
+                          "id":  "405614",
+                          "data":  {
+                                       "questions":  [
+                                                         {
+                                                             "number":  "24",
+                                                             "prompt":  "",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C."
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "B",
+                                                             "transcript":  "Mr. Yamaoka will be dropping by today, won\u0027t he?\n(A) Can you pick it up for me?\n(B) No, he said he\u0027s too busy.\n(C) Yes, it was his first visit.",
+                                                             "explanation":  "Đáp án đúng: B\nA) Cô nhặt lên giúp tôi được không? =\u003e nếu nghe không kĩ sẽ tưởng drop = rơi và chọn câu này vì có pick it up (nhặt nó lên), nhưng đây là bẫy =\u003e loại\nB) Không, ông ấy bảo bận quá =\u003e chọn\nC) Vâng, đó là chuyến thăm đầu tiên của ông ấy =\u003e dù bắt đầu bằng Yes nhưng nội dung phía sau không ăn nhập: was = đã xảy ra, còn câu hỏi đang hỏi về sự việc sẽ xảy ra trong tương lai (will be) =\u003e loại"
+                                                         }
+                                                     ],
+                                       "context":  "",
+                                       "type":  "mcq"
+                                   },
+                          "audioUrls":  [
+                                            "/media/toeic_course_problems/audio/test6_audios_q24.mp3"
+                                        ],
+                          "imageUrls":  [
+
+                                        ]
+                      },
+                      {
+                          "id":  "405615",
+                          "data":  {
+                                       "questions":  [
+                                                         {
+                                                             "number":  "22",
+                                                             "prompt":  "",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C."
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "B",
+                                                             "transcript":  "I can borrow your book for a few days, can\u0027t I?\n(A) A few co-workers.\n(B) Of course. It\u0027s no trouble at all.\n(C) They booked tickets in advance.",
+                                                             "explanation":  "Đáp án đúng: B\nDịch câu hỏi:\nTôi có thể mượn cuốn sách của bạn trong vài ngày, phải không?\n(A) Một vài đồng nghiệp.\n(B) Tất nhiên. Nó không có vấn đề gì cả.\n(C) Họ đã đặt vé trước.\nCác đáp án A và C không liên quan nên bị loại. Đáp án B đúng, ta có thể hiểu là người trả lời đồng ý cho người hỏi mượn cuốn sách."
+                                                         }
+                                                     ],
+                                       "context":  "",
+                                       "type":  "mcq"
+                                   },
+                          "audioUrls":  [
+                                            "/media/toeic_course_problems/audio/test7_audios_q22.mp3"
+                                        ],
+                          "imageUrls":  [
+
+                                        ]
+                      },
+                      {
+                          "id":  "405616",
+                          "data":  {
+                                       "questions":  [
+                                                         {
+                                                             "number":  "28",
+                                                             "prompt":  "",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C."
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "B",
+                                                             "transcript":  "Food will be catered for tonight\u0027s party, won\u0027t it?\n(A) It was my birthday party.\n(B) It\u0027s scheduled to arrive at 6 o\u0027clock.\n(C) No, he isn\u0027t registered here.",
+                                                             "explanation":  "Đáp án đúng: B\nDịch câu hỏi:\nThức ăn sẽ được phục vụ cho bữa tiệc tối nay, phải không?\n(A) Đó là bữa tiệc sinh nhật của tôi.\n(B) Dự kiến ​​sẽ đến lúc 6 giờ.\n(C) Không, anh ấy không đăng ký ở đây.\nĐây là một dạng câu hỏi đuôi, câu hỏi về tonight’s party nên loại được các đáp án A và B vì không phù hợp với ngữ cảnh. Tuy câu trả lời đúng không có yes nhưng vẫn có thể hiểu hàm ý của câu là tối nay có phục vụ đồ ăn. Đáp án đúng là B."
+                                                         }
+                                                     ],
+                                       "context":  "",
+                                       "type":  "mcq"
+                                   },
+                          "audioUrls":  [
+                                            "/media/toeic_course_problems/audio/test7_audios_q28.mp3"
+                                        ],
+                          "imageUrls":  [
+
+                                        ]
+                      },
+                      {
+                          "id":  "405617",
+                          "data":  {
+                                       "questions":  [
+                                                         {
+                                                             "number":  "13",
+                                                             "prompt":  "",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C."
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "C",
+                                                             "transcript":  "The reservation is for 8:00 PM., isn\u0027t it?\n(A) The dinner was a vegetarian meal.\n(B) He worked all night.\n(C) Let me check the schedule.",
+                                                             "explanation":  "Đáp án đúng: C\nDịch: Lịch đặt trước là 8:00 tối, phải không?\n(A) Bữa tối là một bữa ăn chay. =\u003e hỏi về giờ giấc chứ không hỏi về món ăn =\u003e Loại\n(B) Anh ấy làm việc cả đêm. =\u003e hỏi về giờ giấc chứ không hỏi về người =\u003e loại\n(C) Để tôi kiểm tra lịch trình. =\u003e chọn"
+                                                         }
+                                                     ],
+                                       "context":  "",
+                                       "type":  "mcq"
+                                   },
+                          "audioUrls":  [
+                                            "/media/toeic_course_problems/audio/test8_audios_q13.mp3"
+                                        ],
+                          "imageUrls":  [
+
+                                        ]
+                      },
+                      {
+                          "id":  "405618",
+                          "data":  {
+                                       "questions":  [
+                                                         {
+                                                             "number":  "30",
+                                                             "prompt":  "",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C."
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "C",
+                                                             "transcript":  "This television isn\u0027t still under warranty, is it?\n(A) We replaced the item at no cost to the customer.\n(B) A trusted brand for over 30 years.\n(C) I believe it expired just a month ago.",
+                                                             "explanation":  "Đáp án đúng: C\nDịch: TV này không còn bảo hành, phải không?\n(A) Chúng tôi đã thay thế sản phẩm cho khách hàng mà không tính phí. =\u003e nội dung không liên quan =\u003e loại\n(B) Một thương hiệu đáng tin cậy hơn 30 năm. =\u003e nội dung không liên quan =\u003e loại\n(C) Tôi tin rằng nó đã hết hạn chỉ một tháng trước. =\u003e chọn"
+                                                         }
+                                                     ],
+                                       "context":  "",
+                                       "type":  "mcq"
+                                   },
+                          "audioUrls":  [
+                                            "/media/toeic_course_problems/audio/test8_audios_q30.mp3"
+                                        ],
+                          "imageUrls":  [
+
+                                        ]
+                      },
+                      {
+                          "id":  "405619",
+                          "data":  {
+                                       "questions":  [
+                                                         {
+                                                             "number":  "20",
+                                                             "prompt":  "",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C."
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "B",
+                                                             "transcript":  "You\u0027ve finished interviewing the candidates, haven\u0027t you?\n(A) It was in the meeting room.\n(B) Yes, the last person just left.\n(C) Where did you put the applications?",
+                                                             "explanation":  "Đáp án đúng: B\nDịch: Anh phỏng vấn xong các ứng viên rồi phải không?\n(A) Nó ở trong phòng họp. =\u003e nội dung không liên quan =\u003e loại\n(B) Vâng, người cuối cùng vừa rời đi. =\u003e câu hỏi đuôi nên cách trả lời sẽ là Yes/No hoặc lược bỏ Yes/No nhưng vẫn trả lời đúng trọng tâm câu hỏi =\u003e chọn\n(C) Cô để đơn ứng tuyển ở đâu rồi? =\u003e nội dung không liên quan =\u003e loại"
+                                                         }
+                                                     ],
+                                       "context":  "",
+                                       "type":  "mcq"
+                                   },
+                          "audioUrls":  [
+                                            "/media/toeic_course_problems/audio/test9_audios_q20.mp3"
+                                        ],
+                          "imageUrls":  [
+
+                                        ]
+                      },
+                      {
+                          "id":  "405620",
+                          "data":  {
+                                       "questions":  [
+                                                         {
+                                                             "number":  "25",
+                                                             "prompt":  "",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C."
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "A",
+                                                             "transcript":  "The building site hasn\u0027t been selected, has it?\n(A) We are still considering multiple options.\n(B) It\u0027s a luxury apartment complex.\n(C) He will cite a passage from his book.",
+                                                             "explanation":  "Đáp án đúng: A\nDịch: Địa điểm xây dựng chưa được chọn, đúng không?\n(A) Chúng tôi vẫn đang xem xét nhiều lựa chọn. =\u003e trả lời gián tiếp, không rõ ý Yes/No nhưng ý nghĩa vẫn phù hợp =\u003e chọn\n(B) Đó là một khu chung cư cao cấp. =\u003e câu hỏi là về nơi xây dựng, chứ không phải về tòa chung cư =\u003e loại\n(C) Anh ấy sẽ trích dẫn một đoạn văn trong cuốn sách của mình. =\u003e có từ “cite” nghe gần giống “site” nhưng nội dung không liên quan =\u003e loại"
+                                                         }
+                                                     ],
+                                       "context":  "",
+                                       "type":  "mcq"
+                                   },
+                          "audioUrls":  [
+                                            "/media/toeic_course_problems/audio/test9_audios_q25.mp3"
+                                        ],
+                          "imageUrls":  [
+
+                                        ]
+                      },
+                      {
+                          "id":  "405621",
+                          "data":  {
+                                       "questions":  [
+                                                         {
+                                                             "number":  "7",
+                                                             "prompt":  "",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C."
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "C",
+                                                             "transcript":  "You\u0027ve been to Japan before, haven\u0027t you?\n(A) After 3:30 PM.\n(B) I prefer Japanese food.\n(C) No, never.",
+                                                             "explanation":  "Đáp án đúng: C\nDịch: Bạn từng đến Nhật rồi, đúng không?\n(A) Sau 3:30 chiều. =\u003e nội dung không liên quan =\u003e loại\n(B) Tôi thích đồ ăn Nhật Bản hơn. =\u003e có nhắc đến Nhật Bản, tuy nhiên nội dung không liên quan =\u003e loại\n(C) Không, chưa đến bao giờ. =\u003e trả lời rõ ý No, nội dung liên quan =\u003e chọn"
+                                                         }
+                                                     ],
+                                       "context":  "",
+                                       "type":  "mcq"
+                                   },
+                          "audioUrls":  [
+                                            "/media/toeic_course_problems/audio/test10_audios_q7.mp3"
+                                        ],
+                          "imageUrls":  [
+
+                                        ]
+                      },
+                      {
+                          "id":  "405622",
+                          "data":  {
+                                       "questions":  [
+                                                         {
+                                                             "number":  "15",
+                                                             "prompt":  "",
+                                                             "imageUrls":  [
+
+                                                                           ],
+                                                             "audioUrls":  [
+
+                                                                           ],
+                                                             "options":  [
+                                                                             {
+                                                                                 "key":  "A",
+                                                                                 "text":  "A."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "B",
+                                                                                 "text":  "B."
+                                                                             },
+                                                                             {
+                                                                                 "key":  "C",
+                                                                                 "text":  "C."
+                                                                             }
+                                                                         ],
+                                                             "correctAnswer":  "A",
+                                                             "transcript":  "You are planning to attend the concert on Wednesday, aren\u0027t you?\n(A) No, something urgent came up.\n(B) He tends to speak indirectly.\n(C) Yes, it was very good.",
+                                                             "explanation":  "Đáp án đúng: A\nDịch: Bạn dự định tham dự buổi hòa nhạc vào thứ Tư, phải không?\n(A) Không, có việc gấp xảy ra. =\u003e trả lời rõ ý No, giải thích nguyên nhân, phù hợp với câu hỏi =\u003e chọn\n(B) Anh ấy thường nói gián tiếp. =\u003e có từ “tends” nghe gần giống “attend” để bẫy, nội dung không liên quan =\u003e loại\n(C) Vâng, nó rất hay. =\u003e câu hỏi đang hỏi về dự định tương lai, chứ không hỏi về sự việc trong quá khứ =\u003e loại"
+                                                         }
+                                                     ],
+                                       "context":  "",
+                                       "type":  "mcq"
+                                   },
+                          "audioUrls":  [
+                                            "/media/toeic_course_problems/audio/test10_audios_q15.mp3"
+                                        ],
+                          "imageUrls":  [
+
+                                        ]
+                      }
+                  ],
+    "title":  "Luyện tập: Trắc nghiệm format TOEIC",
+    "lessonTitle":  "Câu hỏi đuôi",
+    "imageUrls":  [
+
+                  ]
+}
