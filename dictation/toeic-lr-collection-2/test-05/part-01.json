@@ -9,19 +9,23 @@
       "sentences": [
         {
           "text": "(A) Some shoppers are riding an escalator.",
-          "translation": "(A) Một số người mua sắm đang đi thang cuốn."
+          "translation": "(A) Một số người mua sắm đang đi thang cuốn.",
+          "startMs": 3960
         },
         {
           "text": "(B) Planters are being carried across a walkway.",
-          "translation": "(B) Các chậu cây đang được mang qua một lối đi."
+          "translation": "(B) Các chậu cây đang được mang qua một lối đi.",
+          "startMs": 8480
         },
         {
           "text": "(C) A sign is leaning against a post.",
-          "translation": "(C) Một biển hiệu đang dựa vào một cột."
+          "translation": "(C) Một biển hiệu đang dựa vào một cột.",
+          "startMs": 13173
         },
         {
           "text": "(D) A walkway is lined with planters.",
-          "translation": "(D) Một lối đi được xếp hàng với các chậu cây."
+          "translation": "(D) Một lối đi được xếp hàng với các chậu cây.",
+          "startMs": 17389
         }
       ],
       "correctAnswer": null,
@@ -403,19 +407,23 @@
       "sentences": [
         {
           "text": "(A) He's using some office equipment.",
-          "translation": "(A) Anh ấy đang sử dụng một số thiết bị văn phòng."
+          "translation": "(A) Anh ấy đang sử dụng một số thiết bị văn phòng.",
+          "startMs": 4440
         },
         {
           "text": "(B) He's watering a plant.",
-          "translation": "(B) Anh ấy đang tưới một cái cây."
+          "translation": "(B) Anh ấy đang tưới một cái cây.",
+          "startMs": 8267
         },
         {
           "text": "(C) He's answering a phone.",
-          "translation": "(C) Anh ấy đang trả lời điện thoại."
+          "translation": "(C) Anh ấy đang trả lời điện thoại.",
+          "startMs": 11774
         },
         {
           "text": "(D) He's opening a window.",
-          "translation": "(D) Anh ấy đang mở một cửa sổ."
+          "translation": "(D) Anh ấy đang mở một cửa sổ.",
+          "startMs": 15147
         }
       ],
       "correctAnswer": null,
@@ -722,19 +730,23 @@
       "sentences": [
         {
           "text": "(A) A man is painting a fence",
-          "translation": "(A) Một người đàn ông đang sơn hàng rào"
+          "translation": "(A) Một người đàn ông đang sơn hàng rào",
+          "startMs": 4200
         },
         {
           "text": "(B) A man is opening a door",
-          "translation": "(B) Một người đàn ông đang mở cửa"
+          "translation": "(B) Một người đàn ông đang mở cửa",
+          "startMs": 7925
         },
         {
           "text": "(C) A man is washing a window",
-          "translation": "(C) Một người đàn ông đang lau cửa sổ"
+          "translation": "(C) Một người đàn ông đang lau cửa sổ",
+          "startMs": 11490
         },
         {
           "text": "(D) A man is watering a plant",
-          "translation": "(D) Một người đàn ông đang tưới cây"
+          "translation": "(D) Một người đàn ông đang tưới cây",
+          "startMs": 15135
         }
       ],
       "correctAnswer": null,
@@ -1096,19 +1108,23 @@
       "sentences": [
         {
           "text": "(A) The man is reading a menu.",
-          "translation": "(A) Người đàn ông đang đọc thực đơn."
+          "translation": "(A) Người đàn ông đang đọc thực đơn.",
+          "startMs": 4200
         },
         {
           "text": "(B) The man is drinking from a glass.",
-          "translation": "(B) Người đàn ông đang uống từ một cái ly."
+          "translation": "(B) Người đàn ông đang uống từ một cái ly.",
+          "startMs": 7850
         },
         {
           "text": "(C) The woman is pouring a drink.",
-          "translation": "(C) Người phụ nữ đang rót đồ uống."
+          "translation": "(C) Người phụ nữ đang rót đồ uống.",
+          "startMs": 11900
         },
         {
           "text": "(D) The woman is clearing a plate.",
-          "translation": "(D) Người phụ nữ đang dọn một cái đĩa."
+          "translation": "(D) Người phụ nữ đang dọn một cái đĩa.",
+          "startMs": 15630
         }
       ],
       "correctAnswer": null,
@@ -1480,19 +1496,23 @@
       "sentences": [
         {
           "text": "(A) A woman's stacking some chairs.",
-          "translation": "(A) Một người phụ nữ đang xếp một số ghế."
+          "translation": "(A) Một người phụ nữ đang xếp một số ghế.",
+          "startMs": 4200
         },
         {
           "text": "(B) A woman's putting folders into a bag.",
-          "translation": "(B) Một người phụ nữ đang bỏ các thư mục vào túi."
+          "translation": "(B) Một người phụ nữ đang bỏ các thư mục vào túi.",
+          "startMs": 8021
         },
         {
           "text": "(C) A woman's typing on a laptop.",
-          "translation": "(C) Một người phụ nữ đang gõ trên máy tính xách tay."
+          "translation": "(C) Một người phụ nữ đang gõ trên máy tính xách tay.",
+          "startMs": 12481
         },
         {
           "text": "(D) A woman's drinking from a cup.",
-          "translation": "(D) Một người phụ nữ đang uống từ cốc."
+          "translation": "(D) Một người phụ nữ đang uống từ cốc.",
+          "startMs": 16621
         }
       ],
       "correctAnswer": null,
@@ -1854,19 +1874,23 @@
       "sentences": [
         {
           "text": "(A) A boat is being rowed along the canal.",
-          "translation": "(A) Một chiếc thuyền đang được chèo dọc theo kênh đào."
+          "translation": "(A) Một chiếc thuyền đang được chèo dọc theo kênh đào.",
+          "startMs": 4440
         },
         {
           "text": "(B) Some plants have been hung above a door.",
-          "translation": "(B) Một số cây đã được treo phía trên một cánh cửa."
+          "translation": "(B) Một số cây đã được treo phía trên một cánh cửa.",
+          "startMs": 9045
         },
         {
           "text": "(C) Some crates are being unloaded onto a walkway.",
-          "translation": "(C) Một số thùng đang được dỡ xuống một lối đi."
+          "translation": "(C) Một số thùng đang được dỡ xuống một lối đi.",
+          "startMs": 13349
         },
         {
           "text": "(D) Some bicycles have been parked by a railing.",
-          "translation": "(D) Một số xe đạp đã được đỗ bên một lan can."
+          "translation": "(D) Một số xe đạp đã được đỗ bên một lan can.",
+          "startMs": 18189
         }
       ],
       "correctAnswer": null,

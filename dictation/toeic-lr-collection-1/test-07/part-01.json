@@ -9,19 +9,23 @@
       "sentences": [
         {
           "text": "(A) A man is reading a book.",
-          "translation": "(A) Một người đàn ông đang đọc sách."
+          "translation": "(A) Một người đàn ông đang đọc sách.",
+          "startMs": 4280
         },
         {
           "text": "(B) A man is sitting at a table.",
-          "translation": "(B) Một người đàn ông đang ngồi tại bàn."
+          "translation": "(B) Một người đàn ông đang ngồi tại bàn.",
+          "startMs": 7920
         },
         {
           "text": "(C) A man is opening a window.",
-          "translation": "(C) Một người đàn ông đang mở cửa sổ."
+          "translation": "(C) Một người đàn ông đang mở cửa sổ.",
+          "startMs": 11640
         },
         {
           "text": "(D) A man is pushing a cart.",
-          "translation": "(D) Một người đàn ông đang đẩy xe đẩy."
+          "translation": "(D) Một người đàn ông đang đẩy xe đẩy.",
+          "startMs": 15360
         }
       ],
       "correctAnswer": null,
@@ -393,19 +397,23 @@
       "sentences": [
         {
           "text": "(A) Some benches have been placed under a pavilion.",
-          "translation": "(A) Một số ghế dài đã được đặt dưới một gian nhà."
+          "translation": "(A) Một số ghế dài đã được đặt dưới một gian nhà.",
+          "startMs": 4280
         },
         {
           "text": "(B) Some plants are arranged around a lamppost.",
-          "translation": "(B) Một số cây được sắp xếp quanh một cột đèn."
+          "translation": "(B) Một số cây được sắp xếp quanh một cột đèn.",
+          "startMs": 9120
         },
         {
           "text": "(C) There's a fountain beside the pathway.",
-          "translation": "(C) Có một đài phun nước bên cạnh lối đi."
+          "translation": "(C) Có một đài phun nước bên cạnh lối đi.",
+          "startMs": 13832
         },
         {
           "text": "(D) Some trees are shading the benches.",
-          "translation": "(D) Một số cây đang che bóng các ghế dài."
+          "translation": "(D) Một số cây đang che bóng các ghế dài.",
+          "startMs": 17992
         }
       ],
       "correctAnswer": null,
@@ -797,19 +805,23 @@
       "sentences": [
         {
           "text": "(A) They're going into a building.",
-          "translation": "(A) Họ đang đi vào một tòa nhà."
+          "translation": "(A) Họ đang đi vào một tòa nhà.",
+          "startMs": 4440
         },
         {
           "text": "(B) They're loading some luggage.",
-          "translation": "(B) Họ đang chất một số hành lý."
+          "translation": "(B) Họ đang chất một số hành lý.",
+          "startMs": 8008
         },
         {
           "text": "(C) They're taking off their jackets.",
-          "translation": "(C) Họ đang cởi áo khoác."
+          "translation": "(C) Họ đang cởi áo khoác.",
+          "startMs": 11536
         },
         {
           "text": "(D) They're walking outside.",
-          "translation": "(D) Họ đang đi bộ bên ngoài."
+          "translation": "(D) Họ đang đi bộ bên ngoài.",
+          "startMs": 15384
         }
       ],
       "correctAnswer": null,
@@ -1106,19 +1118,23 @@
       "sentences": [
         {
           "text": "(A) A server is watering some plants.",
-          "translation": "(A) Một nhân viên phục vụ đang tưới một số cây."
+          "translation": "(A) Một nhân viên phục vụ đang tưới một số cây.",
+          "startMs": 4280
         },
         {
           "text": "(B) Some people are seated at the tables.",
-          "translation": "(B) Một số người đang ngồi tại các bàn."
+          "translation": "(B) Một số người đang ngồi tại các bàn.",
+          "startMs": 8480
         },
         {
           "text": "(C) A server is stacking some chairs.",
-          "translation": "(C) Một nhân viên phục vụ đang xếp chồng một số ghế."
+          "translation": "(C) Một nhân viên phục vụ đang xếp chồng một số ghế.",
+          "startMs": 12696
         },
         {
           "text": "(D) Umbrellas have been opened over the tables.",
-          "translation": "(D) Những chiếc ô đã được mở phía trên các bàn."
+          "translation": "(D) Những chiếc ô đã được mở phía trên các bàn.",
+          "startMs": 16896
         }
       ],
       "correctAnswer": null,
@@ -1500,19 +1516,23 @@
       "sentences": [
         {
           "text": "(A) She has opened a refrigerator.",
-          "translation": "(A) Cô ấy đã mở một tủ lạnh."
+          "translation": "(A) Cô ấy đã mở một tủ lạnh.",
+          "startMs": 4760
         },
         {
           "text": "(B) She is carrying a basket.",
-          "translation": "(B) Cô ấy đang mang một cái giỏ."
+          "translation": "(B) Cô ấy đang mang một cái giỏ.",
+          "startMs": 8560
         },
         {
           "text": "(C) She is pushing a cart along an aisle.",
-          "translation": "(C) Cô ấy đang đẩy một xe đẩy dọc theo lối đi."
+          "translation": "(C) Cô ấy đang đẩy một xe đẩy dọc theo lối đi.",
+          "startMs": 12146
         },
         {
           "text": "(D) She has stacked boxes on a shelf.",
-          "translation": "(D) Cô ấy đã xếp các hộp lên một kệ."
+          "translation": "(D) Cô ấy đã xếp các hộp lên một kệ.",
+          "startMs": 16526
         }
       ],
       "correctAnswer": null,
@@ -1884,19 +1904,23 @@
       "sentences": [
         {
           "text": "(A) He's kneeling on the floor.",
-          "translation": "(A) Anh ấy đang quỳ trên sàn."
+          "translation": "(A) Anh ấy đang quỳ trên sàn.",
+          "startMs": 4280
         },
         {
           "text": "(B) He's reaching for a sign.",
-          "translation": "(B) Anh ấy đang với lấy một biển hiệu."
+          "translation": "(B) Anh ấy đang với lấy một biển hiệu.",
+          "startMs": 7876
         },
         {
           "text": "(C) He's carrying a basket.",
-          "translation": "(C) Anh ấy đang mang một cái giỏ."
+          "translation": "(C) Anh ấy đang mang một cái giỏ.",
+          "startMs": 11569
         },
         {
           "text": "(D) He's talking on a phone.",
-          "translation": "(D) Anh ấy đang nói chuyện điện thoại."
+          "translation": "(D) Anh ấy đang nói chuyện điện thoại.",
+          "startMs": 15103
         }
       ],
       "correctAnswer": null,

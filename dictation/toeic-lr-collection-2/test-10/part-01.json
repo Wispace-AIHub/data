@@ -9,19 +9,23 @@
       "sentences": [
         {
           "text": "(A) People are running along the track.",
-          "translation": "(A) Mọi người đang chạy dọc theo đường chạy."
+          "translation": "(A) Mọi người đang chạy dọc theo đường chạy.",
+          "startMs": 4280
         },
         {
           "text": "(B) People are jumping over some barriers.",
-          "translation": "(B) Mọi người đang nhảy qua một số rào chắn."
+          "translation": "(B) Mọi người đang nhảy qua một số rào chắn.",
+          "startMs": 8503
         },
         {
           "text": "(C) A man is handing out water bottles.",
-          "translation": "(C) Một người đàn ông đang phát chai nước."
+          "translation": "(C) Một người đàn ông đang phát chai nước.",
+          "startMs": 12886
         },
         {
           "text": "(D) Some barriers are lined up beside the track.",
-          "translation": "(D) Một số rào chắn được xếp dọc bên đường chạy."
+          "translation": "(D) Một số rào chắn được xếp dọc bên đường chạy.",
+          "startMs": 17091
         }
       ],
       "correctAnswer": null,
@@ -413,19 +417,23 @@
       "sentences": [
         {
           "text": "(A) Some bread rolls are arranged on a counter.",
-          "translation": "(A) Một số ổ bánh mì được bày trên quầy."
+          "translation": "(A) Một số ổ bánh mì được bày trên quầy.",
+          "startMs": 4280
         },
         {
           "text": "(B) A woman is handing bread to a customer.",
-          "translation": "(B) Một người phụ nữ đang đưa bánh mì cho khách hàng."
+          "translation": "(B) Một người phụ nữ đang đưa bánh mì cho khách hàng.",
+          "startMs": 9232
         },
         {
           "text": "(C) A woman is putting on an apron.",
-          "translation": "(C) Một người phụ nữ đang mặc tạp dề."
+          "translation": "(C) Một người phụ nữ đang mặc tạp dề.",
+          "startMs": 13997
         },
         {
           "text": "(D) A basket is being filled.",
-          "translation": "(D) Một giỏ đang được chất đầy."
+          "translation": "(D) Một giỏ đang được chất đầy.",
+          "startMs": 18202
         }
       ],
       "correctAnswer": null,
@@ -827,19 +835,23 @@
       "sentences": [
         {
           "text": "(A) Some benches have been placed in a row.",
-          "translation": "(A) Một số ghế dài đã được đặt thành một hàng."
+          "translation": "(A) Một số ghế dài đã được đặt thành một hàng.",
+          "startMs": 4440
         },
         {
           "text": "(B) A door is standing open.",
-          "translation": "(B) Một cánh cửa đang mở."
+          "translation": "(B) Một cánh cửa đang mở.",
+          "startMs": 8848
         },
         {
           "text": "(C) She's posting a notice on a board.",
-          "translation": "(C) Cô ấy đang dán một thông báo lên bảng."
+          "translation": "(C) Cô ấy đang dán một thông báo lên bảng.",
+          "startMs": 13008
         },
         {
           "text": "(D) She's hanging a picture on a wall.",
-          "translation": "(D) Cô ấy đang treo một bức tranh lên tường."
+          "translation": "(D) Cô ấy đang treo một bức tranh lên tường.",
+          "startMs": 17208
         }
       ],
       "correctAnswer": null,
@@ -1231,19 +1243,23 @@
       "sentences": [
         {
           "text": "(A) Some customers are waiting at a counter.",
-          "translation": "(A) Một số khách hàng đang chờ tại quầy."
+          "translation": "(A) Một số khách hàng đang chờ tại quầy.",
+          "startMs": 4280
         },
         {
           "text": "(B) A clerk is hanging up a garment.",
-          "translation": "(B) Một nhân viên đang treo một món đồ may mặc."
+          "translation": "(B) Một nhân viên đang treo một món đồ may mặc.",
+          "startMs": 8754
         },
         {
           "text": "(C) A clerk is opening a register.",
-          "translation": "(C) Một nhân viên đang mở máy tính tiền."
+          "translation": "(C) Một nhân viên đang mở máy tính tiền.",
+          "startMs": 12754
         },
         {
           "text": "(D) Some customers are trying on jackets.",
-          "translation": "(D) Một số khách hàng đang thử áo khoác."
+          "translation": "(D) Một số khách hàng đang thử áo khoác.",
+          "startMs": 16754
         }
       ],
       "correctAnswer": null,
@@ -1625,19 +1641,23 @@
       "sentences": [
         {
           "text": "(A) She's looking into a microscope.",
-          "translation": "(A) Cô ấy đang nhìn vào kính hiển vi."
+          "translation": "(A) Cô ấy đang nhìn vào kính hiển vi.",
+          "startMs": 4760
         },
         {
           "text": "(B) She's wearing safety glasses.",
-          "translation": "(B) Cô ấy đang đeo kính bảo hộ."
+          "translation": "(B) Cô ấy đang đeo kính bảo hộ.",
+          "startMs": 8600
         },
         {
           "text": "(C) She's pouring liquid into a beaker.",
-          "translation": "(C) Cô ấy đang đổ chất lỏng vào cốc thí nghiệm."
+          "translation": "(C) Cô ấy đang đổ chất lỏng vào cốc thí nghiệm.",
+          "startMs": 12640
         },
         {
           "text": "(D) She's reaching into a drawer.",
-          "translation": "(D) Cô ấy đang với tay vào ngăn kéo."
+          "translation": "(D) Cô ấy đang với tay vào ngăn kéo.",
+          "startMs": 16720
         }
       ],
       "correctAnswer": null,
@@ -1964,19 +1984,23 @@
       "sentences": [
         {
           "text": "(A) She's drinking from a cup.",
-          "translation": "(A) Cô ấy đang uống từ một cái cốc."
+          "translation": "(A) Cô ấy đang uống từ một cái cốc.",
+          "startMs": 4280
         },
         {
           "text": "(B) She's talking on a phone.",
-          "translation": "(B) Cô ấy đang nói chuyện qua điện thoại."
+          "translation": "(B) Cô ấy đang nói chuyện qua điện thoại.",
+          "startMs": 8015
         },
         {
           "text": "(C) She's watering a plant.",
-          "translation": "(C) Cô ấy đang tưới một cái cây."
+          "translation": "(C) Cô ấy đang tưới một cái cây.",
+          "startMs": 11503
         },
         {
           "text": "(D) She's reading a magazine.",
-          "translation": "(D) Cô ấy đang đọc một tạp chí."
+          "translation": "(D) Cô ấy đang đọc một tạp chí.",
+          "startMs": 14998
         }
       ],
       "correctAnswer": null,

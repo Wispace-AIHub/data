@@ -9,19 +9,23 @@
       "sentences": [
         {
           "text": "(A) Some armchairs are facing a window.",
-          "translation": "(A) Một số ghế bành đang hướng ra cửa sổ."
+          "translation": "(A) Một số ghế bành đang hướng ra cửa sổ.",
+          "startMs": 4280
         },
         {
           "text": "(B) A curtain is being drawn across a window.",
-          "translation": "(B) Một tấm rèm đang được kéo che cửa sổ."
+          "translation": "(B) Một tấm rèm đang được kéo che cửa sổ.",
+          "startMs": 8118
         },
         {
           "text": "(C) A seating area is illuminated by lamps.",
-          "translation": "(C) Một khu vực chỗ ngồi được chiếu sáng bởi đèn."
+          "translation": "(C) Một khu vực chỗ ngồi được chiếu sáng bởi đèn.",
+          "startMs": 12504
         },
         {
           "text": "(D) Some magazines have been left on a table.",
-          "translation": "(D) Một số tạp chí đã được để lại trên bàn."
+          "translation": "(D) Một số tạp chí đã được để lại trên bàn.",
+          "startMs": 16719
         }
       ],
       "correctAnswer": null,
@@ -433,19 +437,23 @@
       "sentences": [
         {
           "text": "(A) They're viewing some paintings.",
-          "translation": "(A) Họ đang xem một số bức tranh."
+          "translation": "(A) Họ đang xem một số bức tranh.",
+          "startMs": 4280
         },
         {
           "text": "(B) They're reading some brochures.",
-          "translation": "(B) Họ đang đọc một số tờ rơi."
+          "translation": "(B) Họ đang đọc một số tờ rơi.",
+          "startMs": 7709
         },
         {
           "text": "(C) They're hanging some signs.",
-          "translation": "(C) Họ đang treo một số biển hiệu."
+          "translation": "(C) Họ đang treo một số biển hiệu.",
+          "startMs": 11298
         },
         {
           "text": "(D) They're sorting some papers.",
-          "translation": "(D) Họ đang sắp xếp một số giấy tờ."
+          "translation": "(D) Họ đang sắp xếp một số giấy tờ.",
+          "startMs": 14727
         }
       ],
       "correctAnswer": null,
@@ -747,19 +755,23 @@
       "sentences": [
         {
           "text": "(A) The woman is turning on a lamp.",
-          "translation": "(A) Người phụ nữ đang bật một ngọn đèn."
+          "translation": "(A) Người phụ nữ đang bật một ngọn đèn.",
+          "startMs": 4440
         },
         {
           "text": "(B) The woman is answering a telephone.",
-          "translation": "(B) Người phụ nữ đang trả lời điện thoại."
+          "translation": "(B) Người phụ nữ đang trả lời điện thoại.",
+          "startMs": 8197
         },
         {
           "text": "(C) Folders are stacked on a chair.",
-          "translation": "(C) Các bìa hồ sơ được xếp chồng trên một chiếc ghế."
+          "translation": "(C) Các bìa hồ sơ được xếp chồng trên một chiếc ghế.",
+          "startMs": 12186
         },
         {
           "text": "(D) There is a bulletin board above a desk.",
-          "translation": "(D) Có một bảng thông báo phía trên một cái bàn."
+          "translation": "(D) Có một bảng thông báo phía trên một cái bàn.",
+          "startMs": 16172
         }
       ],
       "correctAnswer": null,
@@ -1151,19 +1163,23 @@
       "sentences": [
         {
           "text": "(A) They're stacking some folders on a table.",
-          "translation": "(A) Họ đang xếp một số thư mục trên bàn."
+          "translation": "(A) Họ đang xếp một số thư mục trên bàn.",
+          "startMs": 4280
         },
         {
           "text": "(B) They're looking at a whiteboard.",
-          "translation": "(B) Họ đang nhìn vào một bảng trắng."
+          "translation": "(B) Họ đang nhìn vào một bảng trắng.",
+          "startMs": 8669
         },
         {
           "text": "(C) One of the men is typing on a laptop.",
-          "translation": "(C) Một trong những người đàn ông đang gõ phím trên máy tính xách tay."
+          "translation": "(C) Một trong những người đàn ông đang gõ phím trên máy tính xách tay.",
+          "startMs": 12418
         },
         {
           "text": "(D) One of the men is lifting a mug.",
-          "translation": "(D) Một trong những người đàn ông đang nhấc một cái cốc."
+          "translation": "(D) Một trong những người đàn ông đang nhấc một cái cốc.",
+          "startMs": 16815
         }
       ],
       "correctAnswer": null,
@@ -1570,19 +1586,23 @@
       "sentences": [
         {
           "text": "(A) A ladder is lying on the ground.",
-          "translation": "(A) Một cái thang đang nằm trên mặt đất."
+          "translation": "(A) Một cái thang đang nằm trên mặt đất.",
+          "startMs": 4760
         },
         {
           "text": "(B) A window is being cleaned.",
-          "translation": "(B) Một cửa sổ đang được lau chùi."
+          "translation": "(B) Một cửa sổ đang được lau chùi.",
+          "startMs": 8986
         },
         {
           "text": "(C) Some bicycles are parked in a garage.",
-          "translation": "(C) Một số xe đạp đang được đậu trong gara."
+          "translation": "(C) Một số xe đạp đang được đậu trong gara.",
+          "startMs": 12812
         },
         {
           "text": "(D) An awning is being installed.",
-          "translation": "(D) Một mái hiên đang được lắp đặt."
+          "translation": "(D) Một mái hiên đang được lắp đặt.",
+          "startMs": 17290
         }
       ],
       "correctAnswer": null,
@@ -1944,19 +1964,23 @@
       "sentences": [
         {
           "text": "(A) A cashier is scanning an item.",
-          "translation": "(A) Một thu ngân đang quét một món hàng."
+          "translation": "(A) Một thu ngân đang quét một món hàng.",
+          "startMs": 4280
         },
         {
           "text": "(B) A cashier is counting some money.",
-          "translation": "(B) Một thu ngân đang đếm tiền."
+          "translation": "(B) Một thu ngân đang đếm tiền.",
+          "startMs": 8506
         },
         {
           "text": "(C) A customer is pushing a cart.",
-          "translation": "(C) Một khách hàng đang đẩy xe đẩy."
+          "translation": "(C) Một khách hàng đang đẩy xe đẩy.",
+          "startMs": 12812
         },
         {
           "text": "(D) A customer is filling a bag with groceries.",
-          "translation": "(D) Một khách hàng đang bỏ hàng tạp hóa vào túi."
+          "translation": "(D) Một khách hàng đang bỏ hàng tạp hóa vào túi.",
+          "startMs": 16958
         }
       ],
       "correctAnswer": null,

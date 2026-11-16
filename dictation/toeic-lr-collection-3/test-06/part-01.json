@@ -9,19 +9,23 @@
       "sentences": [
         {
           "text": "(A) She's filling a watering can.",
-          "translation": "(A) Cô ấy đang đổ đầy bình tưới nước."
+          "translation": "(A) Cô ấy đang đổ đầy bình tưới nước.",
+          "startMs": 4280
         },
         {
           "text": "(B) She's planting some flowers.",
-          "translation": "(B) Cô ấy đang trồng một số bông hoa."
+          "translation": "(B) Cô ấy đang trồng một số bông hoa.",
+          "startMs": 8248
         },
         {
           "text": "(C) She's watering a plant.",
-          "translation": "(C) Cô ấy đang tưới một cây."
+          "translation": "(C) Cô ấy đang tưới một cây.",
+          "startMs": 12136
         },
         {
           "text": "(D) She's carrying a plant.",
-          "translation": "(D) Cô ấy đang mang một cây."
+          "translation": "(D) Cô ấy đang mang một cây.",
+          "startMs": 15864
         }
       ],
       "correctAnswer": null,
@@ -328,19 +332,23 @@
       "sentences": [
         {
           "text": "(A) Some people are crossing a bridge.",
-          "translation": "(A) Một số người đang băng qua một cây cầu."
+          "translation": "(A) Một số người đang băng qua một cây cầu.",
+          "startMs": 4280
         },
         {
           "text": "(B) Some people are riding bicycles.",
-          "translation": "(B) Một số người đang đi xe đạp."
+          "translation": "(B) Một số người đang đi xe đạp.",
+          "startMs": 7888
         },
         {
           "text": "(C) Some people are pushing their bicycles.",
-          "translation": "(C) Một số người đang đẩy xe đạp của họ."
+          "translation": "(C) Một số người đang đẩy xe đạp của họ.",
+          "startMs": 11880
         },
         {
           "text": "(D) Some people are sitting on some benches.",
-          "translation": "(D) Một số người đang ngồi trên một số ghế dài."
+          "translation": "(D) Một số người đang ngồi trên một số ghế dài.",
+          "startMs": 17373
         }
       ],
       "correctAnswer": null,
@@ -702,19 +710,23 @@
       "sentences": [
         {
           "text": "(A) The benches are occupied.",
-          "translation": "(A) Các ghế dài đều có người ngồi."
+          "translation": "(A) Các ghế dài đều có người ngồi.",
+          "startMs": 4520
         },
         {
           "text": "(B) A trash can has been placed between the benches.",
-          "translation": "(B) Một thùng rác đã được đặt giữa hai chiếc ghế dài."
+          "translation": "(B) Một thùng rác đã được đặt giữa hai chiếc ghế dài.",
+          "startMs": 8440
         },
         {
           "text": "(C) The path is being swept.",
-          "translation": "(C) Con đường đang được quét dọn."
+          "translation": "(C) Con đường đang được quét dọn.",
+          "startMs": 13400
         },
         {
           "text": "(D) A lamppost stands next to one of the benches.",
-          "translation": "(D) Một cột đèn đứng cạnh một trong những ghế dài."
+          "translation": "(D) Một cột đèn đứng cạnh một trong những ghế dài.",
+          "startMs": 17135
         }
       ],
       "correctAnswer": null,
@@ -1101,19 +1113,23 @@
       "sentences": [
         {
           "text": "(A) A cabinet drawer has been left open.",
-          "translation": "(A) Một ngăn tủ đã bị để mở."
+          "translation": "(A) Một ngăn tủ đã bị để mở.",
+          "startMs": 4280
         },
         {
           "text": "(B) Some boxes have been stacked on a shelf.",
-          "translation": "(B) Một số hộp đã được xếp chồng lên một kệ."
+          "translation": "(B) Một số hộp đã được xếp chồng lên một kệ.",
+          "startMs": 8280
         },
         {
           "text": "(C) The man is looking out a window.",
-          "translation": "(C) Người đàn ông đang nhìn ra ngoài cửa sổ."
+          "translation": "(C) Người đàn ông đang nhìn ra ngoài cửa sổ.",
+          "startMs": 12608
         },
         {
           "text": "(D) The man is loading paper into a copier.",
-          "translation": "(D) Người đàn ông đang nạp giấy vào máy photocopy."
+          "translation": "(D) Người đàn ông đang nạp giấy vào máy photocopy.",
+          "startMs": 16148
         }
       ],
       "correctAnswer": null,
@@ -1535,19 +1551,23 @@
       "sentences": [
         {
           "text": "(A) Some folders have been arranged on a shelf.",
-          "translation": "(A) Một số thư mục đã được sắp xếp trên kệ."
+          "translation": "(A) Một số thư mục đã được sắp xếp trên kệ.",
+          "startMs": 4760
         },
         {
           "text": "(B) A woman is placing a box on a cart.",
-          "translation": "(B) Một người phụ nữ đang đặt một hộp lên xe đẩy."
+          "translation": "(B) Một người phụ nữ đang đặt một hộp lên xe đẩy.",
+          "startMs": 9136
         },
         {
           "text": "(C) A ladder is leaning against a shelf.",
-          "translation": "(C) Một chiếc thang đang dựa vào kệ."
+          "translation": "(C) Một chiếc thang đang dựa vào kệ.",
+          "startMs": 13163
         },
         {
           "text": "(D) A woman is taking a binder from a shelf.",
-          "translation": "(D) Một người phụ nữ đang lấy một bìa hồ sơ từ kệ."
+          "translation": "(D) Một người phụ nữ đang lấy một bìa hồ sơ từ kệ.",
+          "startMs": 17030
         }
       ],
       "correctAnswer": null,
@@ -1989,19 +2009,23 @@
       "sentences": [
         {
           "text": "(A) One of the men is standing in a doorway.",
-          "translation": "(A) Một trong những người đàn ông đang đứng ở cửa ra vào."
+          "translation": "(A) Một trong những người đàn ông đang đứng ở cửa ra vào.",
+          "startMs": 4280
         },
         {
           "text": "(B) One of the men is stocking the shelves.",
-          "translation": "(B) Một trong những người đàn ông đang xếp hàng lên kệ."
+          "translation": "(B) Một trong những người đàn ông đang xếp hàng lên kệ.",
+          "startMs": 8280
         },
         {
           "text": "(C) One of the men is lifting a crate.",
-          "translation": "(C) Một trong những người đàn ông đang nâng một thùng."
+          "translation": "(C) Một trong những người đàn ông đang nâng một thùng.",
+          "startMs": 12280
         },
         {
           "text": "(D) One of the men is carrying a box.",
-          "translation": "(D) Một trong những người đàn ông đang mang một hộp."
+          "translation": "(D) Một trong những người đàn ông đang mang một hộp.",
+          "startMs": 16200
         }
       ],
       "correctAnswer": null,

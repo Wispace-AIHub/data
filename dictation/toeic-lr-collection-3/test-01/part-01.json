@@ -9,19 +9,23 @@
       "sentences": [
         {
           "text": "(A) A woman is opening her bag.",
-          "translation": "(A) Một người phụ nữ đang mở túi của mình."
+          "translation": "(A) Một người phụ nữ đang mở túi của mình.",
+          "startMs": 4280
         },
         {
           "text": "(B) A man is buttoning his jacket.",
-          "translation": "(B) Một người đàn ông đang cài khuy áo khoác."
+          "translation": "(B) Một người đàn ông đang cài khuy áo khoác.",
+          "startMs": 8440
         },
         {
           "text": "(C) Some people are getting into a car.",
-          "translation": "(C) Một số người đang lên xe ô tô."
+          "translation": "(C) Một số người đang lên xe ô tô.",
+          "startMs": 13000
         },
         {
           "text": "(D) Some people are reading a notice on a door.",
-          "translation": "(D) Một số người đang đọc thông báo trên cửa."
+          "translation": "(D) Một số người đang đọc thông báo trên cửa.",
+          "startMs": 16912
         }
       ],
       "correctAnswer": null,
@@ -418,19 +422,23 @@
       "sentences": [
         {
           "text": "(A) Some tools have been hung on a wall.",
-          "translation": "(A) Một số dụng cụ đã được treo trên tường."
+          "translation": "(A) Một số dụng cụ đã được treo trên tường.",
+          "startMs": 4280
         },
         {
           "text": "(B) A table is being wiped off.",
-          "translation": "(B) Một chiếc bàn đang được lau sạch."
+          "translation": "(B) Một chiếc bàn đang được lau sạch.",
+          "startMs": 7866
         },
         {
           "text": "(C) A ladder is lying on the floor.",
-          "translation": "(C) Một chiếc thang đang nằm trên sàn."
+          "translation": "(C) Một chiếc thang đang nằm trên sàn.",
+          "startMs": 11591
         },
         {
           "text": "(D) Some tools are being put away.",
-          "translation": "(D) Một số dụng cụ đang được cất đi."
+          "translation": "(D) Một số dụng cụ đang được cất đi.",
+          "startMs": 15316
         }
       ],
       "correctAnswer": null,
@@ -822,19 +830,23 @@
       "sentences": [
         {
           "text": "(A) A ladder is leaning against a tree.",
-          "translation": "(A) Một chiếc thang đang dựa vào một cái cây."
+          "translation": "(A) Một chiếc thang đang dựa vào một cái cây.",
+          "startMs": 4520
         },
         {
           "text": "(B) Some trees are being planted in the courtyard.",
-          "translation": "(B) Một số cây đang được trồng trong sân."
+          "translation": "(B) Một số cây đang được trồng trong sân.",
+          "startMs": 8728
         },
         {
           "text": "(C) Some scaffolding has been erected around a building.",
-          "translation": "(C) Một số giàn giáo đã được dựng quanh một tòa nhà."
+          "translation": "(C) Một số giàn giáo đã được dựng quanh một tòa nhà.",
+          "startMs": 13202
         },
         {
           "text": "(D) Some people are resting on a bench.",
-          "translation": "(D) Một số người đang nghỉ ngơi trên ghế dài."
+          "translation": "(D) Một số người đang nghỉ ngơi trên ghế dài.",
+          "startMs": 18074
         }
       ],
       "correctAnswer": null,
@@ -1256,19 +1268,23 @@
       "sentences": [
         {
           "text": "(A) A man is riding a bicycle.",
-          "translation": "(A) Một người đàn ông đang đi xe đạp."
+          "translation": "(A) Một người đàn ông đang đi xe đạp.",
+          "startMs": 4280
         },
         {
           "text": "(B) Some crates are being stacked on the ground.",
-          "translation": "(B) Một số thùng đang được xếp chồng trên mặt đất."
+          "translation": "(B) Một số thùng đang được xếp chồng trên mặt đất.",
+          "startMs": 8336
         },
         {
           "text": "(C) A cart has been left by a gate.",
-          "translation": "(C) Một xe đẩy đã được để lại bên cạnh một cổng."
+          "translation": "(C) Một xe đẩy đã được để lại bên cạnh một cổng.",
+          "startMs": 12424
         },
         {
           "text": "(D) A man is loading a crate onto a truck.",
-          "translation": "(D) Một người đàn ông đang chất một thùng lên xe tải."
+          "translation": "(D) Một người đàn ông đang chất một thùng lên xe tải.",
+          "startMs": 16560
         }
       ],
       "correctAnswer": null,
@@ -1695,19 +1711,23 @@
       "sentences": [
         {
           "text": "(A) The people are taking seats at a table.",
-          "translation": "(A) Mọi người đang ngồi vào chỗ tại một cái bàn."
+          "translation": "(A) Mọi người đang ngồi vào chỗ tại một cái bàn.",
+          "startMs": 4760
         },
         {
           "text": "(B) One of the people is holding an open book.",
-          "translation": "(B) Một trong số mọi người đang cầm một quyển sách mở."
+          "translation": "(B) Một trong số mọi người đang cầm một quyển sách mở.",
+          "startMs": 8728
         },
         {
           "text": "(C) One of the people is returning a book to a shelf.",
-          "translation": "(C) Một trong số mọi người đang trả một quyển sách lên kệ."
+          "translation": "(C) Một trong số mọi người đang trả một quyển sách lên kệ.",
+          "startMs": 12943
         },
         {
           "text": "(D) Some books are being stacked on a cart.",
-          "translation": "(D) Một số sách đang được xếp chồng lên một xe đẩy."
+          "translation": "(D) Một số sách đang được xếp chồng lên một xe đẩy.",
+          "startMs": 17478
         }
       ],
       "correctAnswer": null,
@@ -2184,19 +2204,23 @@
       "sentences": [
         {
           "text": "(A) The man is drinking from a glass.",
-          "translation": "(A) Người đàn ông đang uống nước từ một chiếc ly."
+          "translation": "(A) Người đàn ông đang uống nước từ một chiếc ly.",
+          "startMs": 4280
         },
         {
           "text": "(B) The people are looking at some menus.",
-          "translation": "(B) Những người này đang xem thực đơn."
+          "translation": "(B) Những người này đang xem thực đơn.",
+          "startMs": 7950
         },
         {
           "text": "(C) The women are looking at each other.",
-          "translation": "(C) Những người phụ nữ đang nhìn nhau."
+          "translation": "(C) Những người phụ nữ đang nhìn nhau.",
+          "startMs": 12030
         },
         {
           "text": "(D) Some food has been placed on the table.",
-          "translation": "(D) Một số món ăn đã được đặt trên bàn."
+          "translation": "(D) Một số món ăn đã được đặt trên bàn.",
+          "startMs": 15300
         }
       ],
       "correctAnswer": null,

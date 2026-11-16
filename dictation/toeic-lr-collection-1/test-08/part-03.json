@@ -8,62 +8,77 @@
       "sentences": [
         {
           "text": "Hi, I'm Elias Moreno from sales.",
-          "translation": "Xin chào, tôi là Elias Moreno từ bộ phận bán hàng."
+          "translation": "Xin chào, tôi là Elias Moreno từ bộ phận bán hàng.",
+          "startMs": 4600
         },
         {
           "text": "I'm dropping off the receipts from our three-day sales meeting in Torrington — four of them.",
-          "translation": "Tôi đến nộp các hóa đơn từ cuộc họp bán hàng ba ngày của chúng tôi ở Torrington — bốn hóa đơn."
+          "translation": "Tôi đến nộp các hóa đơn từ cuộc họp bán hàng ba ngày của chúng tôi ở Torrington — bốn hóa đơn.",
+          "startMs": 7280
         },
         {
           "text": "Welcome, but we don't take the paper packet anymore.",
-          "translation": "Chào anh, nhưng chúng tôi không nhận gói giấy nữa."
+          "translation": "Chào anh, nhưng chúng tôi không nhận gói giấy nữa.",
+          "startMs": 12199
         },
         {
           "text": "Since the first of this month, everything goes through our new online system, ExpenseLink.",
-          "translation": "Từ ngày mùng một tháng này, mọi thứ đều thông qua hệ thống trực tuyến mới của chúng tôi, ExpenseLink."
+          "translation": "Từ ngày mùng một tháng này, mọi thứ đều thông qua hệ thống trực tuyến mới của chúng tôi, ExpenseLink.",
+          "startMs": 15907
         },
         {
           "text": "The cut-off date is still the fifteenth, same as before.",
-          "translation": "Ngày chốt vẫn là ngày mười lăm, giống như trước."
+          "translation": "Ngày chốt vẫn là ngày mười lăm, giống như trước.",
+          "startMs": 21080
         },
         {
           "text": "Oh, I hadn't heard.",
-          "translation": "Ồ, tôi chưa được biết."
+          "translation": "Ồ, tôi chưa được biết.",
+          "startMs": 24360
         },
         {
           "text": "Could you take the paper copies just this once?",
-          "translation": "Chị có thể nhận các bản giấy chỉ lần này thôi được không?"
+          "translation": "Chị có thể nhận các bản giấy chỉ lần này thôi được không?",
+          "startMs": 26453
         },
         {
           "text": "I have a meeting at two.",
-          "translation": "Tôi có cuộc họp lúc hai giờ."
+          "translation": "Tôi có cuộc họp lúc hai giờ.",
+          "startMs": 29840
         },
         {
           "text": "I could type them in for you, but you should do your own first entry — you'll need it every month.",
-          "translation": "Tôi có thể nhập giúp anh, nhưng anh nên tự thực hiện lần nhập đầu tiên — anh sẽ cần làm điều đó hàng tháng."
+          "translation": "Tôi có thể nhập giúp anh, nhưng anh nên tự thực hiện lần nhập đầu tiên — anh sẽ cần làm điều đó hàng tháng.",
+          "startMs": 31081
         },
         {
           "text": "The log-in is on the staff page.",
-          "translation": "Thông tin đăng nhập nằm trên trang nhân viên."
+          "translation": "Thông tin đăng nhập nằm trên trang nhân viên.",
+          "startMs": 36560
         },
         {
           "text": "Thanks, but I'd rather learn it myself.",
-          "translation": "Cảm ơn, nhưng tôi muốn tự học."
+          "translation": "Cảm ơn, nhưng tôi muốn tự học.",
+          "startMs": 38600
         },
         {
           "text": "I'll enter the receipts online right after my meeting, before I leave today.",
-          "translation": "Tôi sẽ nhập các hóa đơn trực tuyến ngay sau cuộc họp, trước khi rời đi hôm nay."
+          "translation": "Tôi sẽ nhập các hóa đơn trực tuyến ngay sau cuộc họp, trước khi rời đi hôm nay.",
+          "startMs": 41620
         },
         {
           "text": "That works.",
-          "translation": "Được rồi."
+          "translation": "Được rồi.",
+          "startMs": 45240
         },
         {
           "text": "I'll look for it this evening.",
-          "translation": "Tôi sẽ tìm nó vào tối nay."
+          "translation": "Tôi sẽ tìm nó vào tối nay.",
+          "startMs": 46560
         },
         {
-          "text": "Number 32"
+          "text": "Number 32",
+          "startMs": 48420
         }
       ],
       "correctAnswer": null,
@@ -1699,50 +1714,62 @@
       "sentences": [
         {
           "text": "Hi, I'd like to reserve some kayaks for a group outing during our lake trip this Saturday.",
-          "translation": "Xin chào, tôi muốn đặt trước một số thuyền kayak cho chuyến dã ngoại nhóm trong chuyến đi hồ của chúng tôi vào thứ Bảy này."
+          "translation": "Xin chào, tôi muốn đặt trước một số thuyền kayak cho chuyến dã ngoại nhóm trong chuyến đi hồ của chúng tôi vào thứ Bảy này.",
+          "startMs": 5720
         },
         {
           "text": "There are eight of us.",
-          "translation": "Có tám người chúng tôi."
+          "translation": "Có tám người chúng tôi.",
+          "startMs": 11007
         },
         {
           "text": "Sure, thanks for calling Pinecrest Boat Rentals.",
-          "translation": "Chắc chắn rồi, cảm ơn bạn đã gọi đến Pinecrest Boat Rentals."
+          "translation": "Chắc chắn rồi, cảm ơn bạn đã gọi đến Pinecrest Boat Rentals.",
+          "startMs": 12039
         },
         {
           "text": "So that's eight single kayaks for Saturday.",
-          "translation": "Vậy là tám thuyền kayak đơn cho thứ Bảy."
+          "translation": "Vậy là tám thuyền kayak đơn cho thứ Bảy.",
+          "startMs": 15640
         },
         {
           "text": "Let me check with my colleague who keeps the schedule.",
-          "translation": "Để tôi kiểm tra với đồng nghiệp giữ lịch trình của tôi."
+          "translation": "Để tôi kiểm tra với đồng nghiệp giữ lịch trình của tôi.",
+          "startMs": 18900
         },
         {
           "text": "I'm sorry, but all of our single kayaks are already fully booked for that day.",
-          "translation": "Tôi xin lỗi, nhưng tất cả thuyền kayak đơn của chúng tôi đã được đặt hết cho ngày đó."
+          "translation": "Tôi xin lỗi, nhưng tất cả thuyền kayak đơn của chúng tôi đã được đặt hết cho ngày đó.",
+          "startMs": 21399
         },
         {
           "text": "Oh, that's a shame.",
-          "translation": "Ôi, thật đáng tiếc."
+          "translation": "Ôi, thật đáng tiếc.",
+          "startMs": 26360
         },
         {
           "text": "Is there anything else we could use?",
-          "translation": "Còn thứ gì khác chúng tôi có thể sử dụng không?"
+          "translation": "Còn thứ gì khác chúng tôi có thể sử dụng không?",
+          "startMs": 28947
         },
         {
           "text": "Well, we still have several two-person canoes free, so I can set aside four of those for your group instead.",
-          "translation": "À, chúng tôi vẫn còn vài thuyền canoe hai người trống, vậy tôi có thể dành riêng bốn chiếc đó cho nhóm của bạn thay thế."
+          "translation": "À, chúng tôi vẫn còn vài thuyền canoe hai người trống, vậy tôi có thể dành riêng bốn chiếc đó cho nhóm của bạn thay thế.",
+          "startMs": 30759
         },
         {
           "text": "That sounds great.",
-          "translation": "Nghe tuyệt đấy."
+          "translation": "Nghe tuyệt đấy.",
+          "startMs": 37799
         },
         {
           "text": "Let's go with the canoes.",
-          "translation": "Chúng ta hãy dùng thuyền canoe vậy."
+          "translation": "Chúng ta hãy dùng thuyền canoe vậy.",
+          "startMs": 39860
         },
         {
-          "text": "Number 35"
+          "text": "Number 35",
+          "startMs": 41860
         }
       ],
       "correctAnswer": null,
@@ -3027,38 +3054,47 @@
       "sentences": [
         {
           "text": "Hi, I'd like to bring my bicycle on the next departure to the north shore.",
-          "translation": "Xin chào, tôi muốn mang xe đạp của mình lên chuyến khởi hành tiếp theo đến north shore."
+          "translation": "Xin chào, tôi muốn mang xe đạp của mình lên chuyến khởi hành tiếp theo đến north shore.",
+          "startMs": 4280
         },
         {
           "text": "I have to be there by two o'clock for a meeting, so the sooner the better.",
-          "translation": "Tôi phải đến đó trước hai giờ để họp, vì vậy càng sớm càng tốt."
+          "translation": "Tôi phải đến đó trước hai giờ để họp, vì vậy càng sớm càng tốt.",
+          "startMs": 8560
         },
         {
           "text": "Welcome to Redcliff Ferry.",
-          "translation": "Chào mừng đến Redcliff Ferry."
+          "translation": "Chào mừng đến Redcliff Ferry.",
+          "startMs": 11800
         },
         {
           "text": "Let me check for you.",
-          "translation": "Để tôi kiểm tra giúp ông."
+          "translation": "Để tôi kiểm tra giúp ông.",
+          "startMs": 14880
         },
         {
           "text": "Unfortunately, the bicycle spaces on that sailing are already fully booked, and I can see you're in a real hurry.",
-          "translation": "Rất tiếc, các chỗ để xe đạp trên chuyến đó đã được đặt hết, và tôi thấy ông đang thực sự vội."
+          "translation": "Rất tiếc, các chỗ để xe đạp trên chuyến đó đã được đặt hết, và tôi thấy ông đang thực sự vội.",
+          "startMs": 16566
         },
         {
           "text": "But here's some good news.",
-          "translation": "Nhưng đây là tin tốt."
+          "translation": "Nhưng đây là tin tốt.",
+          "startMs": 23800
         },
         {
           "text": "There's an earlier boat leaving in about twenty minutes, and it still has room for bikes.",
-          "translation": "Có một chuyến thuyền sớm hơn khởi hành trong khoảng hai mươi phút nữa, và vẫn còn chỗ cho xe đạp."
+          "translation": "Có một chuyến thuyền sớm hơn khởi hành trong khoảng hai mươi phút nữa, và vẫn còn chỗ cho xe đạp.",
+          "startMs": 25813
         },
         {
           "text": "It arrives well before two, so I can book you onto that one right now if you'd like.",
-          "translation": "Nó đến sớm hơn nhiều so với hai giờ, vì vậy tôi có thể đặt chỗ cho ông trên chuyến đó ngay bây giờ nếu ông muốn."
+          "translation": "Nó đến sớm hơn nhiều so với hai giờ, vì vậy tôi có thể đặt chỗ cho ông trên chuyến đó ngay bây giờ nếu ông muốn.",
+          "startMs": 31720
         },
         {
-          "text": "Number 38"
+          "text": "Number 38",
+          "startMs": 38100
         }
       ],
       "correctAnswer": null,
@@ -4232,46 +4268,57 @@
       "sentences": [
         {
           "text": "Julian, thanks so much for coming in this morning.",
-          "translation": "Julian, cảm ơn anh rất nhiều vì đã đến vào sáng nay."
+          "translation": "Julian, cảm ơn anh rất nhiều vì đã đến vào sáng nay.",
+          "startMs": 4520
         },
         {
           "text": "We're really glad Aperture Lane Portraits could take the staff photos for our new website.",
-          "translation": "Chúng tôi thực sự vui mừng vì Aperture Lane Portraits có thể chụp ảnh nhân viên cho trang web mới của chúng tôi."
+          "translation": "Chúng tôi thực sự vui mừng vì Aperture Lane Portraits có thể chụp ảnh nhân viên cho trang web mới của chúng tôi.",
+          "startMs": 7107
         },
         {
           "text": "Happy to be here.",
-          "translation": "Rất vui được có mặt ở đây."
+          "translation": "Rất vui được có mặt ở đây.",
+          "startMs": 11240
         },
         {
           "text": "Before we start, could you bring the team together in the conference room?",
-          "translation": "Trước khi chúng ta bắt đầu, chị có thể tập hợp cả nhóm vào phòng họp được không?"
+          "translation": "Trước khi chúng ta bắt đầu, chị có thể tập hợp cả nhóm vào phòng họp được không?",
+          "startMs": 12977
         },
         {
           "text": "I'll set up the lighting and background while you round everyone up.",
-          "translation": "Tôi sẽ bày trí ánh sáng và phông nền trong khi chị tập hợp mọi người."
+          "translation": "Tôi sẽ bày trí ánh sáng và phông nền trong khi chị tập hợp mọi người.",
+          "startMs": 16560
         },
         {
           "text": "Of course.",
-          "translation": "Tất nhiên rồi."
+          "translation": "Tất nhiên rồi.",
+          "startMs": 19240
         },
         {
           "text": "I'll gather everyone right now — there are eight of us, and I emailed you the name list yesterday.",
-          "translation": "Tôi sẽ tập hợp mọi người ngay bây giờ — chúng tôi có tám người, và tôi đã gửi email danh sách tên cho anh hôm qua."
+          "translation": "Tôi sẽ tập hợp mọi người ngay bây giờ — chúng tôi có tám người, và tôi đã gửi email danh sách tên cho anh hôm qua.",
+          "startMs": 20560
         },
         {
           "text": "Great, I got it.",
-          "translation": "Tuyệt, tôi đã nhận được."
+          "translation": "Tuyệt, tôi đã nhận được.",
+          "startMs": 25399
         },
         {
           "text": "Hmm, one thing though — the list has everyone's names, but their job titles aren't included, and I need those for the captions.",
-          "translation": "Hmm, tuy nhiên có một điều — danh sách có tên của mọi người, nhưng chức danh công việc của họ thì không có, và tôi cần những thông tin đó cho phần chú thích."
+          "translation": "Hmm, tuy nhiên có một điều — danh sách có tên của mọi người, nhưng chức danh công việc của họ thì không có, và tôi cần những thông tin đó cho phần chú thích.",
+          "startMs": 27000
         },
         {
           "text": "Could you send them over?",
-          "translation": "Chị có thể gửi chúng cho tôi được không?"
+          "translation": "Chị có thể gửi chúng cho tôi được không?",
+          "startMs": 35653
         },
         {
-          "text": "Number 41"
+          "text": "Number 41",
+          "startMs": 37620
         }
       ],
       "correctAnswer": null,
@@ -5569,50 +5616,62 @@
       "sentences": [
         {
           "text": "Hi, good morning.",
-          "translation": "Chào anh, chào buổi sáng."
+          "translation": "Chào anh, chào buổi sáng.",
+          "startMs": 5000
         },
         {
           "text": "I'm looking for work, and a friend suggested I come in and register with your agency for some placement help.",
-          "translation": "Tôi đang tìm việc, và một người bạn gợi ý tôi đến đăng ký với cơ quan của anh để được hỗ trợ giới thiệu việc làm."
+          "translation": "Tôi đang tìm việc, và một người bạn gợi ý tôi đến đăng ký với cơ quan của anh để được hỗ trợ giới thiệu việc làm.",
+          "startMs": 6160
         },
         {
           "text": "Welcome!",
-          "translation": "Chào mừng!"
+          "translation": "Chào mừng!",
+          "startMs": 11641
         },
         {
           "text": "You've come to the right place.",
-          "translation": "Chị đã đến đúng chỗ rồi."
+          "translation": "Chị đã đến đúng chỗ rồi.",
+          "startMs": 13080
         },
         {
           "text": "Once you register, I'll get to know your background and match you with employers who are hiring.",
-          "translation": "Sau khi chị đăng ký, tôi sẽ tìm hiểu về lý lịch của chị và kết nối chị với các nhà tuyển dụng đang tuyển người."
+          "translation": "Sau khi chị đăng ký, tôi sẽ tìm hiểu về lý lịch của chị và kết nối chị với các nhà tuyển dụng đang tuyển người.",
+          "startMs": 14584
         },
         {
           "text": "And here's what makes us really useful — a lot of the openings we fill are never advertised publicly, so you'll hear about roles you couldn't find on your own.",
-          "translation": "Và đây là điều khiến chúng tôi thực sự hữu ích — rất nhiều vị trí tuyển dụng mà chúng tôi lấp đầy chưa bao giờ được quảng cáo công khai, vì vậy chị sẽ biết về những công việc mà chị không thể tự tìm được."
+          "translation": "Và đây là điều khiến chúng tôi thực sự hữu ích — rất nhiều vị trí tuyển dụng mà chúng tôi lấp đầy chưa bao giờ được quảng cáo công khai, vì vậy chị sẽ biết về những công việc mà chị không thể tự tìm được.",
+          "startMs": 19600
         },
         {
           "text": "Oh, that's really helpful.",
-          "translation": "Ồ, điều đó thật sự hữu ích."
+          "translation": "Ồ, điều đó thật sự hữu ích.",
+          "startMs": 28279
         },
         {
           "text": "My résumé isn't quite finished, though.",
-          "translation": "Tuy nhiên, sơ yếu lý lịch của tôi chưa hoàn thiện lắm."
+          "translation": "Tuy nhiên, sơ yếu lý lịch của tôi chưa hoàn thiện lắm.",
+          "startMs": 30600
         },
         {
           "text": "Would it be all right if I used one of your computers here to update it before we start?",
-          "translation": "Tôi có thể sử dụng một trong những máy tính ở đây để cập nhật nó trước khi chúng ta bắt đầu không?"
+          "translation": "Tôi có thể sử dụng một trong những máy tính ở đây để cập nhật nó trước khi chúng ta bắt đầu không?",
+          "startMs": 33240
         },
         {
           "text": "Absolutely, no problem.",
-          "translation": "Tất nhiên rồi, không vấn đề gì."
+          "translation": "Tất nhiên rồi, không vấn đề gì.",
+          "startMs": 38119
         },
         {
           "text": "Take that desk in the corner, and once you're done, we'll fill out your registration together.",
-          "translation": "Chị cứ ngồi ở bàn góc kia, và khi chị xong, chúng ta sẽ cùng điền đơn đăng ký."
+          "translation": "Chị cứ ngồi ở bàn góc kia, và khi chị xong, chúng ta sẽ cùng điền đơn đăng ký.",
+          "startMs": 40392
         },
         {
-          "text": "Number 44"
+          "text": "Number 44",
+          "startMs": 45220
         }
       ],
       "correctAnswer": null,
@@ -7112,62 +7171,77 @@
       "sentences": [
         {
           "text": "Good morning, Elmwood Collection Services.",
-          "translation": "Chào buổi sáng, Elmwood Collection Services."
+          "translation": "Chào buổi sáng, Elmwood Collection Services.",
+          "startMs": 4680
         },
         {
           "text": "How can I help you?",
-          "translation": "Tôi có thể giúp gì cho bạn?"
+          "translation": "Tôi có thể giúp gì cho bạn?",
+          "startMs": 7080
         },
         {
           "text": "Hi.",
-          "translation": "Xin chào."
+          "translation": "Xin chào.",
+          "startMs": 8039
         },
         {
           "text": "I'd like to arrange a pickup for two large items — an old refrigerator and a couch I'm getting rid of.",
-          "translation": "Tôi muốn sắp xếp việc thu gom hai món đồ lớn — một chiếc tủ lạnh cũ và một chiếc ghế sofa mà tôi đang bỏ đi."
+          "translation": "Tôi muốn sắp xếp việc thu gom hai món đồ lớn — một chiếc tủ lạnh cũ và một chiếc ghế sofa mà tôi đang bỏ đi.",
+          "startMs": 9120
         },
         {
           "text": "Certainly.",
-          "translation": "Chắc chắn rồi."
+          "translation": "Chắc chắn rồi.",
+          "startMs": 15319
         },
         {
           "text": "We can collect those next Thursday.",
-          "translation": "Chúng tôi có thể thu gom những món đó vào thứ Năm tuần sau."
+          "translation": "Chúng tôi có thể thu gom những món đó vào thứ Năm tuần sau.",
+          "startMs": 16653
         },
         {
           "text": "There's a fee of ten dollars per item, so twenty in total.",
-          "translation": "Phí là mười đô la mỗi món, vậy tổng cộng hai mươi."
+          "translation": "Phí là mười đô la mỗi món, vậy tổng cộng hai mươi.",
+          "startMs": 19180
         },
         {
           "text": "That's fine.",
-          "translation": "Được rồi."
+          "translation": "Được rồi.",
+          "startMs": 23080
         },
         {
           "text": "I should mention, though — the refrigerator is extremely heavy, and I live alone.",
-          "translation": "Tuy nhiên, tôi nên nói thêm — chiếc tủ lạnh rất nặng, và tôi sống một mình."
+          "translation": "Tuy nhiên, tôi nên nói thêm — chiếc tủ lạnh rất nặng, và tôi sống một mình.",
+          "startMs": 24820
         },
         {
           "text": "No need to worry.",
-          "translation": "Không cần lo lắng."
+          "translation": "Không cần lo lắng.",
+          "startMs": 30279
         },
         {
           "text": "Our crew handles all the lifting themselves.",
-          "translation": "Đội ngũ của chúng tôi sẽ tự lo tất cả việc khiêng vác."
+          "translation": "Đội ngũ của chúng tôi sẽ tự lo tất cả việc khiêng vác.",
+          "startMs": 32220
         },
         {
           "text": "I'll send you a confirmation e-mail with the day and the address details.",
-          "translation": "Tôi sẽ gửi cho bạn e-mail xác nhận với ngày và chi tiết địa chỉ."
+          "translation": "Tôi sẽ gửi cho bạn e-mail xác nhận với ngày và chi tiết địa chỉ.",
+          "startMs": 35380
         },
         {
           "text": "Wonderful.",
-          "translation": "Tuyệt vời."
+          "translation": "Tuyệt vời.",
+          "startMs": 39400
         },
         {
           "text": "Thank you so much for your help.",
-          "translation": "Cảm ơn bạn rất nhiều vì sự giúp đỡ."
+          "translation": "Cảm ơn bạn rất nhiều vì sự giúp đỡ.",
+          "startMs": 40627
         },
         {
-          "text": "Number 47"
+          "text": "Number 47",
+          "startMs": 43220
         }
       ],
       "correctAnswer": null,
@@ -8523,66 +8597,82 @@
       "sentences": [
         {
           "text": "Good morning, Ms. Pell.",
-          "translation": "Chào buổi sáng, bà Pell."
+          "translation": "Chào buổi sáng, bà Pell.",
+          "startMs": 4600
         },
         {
           "text": "I'd like to attend the Regional Marketing Summit next month.",
-          "translation": "Tôi muốn tham dự Hội nghị Thượng đỉnh Marketing Khu vực vào tháng tới."
+          "translation": "Tôi muốn tham dự Hội nghị Thượng đỉnh Marketing Khu vực vào tháng tới.",
+          "startMs": 5960
         },
         {
           "text": "Oh, that's a great idea, Warren.",
-          "translation": "Ồ, đó là một ý tưởng tuyệt vời, Warren."
+          "translation": "Ồ, đó là một ý tưởng tuyệt vời, Warren.",
+          "startMs": 9240
         },
         {
           "text": "Building your skills is just what we want.",
-          "translation": "Việc nâng cao kỹ năng của anh chính là điều chúng ta muốn."
+          "translation": "Việc nâng cao kỹ năng của anh chính là điều chúng ta muốn.",
+          "startMs": 12129
         },
         {
           "text": "Thanks.",
-          "translation": "Cảm ơn."
+          "translation": "Cảm ơn.",
+          "startMs": 14759
         },
         {
           "text": "The sessions on new campaign strategies would really benefit our whole team.",
-          "translation": "Các buổi về chiến lược chiến dịch mới sẽ thực sự mang lại lợi ích cho cả nhóm chúng ta."
+          "translation": "Các buổi về chiến lược chiến dịch mới sẽ thực sự mang lại lợi ích cho cả nhóm chúng ta.",
+          "startMs": 15760
         },
         {
           "text": "Definitely.",
-          "translation": "Chắc chắn rồi."
+          "translation": "Chắc chắn rồi.",
+          "startMs": 20279
         },
         {
           "text": "For an extra two hundred dollars, you could add the hands-on workshop day.",
-          "translation": "Với thêm hai trăm đô la, anh có thể thêm ngày hội thảo thực hành."
+          "translation": "Với thêm hai trăm đô la, anh có thể thêm ngày hội thảo thực hành.",
+          "startMs": 21560
         },
         {
           "text": "Shall I include that?",
-          "translation": "Tôi có nên bao gồm cái đó không?"
+          "translation": "Tôi có nên bao gồm cái đó không?",
+          "startMs": 26333
         },
         {
           "text": "Hmm, well, our department funds are pretty tight this quarter.",
-          "translation": "Hmm, à, quỹ của phòng ban chúng ta khá eo hẹp trong quý này."
+          "translation": "Hmm, à, quỹ của phòng ban chúng ta khá eo hẹp trong quý này.",
+          "startMs": 27559
         },
         {
           "text": "I understand completely.",
-          "translation": "Tôi hoàn toàn hiểu."
+          "translation": "Tôi hoàn toàn hiểu.",
+          "startMs": 31880
         },
         {
           "text": "The main summit is still approved, so go ahead and register.",
-          "translation": "Hội nghị chính vẫn được phê duyệt, vậy cứ đăng ký đi."
+          "translation": "Hội nghị chính vẫn được phê duyệt, vậy cứ đăng ký đi.",
+          "startMs": 33970
         },
         {
           "text": "Great.",
-          "translation": "Tuyệt."
+          "translation": "Tuyệt.",
+          "startMs": 37399
         },
         {
           "text": "One question — do I need to submit my receipts before I'm reimbursed for the travel?",
-          "translation": "Một câu hỏi — tôi có cần nộp biên lai trước khi được hoàn tiền cho chuyến đi không?"
+          "translation": "Một câu hỏi — tôi có cần nộp biên lai trước khi được hoàn tiền cho chuyến đi không?",
+          "startMs": 38340
         },
         {
           "text": "Yes, just turn them in within a week, and finance will handle the rest.",
-          "translation": "Vâng, chỉ cần nộp chúng trong vòng một tuần, và bộ phận tài chính sẽ lo phần còn lại."
+          "translation": "Vâng, chỉ cần nộp chúng trong vòng một tuần, và bộ phận tài chính sẽ lo phần còn lại.",
+          "startMs": 43080
         },
         {
-          "text": "Number 50"
+          "text": "Number 50",
+          "startMs": 48740
         }
       ],
       "correctAnswer": null,
@@ -10125,66 +10215,82 @@
       "sentences": [
         {
           "text": "Come in, welcome.",
-          "translation": "Mời vào, chào mừng."
+          "translation": "Mời vào, chào mừng.",
+          "startMs": 5640
         },
         {
           "text": "I'm Hannah, and this is my business partner, Rosa.",
-          "translation": "Tôi là Hannah, và đây là đối tác kinh doanh của tôi, Rosa."
+          "translation": "Tôi là Hannah, và đây là đối tác kinh doanh của tôi, Rosa.",
+          "startMs": 7180
         },
         {
           "text": "We've been looking over the concepts you sent through.",
-          "translation": "Chúng tôi đã xem qua các ý tưởng mà anh gửi."
+          "translation": "Chúng tôi đã xem qua các ý tưởng mà anh gửi.",
+          "startMs": 10360
         },
         {
           "text": "Thank you both.",
-          "translation": "Cảm ơn cả hai."
+          "translation": "Cảm ơn cả hai.",
+          "startMs": 12600
         },
         {
           "text": "I'm Everett, and I design websites and brand materials for small businesses.",
-          "translation": "Tôi là Everett, và tôi thiết kế trang web và tài liệu thương hiệu cho các doanh nghiệp nhỏ."
+          "translation": "Tôi là Everett, và tôi thiết kế trang web và tài liệu thương hiệu cho các doanh nghiệp nhỏ.",
+          "startMs": 14220
         },
         {
           "text": "I've been developing those layouts all week.",
-          "translation": "Tôi đã phát triển những bố cục đó cả tuần nay."
+          "translation": "Tôi đã phát triển những bố cục đó cả tuần nay.",
+          "startMs": 18840
         },
         {
           "text": "Great.",
-          "translation": "Tuyệt."
+          "translation": "Tuyệt.",
+          "startMs": 21399
         },
         {
           "text": "So Hannah and I run a yoga studio together, and we're really hoping the new site will bring in more members.",
-          "translation": "Vậy Hannah và tôi cùng điều hành một studio yoga, và chúng tôi thực sự hy vọng trang web mới sẽ thu hút thêm nhiều thành viên."
+          "translation": "Vậy Hannah và tôi cùng điều hành một studio yoga, và chúng tôi thực sự hy vọng trang web mới sẽ thu hút thêm nhiều thành viên.",
+          "startMs": 22120
         },
         {
           "text": "That's exactly what I aimed for.",
-          "translation": "Đó chính xác là điều tôi hướng tới."
+          "translation": "Đó chính xác là điều tôi hướng tới.",
+          "startMs": 29159
         },
         {
           "text": "This first concept puts your class photos right at the top to draw people in.",
-          "translation": "Ý tưởng đầu tiên này đặt ảnh lớp học của các bạn ngay ở trên cùng để thu hút mọi người."
+          "translation": "Ý tưởng đầu tiên này đặt ảnh lớp học của các bạn ngay ở trên cùng để thu hút mọi người.",
+          "startMs": 32216
         },
         {
           "text": "Oh, I love that.",
-          "translation": "Ồ, tôi thích điều đó."
+          "translation": "Ồ, tôi thích điều đó.",
+          "startMs": 37160
         },
         {
           "text": "It feels warm and inviting.",
-          "translation": "Nó mang cảm giác ấm áp và thân thiện."
+          "translation": "Nó mang cảm giác ấm áp và thân thiện.",
+          "startMs": 38707
         },
         {
           "text": "Perfect.",
-          "translation": "Hoàn hảo."
+          "translation": "Hoàn hảo.",
+          "startMs": 40679
         },
         {
           "text": "One thing I need to know — when would you like the site ready to launch?",
-          "translation": "Một điều tôi cần biết — các bạn muốn trang web sẵn sàng ra mắt khi nào?"
+          "translation": "Một điều tôi cần biết — các bạn muốn trang web sẵn sàng ra mắt khi nào?",
+          "startMs": 41760
         },
         {
           "text": "By the first of March, ideally, before our spring sign-up period begins.",
-          "translation": "Lý tưởng là vào ngày mùng 1 tháng Ba, trước khi giai đoạn đăng ký mùa xuân của chúng tôi bắt đầu."
+          "translation": "Lý tưởng là vào ngày mùng 1 tháng Ba, trước khi giai đoạn đăng ký mùa xuân của chúng tôi bắt đầu.",
+          "startMs": 46280
         },
         {
-          "text": "Number 53"
+          "text": "Number 53",
+          "startMs": 51700
         }
       ],
       "correctAnswer": null,
@@ -11807,46 +11913,57 @@
       "sentences": [
         {
           "text": "Mr. Osborne, I'm Rosalind from Vertex Lift Services.",
-          "translation": "Ông Osborne, tôi là Rosalind từ Vertex Lift Services."
+          "translation": "Ông Osborne, tôi là Rosalind từ Vertex Lift Services.",
+          "startMs": 4520
         },
         {
           "text": "I'm here to arrange the annual servicing for the building's elevators.",
-          "translation": "Tôi đến đây để sắp xếp việc bảo dưỡng hàng năm cho thang máy của tòa nhà."
+          "translation": "Tôi đến đây để sắp xếp việc bảo dưỡng hàng năm cho thang máy của tòa nhà.",
+          "startMs": 9200
         },
         {
           "text": "Nice to meet you.",
-          "translation": "Rất vui được gặp cô."
+          "translation": "Rất vui được gặp cô.",
+          "startMs": 13400
         },
         {
           "text": "I should mention, though — our lobby gets very busy every morning, so shutting an elevator down during work hours would really slow everyone down.",
-          "translation": "Tuy nhiên, tôi phải nói rằng — sảnh của chúng tôi rất đông vào mỗi buổi sáng, vì vậy việc ngừng hoạt động một thang máy trong giờ làm việc sẽ thực sự làm chậm mọi người."
+          "translation": "Tuy nhiên, tôi phải nói rằng — sảnh của chúng tôi rất đông vào mỗi buổi sáng, vì vậy việc ngừng hoạt động một thang máy trong giờ làm việc sẽ thực sự làm chậm mọi người.",
+          "startMs": 15080
         },
         {
           "text": "I understand completely.",
-          "translation": "Tôi hoàn toàn hiểu."
+          "translation": "Tôi hoàn toàn hiểu.",
+          "startMs": 23160
         },
         {
           "text": "The good news is we can finish the whole job in about six hours.",
-          "translation": "Tin tốt là chúng tôi có thể hoàn thành toàn bộ công việc trong khoảng sáu giờ."
+          "translation": "Tin tốt là chúng tôi có thể hoàn thành toàn bộ công việc trong khoảng sáu giờ.",
+          "startMs": 25460
         },
         {
           "text": "I'd suggest we carry it out on a Saturday, when the building is mostly empty.",
-          "translation": "Tôi đề nghị chúng ta thực hiện vào ngày Thứ Bảy, khi tòa nhà gần như trống."
+          "translation": "Tôi đề nghị chúng ta thực hiện vào ngày Thứ Bảy, khi tòa nhà gần như trống.",
+          "startMs": 30360
         },
         {
           "text": "That sounds sensible.",
-          "translation": "Nghe có vẻ hợp lý."
+          "translation": "Nghe có vẻ hợp lý.",
+          "startMs": 35159
         },
         {
           "text": "Before I confirm a date, though, could you send me a written cost estimate?",
-          "translation": "Tuy nhiên, trước khi tôi xác nhận một ngày, cô có thể gửi cho tôi bản báo giá chi phí bằng văn bản được không?"
+          "translation": "Tuy nhiên, trước khi tôi xác nhận một ngày, cô có thể gửi cho tôi bản báo giá chi phí bằng văn bản được không?",
+          "startMs": 37183
         },
         {
           "text": "I'll need to run it by the property owner first.",
-          "translation": "Tôi sẽ cần trình nó cho chủ sở hữu bất động sản trước."
+          "translation": "Tôi sẽ cần trình nó cho chủ sở hữu bất động sản trước.",
+          "startMs": 41360
         },
         {
-          "text": "Number 56"
+          "text": "Number 56",
+          "startMs": 44260
         }
       ],
       "correctAnswer": null,
@@ -13164,42 +13281,52 @@
       "sentences": [
         {
           "text": "Thanks for calling Coppertop Linen Supply, this is Vera.",
-          "translation": "Cảm ơn bạn đã gọi đến Coppertop Linen Supply, tôi là Vera."
+          "translation": "Cảm ơn bạn đã gọi đến Coppertop Linen Supply, tôi là Vera.",
+          "startMs": 4600
         },
         {
           "text": "How can I help you today?",
-          "translation": "Tôi có thể giúp gì cho bạn hôm nay?"
+          "translation": "Tôi có thể giúp gì cho bạn hôm nay?",
+          "startMs": 7580
         },
         {
           "text": "Hi, I manage Harvest Table Bistro, and I'd like to set up regular rental and cleaning of our tablecloths and napkins for the dining room.",
-          "translation": "Xin chào, tôi quản lý Harvest Table Bistro, và tôi muốn thiết lập dịch vụ thuê và giặt là định kỳ khăn trải bàn và khăn ăn cho phòng ăn của chúng tôi."
+          "translation": "Xin chào, tôi quản lý Harvest Table Bistro, và tôi muốn thiết lập dịch vụ thuê và giặt là định kỳ khăn trải bàn và khăn ăn cho phòng ăn của chúng tôi.",
+          "startMs": 8679
         },
         {
           "text": "Of course.",
-          "translation": "Tất nhiên."
+          "translation": "Tất nhiên.",
+          "startMs": 16839
         },
         {
           "text": "For a place your size, I'd recommend our scheduled service.",
-          "translation": "Đối với một cơ sở có quy mô như của bạn, tôi xin đề xuất dịch vụ theo lịch trình của chúng tôi."
+          "translation": "Đối với một cơ sở có quy mô như của bạn, tôi xin đề xuất dịch vụ theo lịch trình của chúng tôi.",
+          "startMs": 18100
         },
         {
           "text": "We collect your used linens once a week and drop off freshly laundered replacements at the very same time.",
-          "translation": "Chúng tôi thu gom khăn trải đã qua sử dụng của bạn một lần một tuần và giao khăn thay thế mới được giặt sạch đúng vào cùng thời điểm đó."
+          "translation": "Chúng tôi thu gom khăn trải đã qua sử dụng của bạn một lần một tuần và giao khăn thay thế mới được giặt sạch đúng vào cùng thời điểm đó.",
+          "startMs": 21880
         },
         {
           "text": "That sounds workable.",
-          "translation": "Nghe có vẻ khả thi."
+          "translation": "Nghe có vẻ khả thi.",
+          "startMs": 27879
         },
         {
           "text": "My one worry is the weekends.",
-          "translation": "Mối lo ngại duy nhất của tôi là cuối tuần."
+          "translation": "Mối lo ngại duy nhất của tôi là cuối tuần.",
+          "startMs": 29453
         },
         {
           "text": "We get extremely busy, and I'm not sure a single weekly delivery would leave us with enough clean linens to get through the rush.",
-          "translation": "Chúng tôi rất bận rộn, và tôi không chắc một lần giao hàng hàng tuần có để lại cho chúng tôi đủ khăn sạch để vượt qua giờ cao điểm hay không."
+          "translation": "Chúng tôi rất bận rộn, và tôi không chắc một lần giao hàng hàng tuần có để lại cho chúng tôi đủ khăn sạch để vượt qua giờ cao điểm hay không.",
+          "startMs": 32173
         },
         {
-          "text": "Number 59"
+          "text": "Number 59",
+          "startMs": 40100
         }
       ],
       "correctAnswer": null,
@@ -14455,50 +14582,62 @@
       "sentences": [
         {
           "text": "Good morning, and welcome to the Ashcombe Events House.",
-          "translation": "Chào buổi sáng, và chào mừng đến Ashcombe Events House."
+          "translation": "Chào buổi sáng, và chào mừng đến Ashcombe Events House.",
+          "startMs": 5160
         },
         {
           "text": "May I ask who you are and what you're delivering today?",
-          "translation": "Tôi có thể hỏi bạn là ai và hôm nay bạn đang giao gì không?"
+          "translation": "Tôi có thể hỏi bạn là ai và hôm nay bạn đang giao gì không?",
+          "startMs": 8720
         },
         {
           "text": "Of course.",
-          "translation": "Tất nhiên."
+          "translation": "Tất nhiên.",
+          "startMs": 11480
         },
         {
           "text": "I'm Damon Reyes — I run a flower shop, and I've brought all the arrangements for the wedding this afternoon.",
-          "translation": "Tôi là Damon Reyes — tôi điều hành một cửa hàng hoa, và tôi đã mang tất cả các bình hoa cho đám cưới chiều nay."
+          "translation": "Tôi là Damon Reyes — tôi điều hành một cửa hàng hoa, và tôi đã mang tất cả các bình hoa cho đám cưới chiều nay.",
+          "startMs": 12920
         },
         {
           "text": "They're fairly tall, so I really need to know exactly which room to set them up in.",
-          "translation": "Chúng khá cao, vì vậy tôi thực sự cần biết chính xác phòng nào để bày chúng."
+          "translation": "Chúng khá cao, vì vậy tôi thực sự cần biết chính xác phòng nào để bày chúng.",
+          "startMs": 18712
         },
         {
           "text": "Let me check the floor plan for you.",
-          "translation": "Để tôi kiểm tra sơ đồ tầng cho bạn."
+          "translation": "Để tôi kiểm tra sơ đồ tầng cho bạn.",
+          "startMs": 23400
         },
         {
           "text": "Your wedding is in the third hall from the main entrance — the one directly below the garden terrace.",
-          "translation": "Đám cưới của bạn ở hội trường thứ ba từ lối vào chính — cái nằm ngay bên dưới sân thượng vườn."
+          "translation": "Đám cưới của bạn ở hội trường thứ ba từ lối vào chính — cái nằm ngay bên dưới sân thượng vườn.",
+          "startMs": 25848
         },
         {
           "text": "Got it, thank you.",
-          "translation": "Hiểu rồi, cảm ơn."
+          "translation": "Hiểu rồi, cảm ơn.",
+          "startMs": 32040
         },
         {
           "text": "And where should I leave my van while I unload everything?",
-          "translation": "Và tôi nên để xe van ở đâu trong khi dỡ hết đồ?"
+          "translation": "Và tôi nên để xe van ở đâu trong khi dỡ hết đồ?",
+          "startMs": 34250
         },
         {
           "text": "Here's a parking permit for the lot.",
-          "translation": "Đây là giấy phép đỗ xe cho bãi xe."
+          "translation": "Đây là giấy phép đỗ xe cho bãi xe.",
+          "startMs": 37159
         },
         {
           "text": "Just use the side entrance on your right, and someone will come help you carry things in.",
-          "translation": "Chỉ cần dùng lối vào bên hông bên phải của bạn, và sẽ có người đến giúp bạn mang đồ vào."
+          "translation": "Chỉ cần dùng lối vào bên hông bên phải của bạn, và sẽ có người đến giúp bạn mang đồ vào.",
+          "startMs": 39592
         },
         {
-          "text": "Number 62"
+          "text": "Number 62",
+          "startMs": 45780
         }
       ],
       "correctAnswer": null,
@@ -16013,54 +16152,67 @@
       "sentences": [
         {
           "text": "Good morning, Theo.",
-          "translation": "Chào buổi sáng, Theo."
+          "translation": "Chào buổi sáng, Theo.",
+          "startMs": 5320
         },
         {
           "text": "I'm so sorry — I emailed everyone the wrong version of the schedule yesterday.",
-          "translation": "Tôi rất xin lỗi — hôm qua tôi đã gửi email phiên bản lịch trình sai cho mọi người."
+          "translation": "Tôi rất xin lỗi — hôm qua tôi đã gửi email phiên bản lịch trình sai cho mọi người.",
+          "startMs": 6642
         },
         {
           "text": "Did it cause any confusion?",
-          "translation": "Nó có gây nhầm lẫn gì không?"
+          "translation": "Nó có gây nhầm lẫn gì không?",
+          "startMs": 10722
         },
         {
           "text": "Don't worry, I sent a correction right away.",
-          "translation": "Đừng lo, tôi đã gửi bản sửa ngay lập tức."
+          "translation": "Đừng lo, tôi đã gửi bản sửa ngay lập tức.",
+          "startMs": 12201
         },
         {
           "text": "But we do have a bigger problem — the projector in the Willow Room has stopped working.",
-          "translation": "Nhưng chúng ta quả thực có một vấn đề lớn hơn — máy chiếu trong Willow Room đã ngừng hoạt động."
+          "translation": "Nhưng chúng ta quả thực có một vấn đề lớn hơn — máy chiếu trong Willow Room đã ngừng hoạt động.",
+          "startMs": 15162
         },
         {
           "text": "Oh no.",
-          "translation": "Ôi không."
+          "translation": "Ôi không.",
+          "startMs": 20681
         },
         {
           "text": "Then we'll have to move that session to a different room.",
-          "translation": "Vậy chúng ta sẽ phải chuyển buổi đó sang một phòng khác."
+          "translation": "Vậy chúng ta sẽ phải chuyển buổi đó sang một phòng khác.",
+          "startMs": 21642
         },
         {
           "text": "I'll figure out where.",
-          "translation": "Tôi sẽ tính xem chuyển đi đâu."
+          "translation": "Tôi sẽ tính xem chuyển đi đâu.",
+          "startMs": 24542
         },
         {
           "text": "Sounds good.",
-          "translation": "Nghe ổn đấy."
+          "translation": "Nghe ổn đấy.",
+          "startMs": 25561
         },
         {
           "text": "Also, the caterer still needs a final headcount before eleven o'clock.",
-          "translation": "Ngoài ra, bên cung cấp đồ ăn vẫn cần số lượng người cuối cùng trước mười một giờ."
+          "translation": "Ngoài ra, bên cung cấp đồ ăn vẫn cần số lượng người cuối cùng trước mười một giờ.",
+          "startMs": 27242
         },
         {
           "text": "Right — can you call them with the number?",
-          "translation": "Đúng rồi — anh có thể gọi cho họ với con số đó không?"
+          "translation": "Đúng rồi — anh có thể gọi cho họ với con số đó không?",
+          "startMs": 32041
         },
         {
           "text": "Meanwhile, I'll update the signs on all the doors.",
-          "translation": "Trong lúc đó, tôi sẽ cập nhật biển báo trên tất cả các cửa."
+          "translation": "Trong lúc đó, tôi sẽ cập nhật biển báo trên tất cả các cửa.",
+          "startMs": 34978
         },
         {
-          "text": "Number 65"
+          "text": "Number 65",
+          "startMs": 38420
         }
       ],
       "correctAnswer": null,
@@ -17312,58 +17464,72 @@
       "sentences": [
         {
           "text": "Welcome to Ridgeline Cycles.",
-          "translation": "Chào mừng đến với Ridgeline Cycles."
+          "translation": "Chào mừng đến với Ridgeline Cycles.",
+          "startMs": 4600
         },
         {
           "text": "Can I help you find something today?",
-          "translation": "Tôi có thể giúp bạn tìm gì hôm nay không?"
+          "translation": "Tôi có thể giúp bạn tìm gì hôm nay không?",
+          "startMs": 6660
         },
         {
           "text": "Yes, I'm looking for a new bike.",
-          "translation": "Vâng, tôi đang tìm một chiếc xe đạp mới."
+          "translation": "Vâng, tôi đang tìm một chiếc xe đạp mới.",
+          "startMs": 8439
         },
         {
           "text": "My current one is just too heavy—I'm honestly tired of lifting it around.",
-          "translation": "Chiếc hiện tại của tôi quá nặng—thành thật mà nói tôi mệt mỏi vì phải bê nó đi khắp nơi."
+          "translation": "Chiếc hiện tại của tôi quá nặng—thành thật mà nói tôi mệt mỏi vì phải bê nó đi khắp nơi.",
+          "startMs": 10947
         },
         {
           "text": "I completely understand.",
-          "translation": "Tôi hoàn toàn hiểu."
+          "translation": "Tôi hoàn toàn hiểu.",
+          "startMs": 15480
         },
         {
           "text": "And where do you normally ride?",
-          "translation": "Và bạn thường đạp xe ở đâu?"
+          "translation": "Và bạn thường đạp xe ở đâu?",
+          "startMs": 17720
         },
         {
           "text": "Mostly on rough dirt paths through the woods near my house.",
-          "translation": "Chủ yếu trên những con đường đất gồ ghề xuyên qua khu rừng gần nhà tôi."
+          "translation": "Chủ yếu trên những con đường đất gồ ghề xuyên qua khu rừng gần nhà tôi.",
+          "startMs": 19639
         },
         {
           "text": "There are lots of bumps and loose, uneven ground.",
-          "translation": "Có rất nhiều chỗ gập ghềnh và mặt đất lỏng lẻo, không bằng phẳng."
+          "translation": "Có rất nhiều chỗ gập ghềnh và mặt đất lỏng lẻo, không bằng phẳng.",
+          "startMs": 24027
         },
         {
           "text": "In that case, take a look at this printed list.",
-          "translation": "Trong trường hợp đó, hãy xem danh sách in này."
+          "translation": "Trong trường hợp đó, hãy xem danh sách in này.",
+          "startMs": 27080
         },
         {
           "text": "Each model is matched to a type of riding, so one of them will suit you perfectly.",
-          "translation": "Mỗi mẫu được ghép với một loại hình đạp xe, vì vậy một trong số đó sẽ phù hợp hoàn hảo với bạn."
+          "translation": "Mỗi mẫu được ghép với một loại hình đạp xe, vì vậy một trong số đó sẽ phù hợp hoàn hảo với bạn.",
+          "startMs": 30888
         },
         {
           "text": "That's really helpful.",
-          "translation": "Điều đó thực sự hữu ích."
+          "translation": "Điều đó thực sự hữu ích.",
+          "startMs": 35960
         },
         {
           "text": "So which one should I go with?",
-          "translation": "Vậy tôi nên chọn cái nào?"
+          "translation": "Vậy tôi nên chọn cái nào?",
+          "startMs": 37934
         },
         {
           "text": "Let me check your size in the back and bring that one out for you to try.",
-          "translation": "Để tôi kiểm tra size của bạn ở phía sau và mang chiếc đó ra cho bạn thử."
+          "translation": "Để tôi kiểm tra size của bạn ở phía sau và mang chiếc đó ra cho bạn thử.",
+          "startMs": 39961
         },
         {
-          "text": "Number 68"
+          "text": "Number 68",
+          "startMs": 45060
         }
       ],
       "correctAnswer": null,

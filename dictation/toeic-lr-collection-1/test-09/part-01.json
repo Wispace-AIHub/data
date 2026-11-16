@@ -9,19 +9,23 @@
       "sentences": [
         {
           "text": "(A) They're walking along a path.",
-          "translation": "(A) Họ đang đi bộ dọc theo một con đường."
+          "translation": "(A) Họ đang đi bộ dọc theo một con đường.",
+          "startMs": 4280
         },
         {
           "text": "(B) They're cutting the grass.",
-          "translation": "(B) Họ đang cắt cỏ."
+          "translation": "(B) Họ đang cắt cỏ.",
+          "startMs": 7803
         },
         {
           "text": "(C) They're swimming in a lake.",
-          "translation": "(C) Họ đang bơi trong một hồ nước."
+          "translation": "(C) Họ đang bơi trong một hồ nước.",
+          "startMs": 11027
         },
         {
           "text": "(D) They're fishing from a dock.",
-          "translation": "(D) Họ đang câu cá từ một bến tàu."
+          "translation": "(D) Họ đang câu cá từ một bến tàu.",
+          "startMs": 14491
         }
       ],
       "correctAnswer": null,
@@ -338,19 +342,23 @@
       "sentences": [
         {
           "text": "(A) Some monitors have been mounted on a wall.",
-          "translation": "(A) Một số màn hình đã được gắn trên tường."
+          "translation": "(A) Một số màn hình đã được gắn trên tường.",
+          "startMs": 4280
         },
         {
           "text": "(B) Some binders have been left open.",
-          "translation": "(B) Một số bìa hồ sơ đã được để mở."
+          "translation": "(B) Một số bìa hồ sơ đã được để mở.",
+          "startMs": 8799
         },
         {
           "text": "(C) Some boxes have been loaded onto a cart.",
-          "translation": "(C) Một số hộp đã được chất lên xe đẩy."
+          "translation": "(C) Một số hộp đã được chất lên xe đẩy.",
+          "startMs": 12803
         },
         {
           "text": "(D) Some chairs have been lined up against a wall.",
-          "translation": "(D) Một số ghế đã được xếp thành hàng dựa vào tường."
+          "translation": "(D) Một số ghế đã được xếp thành hàng dựa vào tường.",
+          "startMs": 17206
         }
       ],
       "correctAnswer": null,
@@ -777,19 +785,23 @@
       "sentences": [
         {
           "text": "(A) Some cars are lined up along a curb.",
-          "translation": "(A) Một số ô tô đang xếp hàng dọc theo lề đường."
+          "translation": "(A) Một số ô tô đang xếp hàng dọc theo lề đường.",
+          "startMs": 4440
         },
         {
           "text": "(B) Some bicycles are parked in a rack.",
-          "translation": "(B) Một số xe đạp đang được đỗ trong giá để xe."
+          "translation": "(B) Một số xe đạp đang được đỗ trong giá để xe.",
+          "startMs": 8264
         },
         {
           "text": "(C) Some bicycles are leaning against a wall.",
-          "translation": "(C) Một số xe đạp đang tựa vào tường."
+          "translation": "(C) Một số xe đạp đang tựa vào tường.",
+          "startMs": 12160
         },
         {
           "text": "(D) Some crates are stacked near a doorway.",
-          "translation": "(D) Một số thùng được xếp chồng gần lối ra vào."
+          "translation": "(D) Một số thùng được xếp chồng gần lối ra vào.",
+          "startMs": 16392
         }
       ],
       "correctAnswer": null,
@@ -1201,19 +1213,23 @@
       "sentences": [
         {
           "text": "(A) A customer is carrying a tray of drinks.",
-          "translation": "(A) Một khách hàng đang mang một khay đồ uống."
+          "translation": "(A) Một khách hàng đang mang một khay đồ uống.",
+          "startMs": 4280
         },
         {
           "text": "(B) A customer is reaching for a pastry.",
-          "translation": "(B) Một khách hàng đang với lấy một món bánh ngọt."
+          "translation": "(B) Một khách hàng đang với lấy một món bánh ngọt.",
+          "startMs": 9205
         },
         {
           "text": "(C) A server is leaning over a counter.",
-          "translation": "(C) Một nhân viên phục vụ đang cúi người qua quầy."
+          "translation": "(C) Một nhân viên phục vụ đang cúi người qua quầy.",
+          "startMs": 13650
         },
         {
           "text": "(D) A server is placing money in a register.",
-          "translation": "(D) Một nhân viên phục vụ đang bỏ tiền vào máy tính tiền."
+          "translation": "(D) Một nhân viên phục vụ đang bỏ tiền vào máy tính tiền.",
+          "startMs": 18095
         }
       ],
       "correctAnswer": null,
@@ -1635,19 +1651,23 @@
       "sentences": [
         {
           "text": "(A) Some chairs have been stacked against a wall.",
-          "translation": "(A) Một số ghế đã được xếp chồng dựa vào tường."
+          "translation": "(A) Một số ghế đã được xếp chồng dựa vào tường.",
+          "startMs": 4760
         },
         {
           "text": "(B) Some boxes are being sorted.",
-          "translation": "(B) Một số hộp đang được phân loại."
+          "translation": "(B) Một số hộp đang được phân loại.",
+          "startMs": 9423
         },
         {
           "text": "(C) A ladder has been laid on the floor.",
-          "translation": "(C) Một cái thang đã được đặt nằm trên sàn."
+          "translation": "(C) Một cái thang đã được đặt nằm trên sàn.",
+          "startMs": 13975
         },
         {
           "text": "(D) A table is being folded.",
-          "translation": "(D) Một cái bàn đang được gấp lại."
+          "translation": "(D) Một cái bàn đang được gấp lại.",
+          "startMs": 17456
         }
       ],
       "correctAnswer": null,
@@ -2029,19 +2049,23 @@
       "sentences": [
         {
           "text": "(A) They're climbing a staircase.",
-          "translation": "(A) Họ đang leo cầu thang."
+          "translation": "(A) Họ đang leo cầu thang.",
+          "startMs": 4280
         },
         {
           "text": "(B) They're sitting on a bench.",
-          "translation": "(B) Họ đang ngồi trên ghế dài."
+          "translation": "(B) Họ đang ngồi trên ghế dài.",
+          "startMs": 7888
         },
         {
           "text": "(C) They're crossing a square.",
-          "translation": "(C) Họ đang băng qua một quảng trường."
+          "translation": "(C) Họ đang băng qua một quảng trường.",
+          "startMs": 11192
         },
         {
           "text": "(D) They're painting a railing.",
-          "translation": "(D) Họ đang sơn một lan can."
+          "translation": "(D) Họ đang sơn một lan can.",
+          "startMs": 14496
         }
       ],
       "correctAnswer": null,

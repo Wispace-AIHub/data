@@ -9,19 +9,23 @@
       "sentences": [
         {
           "text": "(A) Traffic has stopped on the highway.",
-          "translation": "(A) Giao thông đã dừng lại trên đường cao tốc."
+          "translation": "(A) Giao thông đã dừng lại trên đường cao tốc.",
+          "startMs": 3960
         },
         {
           "text": "(B) The truck is parked on the shoulder.",
-          "translation": "(B) Chiếc xe tải đang đậu trên lề đường."
+          "translation": "(B) Chiếc xe tải đang đậu trên lề đường.",
+          "startMs": 7790
         },
         {
           "text": "(C) Some boxes are being transported by truck.",
-          "translation": "(C) Một số thùng hàng đang được vận chuyển bằng xe tải."
+          "translation": "(C) Một số thùng hàng đang được vận chuyển bằng xe tải.",
+          "startMs": 11410
         },
         {
           "text": "(D) Some boxes have fallen onto the road.",
-          "translation": "(D) Một số thùng hàng đã rơi xuống đường."
+          "translation": "(D) Một số thùng hàng đã rơi xuống đường.",
+          "startMs": 15722
         }
       ],
       "correctAnswer": null,
@@ -413,19 +417,23 @@
       "sentences": [
         {
           "text": "(A) Some people are looking at a screen.",
-          "translation": "(A) Một số người đang nhìn vào màn hình."
+          "translation": "(A) Một số người đang nhìn vào màn hình.",
+          "startMs": 4440
         },
         {
           "text": "(B) Some chairs have been arranged in a circle.",
-          "translation": "(B) Một số chiếc ghế đã được xếp thành vòng tròn."
+          "translation": "(B) Một số chiếc ghế đã được xếp thành vòng tròn.",
+          "startMs": 8507
         },
         {
           "text": "(C) A woman is closing a cabinet.",
-          "translation": "(C) Một người phụ nữ đang đóng tủ."
+          "translation": "(C) Một người phụ nữ đang đóng tủ.",
+          "startMs": 13059
         },
         {
           "text": "(D) A woman is handing out some folders.",
-          "translation": "(D) Một người phụ nữ đang phát các tập hồ sơ."
+          "translation": "(D) Một người phụ nữ đang phát các tập hồ sơ.",
+          "startMs": 17430
         }
       ],
       "correctAnswer": null,
@@ -827,19 +835,23 @@
       "sentences": [
         {
           "text": "(A) They're carrying their golf bags.",
-          "translation": "(A) Họ đang mang túi gậy golf của mình."
+          "translation": "(A) Họ đang mang túi gậy golf của mình.",
+          "startMs": 4200
         },
         {
           "text": "(B) They're swinging their clubs.",
-          "translation": "(B) Họ đang vung gậy đánh golf."
+          "translation": "(B) Họ đang vung gậy đánh golf.",
+          "startMs": 7904
         },
         {
           "text": "(C) They're riding in a cart.",
-          "translation": "(C) Họ đang ngồi trên xe điện."
+          "translation": "(C) Họ đang ngồi trên xe điện.",
+          "startMs": 11368
         },
         {
           "text": "(D) They're picking up some balls.",
-          "translation": "(D) Họ đang nhặt vài quả bóng."
+          "translation": "(D) Họ đang nhặt vài quả bóng.",
+          "startMs": 14536
         }
       ],
       "correctAnswer": null,
@@ -1156,19 +1168,23 @@
       "sentences": [
         {
           "text": "(A) There's a door open beneath a lamp.",
-          "translation": "(A) Có một cánh cửa mở dưới một chiếc đèn."
+          "translation": "(A) Có một cánh cửa mở dưới một chiếc đèn.",
+          "startMs": 4200
         },
         {
           "text": "(B) There's a fence around the yard.",
-          "translation": "(B) Có một hàng rào quanh sân."
+          "translation": "(B) Có một hàng rào quanh sân.",
+          "startMs": 8008
         },
         {
           "text": "(C) There's tall grass along the path.",
-          "translation": "(C) Có cỏ cao dọc theo lối đi."
+          "translation": "(C) Có cỏ cao dọc theo lối đi.",
+          "startMs": 11496
         },
         {
           "text": "(D) There's a plant beside the steps.",
-          "translation": "(D) Có một cái cây bên cạnh bậc thang."
+          "translation": "(D) Có một cái cây bên cạnh bậc thang.",
+          "startMs": 15304
         }
       ],
       "correctAnswer": null,
@@ -1540,19 +1556,23 @@
       "sentences": [
         {
           "text": "(A) Some chairs have been turned upside down.",
-          "translation": "(A) Một vài chiếc ghế đã được lật úp."
+          "translation": "(A) Một vài chiếc ghế đã được lật úp.",
+          "startMs": 4200
         },
         {
           "text": "(B) A worker is setting a cup on a counter.",
-          "translation": "(B) Một nhân viên đang đặt một chiếc cốc lên quầy."
+          "translation": "(B) Một nhân viên đang đặt một chiếc cốc lên quầy.",
+          "startMs": 8128
         },
         {
           "text": "(C) A customer is paying at a register.",
-          "translation": "(C) Một khách hàng đang thanh toán tại quầy tính tiền."
+          "translation": "(C) Một khách hàng đang thanh toán tại quầy tính tiền.",
+          "startMs": 12173
         },
         {
           "text": "(D) Some pastries are being put into a display case.",
-          "translation": "(D) Một số bánh ngọt đang được đặt vào tủ trưng bày."
+          "translation": "(D) Một số bánh ngọt đang được đặt vào tủ trưng bày.",
+          "startMs": 16058
         }
       ],
       "correctAnswer": null,
@@ -1984,19 +2004,23 @@
       "sentences": [
         {
           "text": "(A) They're stacking boxes on a shelf.",
-          "translation": "(A) Họ đang xếp hộp lên kệ."
+          "translation": "(A) Họ đang xếp hộp lên kệ.",
+          "startMs": 4440
         },
         {
           "text": "(B) One of the workers is pushing a cart.",
-          "translation": "(B) Một trong những công nhân đang đẩy một chiếc xe đẩy."
+          "translation": "(B) Một trong những công nhân đang đẩy một chiếc xe đẩy.",
+          "startMs": 8784
         },
         {
           "text": "(C) They're closing a box.",
-          "translation": "(C) Họ đang đóng một chiếc hộp."
+          "translation": "(C) Họ đang đóng một chiếc hộp.",
+          "startMs": 13154
         },
         {
           "text": "(D) One of the workers is holding a clipboard.",
-          "translation": "(D) Một trong những công nhân đang cầm một tấm bìa kẹp hồ sơ."
+          "translation": "(D) Một trong những công nhân đang cầm một tấm bìa kẹp hồ sơ.",
+          "startMs": 16842
         }
       ],
       "correctAnswer": null,

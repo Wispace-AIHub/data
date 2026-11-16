@@ -9,19 +9,23 @@
       "sentences": [
         {
           "text": "(A) A man is tying up a boat.",
-          "translation": "(A) Một người đàn ông đang buộc một chiếc thuyền."
+          "translation": "(A) Một người đàn ông đang buộc một chiếc thuyền.",
+          "startMs": 4280
         },
         {
           "text": "(B) A man is riding a bicycle.",
-          "translation": "(B) Một người đàn ông đang đi xe đạp."
+          "translation": "(B) Một người đàn ông đang đi xe đạp.",
+          "startMs": 8168
         },
         {
           "text": "(C) A boat is being unloaded.",
-          "translation": "(C) Một chiếc thuyền đang được dỡ hàng."
+          "translation": "(C) Một chiếc thuyền đang được dỡ hàng.",
+          "startMs": 12061
         },
         {
           "text": "(D) People are crossing a bridge.",
-          "translation": "(D) Mọi người đang băng qua một cây cầu."
+          "translation": "(D) Mọi người đang băng qua một cây cầu.",
+          "startMs": 15632
         }
       ],
       "correctAnswer": null,
@@ -373,19 +377,23 @@
       "sentences": [
         {
           "text": "(A) A rug has been rolled up.",
-          "translation": "(A) Một tấm thảm đã được cuộn lại."
+          "translation": "(A) Một tấm thảm đã được cuộn lại.",
+          "startMs": 4280
         },
         {
           "text": "(B) A lamp stands in a corner.",
-          "translation": "(B) Một cái đèn đứng ở góc phòng."
+          "translation": "(B) Một cái đèn đứng ở góc phòng.",
+          "startMs": 8020
         },
         {
           "text": "(C) Some books have been piled on a table.",
-          "translation": "(C) Một số sách đã được xếp chồng trên bàn."
+          "translation": "(C) Một số sách đã được xếp chồng trên bàn.",
+          "startMs": 11907
         },
         {
           "text": "(D) A plant has been hung from the ceiling.",
-          "translation": "(D) Một cái cây đã được treo từ trần nhà."
+          "translation": "(D) Một cái cây đã được treo từ trần nhà.",
+          "startMs": 16539
         }
       ],
       "correctAnswer": null,
@@ -787,19 +795,23 @@
       "sentences": [
         {
           "text": "(A) A woman is pushing a cart.",
-          "translation": "(A) Một người phụ nữ đang đẩy một xe đẩy."
+          "translation": "(A) Một người phụ nữ đang đẩy một xe đẩy.",
+          "startMs": 4440
         },
         {
           "text": "(B) A woman is placing a book on a shelf.",
-          "translation": "(B) Một người phụ nữ đang đặt một cuốn sách lên kệ."
+          "translation": "(B) Một người phụ nữ đang đặt một cuốn sách lên kệ.",
+          "startMs": 8280
         },
         {
           "text": "(C) A man is opening a drawer.",
-          "translation": "(C) Một người đàn ông đang mở một ngăn kéo."
+          "translation": "(C) Một người đàn ông đang mở một ngăn kéo.",
+          "startMs": 12720
         },
         {
           "text": "(D) A man is carrying some books.",
-          "translation": "(D) Một người đàn ông đang mang một số cuốn sách."
+          "translation": "(D) Một người đàn ông đang mang một số cuốn sách.",
+          "startMs": 16720
         }
       ],
       "correctAnswer": null,
@@ -1186,19 +1198,23 @@
       "sentences": [
         {
           "text": "(A) She's talking on a phone.",
-          "translation": "(A) Cô ấy đang nói chuyện điện thoại."
+          "translation": "(A) Cô ấy đang nói chuyện điện thoại.",
+          "startMs": 4280
         },
         {
           "text": "(B) She's typing on a laptop.",
-          "translation": "(B) Cô ấy đang gõ phím trên máy tính xách tay."
+          "translation": "(B) Cô ấy đang gõ phím trên máy tính xách tay.",
+          "startMs": 7695
         },
         {
           "text": "(C) She's opening a cabinet drawer.",
-          "translation": "(C) Cô ấy đang mở ngăn kéo tủ."
+          "translation": "(C) Cô ấy đang mở ngăn kéo tủ.",
+          "startMs": 11270
         },
         {
           "text": "(D) She's watering a plant on a windowsill.",
-          "translation": "(D) Cô ấy đang tưới một cái cây trên bệ cửa sổ."
+          "translation": "(D) Cô ấy đang tưới một cái cây trên bệ cửa sổ.",
+          "startMs": 15078
         }
       ],
       "correctAnswer": null,
@@ -1540,19 +1556,23 @@
       "sentences": [
         {
           "text": "(A) A car is backing out of a driveway.",
-          "translation": "(A) Một chiếc xe đang lùi ra khỏi đường lái xe."
+          "translation": "(A) Một chiếc xe đang lùi ra khỏi đường lái xe.",
+          "startMs": 4760
         },
         {
           "text": "(B) A ladder is leaning against a house.",
-          "translation": "(B) Một cái thang đang dựa vào một ngôi nhà."
+          "translation": "(B) Một cái thang đang dựa vào một ngôi nhà.",
+          "startMs": 9480
         },
         {
           "text": "(C) Some bins are standing along a curb.",
-          "translation": "(C) Một số thùng đang đứng dọc theo lề đường."
+          "translation": "(C) Một số thùng đang đứng dọc theo lề đường.",
+          "startMs": 14160
         },
         {
           "text": "(D) A hedge is being trimmed.",
-          "translation": "(D) Một hàng rào cây đang được cắt tỉa."
+          "translation": "(D) Một hàng rào cây đang được cắt tỉa.",
+          "startMs": 18792
         }
       ],
       "correctAnswer": null,
@@ -1944,19 +1964,23 @@
       "sentences": [
         {
           "text": "(A) She's answering a phone.",
-          "translation": "(A) Cô ấy đang trả lời điện thoại."
+          "translation": "(A) Cô ấy đang trả lời điện thoại.",
+          "startMs": 4280
         },
         {
           "text": "(B) She's opening a drawer.",
-          "translation": "(B) Cô ấy đang mở một ngăn kéo."
+          "translation": "(B) Cô ấy đang mở một ngăn kéo.",
+          "startMs": 7928
         },
         {
           "text": "(C) She's typing on a keyboard.",
-          "translation": "(C) Cô ấy đang gõ trên bàn phím."
+          "translation": "(C) Cô ấy đang gõ trên bàn phím.",
+          "startMs": 11656
         },
         {
           "text": "(D) She's stacking some folders.",
-          "translation": "(D) Cô ấy đang xếp một số bìa hồ sơ."
+          "translation": "(D) Cô ấy đang xếp một số bìa hồ sơ.",
+          "startMs": 15704
         }
       ],
       "correctAnswer": null,

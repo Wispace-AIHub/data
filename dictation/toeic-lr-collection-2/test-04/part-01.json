@@ -9,19 +9,23 @@
       "sentences": [
         {
           "text": "(A) They're shaking hands near a doorway.",
-          "translation": "(A) Họ đang bắt tay gần một cánh cửa."
+          "translation": "(A) Họ đang bắt tay gần một cánh cửa.",
+          "startMs": 3960
         },
         {
           "text": "(B) They're carrying some boxes together.",
-          "translation": "(B) Họ đang cùng nhau mang một số hộp."
+          "translation": "(B) Họ đang cùng nhau mang một số hộp.",
+          "startMs": 8192
         },
         {
           "text": "(C) One of the men is opening a door.",
-          "translation": "(C) Một trong những người đàn ông đang mở cửa."
+          "translation": "(C) Một trong những người đàn ông đang mở cửa.",
+          "startMs": 12504
         },
         {
           "text": "(D) One of the men is opening an umbrella.",
-          "translation": "(D) Một trong những người đàn ông đang mở ô."
+          "translation": "(D) Một trong những người đàn ông đang mở ô.",
+          "startMs": 16394
         }
       ],
       "correctAnswer": null,
@@ -413,19 +417,23 @@
       "sentences": [
         {
           "text": "(A) He's pushing a cart.",
-          "translation": "(A) Anh ấy đang đẩy một xe đẩy."
+          "translation": "(A) Anh ấy đang đẩy một xe đẩy.",
+          "startMs": 4440
         },
         {
           "text": "(B) He's holding a shovel.",
-          "translation": "(B) Anh ấy đang cầm một cái xẻng."
+          "translation": "(B) Anh ấy đang cầm một cái xẻng.",
+          "startMs": 7947
         },
         {
           "text": "(C) He's stacking some bricks.",
-          "translation": "(C) Anh ấy đang xếp một số viên gạch."
+          "translation": "(C) Anh ấy đang xếp một số viên gạch.",
+          "startMs": 11294
         },
         {
           "text": "(D) He's wearing gloves.",
-          "translation": "(D) Anh ấy đang đeo găng tay."
+          "translation": "(D) Anh ấy đang đeo găng tay.",
+          "startMs": 14961
         }
       ],
       "correctAnswer": null,
@@ -712,19 +720,23 @@
       "sentences": [
         {
           "text": "(A) He's pushing a cart.",
-          "translation": "(A) Anh ấy đang xếp một số thùng."
+          "translation": "(A) Anh ấy đang xếp một số thùng.",
+          "startMs": 4440
         },
         {
           "text": "(B) He's lifting a box.",
-          "translation": "(B) Anh ấy đang nâng một hộp."
+          "translation": "(B) Anh ấy đang nâng một hộp.",
+          "startMs": 8027
         },
         {
           "text": "(C) He's opening a door.",
-          "translation": "(C) Anh ấy đang mở một cánh cửa."
+          "translation": "(C) Anh ấy đang mở một cánh cửa.",
+          "startMs": 11614
         },
         {
           "text": "(D) He's climbing a ladder.",
-          "translation": "(D) Anh ấy đang leo một cái thang."
+          "translation": "(D) Anh ấy đang leo một cái thang.",
+          "startMs": 14961
         }
       ],
       "correctAnswer": null,
@@ -1026,19 +1038,23 @@
       "sentences": [
         {
           "text": "(A) A man is folding some clothes.",
-          "translation": "(A) Một người đàn ông đang gấp một số quần áo."
+          "translation": "(A) Một người đàn ông đang gấp một số quần áo.",
+          "startMs": 4200
         },
         {
           "text": "(B) A man is carrying a basket.",
-          "translation": "(B) Một người đàn ông đang mang một cái giỏ."
+          "translation": "(B) Một người đàn ông đang mang một cái giỏ.",
+          "startMs": 8248
         },
         {
           "text": "(C) A man is holding a shirt.",
-          "translation": "(C) Một người đàn ông đang cầm một chiếc áo sơ mi."
+          "translation": "(C) Một người đàn ông đang cầm một chiếc áo sơ mi.",
+          "startMs": 12296
         },
         {
           "text": "(D) A man is paying for a purchase.",
-          "translation": "(D) Một người đàn ông đang thanh toán cho một món hàng."
+          "translation": "(D) Một người đàn ông đang thanh toán cho một món hàng.",
+          "startMs": 16104
         }
       ],
       "correctAnswer": null,
@@ -1410,19 +1426,23 @@
       "sentences": [
         {
           "text": "(A) She's reaching for an item on a shelf.",
-          "translation": "(A) Cô ấy đang với lấy một món đồ trên kệ."
+          "translation": "(A) Cô ấy đang với lấy một món đồ trên kệ.",
+          "startMs": 4200
         },
         {
           "text": "(B) She's pushing a shopping cart.",
-          "translation": "(B) Cô ấy đang đẩy xe mua hàng."
+          "translation": "(B) Cô ấy đang đẩy xe mua hàng.",
+          "startMs": 8520
         },
         {
           "text": "(C) She's holding a shopping basket.",
-          "translation": "(C) Cô ấy đang cầm giỏ mua sắm."
+          "translation": "(C) Cô ấy đang cầm giỏ mua sắm.",
+          "startMs": 12440
         },
         {
           "text": "(D) She's taking off her glasses.",
-          "translation": "(D) Cô ấy đang tháo kính ra."
+          "translation": "(D) Cô ấy đang tháo kính ra.",
+          "startMs": 16280
         }
       ],
       "correctAnswer": null,
@@ -1774,19 +1794,23 @@
       "sentences": [
         {
           "text": "(A) Some boxes are stacked on the floor.",
-          "translation": "(A) Một số hộp được xếp chồng trên sàn."
+          "translation": "(A) Một số hộp được xếp chồng trên sàn.",
+          "startMs": 4440
         },
         {
           "text": "(B) A basket is sitting on a counter.",
-          "translation": "(B) Một cái giỏ đang đặt trên quầy."
+          "translation": "(B) Một cái giỏ đang đặt trên quầy.",
+          "startMs": 8823
         },
         {
           "text": "(C) A man is weighing some fruit.",
-          "translation": "(C) Một người đàn ông đang cân một số trái cây."
+          "translation": "(C) Một người đàn ông đang cân một số trái cây.",
+          "startMs": 13028
         },
         {
           "text": "(D) A man is placing fruit in a bag.",
-          "translation": "(D) Một người đàn ông đang cho trái cây vào túi."
+          "translation": "(D) Một người đàn ông đang cho trái cây vào túi.",
+          "startMs": 17073
         }
       ],
       "correctAnswer": null,

@@ -9,19 +9,23 @@
       "sentences": [
         {
           "text": "(A) Some suitcases are piled on a bench.",
-          "translation": "(A) Một vài chiếc vali được chất đống trên băng ghế."
+          "translation": "(A) Một vài chiếc vali được chất đống trên băng ghế.",
+          "startMs": 3960
         },
         {
           "text": "(B) A plant is being watered.",
-          "translation": "(B) Một cái cây đang được tưới nước."
+          "translation": "(B) Một cái cây đang được tưới nước.",
+          "startMs": 8512
         },
         {
           "text": "(C) A mirror is being cleaned.",
-          "translation": "(C) Một chiếc gương đang được lau."
+          "translation": "(C) Một chiếc gương đang được lau.",
+          "startMs": 12252
         },
         {
           "text": "(D) A luggage cart has been left near an elevator.",
-          "translation": "(D) Một chiếc xe đẩy hành lý đã được để gần thang máy."
+          "translation": "(D) Một chiếc xe đẩy hành lý đã được để gần thang máy.",
+          "startMs": 15992
         }
       ],
       "correctAnswer": null,
@@ -398,19 +402,23 @@
       "sentences": [
         {
           "text": "(A) A man is wiping a table.",
-          "translation": "(A) Một người đàn ông đang lau bàn."
+          "translation": "(A) Một người đàn ông đang lau bàn.",
+          "startMs": 4440
         },
         {
           "text": "(B) A man is emptying a plate into a trash can.",
-          "translation": "(B) Một người đàn ông đang đổ đĩa thức ăn vào thùng rác."
+          "translation": "(B) Một người đàn ông đang đổ đĩa thức ăn vào thùng rác.",
+          "startMs": 8405
         },
         {
           "text": "(C) A man is sliding a tray onto a shelf.",
-          "translation": "(C) Một người đàn ông đang trượt một cái khay lên kệ."
+          "translation": "(C) Một người đàn ông đang trượt một cái khay lên kệ.",
+          "startMs": 13490
         },
         {
           "text": "(D) A man is filling a cup with water.",
-          "translation": "(D) Một người đàn ông đang rót nước đầy cốc."
+          "translation": "(D) Một người đàn ông đang rót nước đầy cốc.",
+          "startMs": 18495
         }
       ],
       "correctAnswer": null,
@@ -852,19 +860,23 @@
       "sentences": [
         {
           "text": "(A) The floor is being mopped.",
-          "translation": "(A) Sàn nhà đang được lau."
+          "translation": "(A) Sàn nhà đang được lau.",
+          "startMs": 4200
         },
         {
           "text": "(B) Some chairs have been lifted onto the tables.",
-          "translation": "(B) Một số chiếc ghế đã được nhấc lên bàn."
+          "translation": "(B) Một số chiếc ghế đã được nhấc lên bàn.",
+          "startMs": 7528
         },
         {
           "text": "(C) Some tablecloths are being folded.",
-          "translation": "(C) Một số khăn trải bàn đang được gấp lại."
+          "translation": "(C) Một số khăn trải bàn đang được gấp lại.",
+          "startMs": 11920
         },
         {
           "text": "(D) Some plants have been placed on the tables.",
-          "translation": "(D) Một vài chậu cây đã được đặt trên bàn."
+          "translation": "(D) Một vài chậu cây đã được đặt trên bàn.",
+          "startMs": 15576
         }
       ],
       "correctAnswer": null,
@@ -1246,19 +1258,23 @@
       "sentences": [
         {
           "text": "(A) He's tying a shoelace.",
-          "translation": "(A) Anh ấy đang buộc dây giày."
+          "translation": "(A) Anh ấy đang buộc dây giày.",
+          "startMs": 4200
         },
         {
           "text": "(B) He's drinking from a bottle.",
-          "translation": "(B) Anh ấy đang uống nước từ chai."
+          "translation": "(B) Anh ấy đang uống nước từ chai.",
+          "startMs": 7707
         },
         {
           "text": "(C) He's resting his foot on a bench.",
-          "translation": "(C) Anh ấy đang gác chân lên ghế dài."
+          "translation": "(C) Anh ấy đang gác chân lên ghế dài.",
+          "startMs": 11162
         },
         {
           "text": "(D) He's leaning against a tree.",
-          "translation": "(D) Anh ấy đang tựa vào một cái cây."
+          "translation": "(D) Anh ấy đang tựa vào một cái cây.",
+          "startMs": 15224
         }
       ],
       "correctAnswer": null,
@@ -1595,19 +1611,23 @@
       "sentences": [
         {
           "text": "(A) Some pans are being taken down from hooks.",
-          "translation": "(A) Một vài chiếc chảo đang được lấy xuống khỏi móc."
+          "translation": "(A) Một vài chiếc chảo đang được lấy xuống khỏi móc.",
+          "startMs": 4200
         },
         {
           "text": "(B) Some boxes are being unpacked.",
-          "translation": "(B) Một vài chiếc hộp đang được mở ra lấy đồ."
+          "translation": "(B) Một vài chiếc hộp đang được mở ra lấy đồ.",
+          "startMs": 8608
         },
         {
           "text": "(C) She's putting a box in a cart.",
-          "translation": "(C) Cô ấy đang đặt một chiếc hộp vào xe đẩy."
+          "translation": "(C) Cô ấy đang đặt một chiếc hộp vào xe đẩy.",
+          "startMs": 12653
         },
         {
           "text": "(D) She's kneeling in front of a shelf.",
-          "translation": "(D) Cô ấy đang quỳ trước một cái kệ."
+          "translation": "(D) Cô ấy đang quỳ trước một cái kệ.",
+          "startMs": 16393
         }
       ],
       "correctAnswer": null,
@@ -1999,19 +2019,23 @@
       "sentences": [
         {
           "text": "(A) He's hanging a jacket on a hook.",
-          "translation": "(A) Anh ấy đang treo một chiếc áo khoác lên móc."
+          "translation": "(A) Anh ấy đang treo một chiếc áo khoác lên móc.",
+          "startMs": 4440
         },
         {
           "text": "(B) A curtain has been pulled to one side.",
-          "translation": "(B) Một tấm rèm đã được kéo sang một bên."
+          "translation": "(B) Một tấm rèm đã được kéo sang một bên.",
+          "startMs": 8493
         },
         {
           "text": "(C) He's facing a mirror.",
-          "translation": "(C) Anh ấy đang quay mặt về phía gương."
+          "translation": "(C) Anh ấy đang quay mặt về phía gương.",
+          "startMs": 12778
         },
         {
           "text": "(D) He's picking up a bag from a bench.",
-          "translation": "(D) Anh ấy đang nhặt một chiếc túi từ trên ghế dài."
+          "translation": "(D) Anh ấy đang nhặt một chiếc túi từ trên ghế dài.",
+          "startMs": 16271
         }
       ],
       "correctAnswer": null,

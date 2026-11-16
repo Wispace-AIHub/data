@@ -9,19 +9,23 @@
       "sentences": [
         {
           "text": "(A) The men are shaking hands.",
-          "translation": "(A) Những người đàn ông đang bắt tay."
+          "translation": "(A) Những người đàn ông đang bắt tay.",
+          "startMs": 4280
         },
         {
           "text": "(B) The men are wearing jackets.",
-          "translation": "(B) Những người đàn ông đang mặc áo khoác."
+          "translation": "(B) Những người đàn ông đang mặc áo khoác.",
+          "startMs": 8280
         },
         {
           "text": "(C) Some cups are being stacked on the table.",
-          "translation": "(C) Một số cốc đang được xếp chồng trên bàn."
+          "translation": "(C) Một số cốc đang được xếp chồng trên bàn.",
+          "startMs": 12407
         },
         {
           "text": "(D) Some pastries are being placed in a display case.",
-          "translation": "(D) Một số bánh ngọt đang được đặt vào tủ trưng bày."
+          "translation": "(D) Một số bánh ngọt đang được đặt vào tủ trưng bày.",
+          "startMs": 16791
         }
       ],
       "correctAnswer": null,
@@ -408,19 +412,23 @@
       "sentences": [
         {
           "text": "(A) Some leaves are gathered into piles.",
-          "translation": "(A) Một số lá được gom thành đống."
+          "translation": "(A) Một số lá được gom thành đống.",
+          "startMs": 4280
         },
         {
           "text": "(B) A man is sitting on a bench.",
-          "translation": "(B) Một người đàn ông đang ngồi trên ghế dài."
+          "translation": "(B) Một người đàn ông đang ngồi trên ghế dài.",
+          "startMs": 8416
         },
         {
           "text": "(C) The trees are being trimmed.",
-          "translation": "(C) Những cây đang được cắt tỉa."
+          "translation": "(C) Những cây đang được cắt tỉa.",
+          "startMs": 12223
         },
         {
           "text": "(D) Branches are hanging over a walkway.",
-          "translation": "(D) Cành cây đang rủ xuống trên lối đi."
+          "translation": "(D) Cành cây đang rủ xuống trên lối đi.",
+          "startMs": 16030
         }
       ],
       "correctAnswer": null,
@@ -782,19 +790,23 @@
       "sentences": [
         {
           "text": "(A) A pedestrian is climbing some steps.",
-          "translation": "(A) Một người đi bộ đang leo một số bậc thang."
+          "translation": "(A) Một người đi bộ đang leo một số bậc thang.",
+          "startMs": 4440
         },
         {
           "text": "(B) Some planters have been lined along a curb.",
-          "translation": "(B) Một số chậu cây đã được xếp dọc theo lề đường."
+          "translation": "(B) Một số chậu cây đã được xếp dọc theo lề đường.",
+          "startMs": 8725
         },
         {
           "text": "(C) Some workers are watering plants.",
-          "translation": "(C) Một số công nhân đang tưới cây."
+          "translation": "(C) Một số công nhân đang tưới cây.",
+          "startMs": 13261
         },
         {
           "text": "(D) A door has been left open.",
-          "translation": "(D) Một cánh cửa đã được để mở."
+          "translation": "(D) Một cánh cửa đã được để mở.",
+          "startMs": 17325
         }
       ],
       "correctAnswer": null,
@@ -1166,19 +1178,23 @@
       "sentences": [
         {
           "text": "(A) Some books are stacked on a cart.",
-          "translation": "(A) Một số sách được xếp chồng trên một xe đẩy."
+          "translation": "(A) Một số sách được xếp chồng trên một xe đẩy.",
+          "startMs": 4280
         },
         {
           "text": "(B) Some books are spread out on a table.",
-          "translation": "(B) Một số sách được bày ra trên một cái bàn."
+          "translation": "(B) Một số sách được bày ra trên một cái bàn.",
+          "startMs": 8581
         },
         {
           "text": "(C) One of the women is standing at a shelf.",
-          "translation": "(C) Một trong những người phụ nữ đang đứng ở một kệ sách."
+          "translation": "(C) Một trong những người phụ nữ đang đứng ở một kệ sách.",
+          "startMs": 12562
         },
         {
           "text": "(D) One of the women is opening a box.",
-          "translation": "(D) Một trong những người phụ nữ đang mở một hộp."
+          "translation": "(D) Một trong những người phụ nữ đang mở một hộp.",
+          "startMs": 16452
         }
       ],
       "correctAnswer": null,
@@ -1615,19 +1631,23 @@
       "sentences": [
         {
           "text": "(A) He's zipping up a backpack",
-          "translation": "(A) Anh ấy đang kéo khóa một chiếc ba lô"
+          "translation": "(A) Anh ấy đang kéo khóa một chiếc ba lô",
+          "startMs": 4760
         },
         {
           "text": "(B) He's standing on a driveway",
-          "translation": "(B) Anh ấy đang đứng trên lối vào nhà"
+          "translation": "(B) Anh ấy đang đứng trên lối vào nhà",
+          "startMs": 8418
         },
         {
           "text": "(C) He's riding on a highway",
-          "translation": "(C) Anh ấy đang chạy xe trên đường cao tốc"
+          "translation": "(C) Anh ấy đang chạy xe trên đường cao tốc",
+          "startMs": 12191
         },
         {
           "text": "(D) He's holding onto his cap",
-          "translation": "(D) Anh ấy đang giữ chặt mũ của mình"
+          "translation": "(D) Anh ấy đang giữ chặt mũ của mình",
+          "startMs": 15849
         }
       ],
       "correctAnswer": null,
@@ -1949,19 +1969,23 @@
       "sentences": [
         {
           "text": "(A) He's slicing bread on a cutting board.",
-          "translation": "(A) Anh ấy đang cắt bánh mì trên thớt."
+          "translation": "(A) Anh ấy đang cắt bánh mì trên thớt.",
+          "startMs": 4280
         },
         {
           "text": "(B) He's putting on an apron.",
-          "translation": "(B) Anh ấy đang mặc tạp dề."
+          "translation": "(B) Anh ấy đang mặc tạp dề.",
+          "startMs": 8327
         },
         {
           "text": "(C) He's arranging sandwiches on a tray.",
-          "translation": "(C) Anh ấy đang xếp bánh sandwich trên khay."
+          "translation": "(C) Anh ấy đang xếp bánh sandwich trên khay.",
+          "startMs": 11814
         },
         {
           "text": "(D) He's wiping down a counter.",
-          "translation": "(D) Anh ấy đang lau quầy."
+          "translation": "(D) Anh ấy đang lau quầy.",
+          "startMs": 16021
         }
       ],
       "correctAnswer": null,

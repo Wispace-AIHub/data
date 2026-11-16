@@ -9,19 +9,23 @@
       "sentences": [
         {
           "text": "(A) Some cabinet doors have been left open.",
-          "translation": "(A) Một số cánh cửa tủ đã bị để mở."
+          "translation": "(A) Một số cánh cửa tủ đã bị để mở.",
+          "startMs": 4280
         },
         {
           "text": "(B) The woman is arranging some plants.",
-          "translation": "(B) Người phụ nữ đang sắp xếp một số cây."
+          "translation": "(B) Người phụ nữ đang sắp xếp một số cây.",
+          "startMs": 8896
         },
         {
           "text": "(C) Some plants have been placed on a shelf.",
-          "translation": "(C) Một số cây đã được đặt trên kệ."
+          "translation": "(C) Một số cây đã được đặt trên kệ.",
+          "startMs": 13136
         },
         {
           "text": "(D) The woman is leaning against a wall.",
-          "translation": "(D) Người phụ nữ đang dựa vào tường."
+          "translation": "(D) Người phụ nữ đang dựa vào tường.",
+          "startMs": 17512
         }
       ],
       "correctAnswer": null,
@@ -423,19 +427,23 @@
       "sentences": [
         {
           "text": "(A) One of the women is pouring a drink.",
-          "translation": "(A) Một trong những người phụ nữ đang rót đồ uống."
+          "translation": "(A) Một trong những người phụ nữ đang rót đồ uống.",
+          "startMs": 4280
         },
         {
           "text": "(B) The people are looking at menus.",
-          "translation": "(B) Mọi người đang nhìn thực đơn."
+          "translation": "(B) Mọi người đang nhìn thực đơn.",
+          "startMs": 8735
         },
         {
           "text": "(C) The people are raising their glasses.",
-          "translation": "(C) Mọi người đang nâng ly."
+          "translation": "(C) Mọi người đang nâng ly.",
+          "startMs": 13183
         },
         {
           "text": "(D) The man is folding a napkin.",
-          "translation": "(D) Người đàn ông đang gấp khăn ăn."
+          "translation": "(D) Người đàn ông đang gấp khăn ăn.",
+          "startMs": 17823
         }
       ],
       "correctAnswer": null,
@@ -817,19 +825,23 @@
       "sentences": [
         {
           "text": "(A) One of the men is drinking from a cup.",
-          "translation": "(A) Một trong những người đàn ông đang uống từ cốc."
+          "translation": "(A) Một trong những người đàn ông đang uống từ cốc.",
+          "startMs": 4520
         },
         {
           "text": "(B) One of the women is talking on a phone.",
-          "translation": "(B) Một trong những người phụ nữ đang nói chuyện qua điện thoại."
+          "translation": "(B) Một trong những người phụ nữ đang nói chuyện qua điện thoại.",
+          "startMs": 8600
         },
         {
           "text": "(C) Some passengers are waiting in line.",
-          "translation": "(C) Một số hành khách đang xếp hàng chờ."
+          "translation": "(C) Một số hành khách đang xếp hàng chờ.",
+          "startMs": 12520
         },
         {
           "text": "(D) An attendant is helping a passenger at the counter.",
-          "translation": "(D) Một nhân viên đang giúp một hành khách tại quầy."
+          "translation": "(D) Một nhân viên đang giúp một hành khách tại quầy.",
+          "startMs": 16368
         }
       ],
       "correctAnswer": null,
@@ -1266,19 +1278,23 @@
       "sentences": [
         {
           "text": "(A) Some people are carrying boxes onto a boat.",
-          "translation": "(A) Một số người đang khiêng hộp lên thuyền."
+          "translation": "(A) Một số người đang khiêng hộp lên thuyền.",
+          "startMs": 4280
         },
         {
           "text": "(B) Some workers are cleaning a railing.",
-          "translation": "(B) Một số công nhân đang lau chùi lan can."
+          "translation": "(B) Một số công nhân đang lau chùi lan can.",
+          "startMs": 9439
         },
         {
           "text": "(C) A net is being unrolled on a deck.",
-          "translation": "(C) Một tấm lưới đang được trải ra trên boong tàu."
+          "translation": "(C) Một tấm lưới đang được trải ra trên boong tàu.",
+          "startMs": 13959
         },
         {
           "text": "(D) A boat is being tied to a dock.",
-          "translation": "(D) Một con thuyền đang được buộc vào bến tàu."
+          "translation": "(D) Một con thuyền đang được buộc vào bến tàu.",
+          "startMs": 18519
         }
       ],
       "correctAnswer": null,
@@ -1700,19 +1716,23 @@
       "sentences": [
         {
           "text": "(A) They're pushing a shopping cart.",
-          "translation": "(A) Họ đang đẩy một xe đẩy hàng."
+          "translation": "(A) Họ đang đẩy một xe đẩy hàng.",
+          "startMs": 4760
         },
         {
           "text": "(B) They're carrying some bags across a parking lot.",
-          "translation": "(B) Họ đang xách một số túi băng qua bãi đậu xe."
+          "translation": "(B) Họ đang xách một số túi băng qua bãi đậu xe.",
+          "startMs": 8728
         },
         {
           "text": "(C) They're opening the doors of a vehicle.",
-          "translation": "(C) Họ đang mở cửa của một chiếc xe."
+          "translation": "(C) Họ đang mở cửa của một chiếc xe.",
+          "startMs": 13696
         },
         {
           "text": "(D) They're looking at a sign.",
-          "translation": "(D) Họ đang nhìn vào một biển báo."
+          "translation": "(D) Họ đang nhìn vào một biển báo.",
+          "startMs": 17824
         }
       ],
       "correctAnswer": null,
@@ -2084,19 +2104,23 @@
       "sentences": [
         {
           "text": "(A) The man is reaching for a stack of plates.",
-          "translation": "(A) Người đàn ông đang với lấy một chồng đĩa."
+          "translation": "(A) Người đàn ông đang với lấy một chồng đĩa.",
+          "startMs": 4280
         },
         {
           "text": "(B) The woman is stirring a pot on a stove.",
-          "translation": "(B) Người phụ nữ đang khuấy một nồi trên bếp."
+          "translation": "(B) Người phụ nữ đang khuấy một nồi trên bếp.",
+          "startMs": 8647
         },
         {
           "text": "(C) The man is opening the oven door.",
-          "translation": "(C) Người đàn ông đang mở cửa lò nướng."
+          "translation": "(C) Người đàn ông đang mở cửa lò nướng.",
+          "startMs": 13814
         },
         {
           "text": "(D) The woman is lifting a lid off a pot.",
-          "translation": "(D) Người phụ nữ đang nhấc nắp ra khỏi một cái nồi."
+          "translation": "(D) Người phụ nữ đang nhấc nắp ra khỏi một cái nồi.",
+          "startMs": 17941
         }
       ],
       "correctAnswer": null,

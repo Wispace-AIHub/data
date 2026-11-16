@@ -9,19 +9,23 @@
       "sentences": [
         {
           "text": "(A) Some dishes are being washed at a sink.",
-          "translation": "(A) Một số bát đĩa đang được rửa tại bồn rửa."
+          "translation": "(A) Một số bát đĩa đang được rửa tại bồn rửa.",
+          "startMs": 4280
         },
         {
           "text": "(B) A trash can is being emptied.",
-          "translation": "(B) Một thùng rác đang được đổ."
+          "translation": "(B) Một thùng rác đang được đổ.",
+          "startMs": 8816
         },
         {
           "text": "(C) Some cups have been arranged on a counter.",
-          "translation": "(C) Một số cốc đã được sắp xếp trên quầy."
+          "translation": "(C) Một số cốc đã được sắp xếp trên quầy.",
+          "startMs": 12624
         },
         {
           "text": "(D) Some chairs have been stacked in a corner.",
-          "translation": "(D) Một số ghế đã được xếp chồng ở một góc."
+          "translation": "(D) Một số ghế đã được xếp chồng ở một góc.",
+          "startMs": 18782
         }
       ],
       "correctAnswer": null,
@@ -443,19 +447,23 @@
       "sentences": [
         {
           "text": "(A) The men are arranging some produce.",
-          "translation": "(A) Những người đàn ông đang sắp xếp một số nông sản."
+          "translation": "(A) Những người đàn ông đang sắp xếp một số nông sản.",
+          "startMs": 4280
         },
         {
           "text": "(B) The men are pushing a cart.",
-          "translation": "(B) Những người đàn ông đang đẩy một chiếc xe đẩy."
+          "translation": "(B) Những người đàn ông đang đẩy một chiếc xe đẩy.",
+          "startMs": 8380
         },
         {
           "text": "(C) The men are standing under an awning.",
-          "translation": "(C) Những người đàn ông đang đứng dưới một mái che."
+          "translation": "(C) Những người đàn ông đang đứng dưới một mái che.",
+          "startMs": 12300
         },
         {
           "text": "(D) The men are folding up an awning.",
-          "translation": "(D) Những người đàn ông đang gấp một mái che."
+          "translation": "(D) Những người đàn ông đang gấp một mái che.",
+          "startMs": 16540
         }
       ],
       "correctAnswer": null,
@@ -837,19 +845,23 @@
       "sentences": [
         {
           "text": "(A) Some pillows have been stacked on the desk.",
-          "translation": "(A) Một số gối đã được xếp chồng trên bàn."
+          "translation": "(A) Một số gối đã được xếp chồng trên bàn.",
+          "startMs": 4520
         },
         {
           "text": "(B) A suitcase has been placed on the floor.",
-          "translation": "(B) Một chiếc vali đã được đặt trên sàn."
+          "translation": "(B) Một chiếc vali đã được đặt trên sàn.",
+          "startMs": 9088
         },
         {
           "text": "(C) Some towels have been placed on a bed.",
-          "translation": "(C) Một số khăn tắm đã được đặt trên giường."
+          "translation": "(C) Một số khăn tắm đã được đặt trên giường.",
+          "startMs": 13303
         },
         {
           "text": "(D) Some clothes have been hung in a closet.",
-          "translation": "(D) Một số quần áo đã được treo trong tủ."
+          "translation": "(D) Một số quần áo đã được treo trong tủ.",
+          "startMs": 17391
         }
       ],
       "correctAnswer": null,
@@ -1291,19 +1303,23 @@
       "sentences": [
         {
           "text": "(A) A man is picking up a suitcase.",
-          "translation": "(A) Một người đàn ông đang nhặt một chiếc vali."
+          "translation": "(A) Một người đàn ông đang nhặt một chiếc vali.",
+          "startMs": 4280
         },
         {
           "text": "(B) A woman is buying a ticket.",
-          "translation": "(B) Một người phụ nữ đang mua vé."
+          "translation": "(B) Một người phụ nữ đang mua vé.",
+          "startMs": 8325
         },
         {
           "text": "(C) A man is reading a schedule board.",
-          "translation": "(C) Một người đàn ông đang đọc bảng lịch trình."
+          "translation": "(C) Một người đàn ông đang đọc bảng lịch trình.",
+          "startMs": 12290
         },
         {
           "text": "(D) A woman is boarding a train.",
-          "translation": "(D) Một người phụ nữ đang lên tàu."
+          "translation": "(D) Một người phụ nữ đang lên tàu.",
+          "startMs": 16655
         }
       ],
       "correctAnswer": null,
@@ -1685,19 +1701,23 @@
       "sentences": [
         {
           "text": "(A) Some cars are being driven out of a garage.",
-          "translation": "(A) Một số xe hơi đang được lái ra khỏi gara."
+          "translation": "(A) Một số xe hơi đang được lái ra khỏi gara.",
+          "startMs": 4760
         },
         {
           "text": "(B) A man is loading items into a vehicle.",
-          "translation": "(B) Một người đàn ông đang chất đồ lên xe."
+          "translation": "(B) Một người đàn ông đang chất đồ lên xe.",
+          "startMs": 9536
         },
         {
           "text": "(C) A man is leaning against a column.",
-          "translation": "(C) Một người đàn ông đang dựa vào một cây cột."
+          "translation": "(C) Một người đàn ông đang dựa vào một cây cột.",
+          "startMs": 14416
         },
         {
           "text": "(D) A barrier has been lowered across a lane.",
-          "translation": "(D) Một rào chắn đã được hạ xuống chắn ngang làn đường."
+          "translation": "(D) Một rào chắn đã được hạ xuống chắn ngang làn đường.",
+          "startMs": 18976
         }
       ],
       "correctAnswer": null,
@@ -2134,19 +2154,23 @@
       "sentences": [
         {
           "text": "(A) He's carrying a basket.",
-          "translation": "(A) Anh ấy đang xách một cái giỏ."
+          "translation": "(A) Anh ấy đang xách một cái giỏ.",
+          "startMs": 4280
         },
         {
           "text": "(B) He's pushing a cart.",
-          "translation": "(B) Anh ấy đang đẩy một xe hàng."
+          "translation": "(B) Anh ấy đang đẩy một xe hàng.",
+          "startMs": 7933
         },
         {
           "text": "(C) He's reaching for a product.",
-          "translation": "(C) Anh ấy đang với lấy một sản phẩm."
+          "translation": "(C) Anh ấy đang với lấy một sản phẩm.",
+          "startMs": 11346
         },
         {
           "text": "(D) He's stocking some shelves.",
-          "translation": "(D) Anh ấy đang xếp hàng lên kệ."
+          "translation": "(D) Anh ấy đang xếp hàng lên kệ.",
+          "startMs": 14846
         }
       ],
       "correctAnswer": null,

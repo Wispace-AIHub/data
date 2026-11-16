@@ -9,19 +9,23 @@
       "sentences": [
         {
           "text": "(A) There are workers loading the plane.",
-          "translation": "(A) Có những công nhân đang chất hàng lên máy bay."
+          "translation": "(A) Có những công nhân đang chất hàng lên máy bay.",
+          "startMs": 3960
         },
         {
           "text": "(B) Some passengers are waiting in line.",
-          "translation": "(B) Một số hành khách đang xếp hàng chờ đợi."
+          "translation": "(B) Một số hành khách đang xếp hàng chờ đợi.",
+          "startMs": 8213
         },
         {
           "text": "(C) The luggage is stacked on a cart.",
-          "translation": "(C) Hành lý được xếp chồng trên một chiếc xe đẩy."
+          "translation": "(C) Hành lý được xếp chồng trên một chiếc xe đẩy.",
+          "startMs": 12605
         },
         {
           "text": "(D) A plane is taking off.",
-          "translation": "(D) Một chiếc máy bay đang cất cánh."
+          "translation": "(D) Một chiếc máy bay đang cất cánh.",
+          "startMs": 17373
         }
       ],
       "correctAnswer": null,
@@ -383,19 +387,23 @@
       "sentences": [
         {
           "text": "(A) The man is stapling some papers.",
-          "translation": "(A) Người đàn ông đang bấm ghim một số giấy tờ."
+          "translation": "(A) Người đàn ông đang bấm ghim một số giấy tờ.",
+          "startMs": 4440
         },
         {
           "text": "(B) The man is typing on a keyboard.",
-          "translation": "(B) Người đàn ông đang gõ bàn phím."
+          "translation": "(B) Người đàn ông đang gõ bàn phím.",
+          "startMs": 8408
         },
         {
           "text": "(C) The man is speaking on a phone.",
-          "translation": "(C) Người đàn ông đang nói chuyện điện thoại."
+          "translation": "(C) Người đàn ông đang nói chuyện điện thoại.",
+          "startMs": 12376
         },
         {
           "text": "(D) The man is drinking from a cup.",
-          "translation": "(D) Người đàn ông đang uống nước từ một chiếc cốc."
+          "translation": "(D) Người đàn ông đang uống nước từ một chiếc cốc.",
+          "startMs": 16184
         }
       ],
       "correctAnswer": null,
@@ -787,19 +795,23 @@
       "sentences": [
         {
           "text": "(A) She's riding a bike along the road.",
-          "translation": "(A) Cô ấy đang đạp xe dọc theo con đường."
+          "translation": "(A) Cô ấy đang đạp xe dọc theo con đường.",
+          "startMs": 4200
         },
         {
           "text": "(B) She's closing the trunk.",
-          "translation": "(B) Cô ấy đang đóng cốp xe."
+          "translation": "(B) Cô ấy đang đóng cốp xe.",
+          "startMs": 8190
         },
         {
           "text": "(C) She's putting a bag into the trunk.",
-          "translation": "(C) Cô ấy đang bỏ một chiếc túi vào cốp xe."
+          "translation": "(C) Cô ấy đang bỏ một chiếc túi vào cốp xe.",
+          "startMs": 11460
         },
         {
           "text": "(D) She's fixing a wheel on a car.",
-          "translation": "(D) Cô ấy đang sửa một bánh xe trên ô tô."
+          "translation": "(D) Cô ấy đang sửa một bánh xe trên ô tô.",
+          "startMs": 15440
         }
       ],
       "correctAnswer": null,
@@ -1176,19 +1188,23 @@
       "sentences": [
         {
           "text": "(A) All of the hikers are using walking sticks.",
-          "translation": "(A) Tất cả những người đi bộ đường dài đều đang dùng gậy chống."
+          "translation": "(A) Tất cả những người đi bộ đường dài đều đang dùng gậy chống.",
+          "startMs": 4200
         },
         {
           "text": "(B) They're resting on a bench.",
-          "translation": "(B) Họ đang nghỉ ngơi trên một chiếc ghế dài."
+          "translation": "(B) Họ đang nghỉ ngơi trên một chiếc ghế dài.",
+          "startMs": 8574
         },
         {
           "text": "(C) They're setting up a tent.",
-          "translation": "(C) Họ đang dựng một chiếc lều."
+          "translation": "(C) Họ đang dựng một chiếc lều.",
+          "startMs": 12062
         },
         {
           "text": "(D) Some hikers are walking down a trail.",
-          "translation": "(D) Một vài người đi bộ đường dài đang đi xuống một con đường mòn."
+          "translation": "(D) Một vài người đi bộ đường dài đang đi xuống một con đường mòn.",
+          "startMs": 15390
         }
       ],
       "correctAnswer": null,
@@ -1560,19 +1576,23 @@
       "sentences": [
         {
           "text": "(A) All of the people are seated.",
-          "translation": "(A) Tất cả mọi người đều đang ngồi."
+          "translation": "(A) Tất cả mọi người đều đang ngồi.",
+          "startMs": 4200
         },
         {
           "text": "(B) One of the women is standing.",
-          "translation": "(B) Một trong những người phụ nữ đang đứng."
+          "translation": "(B) Một trong những người phụ nữ đang đứng.",
+          "startMs": 7695
         },
         {
           "text": "(C) One of the men is writing on a board.",
-          "translation": "(C) Một trong những người đàn ông đang viết lên bảng."
+          "translation": "(C) Một trong những người đàn ông đang viết lên bảng.",
+          "startMs": 11350
         },
         {
           "text": "(D) One of the women is opening a bottle.",
-          "translation": "(D) Một trong những người phụ nữ đang mở một chai nước."
+          "translation": "(D) Một trong những người phụ nữ đang mở một chai nước.",
+          "startMs": 15485
         }
       ],
       "correctAnswer": null,
@@ -1979,19 +1999,23 @@
       "sentences": [
         {
           "text": "(A) The men are writing on a whiteboard.",
-          "translation": "(A) Những người đàn ông đang viết lên bảng trắng."
+          "translation": "(A) Những người đàn ông đang viết lên bảng trắng.",
+          "startMs": 4360
         },
         {
           "text": "(B) The women are talking to each other.",
-          "translation": "(B) Những người phụ nữ đang nói chuyện với nhau."
+          "translation": "(B) Những người phụ nữ đang nói chuyện với nhau.",
+          "startMs": 8330
         },
         {
           "text": "(C) The men are shaking hands.",
-          "translation": "(C) Những người đàn ông đang bắt tay nhau."
+          "translation": "(C) Những người đàn ông đang bắt tay nhau.",
+          "startMs": 12140
         },
         {
           "text": "(D) The women are holding folders.",
-          "translation": "(D) Những người phụ nữ đang cầm các tập hồ sơ."
+          "translation": "(D) Những người phụ nữ đang cầm các tập hồ sơ.",
+          "startMs": 15870
         }
       ],
       "correctAnswer": null,

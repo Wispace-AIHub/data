@@ -9,19 +9,23 @@
       "sentences": [
         {
           "text": "(A) A man is pushing a cart.",
-          "translation": "(A) Một người đàn ông đang đẩy một xe đẩy."
+          "translation": "(A) Một người đàn ông đang đẩy một xe đẩy.",
+          "startMs": 4280
         },
         {
           "text": "(B) A man is opening a door.",
-          "translation": "(B) Một người đàn ông đang mở một cánh cửa."
+          "translation": "(B) Một người đàn ông đang mở một cánh cửa.",
+          "startMs": 8280
         },
         {
           "text": "(C) A woman is folding an umbrella.",
-          "translation": "(C) Một người phụ nữ đang gấp một chiếc ô."
+          "translation": "(C) Một người phụ nữ đang gấp một chiếc ô.",
+          "startMs": 12200
         },
         {
           "text": "(D) A woman is carrying a box.",
-          "translation": "(D) Một người phụ nữ đang mang một hộp."
+          "translation": "(D) Một người phụ nữ đang mang một hộp.",
+          "startMs": 16280
         }
       ],
       "correctAnswer": null,
@@ -383,19 +387,23 @@
       "sentences": [
         {
           "text": "(A) The people are climbing some stairs.",
-          "translation": "(A) Những người đang leo cầu thang."
+          "translation": "(A) Những người đang leo cầu thang.",
+          "startMs": 4280
         },
         {
           "text": "(B) The man is leaning over a railing.",
-          "translation": "(B) Người đàn ông đang cúi người qua lan can."
+          "translation": "(B) Người đàn ông đang cúi người qua lan can.",
+          "startMs": 8620
         },
         {
           "text": "(C) The people are sitting on a bench.",
-          "translation": "(C) Những người đang ngồi trên ghế dài."
+          "translation": "(C) Những người đang ngồi trên ghế dài.",
+          "startMs": 13068
         },
         {
           "text": "(D) The woman is opening an umbrella.",
-          "translation": "(D) Người phụ nữ đang mở ô."
+          "translation": "(D) Người phụ nữ đang mở ô.",
+          "startMs": 17116
         }
       ],
       "correctAnswer": null,
@@ -777,19 +785,23 @@
       "sentences": [
         {
           "text": "(A) Some boats are sailing on the water.",
-          "translation": "(A) Một số thuyền đang mon trên mặt nước."
+          "translation": "(A) Một số thuyền đang mon trên mặt nước.",
+          "startMs": 4440
         },
         {
           "text": "(B) Some crates are stacked near a railing.",
-          "translation": "(B) Một số thùng được xếp chồng gần một lan can."
+          "translation": "(B) Một số thùng được xếp chồng gần một lan can.",
+          "startMs": 8672
         },
         {
           "text": "(C) A bridge spans the water.",
-          "translation": "(C) Một cây cầu bắc qua mặt nước."
+          "translation": "(C) Một cây cầu bắc qua mặt nước.",
+          "startMs": 13272
         },
         {
           "text": "(D) A walkway is crowded with people.",
-          "translation": "(D) Một lối đi đông nghịt người."
+          "translation": "(D) Một lối đi đông nghịt người.",
+          "startMs": 17165
         }
       ],
       "correctAnswer": null,
@@ -1161,19 +1173,23 @@
       "sentences": [
         {
           "text": "(A) The woman is pushing a cart.",
-          "translation": "(A) Người phụ nữ đang đẩy một xe đẩy."
+          "translation": "(A) Người phụ nữ đang đẩy một xe đẩy.",
+          "startMs": 4280
         },
         {
           "text": "(B) The woman is opening a trunk.",
-          "translation": "(B) Người phụ nữ đang mở cốp xe."
+          "translation": "(B) Người phụ nữ đang mở cốp xe.",
+          "startMs": 7855
         },
         {
           "text": "(C) The woman is tying her shoe.",
-          "translation": "(C) Người phụ nữ đang buộc dây giày."
+          "translation": "(C) Người phụ nữ đang buộc dây giày.",
+          "startMs": 11430
         },
         {
           "text": "(D) The woman is putting on a jacket.",
-          "translation": "(D) Người phụ nữ đang mặc áo khoác."
+          "translation": "(D) Người phụ nữ đang mặc áo khoác.",
+          "startMs": 15085
         }
       ],
       "correctAnswer": null,
@@ -1545,19 +1561,23 @@
       "sentences": [
         {
           "text": "(A) Some people are being served coffee.",
-          "translation": "(A) Một số người đang được phục vụ cà phê."
+          "translation": "(A) Một số người đang được phục vụ cà phê.",
+          "startMs": 4760
         },
         {
           "text": "(B) Some people are reading menus.",
-          "translation": "(B) Một số người đang đọc thực đơn."
+          "translation": "(B) Một số người đang đọc thực đơn.",
+          "startMs": 9234
         },
         {
           "text": "(C) Some people are stacking chairs.",
-          "translation": "(C) Một số người đang xếp ghế."
+          "translation": "(C) Một số người đang xếp ghế.",
+          "startMs": 13658
         },
         {
           "text": "(D) Some people are standing at an entrance.",
-          "translation": "(D) Một số người đang đứng ở lối vào."
+          "translation": "(D) Một số người đang đứng ở lối vào.",
+          "startMs": 18242
         }
       ],
       "correctAnswer": null,
@@ -1909,19 +1929,23 @@
       "sentences": [
         {
           "text": "(A) Some musicians are playing instruments.",
-          "translation": "(A) Một số nhạc sĩ đang chơi nhạc cụ."
+          "translation": "(A) Một số nhạc sĩ đang chơi nhạc cụ.",
+          "startMs": 4280
         },
         {
           "text": "(B) The chairs have been stacked to one side.",
-          "translation": "(B) Những chiếc ghế đã được xếp chồng sang một bên."
+          "translation": "(B) Những chiếc ghế đã được xếp chồng sang một bên.",
+          "startMs": 8912
         },
         {
           "text": "(C) All of the people are sitting down.",
-          "translation": "(C) Tất cả mọi người đều đang ngồi."
+          "translation": "(C) Tất cả mọi người đều đang ngồi.",
+          "startMs": 13952
         },
         {
           "text": "(D) A car is parked in a garage.",
-          "translation": "(D) Một chiếc xe hơi đang đỗ trong gara."
+          "translation": "(D) Một chiếc xe hơi đang đỗ trong gara.",
+          "startMs": 18232
         }
       ],
       "correctAnswer": null,

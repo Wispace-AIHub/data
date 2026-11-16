@@ -9,19 +9,23 @@
       "sentences": [
         {
           "text": "(A) One of the people is lowering a screen.",
-          "translation": "(A) Một trong những người đang hạ một màn hình."
+          "translation": "(A) Một trong những người đang hạ một màn hình.",
+          "startMs": 4280
         },
         {
           "text": "(B) One of the people is opening a laptop.",
-          "translation": "(B) Một trong những người đang mở một máy tính xách tay."
+          "translation": "(B) Một trong những người đang mở một máy tính xách tay.",
+          "startMs": 8758
         },
         {
           "text": "(C) One of the people is adjusting some blinds.",
-          "translation": "(C) Một trong những người đang điều chỉnh một số rèm cửa."
+          "translation": "(C) Một trong những người đang điều chỉnh một số rèm cửa.",
+          "startMs": 13236
         },
         {
           "text": "(D) One of the people is wiping a board.",
-          "translation": "(D) Một trong những người đang lau một bảng."
+          "translation": "(D) Một trong những người đang lau một bảng.",
+          "startMs": 18275
         }
       ],
       "correctAnswer": null,
@@ -463,19 +467,23 @@
       "sentences": [
         {
           "text": "(A) Some bags have been placed on a shelf below a counter.",
-          "translation": "(A) Một số túi đã được đặt trên kệ phía dưới quầy."
+          "translation": "(A) Một số túi đã được đặt trên kệ phía dưới quầy.",
+          "startMs": 4280
         },
         {
           "text": "(B) Some folded shirts are being stacked on a table.",
-          "translation": "(B) Một số áo sơ mi đã gấp đang được xếp chồng lên bàn."
+          "translation": "(B) Một số áo sơ mi đã gấp đang được xếp chồng lên bàn.",
+          "startMs": 9392
         },
         {
           "text": "(C) A framed sign is propped against a mirror.",
-          "translation": "(C) Một biển hiệu có khung đang được tựa vào gương."
+          "translation": "(C) Một biển hiệu có khung đang được tựa vào gương.",
+          "startMs": 14264
         },
         {
           "text": "(D) A cashier is handing a bag to a customer.",
-          "translation": "(D) Một nhân viên thu ngân đang đưa túi cho khách hàng."
+          "translation": "(D) Một nhân viên thu ngân đang đưa túi cho khách hàng.",
+          "startMs": 18949
         }
       ],
       "correctAnswer": null,
@@ -957,19 +965,23 @@
       "sentences": [
         {
           "text": "(A) A worker is setting a cup on a tray.",
-          "translation": "(A) Một công nhân đang đặt một cái cốc lên khay."
+          "translation": "(A) Một công nhân đang đặt một cái cốc lên khay.",
+          "startMs": 4520
         },
         {
           "text": "(B) One of the workers is holding a cup.",
-          "translation": "(B) Một trong những công nhân đang cầm một cái cốc."
+          "translation": "(B) Một trong những công nhân đang cầm một cái cốc.",
+          "startMs": 8565
         },
         {
           "text": "(C) A customer is reaching for a tray.",
-          "translation": "(C) Một khách hàng đang với lấy một cái khay."
+          "translation": "(C) Một khách hàng đang với lấy một cái khay.",
+          "startMs": 12533
         },
         {
           "text": "(D) One of the workers is leaning against a counter.",
-          "translation": "(D) Một trong những công nhân đang dựa vào quầy."
+          "translation": "(D) Một trong những công nhân đang dựa vào quầy.",
+          "startMs": 16338
         }
       ],
       "correctAnswer": null,
@@ -1411,19 +1423,23 @@
       "sentences": [
         {
           "text": "(A) Some baskets have been stacked beneath a checkout counter.",
-          "translation": "(A) Một số giỏ đã được xếp chồng bên dưới quầy thanh toán."
+          "translation": "(A) Một số giỏ đã được xếp chồng bên dưới quầy thanh toán.",
+          "startMs": 4280
         },
         {
           "text": "(B) A worker is placing some groceries on a counter.",
-          "translation": "(B) Một nhân viên đang đặt một số hàng tạp hóa lên quầy."
+          "translation": "(B) Một nhân viên đang đặt một số hàng tạp hóa lên quầy.",
+          "startMs": 11680
         },
         {
           "text": "(C) A worker is pushing an empty cart.",
-          "translation": "(C) Một nhân viên đang đẩy một xe đẩy trống."
+          "translation": "(C) Một nhân viên đang đẩy một xe đẩy trống.",
+          "startMs": 16680
         },
         {
           "text": "(D) Some baskets have been stacked beside a checkout counter.",
-          "translation": "(D) Một số giỏ đã được xếp chồng bên cạnh quầy thanh toán."
+          "translation": "(D) Một số giỏ đã được xếp chồng bên cạnh quầy thanh toán.",
+          "startMs": 20973
         }
       ],
       "correctAnswer": null,
@@ -1870,19 +1886,23 @@
       "sentences": [
         {
           "text": "(A) A worker is stacking boxes on a cart.",
-          "translation": "(A) Một công nhân đang xếp hộp lên xe đẩy."
+          "translation": "(A) Một công nhân đang xếp hộp lên xe đẩy.",
+          "startMs": 4760
         },
         {
           "text": "(B) A man is reading a newspaper on a bench.",
-          "translation": "(B) Một người đàn ông đang đọc báo trên ghế dài."
+          "translation": "(B) Một người đàn ông đang đọc báo trên ghế dài.",
+          "startMs": 9360
         },
         {
           "text": "(C) A woman is getting on a bicycle.",
-          "translation": "(C) Một phụ nữ đang lên xe đạp."
+          "translation": "(C) Một phụ nữ đang lên xe đạp.",
+          "startMs": 13560
         },
         {
           "text": "(D) The rear doors of a van are being closed.",
-          "translation": "(D) Các cửa sau của xe van đang được đóng lại."
+          "translation": "(D) Các cửa sau của xe van đang được đóng lại.",
+          "startMs": 17200
         }
       ],
       "correctAnswer": null,
@@ -2324,19 +2344,23 @@
       "sentences": [
         {
           "text": "(A) The man is placing some fruit in a basket.",
-          "translation": "(A) Người đàn ông đang đặt một số trái cây vào giỏ."
+          "translation": "(A) Người đàn ông đang đặt một số trái cây vào giỏ.",
+          "startMs": 4280
         },
         {
           "text": "(B) A cart is being loaded with produce.",
-          "translation": "(B) Một xe đẩy đang được chất đầy nông sản."
+          "translation": "(B) Một xe đẩy đang được chất đầy nông sản.",
+          "startMs": 8815
         },
         {
           "text": "(C) The man is weighing some fruit on a scale.",
-          "translation": "(C) Người đàn ông đang cân một số trái cây trên cân."
+          "translation": "(C) Người đàn ông đang cân một số trái cây trên cân.",
+          "startMs": 13180
         },
         {
           "text": "(D) The man is checking a label.",
-          "translation": "(D) Người đàn ông đang kiểm tra một nhãn."
+          "translation": "(D) Người đàn ông đang kiểm tra một nhãn.",
+          "startMs": 17563
         }
       ],
       "correctAnswer": null,

@@ -9,19 +9,23 @@
       "sentences": [
         {
           "text": "(A) The man is using an exercise machine.",
-          "translation": "(A) Người đàn ông đang sử dụng một máy tập thể dục."
+          "translation": "(A) Người đàn ông đang sử dụng một máy tập thể dục.",
+          "startMs": 3960
         },
         {
           "text": "(B) The man is taking a weight off a rack.",
-          "translation": "(B) Người đàn ông đang lấy một quả tạ khỏi giá."
+          "translation": "(B) Người đàn ông đang lấy một quả tạ khỏi giá.",
+          "startMs": 8600
         },
         {
           "text": "(C) The man is wiping a bench with a towel.",
-          "translation": "(C) Người đàn ông đang lau một chiếc ghế dài bằng khăn."
+          "translation": "(C) Người đàn ông đang lau một chiếc ghế dài bằng khăn.",
+          "startMs": 13048
         },
         {
           "text": "(D) The man is drinking from a bottle.",
-          "translation": "(D) Người đàn ông đang uống nước từ một chai."
+          "translation": "(D) Người đàn ông đang uống nước từ một chai.",
+          "startMs": 17896
         }
       ],
       "correctAnswer": null,
@@ -453,19 +457,23 @@
       "sentences": [
         {
           "text": "(A) He's rolling up his shirt sleeves.",
-          "translation": "(A) Anh ấy đang xắn tay áo sơ mi lên."
+          "translation": "(A) Anh ấy đang xắn tay áo sơ mi lên.",
+          "startMs": 4440
         },
         {
           "text": "(B) He's sliding a tray into an oven.",
-          "translation": "(B) Anh ấy đang trượt một cái khay vào lò nướng."
+          "translation": "(B) Anh ấy đang trượt một cái khay vào lò nướng.",
+          "startMs": 8258
         },
         {
           "text": "(C) He's pouring some flour into a bowl.",
-          "translation": "(C) Anh ấy đang đổ một ít bột vào tô."
+          "translation": "(C) Anh ấy đang đổ một ít bột vào tô.",
+          "startMs": 12236
         },
         {
           "text": "(D) He's flattening some dough with a rolling pin.",
-          "translation": "(D) Anh ấy đang cán mỏng một ít bột nhào bằng cây cán bột."
+          "translation": "(D) Anh ấy đang cán mỏng một ít bột nhào bằng cây cán bột.",
+          "startMs": 16534
         }
       ],
       "correctAnswer": null,
@@ -867,19 +875,23 @@
       "sentences": [
         {
           "text": "(A) A woman is writing in a notebook.",
-          "translation": "(A) Một người phụ nữ đang viết vào sổ tay."
+          "translation": "(A) Một người phụ nữ đang viết vào sổ tay.",
+          "startMs": 4200
         },
         {
           "text": "(B) They're all seated at the table.",
-          "translation": "(B) Tất cả họ đều đang ngồi ở bàn."
+          "translation": "(B) Tất cả họ đều đang ngồi ở bàn.",
+          "startMs": 8253
         },
         {
           "text": "(C) A man is leaning back in his chair.",
-          "translation": "(C) Một người đàn ông đang ngả người ra sau ghế."
+          "translation": "(C) Một người đàn ông đang ngả người ra sau ghế.",
+          "startMs": 11765
         },
         {
           "text": "(D) A man is opening a laptop.",
-          "translation": "(D) Một người đàn ông đang mở máy tính xách tay."
+          "translation": "(D) Một người đàn ông đang mở máy tính xách tay.",
+          "startMs": 16213
         }
       ],
       "correctAnswer": null,
@@ -1271,19 +1283,23 @@
       "sentences": [
         {
           "text": "(A) A woman is filling a pitcher.",
-          "translation": "(A) Một người phụ nữ đang rót đầy một bình."
+          "translation": "(A) Một người phụ nữ đang rót đầy một bình.",
+          "startMs": 4200
         },
         {
           "text": "(B) A woman is putting a lid on a cup.",
-          "translation": "(B) Một người phụ nữ đang đậy nắp lên một chiếc cốc."
+          "translation": "(B) Một người phụ nữ đang đậy nắp lên một chiếc cốc.",
+          "startMs": 8165
         },
         {
           "text": "(C) A customer is sitting on a stool.",
-          "translation": "(C) Một khách hàng đang ngồi trên một chiếc ghế đẩu."
+          "translation": "(C) Một khách hàng đang ngồi trên một chiếc ghế đẩu.",
+          "startMs": 12689
         },
         {
           "text": "(D) Some cups are being stacked on a shelf.",
-          "translation": "(D) Một vài chiếc cốc đang được xếp chồng lên trên một chiếc kệ."
+          "translation": "(D) Một vài chiếc cốc đang được xếp chồng lên trên một chiếc kệ.",
+          "startMs": 16894
         }
       ],
       "correctAnswer": null,
@@ -1700,19 +1716,23 @@
       "sentences": [
         {
           "text": "(A) A towel is spread out on the sand.",
-          "translation": "(A) Một chiếc khăn tắm được trải ra trên cát."
+          "translation": "(A) Một chiếc khăn tắm được trải ra trên cát.",
+          "startMs": 4200
         },
         {
           "text": "(B) An umbrella is being taken down.",
-          "translation": "(B) Một chiếc dù đang được hạ xuống."
+          "translation": "(B) Một chiếc dù đang được hạ xuống.",
+          "startMs": 8360
         },
         {
           "text": "(C) The man is unfolding a chair.",
-          "translation": "(C) Người đàn ông đang mở một chiếc ghế."
+          "translation": "(C) Người đàn ông đang mở một chiếc ghế.",
+          "startMs": 12347
         },
         {
           "text": "(D) The man is swimming in the sea.",
-          "translation": "(D) Người đàn ông đang bơi dưới biển."
+          "translation": "(D) Người đàn ông đang bơi dưới biển.",
+          "startMs": 16187
         }
       ],
       "correctAnswer": null,
@@ -2104,19 +2124,23 @@
       "sentences": [
         {
           "text": "(A) They're climbing some stairs.",
-          "translation": "(A) Họ đang leo cầu thang."
+          "translation": "(A) Họ đang leo cầu thang.",
+          "startMs": 4360
         },
         {
           "text": "(B) They're both carrying laptops.",
-          "translation": "(B) Cả hai đang mang theo máy tính xách tay."
+          "translation": "(B) Cả hai đang mang theo máy tính xách tay.",
+          "startMs": 7888
         },
         {
           "text": "(C) They're holding cups.",
-          "translation": "(C) Họ đang cầm cốc."
+          "translation": "(C) Họ đang cầm cốc.",
+          "startMs": 11720
         },
         {
           "text": "(D) They're walking past some desks.",
-          "translation": "(D) Họ đang đi ngang qua một số bàn làm việc."
+          "translation": "(D) Họ đang đi ngang qua một số bàn làm việc.",
+          "startMs": 14888
         }
       ],
       "correctAnswer": null,

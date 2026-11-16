@@ -9,19 +9,23 @@
       "sentences": [
         {
           "text": "(A) A menu board is mounted on a wall.",
-          "translation": "(A) Một bảng thực đơn được gắn trên tường."
+          "translation": "(A) Một bảng thực đơn được gắn trên tường.",
+          "startMs": 4280
         },
         {
           "text": "(B) A server is clearing a table.",
-          "translation": "(B) Một nhân viên phục vụ đang dọn bàn."
+          "translation": "(B) Một nhân viên phục vụ đang dọn bàn.",
+          "startMs": 8360
         },
         {
           "text": "(C) Some chairs have been stacked by a wall.",
-          "translation": "(C) Một số ghế đã được xếp chồng bên tường."
+          "translation": "(C) Một số ghế đã được xếp chồng bên tường.",
+          "startMs": 12000
         },
         {
           "text": "(D) An umbrella is leaning against a wall.",
-          "translation": "(D) Một cây dù đang dựa vào tường."
+          "translation": "(D) Một cây dù đang dựa vào tường.",
+          "startMs": 16168
         }
       ],
       "correctAnswer": null,
@@ -433,19 +437,23 @@
       "sentences": [
         {
           "text": "(A) Some people are entering a building.",
-          "translation": "(A) Một số người đang bước vào một tòa nhà."
+          "translation": "(A) Một số người đang bước vào một tòa nhà.",
+          "startMs": 4280
         },
         {
           "text": "(B) Some people are sitting on a bench.",
-          "translation": "(B) Một số người đang ngồi trên ghế dài."
+          "translation": "(B) Một số người đang ngồi trên ghế dài.",
+          "startMs": 8754
         },
         {
           "text": "(C) A man is wheeling a cart.",
-          "translation": "(C) Một người đàn ông đang đẩy một xe đẩy."
+          "translation": "(C) Một người đàn ông đang đẩy một xe đẩy.",
+          "startMs": 13138
         },
         {
           "text": "(D) A man is loading a van.",
-          "translation": "(D) Một người đàn ông đang chất hàng lên một chiếc xe van."
+          "translation": "(D) Một người đàn ông đang chất hàng lên một chiếc xe van.",
+          "startMs": 17423
         }
       ],
       "correctAnswer": null,
@@ -817,19 +825,23 @@
       "sentences": [
         {
           "text": "(A) Some food is being loaded into a refrigerator.",
-          "translation": "(A) Một số thực phẩm đang được xếp vào tủ lạnh."
+          "translation": "(A) Một số thực phẩm đang được xếp vào tủ lạnh.",
+          "startMs": 4440
         },
         {
           "text": "(B) Some pans are hanging on a rack.",
-          "translation": "(B) Một số cái chảo đang treo trên giá."
+          "translation": "(B) Một số cái chảo đang treo trên giá.",
+          "startMs": 9616
         },
         {
           "text": "(C) Some customers are ordering their meals.",
-          "translation": "(C) Một số khách hàng đang gọi món."
+          "translation": "(C) Một số khách hàng đang gọi món.",
+          "startMs": 13752
         },
         {
           "text": "(D) Some workers are washing dishes.",
-          "translation": "(D) Một số nhân viên đang rửa bát đĩa."
+          "translation": "(D) Một số nhân viên đang rửa bát đĩa.",
+          "startMs": 18144
         }
       ],
       "correctAnswer": null,
@@ -1211,19 +1223,23 @@
       "sentences": [
         {
           "text": "(A) A server is clearing some plates.",
-          "translation": "(A) Một nhân viên phục vụ đang dọn một số đĩa."
+          "translation": "(A) Một nhân viên phục vụ đang dọn một số đĩa.",
+          "startMs": 4280
         },
         {
           "text": "(B) A woman is looking at a menu.",
-          "translation": "(B) Một người phụ nữ đang nhìn vào thực đơn."
+          "translation": "(B) Một người phụ nữ đang nhìn vào thực đơn.",
+          "startMs": 8640
         },
         {
           "text": "(C) Some glasses are being filled.",
-          "translation": "(C) Một số ly đang được đổ đầy."
+          "translation": "(C) Một số ly đang được đổ đầy.",
+          "startMs": 12605
         },
         {
           "text": "(D) A table is being set.",
-          "translation": "(D) Một bàn đang được bày biện."
+          "translation": "(D) Một bàn đang được bày biện.",
+          "startMs": 16741
         }
       ],
       "correctAnswer": null,
@@ -1575,19 +1591,23 @@
       "sentences": [
         {
           "text": "(A) A woman is holding a railing.",
-          "translation": "(A) Một người phụ nữ đang nắm một lan can."
+          "translation": "(A) Một người phụ nữ đang nắm một lan can.",
+          "startMs": 4760
         },
         {
           "text": "(B) A man is climbing some steps.",
-          "translation": "(B) Một người đàn ông đang leo một số bậc thang."
+          "translation": "(B) Một người đàn ông đang leo một số bậc thang.",
+          "startMs": 9440
         },
         {
           "text": "(C) A man is opening a door.",
-          "translation": "(C) Một người đàn ông đang mở một cánh cửa."
+          "translation": "(C) Một người đàn ông đang mở một cánh cửa.",
+          "startMs": 13040
         },
         {
           "text": "(D) Some people are seated on some steps.",
-          "translation": "(D) Một số người đang ngồi trên một số bậc thang."
+          "translation": "(D) Một số người đang ngồi trên một số bậc thang.",
+          "startMs": 17440
         }
       ],
       "correctAnswer": null,
@@ -1959,19 +1979,23 @@
       "sentences": [
         {
           "text": "(A) They're stacking chairs by a wall.",
-          "translation": "(A) Họ đang xếp ghế bên một bức tường."
+          "translation": "(A) Họ đang xếp ghế bên một bức tường.",
+          "startMs": 4280
         },
         {
           "text": "(B) They're moving equipment out of a room.",
-          "translation": "(B) Họ đang chuyển thiết bị ra khỏi một căn phòng."
+          "translation": "(B) Họ đang chuyển thiết bị ra khỏi một căn phòng.",
+          "startMs": 8248
         },
         {
           "text": "(C) They're pushing a cart into a room.",
-          "translation": "(C) Họ đang đẩy một xe đẩy vào một căn phòng."
+          "translation": "(C) Họ đang đẩy một xe đẩy vào một căn phòng.",
+          "startMs": 12456
         },
         {
           "text": "(D) They're opening a cabinet drawer.",
-          "translation": "(D) Họ đang mở một ngăn kéo tủ."
+          "translation": "(D) Họ đang mở một ngăn kéo tủ.",
+          "startMs": 16904
         }
       ],
       "correctAnswer": null,

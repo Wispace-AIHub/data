@@ -9,19 +9,23 @@
       "sentences": [
         {
           "text": "(A) The man is opening a drawer.",
-          "translation": "(A) Người đàn ông đang mở một ngăn kéo."
+          "translation": "(A) Người đàn ông đang mở một ngăn kéo.",
+          "startMs": 3960
         },
         {
           "text": "(B) The man is climbing a ladder.",
-          "translation": "(B) Người đàn ông đang trèo thang."
+          "translation": "(B) Người đàn ông đang trèo thang.",
+          "startMs": 7608
         },
         {
           "text": "(C) The woman is reaching for a shelf.",
-          "translation": "(C) Người phụ nữ đang với lấy một kệ."
+          "translation": "(C) Người phụ nữ đang với lấy một kệ.",
+          "startMs": 11176
         },
         {
           "text": "(D) The woman is sweeping a floor.",
-          "translation": "(D) Người phụ nữ đang quét sàn."
+          "translation": "(D) Người phụ nữ đang quét sàn.",
+          "startMs": 14984
         }
       ],
       "correctAnswer": null,
@@ -393,19 +397,23 @@
       "sentences": [
         {
           "text": "(A) Some magazines have been stacked on a table.",
-          "translation": "(A) Một số tạp chí đã được xếp chồng trên một cái bàn."
+          "translation": "(A) Một số tạp chí đã được xếp chồng trên một cái bàn.",
+          "startMs": 4440
         },
         {
           "text": "(B) A vase has been set on a shelf.",
-          "translation": "(B) Một bình hoa đã được đặt trên một kệ."
+          "translation": "(B) Một bình hoa đã được đặt trên một kệ.",
+          "startMs": 9216
         },
         {
           "text": "(C) Some curtains are being drawn.",
-          "translation": "(C) Một số rèm cửa đang được kéo."
+          "translation": "(C) Một số rèm cửa đang được kéo.",
+          "startMs": 13261
         },
         {
           "text": "(D) A lamp is hanging from a ceiling.",
-          "translation": "(D) Một cái đèn đang treo từ trần nhà."
+          "translation": "(D) Một cái đèn đang treo từ trần nhà.",
+          "startMs": 17173
         }
       ],
       "correctAnswer": null,
@@ -807,19 +815,23 @@
       "sentences": [
         {
           "text": "(A) He's climbing a hill.",
-          "translation": "(A) Anh ấy đang leo lên một ngọn đồi."
+          "translation": "(A) Anh ấy đang leo lên một ngọn đồi.",
+          "startMs": 4200
         },
         {
           "text": "(B) He's carrying a sack.",
-          "translation": "(B) Anh ấy đang mang một bao tải."
+          "translation": "(B) Anh ấy đang mang một bao tải.",
+          "startMs": 7629
         },
         {
           "text": "(C) He's pushing a wheelbarrow.",
-          "translation": "(C) Anh ấy đang đẩy một xe cút kít."
+          "translation": "(C) Anh ấy đang đẩy một xe cút kít.",
+          "startMs": 11216
         },
         {
           "text": "(D) He's leaning on a fence.",
-          "translation": "(D) Anh ấy đang dựa vào một hàng rào."
+          "translation": "(D) Anh ấy đang dựa vào một hàng rào.",
+          "startMs": 15117
         }
       ],
       "correctAnswer": null,
@@ -1126,19 +1138,23 @@
       "sentences": [
         {
           "text": "(A) An audience is watching a presenter.",
-          "translation": "(A) Khán giả đang xem một người thuyết trình."
+          "translation": "(A) Khán giả đang xem một người thuyết trình.",
+          "startMs": 4200
         },
         {
           "text": "(B) Some people are rearranging a room.",
-          "translation": "(B) Một số người đang sắp xếp lại một căn phòng."
+          "translation": "(B) Một số người đang sắp xếp lại một căn phòng.",
+          "startMs": 8507
         },
         {
           "text": "(C) A projector is being adjusted on a table.",
-          "translation": "(C) Một máy chiếu đang được điều chỉnh trên bàn."
+          "translation": "(C) Một máy chiếu đang được điều chỉnh trên bàn.",
+          "startMs": 12883
         },
         {
           "text": "(D) Some documents are being handed to a group.",
-          "translation": "(D) Một số tài liệu đang được đưa cho một nhóm."
+          "translation": "(D) Một số tài liệu đang được đưa cho một nhóm.",
+          "startMs": 18994
         }
       ],
       "correctAnswer": null,
@@ -1540,19 +1556,23 @@
       "sentences": [
         {
           "text": "(A) They're opening a window.",
-          "translation": "(A) Họ đang mở một cửa sổ."
+          "translation": "(A) Họ đang mở một cửa sổ.",
+          "startMs": 4200
         },
         {
           "text": "(B) They're rearranging some furniture.",
-          "translation": "(B) Họ đang sắp xếp lại một số đồ nội thất."
+          "translation": "(B) Họ đang sắp xếp lại một số đồ nội thất.",
+          "startMs": 7528
         },
         {
           "text": "(C) They're hanging a picture on a wall.",
-          "translation": "(C) Họ đang treo một bức tranh lên tường."
+          "translation": "(C) Họ đang treo một bức tranh lên tường.",
+          "startMs": 11232
         },
         {
           "text": "(D) They're setting the table.",
-          "translation": "(D) Họ đang bày bàn."
+          "translation": "(D) Họ đang bày bàn.",
+          "startMs": 14960
         }
       ],
       "correctAnswer": null,
@@ -1879,19 +1899,23 @@
       "sentences": [
         {
           "text": "(A) Some people are standing around a table.",
-          "translation": "(A) Một số người đang đứng quanh một cái bàn."
+          "translation": "(A) Một số người đang đứng quanh một cái bàn.",
+          "startMs": 4440
         },
         {
           "text": "(B) Some people are opening a window.",
-          "translation": "(B) Một số người đang mở một cánh cửa sổ."
+          "translation": "(B) Một số người đang mở một cánh cửa sổ.",
+          "startMs": 8896
         },
         {
           "text": "(C) A man is writing on a board.",
-          "translation": "(C) Một người đàn ông đang viết trên bảng."
+          "translation": "(C) Một người đàn ông đang viết trên bảng.",
+          "startMs": 13048
         },
         {
           "text": "(D) A woman is pouring a drink.",
-          "translation": "(D) Một người phụ nữ đang rót đồ uống."
+          "translation": "(D) Một người phụ nữ đang rót đồ uống.",
+          "startMs": 17013
         }
       ],
       "correctAnswer": null,

@@ -9,19 +9,23 @@
       "sentences": [
         {
           "text": "(A) Some people are sitting around a fountain.",
-          "translation": "(A) Một số người đang ngồi quanh một đài phun nước."
+          "translation": "(A) Một số người đang ngồi quanh một đài phun nước.",
+          "startMs": 4280
         },
         {
           "text": "(B) A public square is unoccupied.",
-          "translation": "(B) Một quảng trường công cộng đang vắng vẻ."
+          "translation": "(B) Một quảng trường công cộng đang vắng vẻ.",
+          "startMs": 8208
         },
         {
           "text": "(C) A fountain has been drained.",
-          "translation": "(C) Một đài phun nước đã bị tháo cạn."
+          "translation": "(C) Một đài phun nước đã bị tháo cạn.",
+          "startMs": 11689
         },
         {
           "text": "(D) People are waiting in line for tickets.",
-          "translation": "(D) Mọi người đang xếp hàng chờ mua vé."
+          "translation": "(D) Mọi người đang xếp hàng chờ mua vé.",
+          "startMs": 15254
         }
       ],
       "correctAnswer": null,
@@ -383,19 +387,23 @@
       "sentences": [
         {
           "text": "(A) She's cleaning a mirror.",
-          "translation": "(A) Cô ấy đang lau một chiếc gương."
+          "translation": "(A) Cô ấy đang lau một chiếc gương.",
+          "startMs": 4280
         },
         {
           "text": "(B) She's hanging a shirt.",
-          "translation": "(B) Cô ấy đang treo một chiếc áo sơ mi."
+          "translation": "(B) Cô ấy đang treo một chiếc áo sơ mi.",
+          "startMs": 7800
         },
         {
           "text": "(C) She's folding a sweater.",
-          "translation": "(C) Cô ấy đang gấp một chiếc áo len."
+          "translation": "(C) Cô ấy đang gấp một chiếc áo len.",
+          "startMs": 11321
         },
         {
           "text": "(D) She's carrying a basket.",
-          "translation": "(D) Cô ấy đang mang một cái giỏ."
+          "translation": "(D) Cô ấy đang mang một cái giỏ.",
+          "startMs": 14841
         }
       ],
       "correctAnswer": null,
@@ -697,19 +705,23 @@
       "sentences": [
         {
           "text": "(A) Some cars are parked in a garage.",
-          "translation": "(A) Một số xe hơi đang được đỗ trong một nhà để xe."
+          "translation": "(A) Một số xe hơi đang được đỗ trong một nhà để xe.",
+          "startMs": 4440
         },
         {
           "text": "(B) Some people are lined up at a bus stop.",
-          "translation": "(B) Một số người đang xếp hàng tại trạm xe buýt."
+          "translation": "(B) Một số người đang xếp hàng tại trạm xe buýt.",
+          "startMs": 8264
         },
         {
           "text": "(C) Some bags are being loaded onto a bus.",
-          "translation": "(C) Một số túi đang được chất lên xe buýt."
+          "translation": "(C) Một số túi đang được chất lên xe buýt.",
+          "startMs": 12328
         },
         {
           "text": "(D) Some people are crossing a street.",
-          "translation": "(D) Một số người đang băng qua đường."
+          "translation": "(D) Một số người đang băng qua đường.",
+          "startMs": 16552
         }
       ],
       "correctAnswer": null,
@@ -1126,19 +1138,23 @@
       "sentences": [
         {
           "text": "(A) They're erasing a whiteboard.",
-          "translation": "(A) Họ đang xóa bảng trắng."
+          "translation": "(A) Họ đang xóa bảng trắng.",
+          "startMs": 4280
         },
         {
           "text": "(B) They're opening a cabinet.",
-          "translation": "(B) Họ đang mở một tủ."
+          "translation": "(B) Họ đang mở một tủ.",
+          "startMs": 7824
         },
         {
           "text": "(C) They're studying a chart.",
-          "translation": "(C) Họ đang nghiên cứu một biểu đồ."
+          "translation": "(C) Họ đang nghiên cứu một biểu đồ.",
+          "startMs": 11107
         },
         {
           "text": "(D) They're pinning a photo to a wall.",
-          "translation": "(D) Họ đang ghim một bức ảnh lên tường."
+          "translation": "(D) Họ đang ghim một bức ảnh lên tường.",
+          "startMs": 14411
         }
       ],
       "correctAnswer": null,
@@ -1465,19 +1481,23 @@
       "sentences": [
         {
           "text": "(A) The building entrance is blocked off.",
-          "translation": "(A) Lối vào tòa nhà bị chặn."
+          "translation": "(A) Lối vào tòa nhà bị chặn.",
+          "startMs": 4760
         },
         {
           "text": "(B) A door is being held open.",
-          "translation": "(B) Một cánh cửa đang được giữ mở."
+          "translation": "(B) Một cánh cửa đang được giữ mở.",
+          "startMs": 9000
         },
         {
           "text": "(C) He's climbing the front steps.",
-          "translation": "(C) Anh ấy đang leo lên các bậc thang phía trước."
+          "translation": "(C) Anh ấy đang leo lên các bậc thang phía trước.",
+          "startMs": 12885
         },
         {
           "text": "(D) He's carrying a shopping bag.",
-          "translation": "(D) Anh ấy đang mang một túi mua sắm."
+          "translation": "(D) Anh ấy đang mang một túi mua sắm.",
+          "startMs": 16692
         }
       ],
       "correctAnswer": null,
@@ -1819,19 +1839,23 @@
       "sentences": [
         {
           "text": "(A) A clerk is holding a document.",
-          "translation": "(A) Một nhân viên văn phòng đang cầm một tài liệu."
+          "translation": "(A) Một nhân viên văn phòng đang cầm một tài liệu.",
+          "startMs": 4280
         },
         {
           "text": "(B) A clerk is stacking some folders.",
-          "translation": "(B) Một nhân viên văn phòng đang xếp một số bìa hồ sơ."
+          "translation": "(B) Một nhân viên văn phòng đang xếp một số bìa hồ sơ.",
+          "startMs": 8440
         },
         {
           "text": "(C) A visitor is placing a bag on a chair.",
-          "translation": "(C) Một vị khách đang đặt một cái túi lên ghế."
+          "translation": "(C) Một vị khách đang đặt một cái túi lên ghế.",
+          "startMs": 12680
         },
         {
           "text": "(D) A visitor is handing a card to a clerk.",
-          "translation": "(D) Một vị khách đang đưa một tấm thẻ cho nhân viên văn phòng."
+          "translation": "(D) Một vị khách đang đưa một tấm thẻ cho nhân viên văn phòng.",
+          "startMs": 17560
         }
       ],
       "correctAnswer": null,

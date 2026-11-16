@@ -9,19 +9,23 @@
       "sentences": [
         {
           "text": "(A) He's driving a van down a street.",
-          "translation": "(A) Anh ấy đang lái một chiếc xe tải nhỏ trên đường."
+          "translation": "(A) Anh ấy đang lái một chiếc xe tải nhỏ trên đường.",
+          "startMs": 3960
         },
         {
           "text": "(B) He's closing the back of a van.",
-          "translation": "(B) Anh ấy đang đóng phía sau một chiếc xe tải nhỏ."
+          "translation": "(B) Anh ấy đang đóng phía sau một chiếc xe tải nhỏ.",
+          "startMs": 8027
         },
         {
           "text": "(C) A van is covered with a sheet.",
-          "translation": "(C) Một chiếc xe tải nhỏ được phủ bằng tấm bạt."
+          "translation": "(C) Một chiếc xe tải nhỏ được phủ bằng tấm bạt.",
+          "startMs": 11845
         },
         {
           "text": "(D) A ladder is leaning against a van.",
-          "translation": "(D) Một cái thang đang tựa vào một chiếc xe tải nhỏ."
+          "translation": "(D) Một cái thang đang tựa vào một chiếc xe tải nhỏ.",
+          "startMs": 15672
         }
       ],
       "correctAnswer": null,
@@ -423,19 +427,23 @@
       "sentences": [
         {
           "text": "(A) A man is pushing a wheelbarrow.",
-          "translation": "(A) Một người đàn ông đang đẩy một chiếc xe cút kít."
+          "translation": "(A) Một người đàn ông đang đẩy một chiếc xe cút kít.",
+          "startMs": 4440
         },
         {
           "text": "(B) A man is putting down a brush.",
-          "translation": "(B) Một người đàn ông đang đặt cây cọ xuống."
+          "translation": "(B) Một người đàn ông đang đặt cây cọ xuống.",
+          "startMs": 8147
         },
         {
           "text": "(C) A man is painting a fence.",
-          "translation": "(C) Một người đàn ông đang sơn hàng rào."
+          "translation": "(C) Một người đàn ông đang sơn hàng rào.",
+          "startMs": 12014
         },
         {
           "text": "(D) A man is stacking some boards.",
-          "translation": "(D) Một người đàn ông đang xếp chồng mấy tấm ván."
+          "translation": "(D) Một người đàn ông đang xếp chồng mấy tấm ván.",
+          "startMs": 15561
         }
       ],
       "correctAnswer": null,
@@ -807,19 +815,23 @@
       "sentences": [
         {
           "text": "(A) He's washing a car with a hose.",
-          "translation": "(A) Anh ấy đang rửa xe bằng vòi nước."
+          "translation": "(A) Anh ấy đang rửa xe bằng vòi nước.",
+          "startMs": 4200
         },
         {
           "text": "(B) He's sweeping a driveway with a broom.",
-          "translation": "(B) Anh ấy đang quét lối đi bằng chổi."
+          "translation": "(B) Anh ấy đang quét lối đi bằng chổi.",
+          "startMs": 8214
         },
         {
           "text": "(C) He's filling a bucket with water.",
-          "translation": "(C) Anh ấy đang đổ nước đầy xô."
+          "translation": "(C) Anh ấy đang đổ nước đầy xô.",
+          "startMs": 12356
         },
         {
           "text": "(D) He's getting into a car.",
-          "translation": "(D) Anh ấy đang bước vào xe ô tô."
+          "translation": "(D) Anh ấy đang bước vào xe ô tô.",
+          "startMs": 16130
         }
       ],
       "correctAnswer": null,
@@ -1191,19 +1203,23 @@
       "sentences": [
         {
           "text": "(A) A cloth is being folded.",
-          "translation": "(A) Một mảnh vải đang được gấp lại."
+          "translation": "(A) Một mảnh vải đang được gấp lại.",
+          "startMs": 4200
         },
         {
           "text": "(B) There's a basket next to some flowers.",
-          "translation": "(B) Có một chiếc giỏ bên cạnh vài bông hoa."
+          "translation": "(B) Có một chiếc giỏ bên cạnh vài bông hoa.",
+          "startMs": 7880
         },
         {
           "text": "(C) Glasses have been arranged on a tray.",
-          "translation": "(C) Những chiếc ly đã được sắp xếp trên một cái khay."
+          "translation": "(C) Những chiếc ly đã được sắp xếp trên một cái khay.",
+          "startMs": 11907
         },
         {
           "text": "(D) Plates have been placed on chairs.",
-          "translation": "(D) Những chiếc đĩa đã được đặt trên ghế."
+          "translation": "(D) Những chiếc đĩa đã được đặt trên ghế.",
+          "startMs": 15956
         }
       ],
       "correctAnswer": null,
@@ -1575,19 +1591,23 @@
       "sentences": [
         {
           "text": "(A) She is taking off her gloves.",
-          "translation": "(A) Cô ấy đang tháo găng tay ra."
+          "translation": "(A) Cô ấy đang tháo găng tay ra.",
+          "startMs": 4200
         },
         {
           "text": "(B) She is pouring liquid into a jar.",
-          "translation": "(B) Cô ấy đang rót chất lỏng vào lọ."
+          "translation": "(B) Cô ấy đang rót chất lỏng vào lọ.",
+          "startMs": 7935
         },
         {
           "text": "(C) She is writing in a notebook.",
-          "translation": "(C) Cô ấy đang viết vào sổ tay."
+          "translation": "(C) Cô ấy đang viết vào sổ tay.",
+          "startMs": 11830
         },
         {
           "text": "(D) She is putting a bottle on a shelf.",
-          "translation": "(D) Cô ấy đang đặt một chai lên kệ."
+          "translation": "(D) Cô ấy đang đặt một chai lên kệ.",
+          "startMs": 15325
         }
       ],
       "correctAnswer": null,
@@ -1979,19 +1999,23 @@
       "sentences": [
         {
           "text": "(A) A man is watering a plant.",
-          "translation": "(A) Một người đàn ông đang tưới cây."
+          "translation": "(A) Một người đàn ông đang tưới cây.",
+          "startMs": 4440
         },
         {
           "text": "(B) A laptop is being turned off.",
-          "translation": "(B) Một chiếc máy tính xách tay đang được tắt."
+          "translation": "(B) Một chiếc máy tính xách tay đang được tắt.",
+          "startMs": 8491
         },
         {
           "text": "(C) A picture is being hung on a wall.",
-          "translation": "(C) Một bức tranh đang được treo lên tường."
+          "translation": "(C) Một bức tranh đang được treo lên tường.",
+          "startMs": 12699
         },
         {
           "text": "(D) A man is talking on a phone.",
-          "translation": "(D) Một người đàn ông đang nói chuyện điện thoại."
+          "translation": "(D) Một người đàn ông đang nói chuyện điện thoại.",
+          "startMs": 17075
         }
       ],
       "correctAnswer": null,

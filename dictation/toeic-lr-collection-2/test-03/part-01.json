@@ -9,19 +9,23 @@
       "sentences": [
         {
           "text": "(A) One of the men is folding a newspaper.",
-          "translation": "(A) Một trong những người đàn ông đang gấp tờ báo."
+          "translation": "(A) Một trong những người đàn ông đang gấp tờ báo.",
+          "startMs": 3960
         },
         {
           "text": "(B) One of the men is carrying a tray.",
-          "translation": "(B) Một trong những người đàn ông đang mang khay."
+          "translation": "(B) Một trong những người đàn ông đang mang khay.",
+          "startMs": 7935
         },
         {
           "text": "(C) They're seated in a lounge.",
-          "translation": "(C) Họ đang ngồi trong phòng chờ."
+          "translation": "(C) Họ đang ngồi trong phòng chờ.",
+          "startMs": 11670
         },
         {
           "text": "(D) They're standing at a counter.",
-          "translation": "(D) Họ đang đứng tại quầy."
+          "translation": "(D) Họ đang đứng tại quầy.",
+          "startMs": 14918
         }
       ],
       "correctAnswer": null,
@@ -403,19 +407,23 @@
       "sentences": [
         {
           "text": "(A) A break room is unoccupied.",
-          "translation": "(A) Một phòng nghỉ đang trống."
+          "translation": "(A) Một phòng nghỉ đang trống.",
+          "startMs": 4440
         },
         {
           "text": "(B) A cabinet has been left open.",
-          "translation": "(B) Một tủ đã được để mở."
+          "translation": "(B) Một tủ đã được để mở.",
+          "startMs": 8500
         },
         {
           "text": "(C) A coffee machine has been mounted on the wall.",
-          "translation": "(C) Một máy pha cà phê đã được lắp trên tường."
+          "translation": "(C) Một máy pha cà phê đã được lắp trên tường.",
+          "startMs": 12400
         },
         {
           "text": "(D) A table has been set with cups.",
-          "translation": "(D) Một bàn đã được bày với những chiếc cốc."
+          "translation": "(D) Một bàn đã được bày với những chiếc cốc.",
+          "startMs": 16800
         }
       ],
       "correctAnswer": null,
@@ -802,19 +810,23 @@
       "sentences": [
         {
           "text": "(A) He's taking off some gloves.",
-          "translation": "(A) Anh ấy đang tháo găng tay."
+          "translation": "(A) Anh ấy đang tháo găng tay.",
+          "startMs": 4200
         },
         {
           "text": "(B) He's looking into a microscope.",
-          "translation": "(B) Anh ấy đang nhìn vào kính hiển vi."
+          "translation": "(B) Anh ấy đang nhìn vào kính hiển vi.",
+          "startMs": 7973
         },
         {
           "text": "(C) He's writing on a clipboard.",
-          "translation": "(C) Anh ấy đang viết trên bảng kẹp."
+          "translation": "(C) Anh ấy đang viết trên bảng kẹp.",
+          "startMs": 12226
         },
         {
           "text": "(D) He's opening a cabinet.",
-          "translation": "(D) Anh ấy đang mở một cái tủ."
+          "translation": "(D) Anh ấy đang mở một cái tủ.",
+          "startMs": 15999
         }
       ],
       "correctAnswer": null,
@@ -1131,19 +1143,23 @@
       "sentences": [
         {
           "text": "(A) She's wiping off a counter.",
-          "translation": "(A) Cô ấy đang lau một quầy."
+          "translation": "(A) Cô ấy đang lau một quầy.",
+          "startMs": 4200
         },
         {
           "text": "(B) She's washing a cup at the sink.",
-          "translation": "(B) Cô ấy đang rửa một cái cốc ở bồn rửa."
+          "translation": "(B) Cô ấy đang rửa một cái cốc ở bồn rửa.",
+          "startMs": 7960
         },
         {
           "text": "(C) She's drying her hands on a towel.",
-          "translation": "(C) Cô ấy đang lau khô tay bằng khăn."
+          "translation": "(C) Cô ấy đang lau khô tay bằng khăn.",
+          "startMs": 11960
         },
         {
           "text": "(D) She's plugging in a kettle.",
-          "translation": "(D) Cô ấy đang cắm điện một ấm đun nước."
+          "translation": "(D) Cô ấy đang cắm điện một ấm đun nước.",
+          "startMs": 16200
         }
       ],
       "correctAnswer": null,
@@ -1505,19 +1521,23 @@
       "sentences": [
         {
           "text": "(A) A garage has been closed for repairs.",
-          "translation": "(A) Một nhà để xe đã bị đóng cửa để sửa chữa."
+          "translation": "(A) Một nhà để xe đã bị đóng cửa để sửa chữa.",
+          "startMs": 4200
         },
         {
           "text": "(B) Some people are standing near a pillar.",
-          "translation": "(B) Một số người đang đứng gần một cột trụ."
+          "translation": "(B) Một số người đang đứng gần một cột trụ.",
+          "startMs": 8840
         },
         {
           "text": "(C) Cars are lined up at an exit gate.",
-          "translation": "(C) Xe hơi đang xếp hàng tại cổng ra."
+          "translation": "(C) Xe hơi đang xếp hàng tại cổng ra.",
+          "startMs": 13296
         },
         {
           "text": "(D) Some pipes run along the ceiling.",
-          "translation": "(D) Một số đường ống chạy dọc theo trần nhà."
+          "translation": "(D) Một số đường ống chạy dọc theo trần nhà.",
+          "startMs": 17368
         }
       ],
       "correctAnswer": null,
@@ -1919,19 +1939,23 @@
       "sentences": [
         {
           "text": "(A) He's raking some leaves.",
-          "translation": "(A) Anh ấy đang cào một số lá."
+          "translation": "(A) Anh ấy đang cào một số lá.",
+          "startMs": 4440
         },
         {
           "text": "(B) He's carrying a bucket.",
-          "translation": "(B) Anh ấy đang mang một cái xô."
+          "translation": "(B) Anh ấy đang mang một cái xô.",
+          "startMs": 7847
         },
         {
           "text": "(C) He's watering a plant.",
-          "translation": "(C) Anh ấy đang tưới một cái cây."
+          "translation": "(C) Anh ấy đang tưới một cái cây.",
+          "startMs": 11174
         },
         {
           "text": "(D) He's trimming a hedge.",
-          "translation": "(D) Anh ấy đang tỉa một hàng rào."
+          "translation": "(D) Anh ấy đang tỉa một hàng rào.",
+          "startMs": 14501
         }
       ],
       "correctAnswer": null,

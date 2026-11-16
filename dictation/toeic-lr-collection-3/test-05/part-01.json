@@ -9,19 +9,23 @@
       "sentences": [
         {
           "text": "(A) A bench has been placed beside a fountain.",
-          "translation": "(A) Một chiếc ghế dài đã được đặt bên cạnh một đài phun nước."
+          "translation": "(A) Một chiếc ghế dài đã được đặt bên cạnh một đài phun nước.",
+          "startMs": 4280
         },
         {
           "text": "(B) Some bushes have been planted along a walkway.",
-          "translation": "(B) Một số bụi cây đã được trồng dọc theo một lối đi."
+          "translation": "(B) Một số bụi cây đã được trồng dọc theo một lối đi.",
+          "startMs": 10502
         },
         {
           "text": "(C) Water is flowing from a fountain.",
-          "translation": "(C) Nước đang chảy từ một đài phun nước."
+          "translation": "(C) Nước đang chảy từ một đài phun nước.",
+          "startMs": 17092
         },
         {
           "text": "(D) A gate has been left open.",
-          "translation": "(D) Một cánh cổng đã được để mở."
+          "translation": "(D) Một cánh cổng đã được để mở.",
+          "startMs": 22585
         }
       ],
       "correctAnswer": null,
@@ -423,19 +427,23 @@
       "sentences": [
         {
           "text": "(A) He's lifting a bag.",
-          "translation": "(A) Anh ấy đang nhấc một cái túi."
+          "translation": "(A) Anh ấy đang nhấc một cái túi.",
+          "startMs": 4280
         },
         {
           "text": "(B) He's digging with a shovel.",
-          "translation": "(B) Anh ấy đang đào bằng xẻng."
+          "translation": "(B) Anh ấy đang đào bằng xẻng.",
+          "startMs": 7556
         },
         {
           "text": "(C) He's trimming a bush.",
-          "translation": "(C) Anh ấy đang tỉa một bụi cây."
+          "translation": "(C) Anh ấy đang tỉa một bụi cây.",
+          "startMs": 11063
         },
         {
           "text": "(D) He's raking leaves near a fence.",
-          "translation": "(D) Anh ấy đang cào lá gần hàng rào."
+          "translation": "(D) Anh ấy đang cào lá gần hàng rào.",
+          "startMs": 14356
         }
       ],
       "correctAnswer": null,
@@ -757,19 +765,23 @@
       "sentences": [
         {
           "text": "(A) A cart is being loaded with bags.",
-          "translation": "(A) Một xe đẩy đang được chất túi."
+          "translation": "(A) Một xe đẩy đang được chất túi.",
+          "startMs": 4520
         },
         {
           "text": "(B) A cart is being pushed along a sidewalk.",
-          "translation": "(B) Một xe đẩy đang được đẩy dọc theo vỉa hè."
+          "translation": "(B) Một xe đẩy đang được đẩy dọc theo vỉa hè.",
+          "startMs": 8885
         },
         {
           "text": "(C) A man is climbing a ladder.",
-          "translation": "(C) Một người đàn ông đang leo thang."
+          "translation": "(C) Một người đàn ông đang leo thang.",
+          "startMs": 13730
         },
         {
           "text": "(D) Some bags are being stacked on the ground.",
-          "translation": "(D) Một số túi đang được xếp chồng trên mặt đất."
+          "translation": "(D) Một số túi đang được xếp chồng trên mặt đất.",
+          "startMs": 17694
         }
       ],
       "correctAnswer": null,
@@ -1181,19 +1193,23 @@
       "sentences": [
         {
           "text": "(A) A cart is being pushed down an aisle.",
-          "translation": "(A) Một xe đẩy đang được đẩy dọc theo lối đi."
+          "translation": "(A) Một xe đẩy đang được đẩy dọc theo lối đi.",
+          "startMs": 4280
         },
         {
           "text": "(B) A man is climbing a staircase.",
-          "translation": "(B) Một người đàn ông đang leo cầu thang."
+          "translation": "(B) Một người đàn ông đang leo cầu thang.",
+          "startMs": 8360
         },
         {
           "text": "(C) Some books are being taken off a shelf.",
-          "translation": "(C) Một số sách đang được lấy ra khỏi kệ."
+          "translation": "(C) Một số sách đang được lấy ra khỏi kệ.",
+          "startMs": 12280
         },
         {
           "text": "(D) A man is stacking chairs near a table.",
-          "translation": "(D) Một người đàn ông đang xếp ghế gần một cái bàn."
+          "translation": "(D) Một người đàn ông đang xếp ghế gần một cái bàn.",
+          "startMs": 16448
         }
       ],
       "correctAnswer": null,
@@ -1615,19 +1631,23 @@
       "sentences": [
         {
           "text": "(A) A man is painting a wall.",
-          "translation": "(A) Một người đàn ông đang sơn tường."
+          "translation": "(A) Một người đàn ông đang sơn tường.",
+          "startMs": 4760
         },
         {
           "text": "(B) A man is mounting a shelf on a wall.",
-          "translation": "(B) Một người đàn ông đang lắp kệ lên tường."
+          "translation": "(B) Một người đàn ông đang lắp kệ lên tường.",
+          "startMs": 8165
         },
         {
           "text": "(C) A man is hanging a picture on a wall.",
-          "translation": "(C) Một người đàn ông đang treo tranh lên tường."
+          "translation": "(C) Một người đàn ông đang treo tranh lên tường.",
+          "startMs": 12210
         },
         {
           "text": "(D) A man is measuring a window.",
-          "translation": "(D) Một người đàn ông đang đo cửa sổ."
+          "translation": "(D) Một người đàn ông đang đo cửa sổ.",
+          "startMs": 16255
         }
       ],
       "correctAnswer": null,
@@ -2039,19 +2059,23 @@
       "sentences": [
         {
           "text": "(A) They're rolling up a hose.",
-          "translation": "(A) Họ đang cuộn một ống nước."
+          "translation": "(A) Họ đang cuộn một ống nước.",
+          "startMs": 4280
         },
         {
           "text": "(B) They're sweeping a roof.",
-          "translation": "(B) Họ đang quét một mái nhà."
+          "translation": "(B) Họ đang quét một mái nhà.",
+          "startMs": 7928
         },
         {
           "text": "(C) They're carrying a board.",
-          "translation": "(C) Họ đang khiêng một tấm ván."
+          "translation": "(C) Họ đang khiêng một tấm ván.",
+          "startMs": 11496
         },
         {
           "text": "(D) They're pushing a cart.",
-          "translation": "(D) Họ đang đẩy một xe đẩy."
+          "translation": "(D) Họ đang đẩy một xe đẩy.",
+          "startMs": 14984
         }
       ],
       "correctAnswer": null,

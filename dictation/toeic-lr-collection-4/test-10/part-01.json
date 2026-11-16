@@ -9,19 +9,23 @@
       "sentences": [
         {
           "text": "(A) Some chairs are stacked against a wall.",
-          "translation": "(A) Một số chiếc ghế được xếp chồng dựa vào tường."
+          "translation": "(A) Một số chiếc ghế được xếp chồng dựa vào tường.",
+          "startMs": 3960
         },
         {
           "text": "(B) Some umbrellas are being folded up.",
-          "translation": "(B) Một số chiếc ô đang được gấp lại."
+          "translation": "(B) Một số chiếc ô đang được gấp lại.",
+          "startMs": 8192
         },
         {
           "text": "(C) Some people have lined up at a window.",
-          "translation": "(C) Một số người đã xếp hàng ở cửa sổ."
+          "translation": "(C) Một số người đã xếp hàng ở cửa sổ.",
+          "startMs": 12008
         },
         {
           "text": "(D) A worker is carrying a tray to a table.",
-          "translation": "(D) Một nhân viên đang mang khay đến bàn."
+          "translation": "(D) Một nhân viên đang mang khay đến bàn.",
+          "startMs": 15824
         }
       ],
       "correctAnswer": null,
@@ -438,19 +442,23 @@
       "sentences": [
         {
           "text": "(A) One of the women is sitting on a bench.",
-          "translation": "(A) Một trong những người phụ nữ đang ngồi trên ghế dài."
+          "translation": "(A) Một trong những người phụ nữ đang ngồi trên ghế dài.",
+          "startMs": 4440
         },
         {
           "text": "(B) One of the women is packing a suitcase.",
-          "translation": "(B) Một trong hai người phụ nữ đang xếp đồ vào vali."
+          "translation": "(B) Một trong hai người phụ nữ đang xếp đồ vào vali.",
+          "startMs": 8920
         },
         {
           "text": "(C) One of the women is leaning over a counter.",
-          "translation": "(C) Một trong những người phụ nữ đang cúi người qua quầy."
+          "translation": "(C) Một trong những người phụ nữ đang cúi người qua quầy.",
+          "startMs": 13240
         },
         {
           "text": "(D) One of the women is pressing an elevator button.",
-          "translation": "(D) Một trong những người phụ nữ đang nhấn nút thang máy."
+          "translation": "(D) Một trong những người phụ nữ đang nhấn nút thang máy.",
+          "startMs": 18040
         }
       ],
       "correctAnswer": null,
@@ -907,19 +915,23 @@
       "sentences": [
         {
           "text": "(A) A salesperson is taping a box.",
-          "translation": "(A) Một nhân viên bán hàng đang dán băng keo một chiếc hộp."
+          "translation": "(A) Một nhân viên bán hàng đang dán băng keo một chiếc hộp.",
+          "startMs": 4200
         },
         {
           "text": "(B) A customer is trying on some headphones.",
-          "translation": "(B) Một khách hàng đang thử một chiếc tai nghe."
+          "translation": "(B) Một khách hàng đang thử một chiếc tai nghe.",
+          "startMs": 8253
         },
         {
           "text": "(C) Some people are paying at a register.",
-          "translation": "(C) Một vài người đang thanh toán tại quầy thu ngân."
+          "translation": "(C) Một vài người đang thanh toán tại quầy thu ngân.",
+          "startMs": 12613
         },
         {
           "text": "(D) Some boxes are being unpacked.",
-          "translation": "(D) Một vài chiếc hộp đang được mở ra lấy đồ."
+          "translation": "(D) Một vài chiếc hộp đang được mở ra lấy đồ.",
+          "startMs": 16749
         }
       ],
       "correctAnswer": null,
@@ -1291,19 +1303,23 @@
       "sentences": [
         {
           "text": "(A) The woman is pulling out a cabinet drawer.",
-          "translation": "(A) Người phụ nữ đang kéo một ngăn tủ ra."
+          "translation": "(A) Người phụ nữ đang kéo một ngăn tủ ra.",
+          "startMs": 4200
         },
         {
           "text": "(B) The woman is looking out a window.",
-          "translation": "(B) Người phụ nữ đang nhìn ra ngoài cửa sổ."
+          "translation": "(B) Người phụ nữ đang nhìn ra ngoài cửa sổ.",
+          "startMs": 8820
         },
         {
           "text": "(C) The man is opening an envelope.",
-          "translation": "(C) Người đàn ông đang mở một phong bì."
+          "translation": "(C) Người đàn ông đang mở một phong bì.",
+          "startMs": 12876
         },
         {
           "text": "(D) The man is answering a phone.",
-          "translation": "(D) Người đàn ông đang trả lời điện thoại."
+          "translation": "(D) Người đàn ông đang trả lời điện thoại.",
+          "startMs": 17004
         }
       ],
       "correctAnswer": null,
@@ -1695,19 +1711,23 @@
       "sentences": [
         {
           "text": "(A) She's washing some cups.",
-          "translation": "(A) Cô ấy đang rửa một vài chiếc cốc."
+          "translation": "(A) Cô ấy đang rửa một vài chiếc cốc.",
+          "startMs": 4200
         },
         {
           "text": "(B) She's closing a refrigerator door.",
-          "translation": "(B) Cô ấy đang đóng cửa tủ lạnh."
+          "translation": "(B) Cô ấy đang đóng cửa tủ lạnh.",
+          "startMs": 7695
         },
         {
           "text": "(C) She's moving a stool.",
-          "translation": "(C) Cô ấy đang di chuyển một chiếc ghế đẩu."
+          "translation": "(C) Cô ấy đang di chuyển một chiếc ghế đẩu.",
+          "startMs": 11615
         },
         {
           "text": "(D) She's filling a refrigerator with drinks.",
-          "translation": "(D) Cô ấy đang chất đồ uống vào tủ lạnh."
+          "translation": "(D) Cô ấy đang chất đồ uống vào tủ lạnh.",
+          "startMs": 14870
         }
       ],
       "correctAnswer": null,
@@ -2029,19 +2049,23 @@
       "sentences": [
         {
           "text": "(A) Some people are watering a flower bed.",
-          "translation": "(A) Một vài người đang tưới nước cho luống hoa."
+          "translation": "(A) Một vài người đang tưới nước cho luống hoa.",
+          "startMs": 4440
         },
         {
           "text": "(B) A man is reaching up into a tree.",
-          "translation": "(B) Một người đàn ông đang với tay lên cây."
+          "translation": "(B) Một người đàn ông đang với tay lên cây.",
+          "startMs": 8512
         },
         {
           "text": "(C) A man is folding up a ladder.",
-          "translation": "(C) Một người đàn ông đang gấp thang lại."
+          "translation": "(C) Một người đàn ông đang gấp thang lại.",
+          "startMs": 12637
         },
         {
           "text": "(D) A woman is putting on some gloves.",
-          "translation": "(D) Một người phụ nữ đang đeo găng tay."
+          "translation": "(D) Một người phụ nữ đang đeo găng tay.",
+          "startMs": 16602
         }
       ],
       "correctAnswer": null,

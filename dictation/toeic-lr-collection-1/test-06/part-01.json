@@ -9,19 +9,23 @@
       "sentences": [
         {
           "text": "(A) Some baskets are hanging from a rack.",
-          "translation": "(A) Một số giỏ đang treo trên một giá."
+          "translation": "(A) Một số giỏ đang treo trên một giá.",
+          "startMs": 4280
         },
         {
           "text": "(B) Some boxes are piled on the floor.",
-          "translation": "(B) Một số hộp được chất đống trên sàn."
+          "translation": "(B) Một số hộp được chất đống trên sàn.",
+          "startMs": 8368
         },
         {
           "text": "(C) Some towels are stacked on shelves.",
-          "translation": "(C) Một số khăn tắm được xếp chồng trên kệ."
+          "translation": "(C) Một số khăn tắm được xếp chồng trên kệ.",
+          "startMs": 12648
         },
         {
           "text": "(D) A sign is leaning against a wall.",
-          "translation": "(D) Một biển báo đang dựa vào tường."
+          "translation": "(D) Một biển báo đang dựa vào tường.",
+          "startMs": 16816
         }
       ],
       "correctAnswer": null,
@@ -413,19 +417,23 @@
       "sentences": [
         {
           "text": "(A) They're looking out a window.",
-          "translation": "(A) Họ đang nhìn ra ngoài cửa sổ."
+          "translation": "(A) Họ đang nhìn ra ngoài cửa sổ.",
+          "startMs": 4280
         },
         {
           "text": "(B) They're holding onto a railing.",
-          "translation": "(B) Họ đang bám vào lan can."
+          "translation": "(B) Họ đang bám vào lan can.",
+          "startMs": 7808
         },
         {
           "text": "(C) They're carrying a box downstairs.",
-          "translation": "(C) Họ đang mang một hộp xuống cầu thang."
+          "translation": "(C) Họ đang mang một hộp xuống cầu thang.",
+          "startMs": 11656
         },
         {
           "text": "(D) They're sweeping the steps.",
-          "translation": "(D) Họ đang quét các bậc thang."
+          "translation": "(D) Họ đang quét các bậc thang.",
+          "startMs": 15840
         }
       ],
       "correctAnswer": null,
@@ -742,19 +750,23 @@
       "sentences": [
         {
           "text": "(A) A crate has been filled with bottles.",
-          "translation": "(A) Một thùng đã được chất đầy chai."
+          "translation": "(A) Một thùng đã được chất đầy chai.",
+          "startMs": 4440
         },
         {
           "text": "(B) Some lamps are hanging from a pole.",
-          "translation": "(B) Một số đèn đang treo từ một cột."
+          "translation": "(B) Một số đèn đang treo từ một cột.",
+          "startMs": 8840
         },
         {
           "text": "(C) A shopper is filling a bag.",
-          "translation": "(C) Một người mua sắm đang bỏ đồ vào túi."
+          "translation": "(C) Một người mua sắm đang bỏ đồ vào túi.",
+          "startMs": 12984
         },
         {
           "text": "(D) Some goods have been set out on tables.",
-          "translation": "(D) Một số hàng hóa đã được bày ra trên bàn."
+          "translation": "(D) Một số hàng hóa đã được bày ra trên bàn.",
+          "startMs": 16869
         }
       ],
       "correctAnswer": null,
@@ -1156,19 +1168,23 @@
       "sentences": [
         {
           "text": "(A) She's preparing some food",
-          "translation": "(A) Cô ấy đang chuẩn bị một số thức ăn"
+          "translation": "(A) Cô ấy đang chuẩn bị một số thức ăn",
+          "startMs": 4280
         },
         {
           "text": "(B) She's sweeping a floor",
-          "translation": "(B) Cô ấy đang quét sàn nhà"
+          "translation": "(B) Cô ấy đang quét sàn nhà",
+          "startMs": 7640
         },
         {
           "text": "(C) She's closing a door",
-          "translation": "(C) Cô ấy đang đóng cửa"
+          "translation": "(C) Cô ấy đang đóng cửa",
+          "startMs": 10735
         },
         {
           "text": "(D) She's washing some dishes",
-          "translation": "(D) Cô ấy đang rửa bát đĩa"
+          "translation": "(D) Cô ấy đang rửa bát đĩa",
+          "startMs": 13830
         }
       ],
       "correctAnswer": null,
@@ -1470,19 +1486,23 @@
       "sentences": [
         {
           "text": "(A) Some workers are sweeping a street.",
-          "translation": "(A) Một số công nhân đang quét một con đường."
+          "translation": "(A) Một số công nhân đang quét một con đường.",
+          "startMs": 4760
         },
         {
           "text": "(B) A tree is being trimmed by some workers.",
-          "translation": "(B) Một cái cây đang được một số công nhân cắt tỉa."
+          "translation": "(B) Một cái cây đang được một số công nhân cắt tỉa.",
+          "startMs": 8960
         },
         {
           "text": "(C) Some branches are being loaded onto a truck.",
-          "translation": "(C) Một số cành cây đang được chất lên một chiếc xe tải."
+          "translation": "(C) Một số cành cây đang được chất lên một chiếc xe tải.",
+          "startMs": 13644
         },
         {
           "text": "(D) A ladder has been leaned against a wall.",
-          "translation": "(D) Một cái thang đã được dựng dựa vào một bức tường."
+          "translation": "(D) Một cái thang đã được dựng dựa vào một bức tường.",
+          "startMs": 18660
         }
       ],
       "correctAnswer": null,
@@ -1904,19 +1924,23 @@
       "sentences": [
         {
           "text": "(A) They're looking at some photographs.",
-          "translation": "(A) Họ đang xem một số bức ảnh."
+          "translation": "(A) Họ đang xem một số bức ảnh.",
+          "startMs": 4280
         },
         {
           "text": "(B) They're seated across from one another.",
-          "translation": "(B) Họ đang ngồi đối diện nhau."
+          "translation": "(B) Họ đang ngồi đối diện nhau.",
+          "startMs": 7968
         },
         {
           "text": "(C) One of the men is writing on paper.",
-          "translation": "(C) Một trong những người đàn ông đang viết trên giấy."
+          "translation": "(C) Một trong những người đàn ông đang viết trên giấy.",
+          "startMs": 11896
         },
         {
           "text": "(D) One of the men is closing a binder.",
-          "translation": "(D) Một trong những người đàn ông đang đóng một cuốn bìa hồ sơ."
+          "translation": "(D) Một trong những người đàn ông đang đóng một cuốn bìa hồ sơ.",
+          "startMs": 15996
         }
       ],
       "correctAnswer": null,

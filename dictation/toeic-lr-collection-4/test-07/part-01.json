@@ -9,19 +9,23 @@
       "sentences": [
         {
           "text": "(A) A man is watering some plants.",
-          "translation": "(A) Một người đàn ông đang tưới cây."
+          "translation": "(A) Một người đàn ông đang tưới cây.",
+          "startMs": 3960
         },
         {
           "text": "(B) A cart has been loaded with plants.",
-          "translation": "(B) Một chiếc xe đẩy đã được chất đầy cây."
+          "translation": "(B) Một chiếc xe đẩy đã được chất đầy cây.",
+          "startMs": 7750
         },
         {
           "text": "(C) A shovel is leaning against a tree.",
-          "translation": "(C) Một cái xẻng đang dựa vào một cái cây."
+          "translation": "(C) Một cái xẻng đang dựa vào một cái cây.",
+          "startMs": 11803
         },
         {
           "text": "(D) A man is reaching toward a flowerpot.",
-          "translation": "(D) Một người đàn ông đang với tay về phía một chậu hoa."
+          "translation": "(D) Một người đàn ông đang với tay về phía một chậu hoa.",
+          "startMs": 15937
         }
       ],
       "correctAnswer": null,
@@ -413,19 +417,23 @@
       "sentences": [
         {
           "text": "(A) A floor is being mopped.",
-          "translation": "(A) Một sàn nhà đang được lau."
+          "translation": "(A) Một sàn nhà đang được lau.",
+          "startMs": 4440
         },
         {
           "text": "(B) Some weights are hanging on a wall.",
-          "translation": "(B) Một số quả tạ đang được treo trên tường."
+          "translation": "(B) Một số quả tạ đang được treo trên tường.",
+          "startMs": 8160
         },
         {
           "text": "(C) A woman is rolling up a mat.",
-          "translation": "(C) Một người phụ nữ đang cuộn một tấm thảm lại."
+          "translation": "(C) Một người phụ nữ đang cuộn một tấm thảm lại.",
+          "startMs": 12152
         },
         {
           "text": "(D) A woman is facing a mirror.",
-          "translation": "(D) Một người phụ nữ đang quay mặt về phía gương."
+          "translation": "(D) Một người phụ nữ đang quay mặt về phía gương.",
+          "startMs": 16312
         }
       ],
       "correctAnswer": null,
@@ -797,19 +805,23 @@
       "sentences": [
         {
           "text": "(A) A taxi is being driven down a street.",
-          "translation": "(A) Một chiếc taxi đang chạy trên đường phố."
+          "translation": "(A) Một chiếc taxi đang chạy trên đường phố.",
+          "startMs": 4200
         },
         {
           "text": "(B) A door has been left open.",
-          "translation": "(B) Một cánh cửa đã được để mở."
+          "translation": "(B) Một cánh cửa đã được để mở.",
+          "startMs": 8325
         },
         {
           "text": "(C) Some travelers are waiting at a curb.",
-          "translation": "(C) Một số du khách đang chờ ở lề đường."
+          "translation": "(C) Một số du khách đang chờ ở lề đường.",
+          "startMs": 11890
         },
         {
           "text": "(D) Some bags are being put into a taxi.",
-          "translation": "(D) Một vài chiếc túi đang được cho vào xe taxi."
+          "translation": "(D) Một vài chiếc túi đang được cho vào xe taxi.",
+          "startMs": 16042
         }
       ],
       "correctAnswer": null,
@@ -1221,19 +1233,23 @@
       "sentences": [
         {
           "text": "(A) Some boxes are stacked on the floor.",
-          "translation": "(A) Một vài chiếc hộp được xếp chồng trên sàn."
+          "translation": "(A) Một vài chiếc hộp được xếp chồng trên sàn.",
+          "startMs": 4200
         },
         {
           "text": "(B) One of the women is putting on a shoe.",
-          "translation": "(B) Một trong những người phụ nữ đang mang giày vào."
+          "translation": "(B) Một trong những người phụ nữ đang mang giày vào.",
+          "startMs": 8720
         },
         {
           "text": "(C) A clerk is standing at a counter.",
-          "translation": "(C) Một nhân viên đang đứng ở quầy."
+          "translation": "(C) Một nhân viên đang đứng ở quầy.",
+          "startMs": 12880
         },
         {
           "text": "(D) They're holding some shoes.",
-          "translation": "(D) Họ đang cầm một vài đôi giày."
+          "translation": "(D) Họ đang cầm một vài đôi giày.",
+          "startMs": 17360
         }
       ],
       "correctAnswer": null,
@@ -1625,19 +1641,23 @@
       "sentences": [
         {
           "text": "(A) He's putting fuel in a car.",
-          "translation": "(A) Anh ấy đang đổ nhiên liệu vào xe."
+          "translation": "(A) Anh ấy đang đổ nhiên liệu vào xe.",
+          "startMs": 4200
         },
         {
           "text": "(B) He's cleaning a windshield.",
-          "translation": "(B) Anh ấy đang lau kính chắn gió."
+          "translation": "(B) Anh ấy đang lau kính chắn gió.",
+          "startMs": 7938
         },
         {
           "text": "(C) He's checking a tire.",
-          "translation": "(C) Anh ấy đang kiểm tra một chiếc lốp."
+          "translation": "(C) Anh ấy đang kiểm tra một chiếc lốp.",
+          "startMs": 11596
         },
         {
           "text": "(D) He's paying at a pump.",
-          "translation": "(D) Anh ấy đang thanh toán tại trụ bơm."
+          "translation": "(D) Anh ấy đang thanh toán tại trụ bơm.",
+          "startMs": 14774
         }
       ],
       "correctAnswer": null,
@@ -1959,19 +1979,23 @@
       "sentences": [
         {
           "text": "(A) A man is entering a room.",
-          "translation": "(A) Một người đàn ông đang bước vào phòng."
+          "translation": "(A) Một người đàn ông đang bước vào phòng.",
+          "startMs": 4440
         },
         {
           "text": "(B) A man is looking at a painting.",
-          "translation": "(B) Một người đàn ông đang ngắm một bức tranh."
+          "translation": "(B) Một người đàn ông đang ngắm một bức tranh.",
+          "startMs": 8165
         },
         {
           "text": "(C) A man is sitting on a bench.",
-          "translation": "(C) Một người đàn ông đang ngồi trên ghế dài."
+          "translation": "(C) Một người đàn ông đang ngồi trên ghế dài.",
+          "startMs": 12050
         },
         {
           "text": "(D) A man is climbing some stairs.",
-          "translation": "(D) Một người đàn ông đang leo cầu thang."
+          "translation": "(D) Một người đàn ông đang leo cầu thang.",
+          "startMs": 15775
         }
       ],
       "correctAnswer": null,

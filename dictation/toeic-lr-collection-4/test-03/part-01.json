@@ -9,19 +9,23 @@
       "sentences": [
         {
           "text": "(A) Some coats are lying on the floor.",
-          "translation": "(A) Một vài chiếc áo khoác đang nằm trên sàn nhà."
+          "translation": "(A) Một vài chiếc áo khoác đang nằm trên sàn nhà.",
+          "startMs": 3960
         },
         {
           "text": "(B) Some shoes have been lined up under a bench.",
-          "translation": "(B) Một vài đôi giày đã được xếp thành hàng dưới ghế dài."
+          "translation": "(B) Một vài đôi giày đã được xếp thành hàng dưới ghế dài.",
+          "startMs": 7712
         },
         {
           "text": "(C) A plant is being watered.",
-          "translation": "(C) Một cái cây đang được tưới nước."
+          "translation": "(C) Một cái cây đang được tưới nước.",
+          "startMs": 12256
         },
         {
           "text": "(D) A window has been left open.",
-          "translation": "(D) Một cửa sổ đã được để mở."
+          "translation": "(D) Một cửa sổ đã được để mở.",
+          "startMs": 15821
         }
       ],
       "correctAnswer": null,
@@ -408,19 +412,23 @@
       "sentences": [
         {
           "text": "(A) A shopping cart is being pushed toward a car.",
-          "translation": "(A) Một chiếc xe đẩy hàng đang được đẩy về phía một chiếc ô tô."
+          "translation": "(A) Một chiếc xe đẩy hàng đang được đẩy về phía một chiếc ô tô.",
+          "startMs": 4440
         },
         {
           "text": "(B) Some cars are driving through the lot.",
-          "translation": "(B) Một vài chiếc ô tô đang chạy qua bãi đỗ xe."
+          "translation": "(B) Một vài chiếc ô tô đang chạy qua bãi đỗ xe.",
+          "startMs": 8760
         },
         {
           "text": "(C) A sign is mounted on a post.",
-          "translation": "(C) Một biển báo được gắn trên một cây cột."
+          "translation": "(C) Một biển báo được gắn trên một cây cột.",
+          "startMs": 12672
         },
         {
           "text": "(D) Some cones have been placed in a parking space.",
-          "translation": "(D) Một số nón giao thông đã được đặt trong một chỗ đậu xe."
+          "translation": "(D) Một số nón giao thông đã được đặt trong một chỗ đậu xe.",
+          "startMs": 16637
         }
       ],
       "correctAnswer": null,
@@ -852,19 +860,23 @@
       "sentences": [
         {
           "text": "(A) She's stepping onto a lawn.",
-          "translation": "(A) Cô ấy đang bước lên bãi cỏ."
+          "translation": "(A) Cô ấy đang bước lên bãi cỏ.",
+          "startMs": 4200
         },
         {
           "text": "(B) She's opening an umbrella.",
-          "translation": "(B) Cô ấy đang mở một chiếc ô."
+          "translation": "(B) Cô ấy đang mở một chiếc ô.",
+          "startMs": 8180
         },
         {
           "text": "(C) She's throwing away a cup.",
-          "translation": "(C) Cô ấy đang vứt một chiếc cốc đi."
+          "translation": "(C) Cô ấy đang vứt một chiếc cốc đi.",
+          "startMs": 12080
         },
         {
           "text": "(D) An umbrella is leaning against a bench.",
-          "translation": "(D) Một chiếc ô đang dựa vào chiếc ghế dài."
+          "translation": "(D) Một chiếc ô đang dựa vào chiếc ghế dài.",
+          "startMs": 15980
         }
       ],
       "correctAnswer": null,
@@ -1201,19 +1213,23 @@
       "sentences": [
         {
           "text": "(A) A woman is folding a coat.",
-          "translation": "(A) Một người phụ nữ đang gấp áo khoác."
+          "translation": "(A) Một người phụ nữ đang gấp áo khoác.",
+          "startMs": 4200
         },
         {
           "text": "(B) A woman is writing in a notebook.",
-          "translation": "(B) Một người phụ nữ đang viết vào sổ tay."
+          "translation": "(B) Một người phụ nữ đang viết vào sổ tay.",
+          "startMs": 8005
         },
         {
           "text": "(C) A woman is sweeping the floor.",
-          "translation": "(C) Một người phụ nữ đang quét sàn nhà."
+          "translation": "(C) Một người phụ nữ đang quét sàn nhà.",
+          "startMs": 12214
         },
         {
           "text": "(D) A woman is typing on a laptop.",
-          "translation": "(D) Một người phụ nữ đang gõ phím trên máy tính xách tay."
+          "translation": "(D) Một người phụ nữ đang gõ phím trên máy tính xách tay.",
+          "startMs": 16054
         }
       ],
       "correctAnswer": null,
@@ -1595,19 +1611,23 @@
       "sentences": [
         {
           "text": "(A) There's a poster taped to a window.",
-          "translation": "(A) Có một tấm áp phích được dán lên cửa sổ."
+          "translation": "(A) Có một tấm áp phích được dán lên cửa sổ.",
+          "startMs": 4200
         },
         {
           "text": "(B) Some bicycles have been chained to a rack.",
-          "translation": "(B) Một số xe đạp đã được khóa vào giá đỡ."
+          "translation": "(B) Một số xe đạp đã được khóa vào giá đỡ.",
+          "startMs": 8168
         },
         {
           "text": "(C) A cart has been left beside a building.",
-          "translation": "(C) Một chiếc xe đẩy đã được để lại bên cạnh tòa nhà."
+          "translation": "(C) Một chiếc xe đẩy đã được để lại bên cạnh tòa nhà.",
+          "startMs": 12864
         },
         {
           "text": "(D) A door is being painted.",
-          "translation": "(D) Một cánh cửa đang được sơn."
+          "translation": "(D) Một cánh cửa đang được sơn.",
+          "startMs": 17149
         }
       ],
       "correctAnswer": null,
@@ -2009,19 +2029,23 @@
       "sentences": [
         {
           "text": "(A) A clerk is hanging up some shirts.",
-          "translation": "(A) Một nhân viên bán hàng đang treo một vài chiếc áo sơ mi."
+          "translation": "(A) Một nhân viên bán hàng đang treo một vài chiếc áo sơ mi.",
+          "startMs": 4440
         },
         {
           "text": "(B) There are clothes on every hanger.",
-          "translation": "(B) Có quần áo trên mọi móc treo."
+          "translation": "(B) Có quần áo trên mọi móc treo.",
+          "startMs": 8740
         },
         {
           "text": "(C) There are many shoppers in the store.",
-          "translation": "(C) Có nhiều người mua sắm trong cửa hàng."
+          "translation": "(C) Có nhiều người mua sắm trong cửa hàng.",
+          "startMs": 12775
         },
         {
           "text": "(D) A customer is paying for some clothes.",
-          "translation": "(D) Một khách hàng đang thanh toán tiền cho một số quần áo."
+          "translation": "(D) Một khách hàng đang thanh toán tiền cho một số quần áo.",
+          "startMs": 17028
         }
       ],
       "correctAnswer": null,

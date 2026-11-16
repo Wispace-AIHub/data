@@ -9,19 +9,23 @@
       "sentences": [
         {
           "text": "(A) One of the men is resting on a bench.",
-          "translation": "(A) Một trong những người đàn ông đang nghỉ ngơi trên ghế dài."
+          "translation": "(A) Một trong những người đàn ông đang nghỉ ngơi trên ghế dài.",
+          "startMs": 4280
         },
         {
           "text": "(B) One of the men is getting off a bicycle.",
-          "translation": "(B) Một trong những người đàn ông đang xuống xe đạp."
+          "translation": "(B) Một trong những người đàn ông đang xuống xe đạp.",
+          "startMs": 8095
         },
         {
           "text": "(C) One of the men is drinking from a bottle.",
-          "translation": "(C) Một trong những người đàn ông đang uống từ chai."
+          "translation": "(C) Một trong những người đàn ông đang uống từ chai.",
+          "startMs": 12070
         },
         {
           "text": "(D) One of the men is putting on a backpack.",
-          "translation": "(D) Một trong những người đàn ông đang đeo ba lô."
+          "translation": "(D) Một trong những người đàn ông đang đeo ba lô.",
+          "startMs": 15965
         }
       ],
       "correctAnswer": null,
@@ -483,19 +487,23 @@
       "sentences": [
         {
           "text": "(A) One of the women is examining a plant on a shelf.",
-          "translation": "(A) Một trong những người phụ nữ đang kiểm tra một cái cây trên kệ."
+          "translation": "(A) Một trong những người phụ nữ đang kiểm tra một cái cây trên kệ.",
+          "startMs": 4280
         },
         {
           "text": "(B) One of the women is lifting a potted plant.",
-          "translation": "(B) Một trong những người phụ nữ đang nhấc một chậu cây."
+          "translation": "(B) Một trong những người phụ nữ đang nhấc một chậu cây.",
+          "startMs": 8780
         },
         {
           "text": "(C) One of the women is pouring water from a can.",
-          "translation": "(C) Một trong những người phụ nữ đang tưới nước từ bình tưới."
+          "translation": "(C) Một trong những người phụ nữ đang tưới nước từ bình tưới.",
+          "startMs": 13202
         },
         {
           "text": "(D) They're paying at a checkout counter.",
-          "translation": "(D) Họ đang thanh toán tại quầy thu ngân."
+          "translation": "(D) Họ đang thanh toán tại quầy thu ngân.",
+          "startMs": 17442
         }
       ],
       "correctAnswer": null,
@@ -967,19 +975,23 @@
       "sentences": [
         {
           "text": "(A) A clerk is weighing some food.",
-          "translation": "(A) Một nhân viên đang cân một số thực phẩm."
+          "translation": "(A) Một nhân viên đang cân một số thực phẩm.",
+          "startMs": 4520
         },
         {
           "text": "(B) A customer is carrying a basket.",
-          "translation": "(B) Một khách hàng đang mang một giỏ."
+          "translation": "(B) Một khách hàng đang mang một giỏ.",
+          "startMs": 8328
         },
         {
           "text": "(C) Some shoppers are examining items on the shelves.",
-          "translation": "(C) Một số người mua sắm đang xem xét các mặt hàng trên kệ."
+          "translation": "(C) Một số người mua sắm đang xem xét các mặt hàng trên kệ.",
+          "startMs": 12301
         },
         {
           "text": "(D) Some shoppers are paying for their purchases.",
-          "translation": "(D) Một số người mua sắm đang thanh toán cho các món hàng của họ."
+          "translation": "(D) Một số người mua sắm đang thanh toán cho các món hàng của họ.",
+          "startMs": 17173
         }
       ],
       "correctAnswer": null,
@@ -1371,19 +1383,23 @@
       "sentences": [
         {
           "text": "(A) She's closing a cabinet door.",
-          "translation": "(A) Cô ấy đang đóng cửa tủ."
+          "translation": "(A) Cô ấy đang đóng cửa tủ.",
+          "startMs": 4280
         },
         {
           "text": "(B) She's putting some boxes on a shelf.",
-          "translation": "(B) Cô ấy đang đặt một số hộp lên kệ."
+          "translation": "(B) Cô ấy đang đặt một số hộp lên kệ.",
+          "startMs": 8328
         },
         {
           "text": "(C) She's standing on a step stool.",
-          "translation": "(C) Cô ấy đang đứng trên ghế đẩu có bậc."
+          "translation": "(C) Cô ấy đang đứng trên ghế đẩu có bậc.",
+          "startMs": 12856
         },
         {
           "text": "(D) She's taking a box from a cabinet.",
-          "translation": "(D) Cô ấy đang lấy một hộp từ trong tủ."
+          "translation": "(D) Cô ấy đang lấy một hộp từ trong tủ.",
+          "startMs": 16912
         }
       ],
       "correctAnswer": null,
@@ -1755,19 +1771,23 @@
       "sentences": [
         {
           "text": "(A) Some nets have been spread out on the walkway.",
-          "translation": "(A) Một số tấm lưới đã được trải ra trên lối đi."
+          "translation": "(A) Một số tấm lưới đã được trải ra trên lối đi.",
+          "startMs": 4760
         },
         {
           "text": "(B) Some bicycles are leaning against a railing.",
-          "translation": "(B) Một số xe đạp đang dựa vào lan can."
+          "translation": "(B) Một số xe đạp đang dựa vào lan can.",
+          "startMs": 8984
         },
         {
           "text": "(C) A boat is being pulled out of the water.",
-          "translation": "(C) Một chiếc thuyền đang được kéo ra khỏi mặt nước."
+          "translation": "(C) Một chiếc thuyền đang được kéo ra khỏi mặt nước.",
+          "startMs": 13376
         },
         {
           "text": "(D) Some benches are being painted.",
-          "translation": "(D) Một số ghế dài đang được sơn."
+          "translation": "(D) Một số ghế dài đang được sơn.",
+          "startMs": 17581
         }
       ],
       "correctAnswer": null,
@@ -2179,19 +2199,23 @@
       "sentences": [
         {
           "text": "(A) Some books have been loaded onto a cart.",
-          "translation": "(A) Một số sách đã được chất lên một xe đẩy."
+          "translation": "(A) Một số sách đã được chất lên một xe đẩy.",
+          "startMs": 4280
         },
         {
           "text": "(B) A notice has been posted on a door.",
-          "translation": "(B) Một thông báo đã được dán trên một cánh cửa."
+          "translation": "(B) Một thông báo đã được dán trên một cánh cửa.",
+          "startMs": 9032
         },
         {
           "text": "(C) A monitor is being turned off.",
-          "translation": "(C) Một màn hình đang được tắt."
+          "translation": "(C) Một màn hình đang được tắt.",
+          "startMs": 13752
         },
         {
           "text": "(D) Some chairs have been folded up.",
-          "translation": "(D) Một số ghế đã được gập lại."
+          "translation": "(D) Một số ghế đã được gập lại.",
+          "startMs": 18232
         }
       ],
       "correctAnswer": null,

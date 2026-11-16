@@ -9,19 +9,23 @@
       "sentences": [
         {
           "text": "(A) Some cups have been placed on a counter.",
-          "translation": "(A) Một số cốc đã được đặt trên quầy."
+          "translation": "(A) Một số cốc đã được đặt trên quầy.",
+          "startMs": 4280
         },
         {
           "text": "(B) A drawer is being opened.",
-          "translation": "(B) Một ngăn kéo đang được mở."
+          "translation": "(B) Một ngăn kéo đang được mở.",
+          "startMs": 8024
         },
         {
           "text": "(C) A sink is filled with dishes.",
-          "translation": "(C) Một bồn rửa đầy bát đĩa."
+          "translation": "(C) Một bồn rửa đầy bát đĩa.",
+          "startMs": 11509
         },
         {
           "text": "(D) A man is washing some dishes.",
-          "translation": "(D) Một người đàn ông đang rửa một số bát đĩa."
+          "translation": "(D) Một người đàn ông đang rửa một số bát đĩa.",
+          "startMs": 15154
         }
       ],
       "correctAnswer": null,
@@ -393,19 +397,23 @@
       "sentences": [
         {
           "text": "(A) A rope is being untied from a post.",
-          "translation": "(A) Một sợi dây đang được tháo ra khỏi một cái cột."
+          "translation": "(A) Một sợi dây đang được tháo ra khỏi một cái cột.",
+          "startMs": 4280
         },
         {
           "text": "(B) Some people are fishing from a pier.",
-          "translation": "(B) Một số người đang câu cá từ cầu tàu."
+          "translation": "(B) Một số người đang câu cá từ cầu tàu.",
+          "startMs": 8653
         },
         {
           "text": "(C) Some people are boarding a boat.",
-          "translation": "(C) Một số người đang lên thuyền."
+          "translation": "(C) Một số người đang lên thuyền.",
+          "startMs": 12491
         },
         {
           "text": "(D) A boat is sailing away from a pier.",
-          "translation": "(D) Một chiếc thuyền đang rời xa cầu tàu."
+          "translation": "(D) Một chiếc thuyền đang rời xa cầu tàu.",
+          "startMs": 16009
         }
       ],
       "correctAnswer": null,
@@ -817,19 +825,23 @@
       "sentences": [
         {
           "text": "(A) A bicycle has been propped against a bench.",
-          "translation": "(A) Một chiếc xe đạp đã được tựa vào một ghế dài."
+          "translation": "(A) Một chiếc xe đạp đã được tựa vào một ghế dài.",
+          "startMs": 4520
         },
         {
           "text": "(B) Some plants are being watered.",
-          "translation": "(B) Một số cây đang được tưới nước."
+          "translation": "(B) Một số cây đang được tưới nước.",
+          "startMs": 9000
         },
         {
           "text": "(C) Some leaves have been swept into a pile.",
-          "translation": "(C) Một số lá đã được quét thành một đống."
+          "translation": "(C) Một số lá đã được quét thành một đống.",
+          "startMs": 12672
         },
         {
           "text": "(D) Some plants have been arranged along a wall.",
-          "translation": "(D) Một số cây đã được sắp xếp dọc theo một bức tường."
+          "translation": "(D) Một số cây đã được sắp xếp dọc theo một bức tường.",
+          "startMs": 17064
         }
       ],
       "correctAnswer": null,
@@ -1241,19 +1253,23 @@
       "sentences": [
         {
           "text": "(A) She's pouring a beverage into a cup.",
-          "translation": "(A) Cô ấy đang rót đồ uống vào cốc."
+          "translation": "(A) Cô ấy đang rót đồ uống vào cốc.",
+          "startMs": 4280
         },
         {
           "text": "(B) She's placing a cup in a cabinet.",
-          "translation": "(B) Cô ấy đang đặt một cái cốc vào tủ."
+          "translation": "(B) Cô ấy đang đặt một cái cốc vào tủ.",
+          "startMs": 8095
         },
         {
           "text": "(C) She's stacking some plates.",
-          "translation": "(C) Cô ấy đang xếp chồng một số đĩa."
+          "translation": "(C) Cô ấy đang xếp chồng một số đĩa.",
+          "startMs": 11830
         },
         {
           "text": "(D) She's rinsing a cup under a faucet.",
-          "translation": "(D) Cô ấy đang tráng một cái cốc dưới vòi nước."
+          "translation": "(D) Cô ấy đang tráng một cái cốc dưới vòi nước.",
+          "startMs": 15165
         }
       ],
       "correctAnswer": null,
@@ -1630,19 +1646,23 @@
       "sentences": [
         {
           "text": "(A) He's pushing a wheelbarrow along a path.",
-          "translation": "(A) Anh ấy đang đẩy một xe cút kít dọc theo một con đường."
+          "translation": "(A) Anh ấy đang đẩy một xe cút kít dọc theo một con đường.",
+          "startMs": 4760
         },
         {
           "text": "(B) He's leaning a ladder against a wall.",
-          "translation": "(B) Anh ấy đang tựa một cái thang vào tường."
+          "translation": "(B) Anh ấy đang tựa một cái thang vào tường.",
+          "startMs": 9469
         },
         {
           "text": "(C) He's stacking bricks beside a wall.",
-          "translation": "(C) Anh ấy đang xếp gạch bên cạnh một bức tường."
+          "translation": "(C) Anh ấy đang xếp gạch bên cạnh một bức tường.",
+          "startMs": 13936
         },
         {
           "text": "(D) He's carrying a shovel.",
-          "translation": "(D) Anh ấy đang mang một cái xẻng."
+          "translation": "(D) Anh ấy đang mang một cái xẻng.",
+          "startMs": 18340
         }
       ],
       "correctAnswer": null,
@@ -2009,19 +2029,23 @@
       "sentences": [
         {
           "text": "(A) She's using a cash register.",
-          "translation": "(A) Cô ấy đang sử dụng máy tính tiền."
+          "translation": "(A) Cô ấy đang sử dụng máy tính tiền.",
+          "startMs": 4280
         },
         {
           "text": "(B) She's arranging some flowers.",
-          "translation": "(B) Cô ấy đang sắp xếp một số bông hoa."
+          "translation": "(B) Cô ấy đang sắp xếp một số bông hoa.",
+          "startMs": 8336
         },
         {
           "text": "(C) She's watering some plants.",
-          "translation": "(C) Cô ấy đang tưới một số cây."
+          "translation": "(C) Cô ấy đang tưới một số cây.",
+          "startMs": 12636
         },
         {
           "text": "(D) She's carrying a potted plant.",
-          "translation": "(D) Cô ấy đang bê một chậu cây."
+          "translation": "(D) Cô ấy đang bê một chậu cây.",
+          "startMs": 16444
         }
       ],
       "correctAnswer": null,

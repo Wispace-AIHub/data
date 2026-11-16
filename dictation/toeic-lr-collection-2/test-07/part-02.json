@@ -9,19 +9,23 @@
       "sentences": [
         {
           "text": "Would you prefer a window seat or an aisle seat?",
-          "translation": "Bạn muốn ghế cửa sổ hay ghế lối đi?"
+          "translation": "Bạn muốn ghế cửa sổ hay ghế lối đi?",
+          "startMs": 1240
         },
         {
           "text": "(A) Yes, it was a smooth ride.",
-          "translation": "(A) Vâng, đó là một chuyến đi êm ái."
+          "translation": "(A) Vâng, đó là một chuyến đi êm ái.",
+          "startMs": 5897
         },
         {
           "text": "(B) The aisle, since I move around.",
-          "translation": "(B) Ghế lối đi, vì tôi hay di chuyển."
+          "translation": "(B) Ghế lối đi, vì tôi hay di chuyển.",
+          "startMs": 10087
         },
         {
           "text": "(C) Just two, please.",
-          "translation": "(C) Chỉ hai thôi ạ."
+          "translation": "(C) Chỉ hai thôi ạ.",
+          "startMs": 14062
         }
       ],
       "correctAnswer": null,
@@ -388,19 +392,23 @@
       "sentences": [
         {
           "text": "The walls in the lobby are being repainted this weekend.",
-          "translation": "Những bức tường trong sảnh đang được sơn lại vào cuối tuần này."
+          "translation": "Những bức tường trong sảnh đang được sơn lại vào cuối tuần này.",
+          "startMs": 1160
         },
         {
           "text": "(A) I'll move my things out of the way first.",
-          "translation": "(A) Tôi sẽ dọn đồ đạc ra khỏi lối đi trước."
+          "translation": "(A) Tôi sẽ dọn đồ đạc ra khỏi lối đi trước.",
+          "startMs": 5115
         },
         {
           "text": "(B) A lighter shade of gray.",
-          "translation": "(B) Một màu xám nhạt hơn."
+          "translation": "(B) Một màu xám nhạt hơn.",
+          "startMs": 9815
         },
         {
           "text": "(C) Yes, they finished it yesterday.",
-          "translation": "(C) Vâng, họ đã hoàn thành ngày hôm qua."
+          "translation": "(C) Vâng, họ đã hoàn thành ngày hôm qua.",
+          "startMs": 13385
         }
       ],
       "correctAnswer": null,
@@ -802,19 +810,23 @@
       "sentences": [
         {
           "text": "The scanner won't read any of these labels.",
-          "translation": "Máy quét sẽ không đọc được bất kỳ nhãn nào trong số này."
+          "translation": "Máy quét sẽ không đọc được bất kỳ nhãn nào trong số này.",
+          "startMs": 1320
         },
         {
           "text": "(A) We'll just have to enter the numbers manually.",
-          "translation": "(A) Chúng ta sẽ phải nhập các số theo cách thủ công."
+          "translation": "(A) Chúng ta sẽ phải nhập các số theo cách thủ công.",
+          "startMs": 5035
         },
         {
           "text": "(B) I read that report last week.",
-          "translation": "(B) Tôi đã đọc báo cáo đó tuần trước."
+          "translation": "(B) Tôi đã đọc báo cáo đó tuần trước.",
+          "startMs": 9488
         },
         {
           "text": "(C) The new labels arrived this morning.",
-          "translation": "(C) Các nhãn mới đã đến sáng nay."
+          "translation": "(C) Các nhãn mới đã đến sáng nay.",
+          "startMs": 13138
         }
       ],
       "correctAnswer": null,
@@ -1216,19 +1228,23 @@
       "sentences": [
         {
           "text": "You reserved the paperback edition, right?",
-          "translation": "Bạn đã đặt trước ấn bản bìa mềm, đúng không?"
+          "translation": "Bạn đã đặt trước ấn bản bìa mềm, đúng không?",
+          "startMs": 1160
         },
         {
           "text": "(A) I'll write it down now.",
-          "translation": "(A) Tôi sẽ ghi lại ngay bây giờ."
+          "translation": "(A) Tôi sẽ ghi lại ngay bây giờ.",
+          "startMs": 4235
         },
         {
           "text": "(B) The author's coming next week.",
-          "translation": "(B) Tác giả sẽ đến vào tuần tới."
+          "translation": "(B) Tác giả sẽ đến vào tuần tới.",
+          "startMs": 7655
         },
         {
           "text": "(C) No, it's actually the hardcover one.",
-          "translation": "(C) Không, thực ra là bản bìa cứng."
+          "translation": "(C) Không, thực ra là bản bìa cứng.",
+          "startMs": 11655
         }
       ],
       "correctAnswer": null,
@@ -1570,19 +1586,23 @@
       "sentences": [
         {
           "text": "You're the keynote speaker, aren't you?",
-          "translation": "Bạn là diễn giả chính, phải không?"
+          "translation": "Bạn là diễn giả chính, phải không?",
+          "startMs": 1320
         },
         {
           "text": "(A) Yes, I'm on right after lunch.",
-          "translation": "(A) Vâng, tôi sẽ phát biểu ngay sau bữa trưa."
+          "translation": "(A) Vâng, tôi sẽ phát biểu ngay sau bữa trưa.",
+          "startMs": 4410
         },
         {
           "text": "(B) The speakers need adjusting.",
-          "translation": "(B) Loa cần được điều chỉnh."
+          "translation": "(B) Loa cần được điều chỉnh.",
+          "startMs": 8250
         },
         {
           "text": "(C) In the main auditorium.",
-          "translation": "(C) Ở hội trường chính."
+          "translation": "(C) Ở hội trường chính.",
+          "startMs": 11905
         }
       ],
       "correctAnswer": null,
@@ -1914,19 +1934,23 @@
       "sentences": [
         {
           "text": "Where can I find the restroom around here?",
-          "translation": "Tôi có thể tìm phòng vệ sinh ở đâu quanh đây?"
+          "translation": "Tôi có thể tìm phòng vệ sinh ở đâu quanh đây?",
+          "startMs": 1320
         },
         {
           "text": "(A) There's one at the end of this hallway.",
-          "translation": "(A) Có một phòng ở cuối hành lang này."
+          "translation": "(A) Có một phòng ở cuối hành lang này.",
+          "startMs": 4397
         },
         {
           "text": "(B) No, I haven't used it.",
-          "translation": "(B) Không, tôi chưa dùng nó."
+          "translation": "(B) Không, tôi chưa dùng nó.",
+          "startMs": 8650
         },
         {
           "text": "(C) It'll be ready in about an hour.",
-          "translation": "(C) Nó sẽ sẵn sàng trong khoảng một giờ."
+          "translation": "(C) Nó sẽ sẵn sàng trong khoảng một giờ.",
+          "startMs": 12023
         }
       ],
       "correctAnswer": null,
@@ -2328,19 +2352,23 @@
       "sentences": [
         {
           "text": "Who's going to staff the help desk tonight?",
-          "translation": "Ai sẽ trực bàn trợ giúp tối nay?"
+          "translation": "Ai sẽ trực bàn trợ giúp tối nay?",
+          "startMs": 1480
         },
         {
           "text": "(A) It's open until midnight.",
-          "translation": "(A) Nó mở đến nửa đêm."
+          "translation": "(A) Nó mở đến nửa đêm.",
+          "startMs": 4730
         },
         {
           "text": "(B) That hasn't been decided yet.",
-          "translation": "(B) Việc đó vẫn chưa được quyết định."
+          "translation": "(B) Việc đó vẫn chưa được quyết định.",
+          "startMs": 8743
         },
         {
           "text": "(C) They've been very helpful.",
-          "translation": "(C) Họ đã rất hữu ích."
+          "translation": "(C) Họ đã rất hữu ích.",
+          "startMs": 12495
         }
       ],
       "correctAnswer": null,
@@ -2682,19 +2710,23 @@
       "sentences": [
         {
           "text": "Could you put these returned books back on the shelves?",
-          "translation": "Bạn có thể xếp những cuốn sách đã trả lại này lên kệ được không?"
+          "translation": "Bạn có thể xếp những cuốn sách đã trả lại này lên kệ được không?",
+          "startMs": 1400
         },
         {
           "text": "(A) I booked a room for us.",
-          "translation": "(A) Tôi đã đặt một phòng cho chúng ta."
+          "translation": "(A) Tôi đã đặt một phòng cho chúng ta.",
+          "startMs": 5133
         },
         {
           "text": "(B) About thirty of them.",
-          "translation": "(B) Khoảng ba mươi cuốn."
+          "translation": "(B) Khoảng ba mươi cuốn.",
+          "startMs": 8313
         },
         {
           "text": "(C) The morning staff does that.",
-          "translation": "(C) Nhân viên ca sáng làm việc đó."
+          "translation": "(C) Nhân viên ca sáng làm việc đó.",
+          "startMs": 11220
         }
       ],
       "correctAnswer": null,
@@ -3066,19 +3098,23 @@
       "sentences": [
         {
           "text": "Why don't you join the walking group on Saturday mornings?",
-          "translation": "Tại sao bạn không tham gia nhóm đi bộ vào các buổi sáng thứ Bảy?"
+          "translation": "Tại sao bạn không tham gia nhóm đi bộ vào các buổi sáng thứ Bảy?",
+          "startMs": 1320
         },
         {
           "text": "(A) Yes, we had a lovely walk yesterday.",
-          "translation": "(A) Vâng, chúng tôi đã có một buổi đi bộ tuyệt vời hôm qua."
+          "translation": "(A) Vâng, chúng tôi đã có một buổi đi bộ tuyệt vời hôm qua.",
+          "startMs": 5210
         },
         {
           "text": "(B) Good idea — I could use the exercise.",
-          "translation": "(B) Ý hay — Tôi cần tập thể dục."
+          "translation": "(B) Ý hay — Tôi cần tập thể dục.",
+          "startMs": 10233
         },
         {
           "text": "(C) Every Saturday at eight.",
-          "translation": "(C) Mỗi thứ Bảy lúc tám giờ."
+          "translation": "(C) Mỗi thứ Bảy lúc tám giờ.",
+          "startMs": 14689
         }
       ],
       "correctAnswer": null,
@@ -3480,19 +3516,23 @@
       "sentences": [
         {
           "text": "We'll deliver your altered jacket to your home tomorrow evening.",
-          "translation": "Chúng tôi sẽ giao chiếc áo khoác đã chỉnh sửa của bạn đến nhà bạn vào tối mai."
+          "translation": "Chúng tôi sẽ giao chiếc áo khoác đã chỉnh sửa của bạn đến nhà bạn vào tối mai.",
+          "startMs": 1400
         },
         {
           "text": "(A) The color looks a little dark.",
-          "translation": "(A) Màu sắc trông hơi tối."
+          "translation": "(A) Màu sắc trông hơi tối.",
+          "startMs": 5913
         },
         {
           "text": "(B) Perfect, I'll be home to receive it.",
-          "translation": "(B) Tuyệt vời, tôi sẽ ở nhà để nhận nó."
+          "translation": "(B) Tuyệt vời, tôi sẽ ở nhà để nhận nó.",
+          "startMs": 9983
         },
         {
           "text": "(C) I gave them to my sister.",
-          "translation": "(C) Tôi đã đưa chúng cho chị gái tôi."
+          "translation": "(C) Tôi đã đưa chúng cho chị gái tôi.",
+          "startMs": 14462
         }
       ],
       "correctAnswer": null,
@@ -3899,19 +3939,23 @@
       "sentences": [
         {
           "text": "I need to report some damage to my furniture from yesterday's move.",
-          "translation": "Tôi cần báo cáo một số hư hỏng đối với đồ nội thất của tôi từ lần chuyển nhà hôm qua."
+          "translation": "Tôi cần báo cáo một số hư hỏng đối với đồ nội thất của tôi từ lần chuyển nhà hôm qua.",
+          "startMs": 1400
         },
         {
           "text": "(A) The truck leaves at nine.",
-          "translation": "(A) Xe tải rời đi lúc chín giờ."
+          "translation": "(A) Xe tải rời đi lúc chín giờ.",
+          "startMs": 6470
         },
         {
           "text": "(B) Sure, we can move it upstairs.",
-          "translation": "(B) Chắc chắn rồi, chúng tôi có thể chuyển nó lên lầu."
+          "translation": "(B) Chắc chắn rồi, chúng tôi có thể chuyển nó lên lầu.",
+          "startMs": 10365
         },
         {
           "text": "(C) Oh, I'm sorry - what got damaged?",
-          "translation": "(C) Ồ, tôi xin lỗi - cái gì bị hư hỏng?"
+          "translation": "(C) Ồ, tôi xin lỗi - cái gì bị hư hỏng?",
+          "startMs": 14134
         }
       ],
       "correctAnswer": null,
@@ -4318,19 +4362,23 @@
       "sentences": [
         {
           "text": "Will the portrait session be finished before noon?",
-          "translation": "Buổi chụp chân dung có hoàn thành trước buổi trưa không?"
+          "translation": "Buổi chụp chân dung có hoàn thành trước buổi trưa không?",
+          "startMs": 1480
         },
         {
           "text": "(A) That depends on how many shots you need.",
-          "translation": "(A) Điều đó phụ thuộc vào số lượng ảnh anh/chị cần."
+          "translation": "(A) Điều đó phụ thuộc vào số lượng ảnh anh/chị cần.",
+          "startMs": 5292
         },
         {
           "text": "(B) No, the far room.",
-          "translation": "(B) Không, phòng phía xa."
+          "translation": "(B) Không, phòng phía xa.",
+          "startMs": 9444
         },
         {
           "text": "(C) The camera's brand new.",
-          "translation": "(C) Máy ảnh còn mới tinh."
+          "translation": "(C) Máy ảnh còn mới tinh.",
+          "startMs": 12764
         }
       ],
       "correctAnswer": null,
@@ -4702,19 +4750,23 @@
       "sentences": [
         {
           "text": "Should we record the vocals live or add them in later?",
-          "translation": "Chúng ta nên thu âm giọng hát trực tiếp hay thêm vào sau?"
+          "translation": "Chúng ta nên thu âm giọng hát trực tiếp hay thêm vào sau?",
+          "startMs": 1640
         },
         {
           "text": "(A) Whatever the singer prefers.",
-          "translation": "(A) Tùy ca sĩ thích gì."
+          "translation": "(A) Tùy ca sĩ thích gì.",
+          "startMs": 6163
         },
         {
           "text": "(B) They just left the studio.",
-          "translation": "(B) Họ vừa rời phòng thu."
+          "translation": "(B) Họ vừa rời phòng thu.",
+          "startMs": 9492
         },
         {
           "text": "(C) The microphone sounds great.",
-          "translation": "(C) Micro nghe rất hay."
+          "translation": "(C) Micro nghe rất hay.",
+          "startMs": 13244
         }
       ],
       "correctAnswer": null,
@@ -5086,19 +5138,23 @@
       "sentences": [
         {
           "text": "Which of these appointment times would work best for you?",
-          "translation": "Thời gian hẹn nào trong số này sẽ phù hợp nhất với bạn?"
+          "translation": "Thời gian hẹn nào trong số này sẽ phù hợp nhất với bạn?",
+          "startMs": 1160
         },
         {
           "text": "(A) The online booking still isn't working.",
-          "translation": "(A) Việc đặt lịch trực tuyến vẫn chưa hoạt động."
+          "translation": "(A) Việc đặt lịch trực tuyến vẫn chưa hoạt động.",
+          "startMs": 4573
         },
         {
           "text": "(B) No, I haven't timed the visit yet.",
-          "translation": "(B) Không, tôi chưa tính thời gian cho chuyến thăm."
+          "translation": "(B) Không, tôi chưa tính thời gian cho chuyến thăm.",
+          "startMs": 9268
         },
         {
           "text": "(C) I'd rather come in later.",
-          "translation": "(C) Tôi muốn đến muộn hơn."
+          "translation": "(C) Tôi muốn đến muộn hơn.",
+          "startMs": 13361
         }
       ],
       "correctAnswer": null,
@@ -5495,19 +5551,23 @@
       "sentences": [
         {
           "text": "Would you like to join us for volleyball at lunchtime?",
-          "translation": "Bạn có muốn tham gia chơi bóng chuyền với chúng tôi vào giờ nghỉ trưa không?"
+          "translation": "Bạn có muốn tham gia chơi bóng chuyền với chúng tôi vào giờ nghỉ trưa không?",
+          "startMs": 1640
         },
         {
           "text": "(A) The net is in the storage closet.",
-          "translation": "(A) Lưới ở trong tủ đựng đồ."
+          "translation": "(A) Lưới ở trong tủ đựng đồ.",
+          "startMs": 5237
         },
         {
           "text": "(B) I have a conference call scheduled at noon.",
-          "translation": "(B) Tôi có một cuộc gọi hội nghị được lên lịch vào buổi trưa."
+          "translation": "(B) Tôi có một cuộc gọi hội nghị được lên lịch vào buổi trưa.",
+          "startMs": 10257
         },
         {
           "text": "(C) They lost the match yesterday.",
-          "translation": "(C) Họ đã thua trận đấu hôm qua."
+          "translation": "(C) Họ đã thua trận đấu hôm qua.",
+          "startMs": 14977
         }
       ],
       "correctAnswer": null,
@@ -5924,19 +5984,23 @@
       "sentences": [
         {
           "text": "Don't we have to sign the contract before the deadline?",
-          "translation": "Chúng ta không phải ký hợp đồng trước hạn chót à?"
+          "translation": "Chúng ta không phải ký hợp đồng trước hạn chót à?",
+          "startMs": 1640
         },
         {
           "text": "(A) The signs are already posted.",
-          "translation": "(A) Các biển báo đã được treo rồi."
+          "translation": "(A) Các biển báo đã được treo rồi.",
+          "startMs": 5451
         },
         {
           "text": "(B) Yes, both partners still have to sign.",
-          "translation": "(B) Có, cả hai đối tác vẫn còn phải ký."
+          "translation": "(B) Có, cả hai đối tác vẫn còn phải ký.",
+          "startMs": 10051
         },
         {
           "text": "(C) It's a three-year contract.",
-          "translation": "(C) Đây là hợp đồng ba năm."
+          "translation": "(C) Đây là hợp đồng ba năm.",
+          "startMs": 15047
         }
       ],
       "correctAnswer": null,
@@ -6318,19 +6382,23 @@
       "sentences": [
         {
           "text": "Who's leading the crew on the site today?",
-          "translation": "Ai đang chỉ huy tổ đội trên công trường hôm nay?"
+          "translation": "Ai đang chỉ huy tổ đội trên công trường hôm nay?",
+          "startMs": 1640
         },
         {
           "text": "(A) Near the loading gate.",
-          "translation": "(A) Gần cổng bốc hàng."
+          "translation": "(A) Gần cổng bốc hàng.",
+          "startMs": 4760
         },
         {
           "text": "(B) For the next few weeks.",
-          "translation": "(B) Trong vài tuần tới."
+          "translation": "(B) Trong vài tuần tới.",
+          "startMs": 7872
         },
         {
           "text": "(C) The new foreman is.",
-          "translation": "(C) Quản đốc mới."
+          "translation": "(C) Quản đốc mới.",
+          "startMs": 11287
         }
       ],
       "correctAnswer": null,
@@ -6672,19 +6740,23 @@
       "sentences": [
         {
           "text": "Would you like to try the shoes in black or in brown?",
-          "translation": "Bạn có muốn thử đôi giày màu đen hay màu nâu không?"
+          "translation": "Bạn có muốn thử đôi giày màu đen hay màu nâu không?",
+          "startMs": 1640
         },
         {
           "text": "(A) I'll set the box back on the shelf.",
-          "translation": "(A) Tôi sẽ đặt hộp lại lên kệ."
+          "translation": "(A) Tôi sẽ đặt hộp lại lên kệ.",
+          "startMs": 6620
         },
         {
           "text": "(B) Either color's fine with me.",
-          "translation": "(B) Màu nào cũng được với tôi."
+          "translation": "(B) Màu nào cũng được với tôi.",
+          "startMs": 10441
         },
         {
           "text": "(C) They're about forty dollars a pair.",
-          "translation": "(C) Chúng khoảng bốn mươi đô la một đôi."
+          "translation": "(C) Chúng khoảng bốn mươi đô la một đôi.",
+          "startMs": 13732
         }
       ],
       "correctAnswer": null,
@@ -7111,19 +7183,23 @@
       "sentences": [
         {
           "text": "Won't Dr. Feldman be taking the afternoon appointments?",
-          "translation": "Bác sĩ Feldman sẽ không nhận các cuộc hẹn buổi chiều à?"
+          "translation": "Bác sĩ Feldman sẽ không nhận các cuộc hẹn buổi chiều à?",
+          "startMs": 1400
         },
         {
           "text": "(A) The appointment went smoothly.",
-          "translation": "(A) Cuộc hẹn diễn ra suôn sẻ."
+          "translation": "(A) Cuộc hẹn diễn ra suôn sẻ.",
+          "startMs": 5690
         },
         {
           "text": "(B) They're still in the waiting room.",
-          "translation": "(B) Họ vẫn còn trong phòng chờ."
+          "translation": "(B) Họ vẫn còn trong phòng chờ.",
+          "startMs": 10090
         },
         {
           "text": "(C) She's already set up in her room.",
-          "translation": "(C) Cô ấy đã sẵn sàng trong phòng của mình rồi."
+          "translation": "(C) Cô ấy đã sẵn sàng trong phòng của mình rồi.",
+          "startMs": 14002
         }
       ],
       "correctAnswer": null,
@@ -7500,19 +7576,23 @@
       "sentences": [
         {
           "text": "Has the morning shipment been entered into the system yet?",
-          "translation": "Lô hàng buổi sáng đã được nhập vào hệ thống chưa?"
+          "translation": "Lô hàng buổi sáng đã được nhập vào hệ thống chưa?",
+          "startMs": 1640
         },
         {
           "text": "(A) The receiving clerk handles the system.",
-          "translation": "(A) Nhân viên nhận hàng phụ trách hệ thống."
+          "translation": "(A) Nhân viên nhận hàng phụ trách hệ thống.",
+          "startMs": 5545
         },
         {
           "text": "(B) A brand-new shipping container.",
-          "translation": "(B) Một container vận chuyển hoàn toàn mới."
+          "translation": "(B) Một container vận chuyển hoàn toàn mới.",
+          "startMs": 9920
         },
         {
           "text": "(C) Not until the scanner's fixed.",
-          "translation": "(C) Chưa, đến khi máy quét được sửa xong."
+          "translation": "(C) Chưa, đến khi máy quét được sửa xong.",
+          "startMs": 14211
         }
       ],
       "correctAnswer": null,
@@ -7884,19 +7964,23 @@
       "sentences": [
         {
           "text": "Who's covering the departure gate tonight?",
-          "translation": "Ai phụ trách cổng khởi hành tối nay?"
+          "translation": "Ai phụ trách cổng khởi hành tối nay?",
+          "startMs": 1640
         },
         {
           "text": "(A) I think Diana put her name down for it.",
-          "translation": "(A) Tôi nghĩ Diana đã ghi tên cô ấy cho việc đó."
+          "translation": "(A) Tôi nghĩ Diana đã ghi tên cô ấy cho việc đó.",
+          "startMs": 4890
         },
         {
           "text": "(B) At gate twelve, near the far end.",
-          "translation": "(B) Ở cổng mười hai, gần phía cuối."
+          "translation": "(B) Ở cổng mười hai, gần phía cuối.",
+          "startMs": 8922
         },
         {
           "text": "(C) Yes, the flight's been delayed an hour.",
-          "translation": "(C) Vâng, chuyến bay đã bị hoãn một giờ."
+          "translation": "(C) Vâng, chuyến bay đã bị hoãn một giờ.",
+          "startMs": 13015
         }
       ],
       "correctAnswer": null,
@@ -8303,19 +8387,23 @@
       "sentences": [
         {
           "text": "Why don't you switch to the evening class? It's usually much quieter.",
-          "translation": "Tại sao bạn không chuyển sang lớp buổi tối? Lớp đó thường yên tĩnh hơn nhiều."
+          "translation": "Tại sao bạn không chuyển sang lớp buổi tối? Lớp đó thường yên tĩnh hơn nhiều.",
+          "startMs": 1640
         },
         {
           "text": "(A) No, he's not a member here.",
-          "translation": "(A) Không, anh ấy không phải là thành viên ở đây."
+          "translation": "(A) Không, anh ấy không phải là thành viên ở đây.",
+          "startMs": 7130
         },
         {
           "text": "(B) Will the same instructor teach it?",
-          "translation": "(B) Cùng một giáo viên sẽ dạy lớp đó chứ?"
+          "translation": "(B) Cùng một giáo viên sẽ dạy lớp đó chứ?",
+          "startMs": 10770
         },
         {
           "text": "(C) The light switch is over there.",
-          "translation": "(C) Công tắc đèn ở đằng kia."
+          "translation": "(C) Công tắc đèn ở đằng kia.",
+          "startMs": 14602
         }
       ],
       "correctAnswer": null,
@@ -8732,19 +8820,23 @@
       "sentences": [
         {
           "text": "Where can I leave my coat during the tour?",
-          "translation": "Tôi có thể để áo khoác ở đâu trong suốt chuyến tham quan?"
+          "translation": "Tôi có thể để áo khoác ở đâu trong suốt chuyến tham quan?",
+          "startMs": 1480
         },
         {
           "text": "(A) There's a counter just inside the main entrance.",
-          "translation": "(A) Có một quầy ngay bên trong lối vào chính."
+          "translation": "(A) Có một quầy ngay bên trong lối vào chính.",
+          "startMs": 4687
         },
         {
           "text": "(B) The tour lasts about an hour.",
-          "translation": "(B) Chuyến tham quan kéo dài khoảng một giờ."
+          "translation": "(B) Chuyến tham quan kéo dài khoảng một giờ.",
+          "startMs": 9168
         },
         {
           "text": "(C) You'll want a warmer one.",
-          "translation": "(C) Bạn sẽ muốn một cái ấm hơn."
+          "translation": "(C) Bạn sẽ muốn một cái ấm hơn.",
+          "startMs": 12822
         }
       ],
       "correctAnswer": null,
@@ -9141,19 +9233,23 @@
       "sentences": [
         {
           "text": "Who's going to host the new morning show?",
-          "translation": "Ai sẽ dẫn chương trình buổi sáng mới?"
+          "translation": "Ai sẽ dẫn chương trình buổi sáng mới?",
+          "startMs": 1240
         },
         {
           "text": "(A) Most of them tuned in early.",
-          "translation": "(A) Hầu hết họ đã xem từ sớm."
+          "translation": "(A) Hầu hết họ đã xem từ sớm.",
+          "startMs": 4199
         },
         {
           "text": "(B) In the studio down the hall.",
-          "translation": "(B) Trong phòng thu ở cuối hành lang."
+          "translation": "(B) Trong phòng thu ở cuối hành lang.",
+          "startMs": 7791
         },
         {
           "text": "(C) They haven't decided yet.",
-          "translation": "(C) Họ chưa quyết định."
+          "translation": "(C) Họ chưa quyết định.",
+          "startMs": 11591
         }
       ],
       "correctAnswer": null,
@@ -9520,19 +9616,23 @@
       "sentences": [
         {
           "text": "Should we launch the campaign this week, or push the start date back?",
-          "translation": "Chúng ta nên ra mắt chiến dịch vào tuần này, hay dời ngày bắt đầu lại?"
+          "translation": "Chúng ta nên ra mắt chiến dịch vào tuần này, hay dời ngày bắt đầu lại?",
+          "startMs": 1560
         },
         {
           "text": "(A) The new boat launches on Friday.",
-          "translation": "(A) Con thuyền mới ra mắt vào thứ Sáu."
+          "translation": "(A) Con thuyền mới ra mắt vào thứ Sáu.",
+          "startMs": 6814
         },
         {
           "text": "(B) Yes, the response was great.",
-          "translation": "(B) Vâng, phản hồi rất tuyệt."
+          "translation": "(B) Vâng, phản hồi rất tuyệt.",
+          "startMs": 10954
         },
         {
           "text": "(C) That's really the client's decision to make.",
-          "translation": "(C) Đó thực sự là quyết định của khách hàng."
+          "translation": "(C) Đó thực sự là quyết định của khách hàng.",
+          "startMs": 14934
         }
       ],
       "correctAnswer": null,

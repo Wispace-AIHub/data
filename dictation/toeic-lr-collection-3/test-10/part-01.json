@@ -9,19 +9,23 @@
       "sentences": [
         {
           "text": "(A) Some umbrellas have been folded up.",
-          "translation": "(A) Một số ô đã được gấp lại."
+          "translation": "(A) Một số ô đã được gấp lại.",
+          "startMs": 4280
         },
         {
           "text": "(B) A swimming pool has been covered.",
-          "translation": "(B) Một hồ bơi đã được che lại."
+          "translation": "(B) Một hồ bơi đã được che lại.",
+          "startMs": 8016
         },
         {
           "text": "(C) Some chairs have been lined up in a row.",
-          "translation": "(C) Một số ghế đã được xếp thành một hàng."
+          "translation": "(C) Một số ghế đã được xếp thành một hàng.",
+          "startMs": 11776
         },
         {
           "text": "(D) A watering can has been left beside a plant.",
-          "translation": "(D) Một bình tưới nước đã được để bên cạnh một cây."
+          "translation": "(D) Một bình tưới nước đã được để bên cạnh một cây.",
+          "startMs": 15592
         }
       ],
       "correctAnswer": null,
@@ -433,19 +437,23 @@
       "sentences": [
         {
           "text": "(A) A server is refilling a tray.",
-          "translation": "(A) Một người phục vụ đang đổ đầy lại khay."
+          "translation": "(A) Một người phục vụ đang đổ đầy lại khay.",
+          "startMs": 4280
         },
         {
           "text": "(B) Some people are standing at the counter.",
-          "translation": "(B) Một số người đang đứng ở quầy."
+          "translation": "(B) Một số người đang đứng ở quầy.",
+          "startMs": 8806
         },
         {
           "text": "(C) A man is drinking from a glass.",
-          "translation": "(C) Một người đàn ông đang uống từ một cái cốc."
+          "translation": "(C) Một người đàn ông đang uống từ một cái cốc.",
+          "startMs": 13280
         },
         {
           "text": "(D) Some people are eating at a table.",
-          "translation": "(D) Một số người đang ăn tại bàn."
+          "translation": "(D) Một số người đang ăn tại bàn.",
+          "startMs": 17645
         }
       ],
       "correctAnswer": null,
@@ -837,19 +845,23 @@
       "sentences": [
         {
           "text": "(A) He's typing on a keyboard.",
-          "translation": "(A) Anh ấy đang gõ phím trên bàn phím."
+          "translation": "(A) Anh ấy đang gõ phím trên bàn phím.",
+          "startMs": 4520
         },
         {
           "text": "(B) He's buttoning up his jacket.",
-          "translation": "(B) Anh ấy đang cài khuy áo khoác."
+          "translation": "(B) Anh ấy đang cài khuy áo khoác.",
+          "startMs": 7927
         },
         {
           "text": "(C) He's talking on the phone.",
-          "translation": "(C) Anh ấy đang nói chuyện điện thoại."
+          "translation": "(C) Anh ấy đang nói chuyện điện thoại.",
+          "startMs": 11574
         },
         {
           "text": "(D) He's picking up some papers.",
-          "translation": "(D) Anh ấy đang nhặt một số tờ giấy."
+          "translation": "(D) Anh ấy đang nhặt một số tờ giấy.",
+          "startMs": 14901
         }
       ],
       "correctAnswer": null,
@@ -1171,19 +1183,23 @@
       "sentences": [
         {
           "text": "(A) A man's unloading a shopping cart.",
-          "translation": "(A) Một người đàn ông đang dỡ hàng khỏi xe đẩy mua sắm."
+          "translation": "(A) Một người đàn ông đang dỡ hàng khỏi xe đẩy mua sắm.",
+          "startMs": 4280
         },
         {
           "text": "(B) A man's pushing a cart between rows of cars.",
-          "translation": "(B) Một người đàn ông đang đẩy xe đẩy giữa các hàng xe ô tô."
+          "translation": "(B) Một người đàn ông đang đẩy xe đẩy giữa các hàng xe ô tô.",
+          "startMs": 8809
         },
         {
           "text": "(C) A man's opening a car door.",
-          "translation": "(C) Một người đàn ông đang mở cửa xe."
+          "translation": "(C) Một người đàn ông đang mở cửa xe.",
+          "startMs": 13738
         },
         {
           "text": "(D) A man's putting some bags into a car.",
-          "translation": "(D) Một người đàn ông đang bỏ một số túi vào xe."
+          "translation": "(D) Một người đàn ông đang bỏ một số túi vào xe.",
+          "startMs": 18058
         }
       ],
       "correctAnswer": null,
@@ -1590,19 +1606,23 @@
       "sentences": [
         {
           "text": "(A) One of the men is filling a paint tray.",
-          "translation": "(A) Một trong những người đàn ông đang đổ sơn vào khay."
+          "translation": "(A) Một trong những người đàn ông đang đổ sơn vào khay.",
+          "startMs": 4760
         },
         {
           "text": "(B) One of the men is painting a wall.",
-          "translation": "(B) Một trong những người đàn ông đang sơn tường."
+          "translation": "(B) Một trong những người đàn ông đang sơn tường.",
+          "startMs": 9215
         },
         {
           "text": "(C) One of the men is carrying a ladder.",
-          "translation": "(C) Một trong những người đàn ông đang khiêng một cái thang."
+          "translation": "(C) Một trong những người đàn ông đang khiêng một cái thang.",
+          "startMs": 13830
         },
         {
           "text": "(D) One of the men is opening a window.",
-          "translation": "(D) Một trong những người đàn ông đang mở cửa sổ."
+          "translation": "(D) Một trong những người đàn ông đang mở cửa sổ.",
+          "startMs": 17805
         }
       ],
       "correctAnswer": null,
@@ -2049,19 +2069,23 @@
       "sentences": [
         {
           "text": "(A) Some plates have been stacked on a shelf.",
-          "translation": "(A) Một số đĩa đã được xếp chồng lên một kệ."
+          "translation": "(A) Một số đĩa đã được xếp chồng lên một kệ.",
+          "startMs": 4280
         },
         {
           "text": "(B) Some pots have been hung on a wall.",
-          "translation": "(B) Một số nồi đã được treo trên tường."
+          "translation": "(B) Một số nồi đã được treo trên tường.",
+          "startMs": 8992
         },
         {
           "text": "(C) He's putting a pan in an oven.",
-          "translation": "(C) Anh ấy đang đặt một cái chảo vào lò nướng."
+          "translation": "(C) Anh ấy đang đặt một cái chảo vào lò nướng.",
+          "startMs": 13296
         },
         {
           "text": "(D) He's washing some dishes.",
-          "translation": "(D) Anh ấy đang rửa một số bát đĩa."
+          "translation": "(D) Anh ấy đang rửa một số bát đĩa.",
+          "startMs": 17423
         }
       ],
       "correctAnswer": null,

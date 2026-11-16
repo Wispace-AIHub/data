@@ -9,19 +9,23 @@
       "sentences": [
         {
           "text": "(A) Some people are pushing a cart.",
-          "translation": "(A) Một số người đang đẩy một chiếc xe đẩy."
+          "translation": "(A) Một số người đang đẩy một chiếc xe đẩy.",
+          "startMs": 3960
         },
         {
           "text": "(B) Some people are carrying some bags.",
-          "translation": "(B) Một số người đang mang một số túi."
+          "translation": "(B) Một số người đang mang một số túi.",
+          "startMs": 7840
         },
         {
           "text": "(C) Some people are resting on a bench.",
-          "translation": "(C) Một số người đang nghỉ ngơi trên một ghế dài."
+          "translation": "(C) Một số người đang nghỉ ngơi trên một ghế dài.",
+          "startMs": 12232
         },
         {
           "text": "(D) Some people are watering some plants.",
-          "translation": "(D) Một số người đang tưới một số cây."
+          "translation": "(D) Một số người đang tưới một số cây.",
+          "startMs": 16512
         }
       ],
       "correctAnswer": null,
@@ -393,19 +397,23 @@
       "sentences": [
         {
           "text": "(A) The woman is opening a drawer.",
-          "translation": "(A) Người phụ nữ đang mở một ngăn kéo."
+          "translation": "(A) Người phụ nữ đang mở một ngăn kéo.",
+          "startMs": 4440
         },
         {
           "text": "(B) The woman is typing on a keyboard.",
-          "translation": "(B) Người phụ nữ đang gõ trên bàn phím."
+          "translation": "(B) Người phụ nữ đang gõ trên bàn phím.",
+          "startMs": 8248
         },
         {
           "text": "(C) The woman is adjusting a lamp.",
-          "translation": "(C) Người phụ nữ đang chỉnh một cái đèn."
+          "translation": "(C) Người phụ nữ đang chỉnh một cái đèn.",
+          "startMs": 12539
         },
         {
           "text": "(D) The woman is writing on a notepad.",
-          "translation": "(D) Người phụ nữ đang viết trên sổ ghi chép."
+          "translation": "(D) Người phụ nữ đang viết trên sổ ghi chép.",
+          "startMs": 16599
         }
       ],
       "correctAnswer": null,
@@ -787,19 +795,23 @@
       "sentences": [
         {
           "text": "(A) One of the women is opening a cabinet.",
-          "translation": "(A) Một trong những người phụ nữ đang mở một tủ."
+          "translation": "(A) Một trong những người phụ nữ đang mở một tủ.",
+          "startMs": 4200
         },
         {
           "text": "(B) One of the women is filling a cup.",
-          "translation": "(B) Một trong những người phụ nữ đang rót đầy một cốc."
+          "translation": "(B) Một trong những người phụ nữ đang rót đầy một cốc.",
+          "startMs": 8840
         },
         {
           "text": "(C) One of the women is wiping a counter.",
-          "translation": "(C) Một trong những người phụ nữ đang lau một quầy."
+          "translation": "(C) Một trong những người phụ nữ đang lau một quầy.",
+          "startMs": 13000
         },
         {
           "text": "(D) One of the women is carrying a tray.",
-          "translation": "(D) Một trong những người phụ nữ đang mang một khay."
+          "translation": "(D) Một trong những người phụ nữ đang mang một khay.",
+          "startMs": 17560
         }
       ],
       "correctAnswer": null,
@@ -1241,19 +1253,23 @@
       "sentences": [
         {
           "text": "(A) One of the workers is opening a cabinet.",
-          "translation": "(A) Một trong những công nhân đang mở một cái tủ."
+          "translation": "(A) Một trong những công nhân đang mở một cái tủ.",
+          "startMs": 4200
         },
         {
           "text": "(B) One of the workers is stacking chairs.",
-          "translation": "(B) Một trong những công nhân đang xếp chồng ghế."
+          "translation": "(B) Một trong những công nhân đang xếp chồng ghế.",
+          "startMs": 8660
         },
         {
           "text": "(C) They're pushing a cart.",
-          "translation": "(C) Họ đang đẩy một xe đẩy."
+          "translation": "(C) Họ đang đẩy một xe đẩy.",
+          "startMs": 12880
         },
         {
           "text": "(D) They're carrying a table.",
-          "translation": "(D) Họ đang khiêng một cái bàn."
+          "translation": "(D) Họ đang khiêng một cái bàn.",
+          "startMs": 16053
         }
       ],
       "correctAnswer": null,
@@ -1615,19 +1631,23 @@
       "sentences": [
         {
           "text": "(A) The benches are empty.",
-          "translation": "(A) Những chiếc ghế dài đang trống."
+          "translation": "(A) Những chiếc ghế dài đang trống.",
+          "startMs": 4200
         },
         {
           "text": "(B) Some people are setting up a stall.",
-          "translation": "(B) Một số người đang dựng một quầy hàng."
+          "translation": "(B) Một số người đang dựng một quầy hàng.",
+          "startMs": 7396
         },
         {
           "text": "(C) A woman is opening a bag.",
-          "translation": "(C) Một người phụ nữ đang mở một cái túi."
+          "translation": "(C) Một người phụ nữ đang mở một cái túi.",
+          "startMs": 11068
         },
         {
           "text": "(D) A man is taking a photograph outdoors.",
-          "translation": "(D) Một người đàn ông đang chụp ảnh ngoài trời."
+          "translation": "(D) Một người đàn ông đang chụp ảnh ngoài trời.",
+          "startMs": 14811
         }
       ],
       "correctAnswer": null,
@@ -1994,19 +2014,23 @@
       "sentences": [
         {
           "text": "(A) Chairs have been stacked in a corner.",
-          "translation": "(A) Ghế đã được xếp chồng ở một góc."
+          "translation": "(A) Ghế đã được xếp chồng ở một góc.",
+          "startMs": 4280
         },
         {
           "text": "(B) Leaves have fallen across a walkway.",
-          "translation": "(B) Lá đã rơi khắp một lối đi."
+          "translation": "(B) Lá đã rơi khắp một lối đi.",
+          "startMs": 8251
         },
         {
           "text": "(C) Lights have been strung across a courtyard.",
-          "translation": "(C) Đèn đã được giăng ngang một sân trong."
+          "translation": "(C) Đèn đã được giăng ngang một sân trong.",
+          "startMs": 12067
         },
         {
           "text": "(D) Plants have been hung along a wall.",
-          "translation": "(D) Cây đã được treo dọc theo một bức tường."
+          "translation": "(D) Cây đã được treo dọc theo một bức tường.",
+          "startMs": 16427
         }
       ],
       "correctAnswer": null,

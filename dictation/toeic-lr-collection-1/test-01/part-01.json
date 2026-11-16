@@ -9,19 +9,23 @@
       "sentences": [
         {
           "text": "(A) Some people are waiting in line.",
-          "translation": "(A) Một số người đang xếp hàng."
+          "translation": "(A) Một số người đang xếp hàng.",
+          "startMs": 4280
         },
         {
           "text": "(B) Some people are sitting on chairs.",
-          "translation": "(B) Một số người đang ngồi trên ghế."
+          "translation": "(B) Một số người đang ngồi trên ghế.",
+          "startMs": 7898
         },
         {
           "text": "(C) Some people are pulling their suitcases.",
-          "translation": "(C) Một số người đang kéo vali của họ."
+          "translation": "(C) Một số người đang kéo vali của họ.",
+          "startMs": 11676
         },
         {
           "text": "(D) Some people are standing outside.",
-          "translation": "(D) Một số người đang đứng bên ngoài."
+          "translation": "(D) Một số người đang đứng bên ngoài.",
+          "startMs": 15694
         }
       ],
       "correctAnswer": null,
@@ -373,19 +377,23 @@
       "sentences": [
         {
           "text": "(A) Some bicycles are lying on the ground.",
-          "translation": "(A) Một số xe đạp đang nằm trên mặt đất."
+          "translation": "(A) Một số xe đạp đang nằm trên mặt đất.",
+          "startMs": 4440
         },
         {
           "text": "(B) Some benches are being repaired in a park.",
-          "translation": "(B) Một số ghế dài đang được sửa chữa trong công viên."
+          "translation": "(B) Một số ghế dài đang được sửa chữa trong công viên.",
+          "startMs": 8040
         },
         {
           "text": "(C) Some people are riding bicycles on a path.",
-          "translation": "(C) Một số người đang đi xe đạp trên một con đường."
+          "translation": "(C) Một số người đang đi xe đạp trên một con đường.",
+          "startMs": 12120
         },
         {
           "text": "(D) Some bicycles are parked in a rack.",
-          "translation": "(D) Một số xe đạp đang được đỗ trong giá để xe."
+          "translation": "(D) Một số xe đạp đang được đỗ trong giá để xe.",
+          "startMs": 18680
         }
       ],
       "correctAnswer": null,
@@ -807,19 +815,23 @@
       "sentences": [
         {
           "text": "(A) A man is stacking some finished baskets.",
-          "translation": "(A) Một người đàn ông đang xếp chồng một số giỏ đã hoàn thiện."
+          "translation": "(A) Một người đàn ông đang xếp chồng một số giỏ đã hoàn thiện.",
+          "startMs": 4200
         },
         {
           "text": "(B) A customer is examining a large basket.",
-          "translation": "(B) Một khách hàng đang kiểm tra một chiếc giỏ lớn."
+          "translation": "(B) Một khách hàng đang kiểm tra một chiếc giỏ lớn.",
+          "startMs": 8920
         },
         {
           "text": "(C) Some baskets are being carried away.",
-          "translation": "(C) Một số giỏ đang được mang đi."
+          "translation": "(C) Một số giỏ đang được mang đi.",
+          "startMs": 13400
         },
         {
           "text": "(D) A man is weaving a round basket.",
-          "translation": "(D) Một người đàn ông đang đan một chiếc giỏ tròn."
+          "translation": "(D) Một người đàn ông đang đan một chiếc giỏ tròn.",
+          "startMs": 17640
         }
       ],
       "correctAnswer": null,
@@ -1211,19 +1223,23 @@
       "sentences": [
         {
           "text": "(A) He's cutting up some vegetables.",
-          "translation": "(A) Anh ấy đang cắt một số rau củ."
+          "translation": "(A) Anh ấy đang cắt một số rau củ.",
+          "startMs": 4280
         },
         {
           "text": "(B) He's wiping down the counter.",
-          "translation": "(B) Anh ấy đang lau chùi quầy."
+          "translation": "(B) Anh ấy đang lau chùi quầy.",
+          "startMs": 8028
         },
         {
           "text": "(C) He's wearing a hat.",
-          "translation": "(C) Anh ấy đang đội mũ."
+          "translation": "(C) Anh ấy đang đội mũ.",
+          "startMs": 11783
         },
         {
           "text": "(D) He's holding a mug.",
-          "translation": "(D) Anh ấy đang cầm một cái cốc."
+          "translation": "(D) Anh ấy đang cầm một cái cốc.",
+          "startMs": 15214
         }
       ],
       "correctAnswer": null,
@@ -1535,19 +1551,23 @@
       "sentences": [
         {
           "text": "(A) Brochures have been spread out on the carpet.",
-          "translation": "(A) Các tờ rơi đã được trải ra trên thảm."
+          "translation": "(A) Các tờ rơi đã được trải ra trên thảm.",
+          "startMs": 4200
         },
         {
           "text": "(B) The man is arranging cushions on a sofa.",
-          "translation": "(B) Người đàn ông đang sắp xếp các tấm đệm trên ghế sofa."
+          "translation": "(B) Người đàn ông đang sắp xếp các tấm đệm trên ghế sofa.",
+          "startMs": 7880
         },
         {
           "text": "(C) A suitcase has been placed on the floor.",
-          "translation": "(C) Một chiếc vali đã được đặt trên sàn."
+          "translation": "(C) Một chiếc vali đã được đặt trên sàn.",
+          "startMs": 11800
         },
         {
           "text": "(D) The man is posting a notice on the board.",
-          "translation": "(D) Người đàn ông đang dán một thông báo lên bảng."
+          "translation": "(D) Người đàn ông đang dán một thông báo lên bảng.",
+          "startMs": 15400
         }
       ],
       "correctAnswer": null,
@@ -1994,19 +2014,23 @@
       "sentences": [
         {
           "text": "(A) A worker is wrapping a pallet.",
-          "translation": "(A) Một công nhân đang quấn một pallet."
+          "translation": "(A) Một công nhân đang quấn một pallet.",
+          "startMs": 4280
         },
         {
           "text": "(B) Some crates are being stacked outdoors.",
-          "translation": "(B) Một số thùng đang được xếp chồng ngoài trời."
+          "translation": "(B) Một số thùng đang được xếp chồng ngoài trời.",
+          "startMs": 7886
         },
         {
           "text": "(C) A man is sweeping the warehouse floor.",
-          "translation": "(C) Một người đàn ông đang quét sàn nhà kho."
+          "translation": "(C) Một người đàn ông đang quét sàn nhà kho.",
+          "startMs": 11904
         },
         {
           "text": "(D) A worker is driving a forklift.",
-          "translation": "(D) Một công nhân đang lái xe nâng."
+          "translation": "(D) Một công nhân đang lái xe nâng.",
+          "startMs": 15725
         }
       ],
       "correctAnswer": null,
