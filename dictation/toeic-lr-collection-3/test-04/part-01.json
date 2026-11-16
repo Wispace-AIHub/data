@@ -1,0 +1,2541 @@
+{
+  "collection": "TOEIC LR Collection 3",
+  "test": 4,
+  "part": 1,
+  "questions": [
+    {
+      "number": 1,
+      "problemId": "1169783",
+      "sentences": [
+        {
+          "text": "(A) Some cabinet doors have been left open.",
+          "translation": "(A) Một số cánh cửa tủ đã bị để mở."
+        },
+        {
+          "text": "(B) The woman is arranging some plants.",
+          "translation": "(B) Người phụ nữ đang sắp xếp một số cây."
+        },
+        {
+          "text": "(C) Some plants have been placed on a shelf.",
+          "translation": "(C) Một số cây đã được đặt trên kệ."
+        },
+        {
+          "text": "(D) The woman is leaning against a wall.",
+          "translation": "(D) Người phụ nữ đang dựa vào tường."
+        }
+      ],
+      "correctAnswer": null,
+      "audioUrl": "/media/new_toeic_tests/new_toeic_updated_3/toeic-lr-collection-3-test-4/audios/1_audio.0d841b90.mp3",
+      "exercises": [
+        {
+          "generator": "local-word-mask-v1",
+          "mode": "medium",
+          "sentenceIndex": 0,
+          "offsetUnit": "utf16",
+          "maskedText": "(A) _____ cabinet doors _____ been _____ open.",
+          "blanks": [
+            {
+              "start": 4,
+              "end": 8,
+              "answer": "Some"
+            },
+            {
+              "start": 23,
+              "end": 27,
+              "answer": "have"
+            },
+            {
+              "start": 33,
+              "end": 37,
+              "answer": "left"
+            }
+          ]
+        },
+        {
+          "generator": "local-word-mask-v1",
+          "mode": "hard",
+          "sentenceIndex": 0,
+          "offsetUnit": "utf16",
+          "maskedText": "(A) _____ _____ doors _____ been _____ open.",
+          "blanks": [
+            {
+              "start": 4,
+              "end": 8,
+              "answer": "Some"
+            },
+            {
+              "start": 9,
+              "end": 16,
+              "answer": "cabinet"
+            },
+            {
+              "start": 23,
+              "end": 27,
+              "answer": "have"
+            },
+            {
+              "start": 33,
+              "end": 37,
+              "answer": "left"
+            }
+          ]
+        },
+        {
+          "generator": "local-word-mask-v1",
+          "mode": "full",
+          "sentenceIndex": 0,
+          "offsetUnit": "utf16",
+          "maskedText": "(A) _____ _____ _____ _____ _____ _____ _____.",
+          "blanks": [
+            {
+              "start": 4,
+              "end": 8,
+              "answer": "Some"
+            },
+            {
+              "start": 9,
+              "end": 16,
+              "answer": "cabinet"
+            },
+            {
+              "start": 17,
+              "end": 22,
+              "answer": "doors"
+            },
+            {
+              "start": 23,
+              "end": 27,
+              "answer": "have"
+            },
+            {
+              "start": 28,
+              "end": 32,
+              "answer": "been"
+            },
+            {
+              "start": 33,
+              "end": 37,
+              "answer": "left"
+            },
+            {
+              "start": 38,
+              "end": 42,
+              "answer": "open"
+            }
+          ]
+        },
+        {
+          "generator": "local-word-mask-v1",
+          "mode": "medium",
+          "sentenceIndex": 1,
+          "offsetUnit": "utf16",
+          "maskedText": "(B) _____ woman _____ arranging some plants.",
+          "blanks": [
+            {
+              "start": 4,
+              "end": 7,
+              "answer": "The"
+            },
+            {
+              "start": 14,
+              "end": 16,
+              "answer": "is"
+            }
+          ]
+        },
+        {
+          "generator": "local-word-mask-v1",
+          "mode": "hard",
+          "sentenceIndex": 1,
+          "offsetUnit": "utf16",
+          "maskedText": "(B) _____ _____ _____ arranging some _____.",
+          "blanks": [
+            {
+              "start": 4,
+              "end": 7,
+              "answer": "The"
+            },
+            {
+              "start": 8,
+              "end": 13,
+              "answer": "woman"
+            },
+            {
+              "start": 14,
+              "end": 16,
+              "answer": "is"
+            },
+            {
+              "start": 32,
+              "end": 38,
+              "answer": "plants"
+            }
+          ]
+        },
+        {
+          "generator": "local-word-mask-v1",
+          "mode": "full",
+          "sentenceIndex": 1,
+          "offsetUnit": "utf16",
+          "maskedText": "(B) _____ _____ _____ _____ _____ _____.",
+          "blanks": [
+            {
+              "start": 4,
+              "end": 7,
+              "answer": "The"
+            },
+            {
+              "start": 8,
+              "end": 13,
+              "answer": "woman"
+            },
+            {
+              "start": 14,
+              "end": 16,
+              "answer": "is"
+            },
+            {
+              "start": 17,
+              "end": 26,
+              "answer": "arranging"
+            },
+            {
+              "start": 27,
+              "end": 31,
+              "answer": "some"
+            },
+            {
+              "start": 32,
+              "end": 38,
+              "answer": "plants"
+            }
+          ]
+        },
+        {
+          "generator": "local-word-mask-v1",
+          "mode": "medium",
+          "sentenceIndex": 2,
+          "offsetUnit": "utf16",
+          "maskedText": "(C) _____ _____ have been placed _____ a shelf.",
+          "blanks": [
+            {
+              "start": 4,
+              "end": 8,
+              "answer": "Some"
+            },
+            {
+              "start": 9,
+              "end": 15,
+              "answer": "plants"
+            },
+            {
+              "start": 33,
+              "end": 35,
+              "answer": "on"
+            }
+          ]
+        },
+        {
+          "generator": "local-word-mask-v1",
+          "mode": "hard",
+          "sentenceIndex": 2,
+          "offsetUnit": "utf16",
+          "maskedText": "(C) _____ _____ _____ been placed _____ a _____.",
+          "blanks": [
+            {
+              "start": 4,
+              "end": 8,
+              "answer": "Some"
+            },
+            {
+              "start": 9,
+              "end": 15,
+              "answer": "plants"
+            },
+            {
+              "start": 16,
+              "end": 20,
+              "answer": "have"
+            },
+            {
+              "start": 33,
+              "end": 35,
+              "answer": "on"
+            },
+            {
+              "start": 38,
+              "end": 43,
+              "answer": "shelf"
+            }
+          ]
+        },
+        {
+          "generator": "local-word-mask-v1",
+          "mode": "full",
+          "sentenceIndex": 2,
+          "offsetUnit": "utf16",
+          "maskedText": "(C) _____ _____ _____ _____ _____ _____ _____ _____.",
+          "blanks": [
+            {
+              "start": 4,
+              "end": 8,
+              "answer": "Some"
+            },
+            {
+              "start": 9,
+              "end": 15,
+              "answer": "plants"
+            },
+            {
+              "start": 16,
+              "end": 20,
+              "answer": "have"
+            },
+            {
+              "start": 21,
+              "end": 25,
+              "answer": "been"
+            },
+            {
+              "start": 26,
+              "end": 32,
+              "answer": "placed"
+            },
+            {
+              "start": 33,
+              "end": 35,
+              "answer": "on"
+            },
+            {
+              "start": 36,
+              "end": 37,
+              "answer": "a"
+            },
+            {
+              "start": 38,
+              "end": 43,
+              "answer": "shelf"
+            }
+          ]
+        },
+        {
+          "generator": "local-word-mask-v1",
+          "mode": "medium",
+          "sentenceIndex": 3,
+          "offsetUnit": "utf16",
+          "maskedText": "(D) _____ woman _____ _____ against a wall.",
+          "blanks": [
+            {
+              "start": 4,
+              "end": 7,
+              "answer": "The"
+            },
+            {
+              "start": 14,
+              "end": 16,
+              "answer": "is"
+            },
+            {
+              "start": 17,
+              "end": 24,
+              "answer": "leaning"
+            }
+          ]
+        },
+        {
+          "generator": "local-word-mask-v1",
+          "mode": "hard",
+          "sentenceIndex": 3,
+          "offsetUnit": "utf16",
+          "maskedText": "(D) _____ woman _____ _____ against a _____.",
+          "blanks": [
+            {
+              "start": 4,
+              "end": 7,
+              "answer": "The"
+            },
+            {
+              "start": 14,
+              "end": 16,
+              "answer": "is"
+            },
+            {
+              "start": 17,
+              "end": 24,
+              "answer": "leaning"
+            },
+            {
+              "start": 35,
+              "end": 39,
+              "answer": "wall"
+            }
+          ]
+        },
+        {
+          "generator": "local-word-mask-v1",
+          "mode": "full",
+          "sentenceIndex": 3,
+          "offsetUnit": "utf16",
+          "maskedText": "(D) _____ _____ _____ _____ _____ _____ _____.",
+          "blanks": [
+            {
+              "start": 4,
+              "end": 7,
+              "answer": "The"
+            },
+            {
+              "start": 8,
+              "end": 13,
+              "answer": "woman"
+            },
+            {
+              "start": 14,
+              "end": 16,
+              "answer": "is"
+            },
+            {
+              "start": 17,
+              "end": 24,
+              "answer": "leaning"
+            },
+            {
+              "start": 25,
+              "end": 32,
+              "answer": "against"
+            },
+            {
+              "start": 33,
+              "end": 34,
+              "answer": "a"
+            },
+            {
+              "start": 35,
+              "end": 39,
+              "answer": "wall"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "problemId": "1169784",
+      "sentences": [
+        {
+          "text": "(A) One of the women is pouring a drink.",
+          "translation": "(A) Một trong những người phụ nữ đang rót đồ uống."
+        },
+        {
+          "text": "(B) The people are looking at menus.",
+          "translation": "(B) Mọi người đang nhìn thực đơn."
+        },
+        {
+          "text": "(C) The people are raising their glasses.",
+          "translation": "(C) Mọi người đang nâng ly."
+        },
+        {
+          "text": "(D) The man is folding a napkin.",
+          "translation": "(D) Người đàn ông đang gấp khăn ăn."
+        }
+      ],
+      "correctAnswer": null,
+      "audioUrl": "/media/new_toeic_tests/new_toeic_updated_3/toeic-lr-collection-3-test-4/audios/2_audio.742f2834.mp3",
+      "exercises": [
+        {
+          "generator": "local-word-mask-v1",
+          "mode": "medium",
+          "sentenceIndex": 0,
+          "offsetUnit": "utf16",
+          "maskedText": "(A) _____ of _____ women is pouring a _____.",
+          "blanks": [
+            {
+              "start": 4,
+              "end": 7,
+              "answer": "One"
+            },
+            {
+              "start": 11,
+              "end": 14,
+              "answer": "the"
+            },
+            {
+              "start": 34,
+              "end": 39,
+              "answer": "drink"
+            }
+          ]
+        },
+        {
+          "generator": "local-word-mask-v1",
+          "mode": "hard",
+          "sentenceIndex": 0,
+          "offsetUnit": "utf16",
+          "maskedText": "(A) _____ of _____ women _____ _____ a _____.",
+          "blanks": [
+            {
+              "start": 4,
+              "end": 7,
+              "answer": "One"
+            },
+            {
+              "start": 11,
+              "end": 14,
+              "answer": "the"
+            },
+            {
+              "start": 21,
+              "end": 23,
+              "answer": "is"
+            },
+            {
+              "start": 24,
+              "end": 31,
+              "answer": "pouring"
+            },
+            {
+              "start": 34,
+              "end": 39,
+              "answer": "drink"
+            }
+          ]
+        },
+        {
+          "generator": "local-word-mask-v1",
+          "mode": "full",
+          "sentenceIndex": 0,
+          "offsetUnit": "utf16",
+          "maskedText": "(A) _____ _____ _____ _____ _____ _____ _____ _____.",
+          "blanks": [
+            {
+              "start": 4,
+              "end": 7,
+              "answer": "One"
+            },
+            {
+              "start": 8,
+              "end": 10,
+              "answer": "of"
+            },
+            {
+              "start": 11,
+              "end": 14,
+              "answer": "the"
+            },
+            {
+              "start": 15,
+              "end": 20,
+              "answer": "women"
+            },
+            {
+              "start": 21,
+              "end": 23,
+              "answer": "is"
+            },
+            {
+              "start": 24,
+              "end": 31,
+              "answer": "pouring"
+            },
+            {
+              "start": 32,
+              "end": 33,
+              "answer": "a"
+            },
+            {
+              "start": 34,
+              "end": 39,
+              "answer": "drink"
+            }
+          ]
+        },
+        {
+          "generator": "local-word-mask-v1",
+          "mode": "medium",
+          "sentenceIndex": 1,
+          "offsetUnit": "utf16",
+          "maskedText": "(B) The _____ are looking _____ menus.",
+          "blanks": [
+            {
+              "start": 8,
+              "end": 14,
+              "answer": "people"
+            },
+            {
+              "start": 27,
+              "end": 29,
+              "answer": "at"
+            }
+          ]
+        },
+        {
+          "generator": "local-word-mask-v1",
+          "mode": "hard",
+          "sentenceIndex": 1,
+          "offsetUnit": "utf16",
+          "maskedText": "(B) The _____ are _____ _____ _____.",
+          "blanks": [
+            {
+              "start": 8,
+              "end": 14,
+              "answer": "people"
+            },
+            {
+              "start": 19,
+              "end": 26,
+              "answer": "looking"
+            },
+            {
+              "start": 27,
+              "end": 29,
+              "answer": "at"
+            },
+            {
+              "start": 30,
+              "end": 35,
+              "answer": "menus"
+            }
+          ]
+        },
+        {
+          "generator": "local-word-mask-v1",
+          "mode": "full",
+          "sentenceIndex": 1,
+          "offsetUnit": "utf16",
+          "maskedText": "(B) _____ _____ _____ _____ _____ _____.",
+          "blanks": [
+            {
+              "start": 4,
+              "end": 7,
+              "answer": "The"
+            },
+            {
+              "start": 8,
+              "end": 14,
+              "answer": "people"
+            },
+            {
+              "start": 15,
+              "end": 18,
+              "answer": "are"
+            },
+            {
+              "start": 19,
+              "end": 26,
+              "answer": "looking"
+            },
+            {
+              "start": 27,
+              "end": 29,
+              "answer": "at"
+            },
+            {
+              "start": 30,
+              "end": 35,
+              "answer": "menus"
+            }
+          ]
+        },
+        {
+          "generator": "local-word-mask-v1",
+          "mode": "medium",
+          "sentenceIndex": 2,
+          "offsetUnit": "utf16",
+          "maskedText": "(C) The _____ are raising their _____.",
+          "blanks": [
+            {
+              "start": 8,
+              "end": 14,
+              "answer": "people"
+            },
+            {
+              "start": 33,
+              "end": 40,
+              "answer": "glasses"
+            }
+          ]
+        },
+        {
+          "generator": "local-word-mask-v1",
+          "mode": "hard",
+          "sentenceIndex": 2,
+          "offsetUnit": "utf16",
+          "maskedText": "(C) _____ _____ _____ raising their _____.",
+          "blanks": [
+            {
+              "start": 4,
+              "end": 7,
+              "answer": "The"
+            },
+            {
+              "start": 8,
+              "end": 14,
+              "answer": "people"
+            },
+            {
+              "start": 15,
+              "end": 18,
+              "answer": "are"
+            },
+            {
+              "start": 33,
+              "end": 40,
+              "answer": "glasses"
+            }
+          ]
+        },
+        {
+          "generator": "local-word-mask-v1",
+          "mode": "full",
+          "sentenceIndex": 2,
+          "offsetUnit": "utf16",
+          "maskedText": "(C) _____ _____ _____ _____ _____ _____.",
+          "blanks": [
+            {
+              "start": 4,
+              "end": 7,
+              "answer": "The"
+            },
+            {
+              "start": 8,
+              "end": 14,
+              "answer": "people"
+            },
+            {
+              "start": 15,
+              "end": 18,
+              "answer": "are"
+            },
+            {
+              "start": 19,
+              "end": 26,
+              "answer": "raising"
+            },
+            {
+              "start": 27,
+              "end": 32,
+              "answer": "their"
+            },
+            {
+              "start": 33,
+              "end": 40,
+              "answer": "glasses"
+            }
+          ]
+        },
+        {
+          "generator": "local-word-mask-v1",
+          "mode": "medium",
+          "sentenceIndex": 3,
+          "offsetUnit": "utf16",
+          "maskedText": "(D) The man is folding _____ _____.",
+          "blanks": [
+            {
+              "start": 23,
+              "end": 24,
+              "answer": "a"
+            },
+            {
+              "start": 25,
+              "end": 31,
+              "answer": "napkin"
+            }
+          ]
+        },
+        {
+          "generator": "local-word-mask-v1",
+          "mode": "hard",
+          "sentenceIndex": 3,
+          "offsetUnit": "utf16",
+          "maskedText": "(D) The man _____ _____ _____ _____.",
+          "blanks": [
+            {
+              "start": 12,
+              "end": 14,
+              "answer": "is"
+            },
+            {
+              "start": 15,
+              "end": 22,
+              "answer": "folding"
+            },
+            {
+              "start": 23,
+              "end": 24,
+              "answer": "a"
+            },
+            {
+              "start": 25,
+              "end": 31,
+              "answer": "napkin"
+            }
+          ]
+        },
+        {
+          "generator": "local-word-mask-v1",
+          "mode": "full",
+          "sentenceIndex": 3,
+          "offsetUnit": "utf16",
+          "maskedText": "(D) _____ _____ _____ _____ _____ _____.",
+          "blanks": [
+            {
+              "start": 4,
+              "end": 7,
+              "answer": "The"
+            },
+            {
+              "start": 8,
+              "end": 11,
+              "answer": "man"
+            },
+            {
+              "start": 12,
+              "end": 14,
+              "answer": "is"
+            },
+            {
+              "start": 15,
+              "end": 22,
+              "answer": "folding"
+            },
+            {
+              "start": 23,
+              "end": 24,
+              "answer": "a"
+            },
+            {
+              "start": 25,
+              "end": 31,
+              "answer": "napkin"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "problemId": "1169785",
+      "sentences": [
+        {
+          "text": "(A) One of the men is drinking from a cup.",
+          "translation": "(A) Một trong những người đàn ông đang uống từ cốc."
+        },
+        {
+          "text": "(B) One of the women is talking on a phone.",
+          "translation": "(B) Một trong những người phụ nữ đang nói chuyện qua điện thoại."
+        },
+        {
+          "text": "(C) Some passengers are waiting in line.",
+          "translation": "(C) Một số hành khách đang xếp hàng chờ."
+        },
+        {
+          "text": "(D) An attendant is helping a passenger at the counter.",
+          "translation": "(D) Một nhân viên đang giúp một hành khách tại quầy."
+        }
+      ],
+      "correctAnswer": null,
+      "audioUrl": "/media/new_toeic_tests/new_toeic_updated_3/toeic-lr-collection-3-test-4/audios/3_audio.e7362706.mp3",
+      "exercises": [
+        {
+          "generator": "local-word-mask-v1",
+          "mode": "medium",
+          "sentenceIndex": 0,
+          "offsetUnit": "utf16",
+          "maskedText": "(A) One of _____ men is drinking from _____ _____.",
+          "blanks": [
+            {
+              "start": 11,
+              "end": 14,
+              "answer": "the"
+            },
+            {
+              "start": 36,
+              "end": 37,
+              "answer": "a"
+            },
+            {
+              "start": 38,
+              "end": 41,
+              "answer": "cup"
+            }
+          ]
+        },
+        {
+          "generator": "local-word-mask-v1",
+          "mode": "hard",
+          "sentenceIndex": 0,
+          "offsetUnit": "utf16",
+          "maskedText": "(A) _____ of _____ men is drinking _____ _____ _____.",
+          "blanks": [
+            {
+              "start": 4,
+              "end": 7,
+              "answer": "One"
+            },
+            {
+              "start": 11,
+              "end": 14,
+              "answer": "the"
+            },
+            {
+              "start": 31,
+              "end": 35,
+              "answer": "from"
+            },
+            {
+              "start": 36,
+              "end": 37,
+              "answer": "a"
+            },
+            {
+              "start": 38,
+              "end": 41,
+              "answer": "cup"
+            }
+          ]
+        },
+        {
+          "generator": "local-word-mask-v1",
+          "mode": "full",
+          "sentenceIndex": 0,
+          "offsetUnit": "utf16",
+          "maskedText": "(A) _____ _____ _____ _____ _____ _____ _____ _____ _____.",
+          "blanks": [
+            {
+              "start": 4,
+              "end": 7,
+              "answer": "One"
+            },
+            {
+              "start": 8,
+              "end": 10,
+              "answer": "of"
+            },
+            {
+              "start": 11,
+              "end": 14,
+              "answer": "the"
+            },
+            {
+              "start": 15,
+              "end": 18,
+              "answer": "men"
+            },
+            {
+              "start": 19,
+              "end": 21,
+              "answer": "is"
+            },
+            {
+              "start": 22,
+              "end": 30,
+              "answer": "drinking"
+            },
+            {
+              "start": 31,
+              "end": 35,
+              "answer": "from"
+            },
+            {
+              "start": 36,
+              "end": 37,
+              "answer": "a"
+            },
+            {
+              "start": 38,
+              "end": 41,
+              "answer": "cup"
+            }
+          ]
+        },
+        {
+          "generator": "local-word-mask-v1",
+          "mode": "medium",
+          "sentenceIndex": 1,
+          "offsetUnit": "utf16",
+          "maskedText": "(B) One of _____ women is talking _____ _____ phone.",
+          "blanks": [
+            {
+              "start": 11,
+              "end": 14,
+              "answer": "the"
+            },
+            {
+              "start": 32,
+              "end": 34,
+              "answer": "on"
+            },
+            {
+              "start": 35,
+              "end": 36,
+              "answer": "a"
+            }
+          ]
+        },
+        {
+          "generator": "local-word-mask-v1",
+          "mode": "hard",
+          "sentenceIndex": 1,
+          "offsetUnit": "utf16",
+          "maskedText": "(B) _____ of _____ women is _____ _____ _____ phone.",
+          "blanks": [
+            {
+              "start": 4,
+              "end": 7,
+              "answer": "One"
+            },
+            {
+              "start": 11,
+              "end": 14,
+              "answer": "the"
+            },
+            {
+              "start": 24,
+              "end": 31,
+              "answer": "talking"
+            },
+            {
+              "start": 32,
+              "end": 34,
+              "answer": "on"
+            },
+            {
+              "start": 35,
+              "end": 36,
+              "answer": "a"
+            }
+          ]
+        },
+        {
+          "generator": "local-word-mask-v1",
+          "mode": "full",
+          "sentenceIndex": 1,
+          "offsetUnit": "utf16",
+          "maskedText": "(B) _____ _____ _____ _____ _____ _____ _____ _____ _____.",
+          "blanks": [
+            {
+              "start": 4,
+              "end": 7,
+              "answer": "One"
+            },
+            {
+              "start": 8,
+              "end": 10,
+              "answer": "of"
+            },
+            {
+              "start": 11,
+              "end": 14,
+              "answer": "the"
+            },
+            {
+              "start": 15,
+              "end": 20,
+              "answer": "women"
+            },
+            {
+              "start": 21,
+              "end": 23,
+              "answer": "is"
+            },
+            {
+              "start": 24,
+              "end": 31,
+              "answer": "talking"
+            },
+            {
+              "start": 32,
+              "end": 34,
+              "answer": "on"
+            },
+            {
+              "start": 35,
+              "end": 36,
+              "answer": "a"
+            },
+            {
+              "start": 37,
+              "end": 42,
+              "answer": "phone"
+            }
+          ]
+        },
+        {
+          "generator": "local-word-mask-v1",
+          "mode": "medium",
+          "sentenceIndex": 2,
+          "offsetUnit": "utf16",
+          "maskedText": "(C) Some passengers _____ _____ in line.",
+          "blanks": [
+            {
+              "start": 20,
+              "end": 23,
+              "answer": "are"
+            },
+            {
+              "start": 24,
+              "end": 31,
+              "answer": "waiting"
+            }
+          ]
+        },
+        {
+          "generator": "local-word-mask-v1",
+          "mode": "hard",
+          "sentenceIndex": 2,
+          "offsetUnit": "utf16",
+          "maskedText": "(C) _____ passengers _____ _____ _____ line.",
+          "blanks": [
+            {
+              "start": 4,
+              "end": 8,
+              "answer": "Some"
+            },
+            {
+              "start": 20,
+              "end": 23,
+              "answer": "are"
+            },
+            {
+              "start": 24,
+              "end": 31,
+              "answer": "waiting"
+            },
+            {
+              "start": 32,
+              "end": 34,
+              "answer": "in"
+            }
+          ]
+        },
+        {
+          "generator": "local-word-mask-v1",
+          "mode": "full",
+          "sentenceIndex": 2,
+          "offsetUnit": "utf16",
+          "maskedText": "(C) _____ _____ _____ _____ _____ _____.",
+          "blanks": [
+            {
+              "start": 4,
+              "end": 8,
+              "answer": "Some"
+            },
+            {
+              "start": 9,
+              "end": 19,
+              "answer": "passengers"
+            },
+            {
+              "start": 20,
+              "end": 23,
+              "answer": "are"
+            },
+            {
+              "start": 24,
+              "end": 31,
+              "answer": "waiting"
+            },
+            {
+              "start": 32,
+              "end": 34,
+              "answer": "in"
+            },
+            {
+              "start": 35,
+              "end": 39,
+              "answer": "line"
+            }
+          ]
+        },
+        {
+          "generator": "local-word-mask-v1",
+          "mode": "medium",
+          "sentenceIndex": 3,
+          "offsetUnit": "utf16",
+          "maskedText": "(D) _____ attendant is _____ a passenger _____ the counter.",
+          "blanks": [
+            {
+              "start": 4,
+              "end": 6,
+              "answer": "An"
+            },
+            {
+              "start": 20,
+              "end": 27,
+              "answer": "helping"
+            },
+            {
+              "start": 40,
+              "end": 42,
+              "answer": "at"
+            }
+          ]
+        },
+        {
+          "generator": "local-word-mask-v1",
+          "mode": "hard",
+          "sentenceIndex": 3,
+          "offsetUnit": "utf16",
+          "maskedText": "(D) _____ _____ is _____ a passenger _____ _____ counter.",
+          "blanks": [
+            {
+              "start": 4,
+              "end": 6,
+              "answer": "An"
+            },
+            {
+              "start": 7,
+              "end": 16,
+              "answer": "attendant"
+            },
+            {
+              "start": 20,
+              "end": 27,
+              "answer": "helping"
+            },
+            {
+              "start": 40,
+              "end": 42,
+              "answer": "at"
+            },
+            {
+              "start": 43,
+              "end": 46,
+              "answer": "the"
+            }
+          ]
+        },
+        {
+          "generator": "local-word-mask-v1",
+          "mode": "full",
+          "sentenceIndex": 3,
+          "offsetUnit": "utf16",
+          "maskedText": "(D) _____ _____ _____ _____ _____ _____ _____ _____ _____.",
+          "blanks": [
+            {
+              "start": 4,
+              "end": 6,
+              "answer": "An"
+            },
+            {
+              "start": 7,
+              "end": 16,
+              "answer": "attendant"
+            },
+            {
+              "start": 17,
+              "end": 19,
+              "answer": "is"
+            },
+            {
+              "start": 20,
+              "end": 27,
+              "answer": "helping"
+            },
+            {
+              "start": 28,
+              "end": 29,
+              "answer": "a"
+            },
+            {
+              "start": 30,
+              "end": 39,
+              "answer": "passenger"
+            },
+            {
+              "start": 40,
+              "end": 42,
+              "answer": "at"
+            },
+            {
+              "start": 43,
+              "end": 46,
+              "answer": "the"
+            },
+            {
+              "start": 47,
+              "end": 54,
+              "answer": "counter"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "problemId": "1169786",
+      "sentences": [
+        {
+          "text": "(A) Some people are carrying boxes onto a boat.",
+          "translation": "(A) Một số người đang khiêng hộp lên thuyền."
+        },
+        {
+          "text": "(B) Some workers are cleaning a railing.",
+          "translation": "(B) Một số công nhân đang lau chùi lan can."
+        },
+        {
+          "text": "(C) A net is being unrolled on a deck.",
+          "translation": "(C) Một tấm lưới đang được trải ra trên boong tàu."
+        },
+        {
+          "text": "(D) A boat is being tied to a dock.",
+          "translation": "(D) Một con thuyền đang được buộc vào bến tàu."
+        }
+      ],
+      "correctAnswer": null,
+      "audioUrl": "/media/new_toeic_tests/new_toeic_updated_3/toeic-lr-collection-3-test-4/audios/4_audio.44e973b8.mp3",
+      "exercises": [
+        {
+          "generator": "local-word-mask-v1",
+          "mode": "medium",
+          "sentenceIndex": 0,
+          "offsetUnit": "utf16",
+          "maskedText": "(A) _____ _____ are carrying boxes onto _____ boat.",
+          "blanks": [
+            {
+              "start": 4,
+              "end": 8,
+              "answer": "Some"
+            },
+            {
+              "start": 9,
+              "end": 15,
+              "answer": "people"
+            },
+            {
+              "start": 40,
+              "end": 41,
+              "answer": "a"
+            }
+          ]
+        },
+        {
+          "generator": "local-word-mask-v1",
+          "mode": "hard",
+          "sentenceIndex": 0,
+          "offsetUnit": "utf16",
+          "maskedText": "(A) _____ _____ _____ carrying boxes _____ _____ boat.",
+          "blanks": [
+            {
+              "start": 4,
+              "end": 8,
+              "answer": "Some"
+            },
+            {
+              "start": 9,
+              "end": 15,
+              "answer": "people"
+            },
+            {
+              "start": 16,
+              "end": 19,
+              "answer": "are"
+            },
+            {
+              "start": 35,
+              "end": 39,
+              "answer": "onto"
+            },
+            {
+              "start": 40,
+              "end": 41,
+              "answer": "a"
+            }
+          ]
+        },
+        {
+          "generator": "local-word-mask-v1",
+          "mode": "full",
+          "sentenceIndex": 0,
+          "offsetUnit": "utf16",
+          "maskedText": "(A) _____ _____ _____ _____ _____ _____ _____ _____.",
+          "blanks": [
+            {
+              "start": 4,
+              "end": 8,
+              "answer": "Some"
+            },
+            {
+              "start": 9,
+              "end": 15,
+              "answer": "people"
+            },
+            {
+              "start": 16,
+              "end": 19,
+              "answer": "are"
+            },
+            {
+              "start": 20,
+              "end": 28,
+              "answer": "carrying"
+            },
+            {
+              "start": 29,
+              "end": 34,
+              "answer": "boxes"
+            },
+            {
+              "start": 35,
+              "end": 39,
+              "answer": "onto"
+            },
+            {
+              "start": 40,
+              "end": 41,
+              "answer": "a"
+            },
+            {
+              "start": 42,
+              "end": 46,
+              "answer": "boat"
+            }
+          ]
+        },
+        {
+          "generator": "local-word-mask-v1",
+          "mode": "medium",
+          "sentenceIndex": 1,
+          "offsetUnit": "utf16",
+          "maskedText": "(B) Some _____ _____ cleaning a railing.",
+          "blanks": [
+            {
+              "start": 9,
+              "end": 16,
+              "answer": "workers"
+            },
+            {
+              "start": 17,
+              "end": 20,
+              "answer": "are"
+            }
+          ]
+        },
+        {
+          "generator": "local-word-mask-v1",
+          "mode": "hard",
+          "sentenceIndex": 1,
+          "offsetUnit": "utf16",
+          "maskedText": "(B) _____ _____ _____ _____ a railing.",
+          "blanks": [
+            {
+              "start": 4,
+              "end": 8,
+              "answer": "Some"
+            },
+            {
+              "start": 9,
+              "end": 16,
+              "answer": "workers"
+            },
+            {
+              "start": 17,
+              "end": 20,
+              "answer": "are"
+            },
+            {
+              "start": 21,
+              "end": 29,
+              "answer": "cleaning"
+            }
+          ]
+        },
+        {
+          "generator": "local-word-mask-v1",
+          "mode": "full",
+          "sentenceIndex": 1,
+          "offsetUnit": "utf16",
+          "maskedText": "(B) _____ _____ _____ _____ _____ _____.",
+          "blanks": [
+            {
+              "start": 4,
+              "end": 8,
+              "answer": "Some"
+            },
+            {
+              "start": 9,
+              "end": 16,
+              "answer": "workers"
+            },
+            {
+              "start": 17,
+              "end": 20,
+              "answer": "are"
+            },
+            {
+              "start": 21,
+              "end": 29,
+              "answer": "cleaning"
+            },
+            {
+              "start": 30,
+              "end": 31,
+              "answer": "a"
+            },
+            {
+              "start": 32,
+              "end": 39,
+              "answer": "railing"
+            }
+          ]
+        },
+        {
+          "generator": "local-word-mask-v1",
+          "mode": "medium",
+          "sentenceIndex": 2,
+          "offsetUnit": "utf16",
+          "maskedText": "(C) _____ net is being unrolled _____ _____ deck.",
+          "blanks": [
+            {
+              "start": 4,
+              "end": 5,
+              "answer": "A"
+            },
+            {
+              "start": 28,
+              "end": 30,
+              "answer": "on"
+            },
+            {
+              "start": 31,
+              "end": 32,
+              "answer": "a"
+            }
+          ]
+        },
+        {
+          "generator": "local-word-mask-v1",
+          "mode": "hard",
+          "sentenceIndex": 2,
+          "offsetUnit": "utf16",
+          "maskedText": "(C) _____ net is _____ unrolled _____ _____ _____.",
+          "blanks": [
+            {
+              "start": 4,
+              "end": 5,
+              "answer": "A"
+            },
+            {
+              "start": 13,
+              "end": 18,
+              "answer": "being"
+            },
+            {
+              "start": 28,
+              "end": 30,
+              "answer": "on"
+            },
+            {
+              "start": 31,
+              "end": 32,
+              "answer": "a"
+            },
+            {
+              "start": 33,
+              "end": 37,
+              "answer": "deck"
+            }
+          ]
+        },
+        {
+          "generator": "local-word-mask-v1",
+          "mode": "full",
+          "sentenceIndex": 2,
+          "offsetUnit": "utf16",
+          "maskedText": "(C) _____ _____ _____ _____ _____ _____ _____ _____.",
+          "blanks": [
+            {
+              "start": 4,
+              "end": 5,
+              "answer": "A"
+            },
+            {
+              "start": 6,
+              "end": 9,
+              "answer": "net"
+            },
+            {
+              "start": 10,
+              "end": 12,
+              "answer": "is"
+            },
+            {
+              "start": 13,
+              "end": 18,
+              "answer": "being"
+            },
+            {
+              "start": 19,
+              "end": 27,
+              "answer": "unrolled"
+            },
+            {
+              "start": 28,
+              "end": 30,
+              "answer": "on"
+            },
+            {
+              "start": 31,
+              "end": 32,
+              "answer": "a"
+            },
+            {
+              "start": 33,
+              "end": 37,
+              "answer": "deck"
+            }
+          ]
+        },
+        {
+          "generator": "local-word-mask-v1",
+          "mode": "medium",
+          "sentenceIndex": 3,
+          "offsetUnit": "utf16",
+          "maskedText": "(D) A _____ is _____ _____ to a dock.",
+          "blanks": [
+            {
+              "start": 6,
+              "end": 10,
+              "answer": "boat"
+            },
+            {
+              "start": 14,
+              "end": 19,
+              "answer": "being"
+            },
+            {
+              "start": 20,
+              "end": 24,
+              "answer": "tied"
+            }
+          ]
+        },
+        {
+          "generator": "local-word-mask-v1",
+          "mode": "hard",
+          "sentenceIndex": 3,
+          "offsetUnit": "utf16",
+          "maskedText": "(D) A _____ _____ _____ _____ _____ a dock.",
+          "blanks": [
+            {
+              "start": 6,
+              "end": 10,
+              "answer": "boat"
+            },
+            {
+              "start": 11,
+              "end": 13,
+              "answer": "is"
+            },
+            {
+              "start": 14,
+              "end": 19,
+              "answer": "being"
+            },
+            {
+              "start": 20,
+              "end": 24,
+              "answer": "tied"
+            },
+            {
+              "start": 25,
+              "end": 27,
+              "answer": "to"
+            }
+          ]
+        },
+        {
+          "generator": "local-word-mask-v1",
+          "mode": "full",
+          "sentenceIndex": 3,
+          "offsetUnit": "utf16",
+          "maskedText": "(D) _____ _____ _____ _____ _____ _____ _____ _____.",
+          "blanks": [
+            {
+              "start": 4,
+              "end": 5,
+              "answer": "A"
+            },
+            {
+              "start": 6,
+              "end": 10,
+              "answer": "boat"
+            },
+            {
+              "start": 11,
+              "end": 13,
+              "answer": "is"
+            },
+            {
+              "start": 14,
+              "end": 19,
+              "answer": "being"
+            },
+            {
+              "start": 20,
+              "end": 24,
+              "answer": "tied"
+            },
+            {
+              "start": 25,
+              "end": 27,
+              "answer": "to"
+            },
+            {
+              "start": 28,
+              "end": 29,
+              "answer": "a"
+            },
+            {
+              "start": 30,
+              "end": 34,
+              "answer": "dock"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "problemId": "1169787",
+      "sentences": [
+        {
+          "text": "(A) They're pushing a shopping cart.",
+          "translation": "(A) Họ đang đẩy một xe đẩy hàng."
+        },
+        {
+          "text": "(B) They're carrying some bags across a parking lot.",
+          "translation": "(B) Họ đang xách một số túi băng qua bãi đậu xe."
+        },
+        {
+          "text": "(C) They're opening the doors of a vehicle.",
+          "translation": "(C) Họ đang mở cửa của một chiếc xe."
+        },
+        {
+          "text": "(D) They're looking at a sign.",
+          "translation": "(D) Họ đang nhìn vào một biển báo."
+        }
+      ],
+      "correctAnswer": null,
+      "audioUrl": "/media/new_toeic_tests/new_toeic_updated_3/toeic-lr-collection-3-test-4/audios/5_audio.948d990e.mp3",
+      "exercises": [
+        {
+          "generator": "local-word-mask-v1",
+          "mode": "medium",
+          "sentenceIndex": 0,
+          "offsetUnit": "utf16",
+          "maskedText": "(A) _____ _____ a shopping cart.",
+          "blanks": [
+            {
+              "start": 4,
+              "end": 11,
+              "answer": "They're"
+            },
+            {
+              "start": 12,
+              "end": 19,
+              "answer": "pushing"
+            }
+          ]
+        },
+        {
+          "generator": "local-word-mask-v1",
+          "mode": "hard",
+          "sentenceIndex": 0,
+          "offsetUnit": "utf16",
+          "maskedText": "(A) _____ _____ a _____ cart.",
+          "blanks": [
+            {
+              "start": 4,
+              "end": 11,
+              "answer": "They're"
+            },
+            {
+              "start": 12,
+              "end": 19,
+              "answer": "pushing"
+            },
+            {
+              "start": 22,
+              "end": 30,
+              "answer": "shopping"
+            }
+          ]
+        },
+        {
+          "generator": "local-word-mask-v1",
+          "mode": "full",
+          "sentenceIndex": 0,
+          "offsetUnit": "utf16",
+          "maskedText": "(A) _____ _____ _____ _____ _____.",
+          "blanks": [
+            {
+              "start": 4,
+              "end": 11,
+              "answer": "They're"
+            },
+            {
+              "start": 12,
+              "end": 19,
+              "answer": "pushing"
+            },
+            {
+              "start": 20,
+              "end": 21,
+              "answer": "a"
+            },
+            {
+              "start": 22,
+              "end": 30,
+              "answer": "shopping"
+            },
+            {
+              "start": 31,
+              "end": 35,
+              "answer": "cart"
+            }
+          ]
+        },
+        {
+          "generator": "local-word-mask-v1",
+          "mode": "medium",
+          "sentenceIndex": 1,
+          "offsetUnit": "utf16",
+          "maskedText": "(B) They're carrying some _____ across a _____ _____.",
+          "blanks": [
+            {
+              "start": 26,
+              "end": 30,
+              "answer": "bags"
+            },
+            {
+              "start": 40,
+              "end": 47,
+              "answer": "parking"
+            },
+            {
+              "start": 48,
+              "end": 51,
+              "answer": "lot"
+            }
+          ]
+        },
+        {
+          "generator": "local-word-mask-v1",
+          "mode": "hard",
+          "sentenceIndex": 1,
+          "offsetUnit": "utf16",
+          "maskedText": "(B) _____ carrying some _____ across _____ _____ _____.",
+          "blanks": [
+            {
+              "start": 4,
+              "end": 11,
+              "answer": "They're"
+            },
+            {
+              "start": 26,
+              "end": 30,
+              "answer": "bags"
+            },
+            {
+              "start": 38,
+              "end": 39,
+              "answer": "a"
+            },
+            {
+              "start": 40,
+              "end": 47,
+              "answer": "parking"
+            },
+            {
+              "start": 48,
+              "end": 51,
+              "answer": "lot"
+            }
+          ]
+        },
+        {
+          "generator": "local-word-mask-v1",
+          "mode": "full",
+          "sentenceIndex": 1,
+          "offsetUnit": "utf16",
+          "maskedText": "(B) _____ _____ _____ _____ _____ _____ _____ _____.",
+          "blanks": [
+            {
+              "start": 4,
+              "end": 11,
+              "answer": "They're"
+            },
+            {
+              "start": 12,
+              "end": 20,
+              "answer": "carrying"
+            },
+            {
+              "start": 21,
+              "end": 25,
+              "answer": "some"
+            },
+            {
+              "start": 26,
+              "end": 30,
+              "answer": "bags"
+            },
+            {
+              "start": 31,
+              "end": 37,
+              "answer": "across"
+            },
+            {
+              "start": 38,
+              "end": 39,
+              "answer": "a"
+            },
+            {
+              "start": 40,
+              "end": 47,
+              "answer": "parking"
+            },
+            {
+              "start": 48,
+              "end": 51,
+              "answer": "lot"
+            }
+          ]
+        },
+        {
+          "generator": "local-word-mask-v1",
+          "mode": "medium",
+          "sentenceIndex": 2,
+          "offsetUnit": "utf16",
+          "maskedText": "(C) They're opening the doors _____ _____ _____.",
+          "blanks": [
+            {
+              "start": 30,
+              "end": 32,
+              "answer": "of"
+            },
+            {
+              "start": 33,
+              "end": 34,
+              "answer": "a"
+            },
+            {
+              "start": 35,
+              "end": 42,
+              "answer": "vehicle"
+            }
+          ]
+        },
+        {
+          "generator": "local-word-mask-v1",
+          "mode": "hard",
+          "sentenceIndex": 2,
+          "offsetUnit": "utf16",
+          "maskedText": "(C) They're opening _____ doors _____ _____ _____.",
+          "blanks": [
+            {
+              "start": 20,
+              "end": 23,
+              "answer": "the"
+            },
+            {
+              "start": 30,
+              "end": 32,
+              "answer": "of"
+            },
+            {
+              "start": 33,
+              "end": 34,
+              "answer": "a"
+            },
+            {
+              "start": 35,
+              "end": 42,
+              "answer": "vehicle"
+            }
+          ]
+        },
+        {
+          "generator": "local-word-mask-v1",
+          "mode": "full",
+          "sentenceIndex": 2,
+          "offsetUnit": "utf16",
+          "maskedText": "(C) _____ _____ _____ _____ _____ _____ _____.",
+          "blanks": [
+            {
+              "start": 4,
+              "end": 11,
+              "answer": "They're"
+            },
+            {
+              "start": 12,
+              "end": 19,
+              "answer": "opening"
+            },
+            {
+              "start": 20,
+              "end": 23,
+              "answer": "the"
+            },
+            {
+              "start": 24,
+              "end": 29,
+              "answer": "doors"
+            },
+            {
+              "start": 30,
+              "end": 32,
+              "answer": "of"
+            },
+            {
+              "start": 33,
+              "end": 34,
+              "answer": "a"
+            },
+            {
+              "start": 35,
+              "end": 42,
+              "answer": "vehicle"
+            }
+          ]
+        },
+        {
+          "generator": "local-word-mask-v1",
+          "mode": "medium",
+          "sentenceIndex": 3,
+          "offsetUnit": "utf16",
+          "maskedText": "(D) _____ looking at _____ sign.",
+          "blanks": [
+            {
+              "start": 4,
+              "end": 11,
+              "answer": "They're"
+            },
+            {
+              "start": 23,
+              "end": 24,
+              "answer": "a"
+            }
+          ]
+        },
+        {
+          "generator": "local-word-mask-v1",
+          "mode": "hard",
+          "sentenceIndex": 3,
+          "offsetUnit": "utf16",
+          "maskedText": "(D) _____ looking at _____ _____.",
+          "blanks": [
+            {
+              "start": 4,
+              "end": 11,
+              "answer": "They're"
+            },
+            {
+              "start": 23,
+              "end": 24,
+              "answer": "a"
+            },
+            {
+              "start": 25,
+              "end": 29,
+              "answer": "sign"
+            }
+          ]
+        },
+        {
+          "generator": "local-word-mask-v1",
+          "mode": "full",
+          "sentenceIndex": 3,
+          "offsetUnit": "utf16",
+          "maskedText": "(D) _____ _____ _____ _____ _____.",
+          "blanks": [
+            {
+              "start": 4,
+              "end": 11,
+              "answer": "They're"
+            },
+            {
+              "start": 12,
+              "end": 19,
+              "answer": "looking"
+            },
+            {
+              "start": 20,
+              "end": 22,
+              "answer": "at"
+            },
+            {
+              "start": 23,
+              "end": 24,
+              "answer": "a"
+            },
+            {
+              "start": 25,
+              "end": 29,
+              "answer": "sign"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "problemId": "1169788",
+      "sentences": [
+        {
+          "text": "(A) The man is reaching for a stack of plates.",
+          "translation": "(A) Người đàn ông đang với lấy một chồng đĩa."
+        },
+        {
+          "text": "(B) The woman is stirring a pot on a stove.",
+          "translation": "(B) Người phụ nữ đang khuấy một nồi trên bếp."
+        },
+        {
+          "text": "(C) The man is opening the oven door.",
+          "translation": "(C) Người đàn ông đang mở cửa lò nướng."
+        },
+        {
+          "text": "(D) The woman is lifting a lid off a pot.",
+          "translation": "(D) Người phụ nữ đang nhấc nắp ra khỏi một cái nồi."
+        }
+      ],
+      "correctAnswer": null,
+      "audioUrl": "/media/new_toeic_tests/new_toeic_updated_3/toeic-lr-collection-3-test-4/audios/6_audio.f8d15aaa.mp3",
+      "exercises": [
+        {
+          "generator": "local-word-mask-v1",
+          "mode": "medium",
+          "sentenceIndex": 0,
+          "offsetUnit": "utf16",
+          "maskedText": "(A) The man is reaching for _____ stack _____ _____.",
+          "blanks": [
+            {
+              "start": 28,
+              "end": 29,
+              "answer": "a"
+            },
+            {
+              "start": 36,
+              "end": 38,
+              "answer": "of"
+            },
+            {
+              "start": 39,
+              "end": 45,
+              "answer": "plates"
+            }
+          ]
+        },
+        {
+          "generator": "local-word-mask-v1",
+          "mode": "hard",
+          "sentenceIndex": 0,
+          "offsetUnit": "utf16",
+          "maskedText": "(A) The man _____ reaching for _____ _____ _____ _____.",
+          "blanks": [
+            {
+              "start": 12,
+              "end": 14,
+              "answer": "is"
+            },
+            {
+              "start": 28,
+              "end": 29,
+              "answer": "a"
+            },
+            {
+              "start": 30,
+              "end": 35,
+              "answer": "stack"
+            },
+            {
+              "start": 36,
+              "end": 38,
+              "answer": "of"
+            },
+            {
+              "start": 39,
+              "end": 45,
+              "answer": "plates"
+            }
+          ]
+        },
+        {
+          "generator": "local-word-mask-v1",
+          "mode": "full",
+          "sentenceIndex": 0,
+          "offsetUnit": "utf16",
+          "maskedText": "(A) _____ _____ _____ _____ _____ _____ _____ _____ _____.",
+          "blanks": [
+            {
+              "start": 4,
+              "end": 7,
+              "answer": "The"
+            },
+            {
+              "start": 8,
+              "end": 11,
+              "answer": "man"
+            },
+            {
+              "start": 12,
+              "end": 14,
+              "answer": "is"
+            },
+            {
+              "start": 15,
+              "end": 23,
+              "answer": "reaching"
+            },
+            {
+              "start": 24,
+              "end": 27,
+              "answer": "for"
+            },
+            {
+              "start": 28,
+              "end": 29,
+              "answer": "a"
+            },
+            {
+              "start": 30,
+              "end": 35,
+              "answer": "stack"
+            },
+            {
+              "start": 36,
+              "end": 38,
+              "answer": "of"
+            },
+            {
+              "start": 39,
+              "end": 45,
+              "answer": "plates"
+            }
+          ]
+        },
+        {
+          "generator": "local-word-mask-v1",
+          "mode": "medium",
+          "sentenceIndex": 1,
+          "offsetUnit": "utf16",
+          "maskedText": "(B) The woman is _____ _____ pot on a _____.",
+          "blanks": [
+            {
+              "start": 17,
+              "end": 25,
+              "answer": "stirring"
+            },
+            {
+              "start": 26,
+              "end": 27,
+              "answer": "a"
+            },
+            {
+              "start": 37,
+              "end": 42,
+              "answer": "stove"
+            }
+          ]
+        },
+        {
+          "generator": "local-word-mask-v1",
+          "mode": "hard",
+          "sentenceIndex": 1,
+          "offsetUnit": "utf16",
+          "maskedText": "(B) The _____ is _____ _____ pot _____ a _____.",
+          "blanks": [
+            {
+              "start": 8,
+              "end": 13,
+              "answer": "woman"
+            },
+            {
+              "start": 17,
+              "end": 25,
+              "answer": "stirring"
+            },
+            {
+              "start": 26,
+              "end": 27,
+              "answer": "a"
+            },
+            {
+              "start": 32,
+              "end": 34,
+              "answer": "on"
+            },
+            {
+              "start": 37,
+              "end": 42,
+              "answer": "stove"
+            }
+          ]
+        },
+        {
+          "generator": "local-word-mask-v1",
+          "mode": "full",
+          "sentenceIndex": 1,
+          "offsetUnit": "utf16",
+          "maskedText": "(B) _____ _____ _____ _____ _____ _____ _____ _____ _____.",
+          "blanks": [
+            {
+              "start": 4,
+              "end": 7,
+              "answer": "The"
+            },
+            {
+              "start": 8,
+              "end": 13,
+              "answer": "woman"
+            },
+            {
+              "start": 14,
+              "end": 16,
+              "answer": "is"
+            },
+            {
+              "start": 17,
+              "end": 25,
+              "answer": "stirring"
+            },
+            {
+              "start": 26,
+              "end": 27,
+              "answer": "a"
+            },
+            {
+              "start": 28,
+              "end": 31,
+              "answer": "pot"
+            },
+            {
+              "start": 32,
+              "end": 34,
+              "answer": "on"
+            },
+            {
+              "start": 35,
+              "end": 36,
+              "answer": "a"
+            },
+            {
+              "start": 37,
+              "end": 42,
+              "answer": "stove"
+            }
+          ]
+        },
+        {
+          "generator": "local-word-mask-v1",
+          "mode": "medium",
+          "sentenceIndex": 2,
+          "offsetUnit": "utf16",
+          "maskedText": "(C) The _____ is opening _____ _____ door.",
+          "blanks": [
+            {
+              "start": 8,
+              "end": 11,
+              "answer": "man"
+            },
+            {
+              "start": 23,
+              "end": 26,
+              "answer": "the"
+            },
+            {
+              "start": 27,
+              "end": 31,
+              "answer": "oven"
+            }
+          ]
+        },
+        {
+          "generator": "local-word-mask-v1",
+          "mode": "hard",
+          "sentenceIndex": 2,
+          "offsetUnit": "utf16",
+          "maskedText": "(C) The _____ is _____ _____ _____ door.",
+          "blanks": [
+            {
+              "start": 8,
+              "end": 11,
+              "answer": "man"
+            },
+            {
+              "start": 15,
+              "end": 22,
+              "answer": "opening"
+            },
+            {
+              "start": 23,
+              "end": 26,
+              "answer": "the"
+            },
+            {
+              "start": 27,
+              "end": 31,
+              "answer": "oven"
+            }
+          ]
+        },
+        {
+          "generator": "local-word-mask-v1",
+          "mode": "full",
+          "sentenceIndex": 2,
+          "offsetUnit": "utf16",
+          "maskedText": "(C) _____ _____ _____ _____ _____ _____ _____.",
+          "blanks": [
+            {
+              "start": 4,
+              "end": 7,
+              "answer": "The"
+            },
+            {
+              "start": 8,
+              "end": 11,
+              "answer": "man"
+            },
+            {
+              "start": 12,
+              "end": 14,
+              "answer": "is"
+            },
+            {
+              "start": 15,
+              "end": 22,
+              "answer": "opening"
+            },
+            {
+              "start": 23,
+              "end": 26,
+              "answer": "the"
+            },
+            {
+              "start": 27,
+              "end": 31,
+              "answer": "oven"
+            },
+            {
+              "start": 32,
+              "end": 36,
+              "answer": "door"
+            }
+          ]
+        },
+        {
+          "generator": "local-word-mask-v1",
+          "mode": "medium",
+          "sentenceIndex": 3,
+          "offsetUnit": "utf16",
+          "maskedText": "(D) The _____ is _____ a _____ off a pot.",
+          "blanks": [
+            {
+              "start": 8,
+              "end": 13,
+              "answer": "woman"
+            },
+            {
+              "start": 17,
+              "end": 24,
+              "answer": "lifting"
+            },
+            {
+              "start": 27,
+              "end": 30,
+              "answer": "lid"
+            }
+          ]
+        },
+        {
+          "generator": "local-word-mask-v1",
+          "mode": "hard",
+          "sentenceIndex": 3,
+          "offsetUnit": "utf16",
+          "maskedText": "(D) The _____ _____ _____ a _____ off _____ pot.",
+          "blanks": [
+            {
+              "start": 8,
+              "end": 13,
+              "answer": "woman"
+            },
+            {
+              "start": 14,
+              "end": 16,
+              "answer": "is"
+            },
+            {
+              "start": 17,
+              "end": 24,
+              "answer": "lifting"
+            },
+            {
+              "start": 27,
+              "end": 30,
+              "answer": "lid"
+            },
+            {
+              "start": 35,
+              "end": 36,
+              "answer": "a"
+            }
+          ]
+        },
+        {
+          "generator": "local-word-mask-v1",
+          "mode": "full",
+          "sentenceIndex": 3,
+          "offsetUnit": "utf16",
+          "maskedText": "(D) _____ _____ _____ _____ _____ _____ _____ _____ _____.",
+          "blanks": [
+            {
+              "start": 4,
+              "end": 7,
+              "answer": "The"
+            },
+            {
+              "start": 8,
+              "end": 13,
+              "answer": "woman"
+            },
+            {
+              "start": 14,
+              "end": 16,
+              "answer": "is"
+            },
+            {
+              "start": 17,
+              "end": 24,
+              "answer": "lifting"
+            },
+            {
+              "start": 25,
+              "end": 26,
+              "answer": "a"
+            },
+            {
+              "start": 27,
+              "end": 30,
+              "answer": "lid"
+            },
+            {
+              "start": 31,
+              "end": 34,
+              "answer": "off"
+            },
+            {
+              "start": 35,
+              "end": 36,
+              "answer": "a"
+            },
+            {
+              "start": 37,
+              "end": 40,
+              "answer": "pot"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
